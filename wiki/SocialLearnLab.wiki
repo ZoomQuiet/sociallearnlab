@@ -1,4 +1,5 @@
-大规模协作，开放，对等，共享，及全球运作.
+#labels Featured,Phase-Design,Phase-Deploy
+         =协作，开放，对等，共享=
 
 == “教育大发现”的时代SocialLearnLab ==
 
