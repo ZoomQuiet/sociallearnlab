@@ -7,7 +7,9 @@ Googlecode＋SVN实现集体创作中文件版本控制
 大家进入以后，能看到的界面主要有6个标签：
 Project Home| Downloads| Wiki| Issues| Source| Administrator
 注：Administrator只有Project owners才能看到，Project members看不到
- ----  
+
+ ---- 
+ 
 == Administrator ==
 由Administrator来实现以上前5个标签的操作，Administrator中8个子标签，Project Summary| Project Members |Downloads |Wiki |Issue Tracking |Source |Tabs |Advanced ，与上面5个标签配对实现操作,如Project Summary<-->Project Home。
 Project Members实现对项目成员进行管理
