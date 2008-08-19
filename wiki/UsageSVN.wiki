@@ -82,3 +82,13 @@ Subversion中文站 http://www.subversion.org.cn
 
 TortoiseSVN 简明使用 http://fairyfish.net/2007/09/08/tortoisesvn-introduce/
 
+= SVN目录结构 =
+SVN/
+  +-- tasks   推广软文，团队组织定义／流程等
+  +-- tangle   项目收集（tangle ~ 混乱的,专门用以收藏成员自行设计的项目,如果通过评估就可以合并到主线成为正式功能! ）
+  +-- trunk    主干分支, 所有最新的成果组织在期中
+       |+-- 图书项目名称
+       |+-- 图书项目名称
+       |+-- 图书项目名称
+  +-- branches  发布版本分支收集, 收集阶段性成果,并进行针对版本的追踪维护
+  +-- wiki     工程维基，图书的 beta 版本，以及存放一些编写说明，规则，技术文档，会谈纪要，成员介绍等等
