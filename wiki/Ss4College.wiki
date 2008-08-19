@@ -1,4 +1,5 @@
-#summary One-sentence summary of this page.
+#summary Ss4College图书介绍
+#labels Ss4College
 
 = 《社会性软件工具应用手册（大学生版）》（第一版） =
 
@@ -44,4 +45,3 @@ http://sociallearnlab.org/wiki/index.php/Ss4student
 永远再版
 
 因为你，你的参与，你的创造，这是永远会再版的“书”！
-
