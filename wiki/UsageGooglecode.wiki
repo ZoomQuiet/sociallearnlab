@@ -10,10 +10,16 @@ ProjectHome | Downloads | Wiki | Issues | Source | Administrator。（注：Admi
 [Project Members]实现对项目成员进行管理；[Tabs]实现“Downloads | Wiki | Issues | Source”的更改和隐藏，一般不需要操作；[Advanced]实现删除项目，切勿操作。 
 == Wiki ==
 点击左上角的蓝色“New Page”能够创建新的Wiki页面。进入“New Page”页后，一定注意格式：
-=== Pagename ===
-[]
-#summary One-sentence summary of this page.
-
+Page Name...
+一定要按照我们起草的《文件命名规范手册》来命名，便于管理；
+Cotent...
+我们看到的第一句话就是[#summary One-sentence summary of this page.]一定在“summary”后的“空格”后输入简单的Summary，这将在Wiki标签内显示“summary＋Lables”。剩下的内容请参考Wiki右侧的“Wiki Markup Help”
+Labels...
+标签便于我们管理，标签请认真理解: IssueTags~Issue标签详解 
+选择正确的标签来综合标定问题
+== Source == 
+主要实现与SVN客户端版本控制，详见IssueSVN
+== Tabs == 
 
 Add your content here.  Format your content with:
   * Text in *bold* or _italic_
