@@ -3,7 +3,7 @@
 
 = Googlecode介绍 =
 Googlecode＋SVN实现集体创作中文件版本控制。
-教育大发现的GoogleCode地址：http://code.google.com/p/sociallearnlab/
+教育大发现的Google Code地址：http://code.google.com/p/sociallearnlab/
 大家进入以后，能看到的界面主要有6个标签：
 Project Home| Downloads| Wiki| Issues| Source| Administrator。
 注：Administrator只有Project owners才能看到，Project members看不到
