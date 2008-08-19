@@ -25,4 +25,4 @@ Labels...
 == Issues == 
 请认真理解IssueTags~Issue标签详解 
 == Source == 
-主要实现与SVN客户端版本控制，详见UsageSVN详解
+主要实现与SVN客户端版本控制，TortoiseSVN操作时提示输入用户名和密码http://code.google.com/p/sociallearnlab/source/checkout 中自动获取的（When prompted, enter your generated googlecode.com password.）详见UsageSVN详解
