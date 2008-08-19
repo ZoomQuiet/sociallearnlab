@@ -1,0 +1,18 @@
+#summary 快速使用Googlecode.
+
+= Googlecode介绍 =
+
+
+= Details =
+我们教育大发现的GoogleCode：http://code.google.com/p/sociallearnlab/
+大家进入以后，能看到的界面主要有6个标签：
+ProjectHome | Downloads | Wiki | Issues | Source | Administrator。（注：Administrator只有Project owners才能看到，Project members看不到）
+前5个标签都是由Administrator来实现操作的，Administrator有8个子标签，Project Summary | Project Members | Downloads | Wiki | Issue Tracking | Source | Tabs | Advanced ，与上面的各项分别配对实现操作。
+
+#summary One-sentence summary of this page.
+
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
