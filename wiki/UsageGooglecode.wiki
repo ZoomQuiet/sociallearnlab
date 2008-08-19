@@ -17,7 +17,7 @@ Tabs实现“Downloads | Wiki | Issues | Source”的更改和隐藏，一般不
 Advanced实现删除项目，切勿操作 
 == Wiki ==
 点击左上角的蓝色“New Page”能够创建新的Wiki页面。进入“New Page”页后，一定注意格式
-===Page Name...===
+====Page Name...====
 一定要按照我们起草的《文件命名规范手册》来命名，便于管理
 ====Cotent...====
 我们看到的第一句话就是[#summary One-sentence summary of this page.]一定在“summary”后的“空格”后输入简单的Summary，这将在Wiki标签内显示“summary＋Lables”。剩下的内容请参考Wiki右侧的“Wiki Markup Help”
