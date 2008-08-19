@@ -1,0 +1,14 @@
+#labels Featured
+#快速使用Issue来追踪修订位置.
+
+= 快速使用Issue教程=
+
+
+
+
+= Details =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
