@@ -1,5 +1,5 @@
+#summary 快速使用Issue来追踪修订位置.
 #labels Featured
-#快速使用Issue来追踪修订位置.
 
 = 快速使用Issue教程=
 
