@@ -1,3 +1,4 @@
+#summary 教育大发现社区介绍
 #labels Featured,Phase-Design,Phase-Deploy
          =协作，开放，对等，共享=
 
