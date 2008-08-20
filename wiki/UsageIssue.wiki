@@ -1,4 +1,5 @@
 #summary 快速使用Issue来追踪修订意见
+#labels Featured,Phase-Implementation
 
 = 快速使用Issue教程 =
 
