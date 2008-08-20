@@ -1,0 +1,15 @@
+#summary One-sentence summary of this page.
+#labels Featured,如何存放文档中的图片
+
+= 用Picasa保存文档所需的图片 =
+
+==前提条件==
+
+ * 有Google帐户;
+ * 开通[http://picasaweb.google.comPicase Web Album];
+
+==处理办法==
+
+===方法一:用Picasa客户端上传===
+
+ # 
