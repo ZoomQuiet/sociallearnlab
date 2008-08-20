@@ -1,5 +1,5 @@
 #summary 快速使用Googlecode.
-#labels Phase-Design,Googlecode
+#labels Featured,Googlecode
 
 = Googlecode介绍 =
 Googlecode＋SVN实现集体创作中文件版本控制
