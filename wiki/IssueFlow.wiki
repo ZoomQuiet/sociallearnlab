@@ -1,14 +1,73 @@
-#summary Issue说明概要.
-#labels Featured
+#summary summary of Usage Issue
+#labels Phase-QA,Phase-Implementation,Phase-Support
 
-= Introduction =
+= Issue流程概述 =
 
-Add your content here.
+*约定基于 Issue 的图书工程協作*
 
+* 这是标准的 问题追踪 模式的项目协同方式! 
 
-= Details =
+=== 要点 ===
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+{{{
+一事一提案, 理由要叙述;
+
+处理先认领, 关闭要复审!
+
+标签选择对, 指派人要明;
+
+提案处理完, 版本得缀清!
+}}}
+
+=== 示意 ===
+
+提案生命周期示意
+
+{{{
+0-> 创建, Status=New
+
+1-> 认领, Status=Accepted
+
+2-> 处理, Status=Started
+
+3-> 复审, Status=Accepted 将 Owner 置为要指派给的人
+
+4-> 关闭, Status=Fixed(己修正)
+                /Invalid(无效的)
+                /Duplicate(重复的)
+                /WontFix (待处理)
+}}}
+
+=== 解说 ===
+
+*创建时:*
+
+    * 请认真理解: [ IssueTags]~*Issue标签详解* 选择正确的标签来综合标定问题
+
+    * 尽力一个意见创建一个提案,如果有一类相似的问题,请将 每条错误内容 和其对应的建议修订及理由*放在一起!*
+
+*处理时:*
+
+    * 及时设置 Status=Accepted/Started 以免其它人重复处理同一提案
+
+    * 及时将 Owner 设置成自个儿,以便过滤搜索出谁在处理哪些提案! 
+
+*关闭时:*
+
+    * 一定要缀上对应的Changeset ~ 即,严格标定出你为此问题进行了哪些修改?!
+
+          o 在 SVN 检入时,应该加入对应修改的 Issue 编号
+
+          o 在 Issue 注释中使用 r**** 的格式来记录 Changeset
+
+          o 如 http://tinyurl.com/5ldwfk 所示效果 
+
+====tips====
+
+    * code.google 的 Issue 通过Ajax 效果实现各种字段的选择,所以,当你想切换选项时,直接将原有的文字清除,就会自动出现下拉框来重新选定! 
+
+= TODO =
+
+    * 流程说明图谱 
+------------
+转自openbookproject:http://code.google.com/p/openbookproject/wiki/IssueFlow
