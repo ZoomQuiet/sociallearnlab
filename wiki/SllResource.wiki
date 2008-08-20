@@ -3,5 +3,11 @@
 
 = SLL资源 =
 
- * 门户网站：http://sociallearnlab.org/
+ * 中文网站：http://sociallearnlab.org/ 
+ * 英文网站:http://sociallearnlab.org/en 
+ * 论坛:http://groups.google.com/group/sociallearnlab 
+ * 好看簿:http://www.haokanbu.com/group/88/ 
  * WIKI：http://sociallearnlab.org/wiki
+ * Group1:https://groups.google.com/group/google360
+ * Group2:https://groups.google.com/group/sociallearnlab
+ * Group3:https://groups.google.com/group/socialsoftwarehandbook-workgroup
