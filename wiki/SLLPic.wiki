@@ -3,6 +3,8 @@
 
 = 用Picasa保存文档所需的图片 =
 
+[http://picasa.google.com/assets/logo.gif]
+
 ==前提条件==
 
  * 有Google帐户;
