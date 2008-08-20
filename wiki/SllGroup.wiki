@@ -1,4 +1,5 @@
 #summary 教育大发现团队
+#labels Member
 
 = 团队介绍 =
 
