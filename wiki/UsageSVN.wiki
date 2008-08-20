@@ -35,7 +35,7 @@ Checkout...
 
 2、在电脑中新建一个空的文件夹，右键点击它，可以看到TortoiseSVN菜单以及上面的SVN Checkout。
 
-3、Checkout的意思签出，它具有验证的功能，Checkout到某处的文件、代码将会被TortoiseSVN监视，里面的文件可以享受各种SVN的服务。选择Checkout，就表示这个目录将与这个SVN地址关联，这里的修改可以提交到SVN服务器。但是，首先，你需要具有权限。
+3、Checkout的意思签出，可以把svn中的目录文件下载过来，但不同于export下载的是，它具有验证的功能，Checkout到某处的文件、代码将会被TortoiseSVN监视，里面的文件可以享受各种SVN的服务。选择Checkout，就表示这个目录将与这个SVN地址关联，这里的修改可以提交到SVN服务器。但是，首先，你需要具有权限。
 
 4、获取SVN密码。登录我们的教育大发现项目页，进入Source页面，你会看到
 # Project members authenticate over HTTPS to allow committing changes.
