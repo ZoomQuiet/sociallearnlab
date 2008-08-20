@@ -1,9 +1,10 @@
 #labels Featured,Phase-Support,Phase-QA
-#xiuli.zhuang
+#庄秀丽（xiuli.zhuang）
 
 = Introduction =
 
 http://sociallearnlab.org/blog/
+
 
 
 = Details =
