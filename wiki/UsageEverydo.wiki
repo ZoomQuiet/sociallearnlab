@@ -1,0 +1,13 @@
+#summary Everydo应用说明.
+#labels Featured,everydo
+
+= Everydo =
+Everydo主要用于帮助我们管理项目，我们也做了Everydo,地址在这里：http://sociallearnlab.everydo.com/.
+项目更新|待办任务|日历|项目进度|工作日志 
+－－＋查看项目，进行项目设置，
+= Details =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
