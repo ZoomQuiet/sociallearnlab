@@ -19,12 +19,18 @@
 *图书也是工程!*
 
     * 就按照软件工程的方式来组织大家都习惯且有效!
+
     * 网络中的对应免费服务是齐全的:
           o 版本控制~ code.google 等等免费工程管理服务
+
           o 日常沟通~ groups.google 等等免费列表服务
+
           o 知识积累~ wikidot.com 等等免费维基服务
+
           o 实时讨论~ IRC at freenode.org 等等聊天服务
+
           o 项目管理~ Everydo 等等免费管理服务
+
                 + 进度计划~ google.com/calendar 等等在线日历服务 
 
 == 技巧 == 
