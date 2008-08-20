@@ -80,7 +80,7 @@ TortoiseSVN的官方主页 http://tortoisesvn.tigris.org
 
 Subversion中文站 http://www.subversion.org.cn
 
-TortoiseSVN 简明使用 http://fairyfish.net/2007/09/08/tortoisesvn-introduce/
+TortoiseSVN 简明使用（插图版） http://fairyfish.net/2007/09/08/tortoisesvn-introduce/
 
 = SVN目录结构 =
 SVN/
