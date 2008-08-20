@@ -1,0 +1,7 @@
+#summary SLL资源.
+#labels Featured,Sources
+
+= SLL资源 =
+
+ * 门户网站：http://sociallearnlab.org/
+ * WIKI：http://sociallearnlab.org/wiki
