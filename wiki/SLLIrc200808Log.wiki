@@ -1,4 +1,4 @@
-#labels Featured,200808关于SLL项目管理方面的IRC记录
+#labels 200808,200808关于SLL项目管理方面的IRC记录,IrcLog
 #200808关于SLL项目管理方面的IRC记录
 
 = 20080821Log =
