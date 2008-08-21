@@ -1,0 +1,62 @@
+#summary 提案标签详解.
+
+= 介绍 =
+
+Issue(提案)作为软件开发项目中的bug 提供了实用的追踪管理服务.
+
+我们进行图书工程，其中的勘误工作也非常类似，特此定制并约定相关标签进行使用: 
+
+== 活动提案状态 ~ Open Issue Status == 
+{{{
+New                     = 提案刚刚创建没有人复审过
+Accepted                = 提案已经被人确认，并接受进行处理
+Started                 = 提案开始处置ing..
+}}}
+
+== 关闭提案状态 ~ Closed Issue Status == 
+{{{
+Fixed                   = 已修正ed
+Verified                = 已证实ed
+Invalid                 = 无效的
+Duplicate               = 重复的
+WontFix                 = 无为的～ 我们决定暂时不处理
+}}}
+
+== 预定标签 ~ Predefined Issue Labels == 
+
+    * 提案类型
+{{{
+      Type-Issue           = 文字讨论
+      Type-Defect          = 代码／样例 缺陷
+      Type-Enhancement     = 改进建议
+      Type-Task            = 撰写任务
+      Type-Patch           = 补丁
+      Type-Other           = 其它
+}}}
+    * 提案严重度
+{{{
+      Priority-Sentence    = 语句有不妥
+      Priority-Paragraph   = 段落有不妥
+      Priority-Chapter     = 章节有不妥
+      Priority-Word        = 字词有不妥
+}}}
+    * 校对里程碑
+{{{
+      Milestone-Review1    = 一次校对文字翻译
+      Milestone-Review2    = 二次校对行文组织
+      Milestone-Review3    = 三次校对整书结构
+      Milestone-TechReview = 技术校对
+      Milestone-ReviewEnd  = 终校 发布图书
+}}}
+    * 图书组件
+{{{
+      Component-Docs       = 其它文章
+}}}
+
+
+    * 其它
+{{{
+}}}
+
+-----------
+引自 openbookproject   http://code.google.com/p/openbookproject/wiki/IssueTags
