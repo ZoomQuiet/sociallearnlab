@@ -2,7 +2,7 @@
 #labels Featured,everydo
 
 = Everydo =
-Everydo主要用于帮助我们管理项目，我们Everydo地址在这里：[http://sociallearnlab.everydo.com/]。
+Everydo主要用于帮助我们管理项目，我们Everydo地址在这里：[http://sociallearnlab.everydo.com/]。目前的加入需要管理员邀请批准，有意加入的朋友可以直接在本wiki页面下留言申请，或者发送邮件到 y.blj018@gmail.com ,我们会尽快处理。
 我们可以把sociallearnlab看成是一个总的项目，他又是由各个子项目组成，如Ss4college项目，就可以看成是sociallearnlab的自项目，查看项目，进行项目设置，等，各个子项目也可以创建。
 项目更新|待办任务|日历|项目进度|工作日志 
 = 项目更新 =
