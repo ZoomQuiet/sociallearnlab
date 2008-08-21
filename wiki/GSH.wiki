@@ -1,4 +1,5 @@
 #summary Google Services Handbook
+#labels Featured,GSH
 
 = 《Google服务应用 》 =
 
