@@ -10,7 +10,7 @@ Add your content here.
 == 团队 ==
 
 == 正文 ==
- * [GSH/ZhGsh0index］ ～ 首页
+ * Gsh/Index ～ 首页
 
 
 = TODO =
