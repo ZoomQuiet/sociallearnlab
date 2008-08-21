@@ -1,7 +1,5 @@
-#summary One-sentence summary of this page.
+#summary 这里是小石的介绍.
 #labels Member
-
-这里是小石的介绍
 
 = Introduction =
 
