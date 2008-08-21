@@ -1,15 +1,20 @@
-#summary SLL工作流程.
 #labels 工作流程
+#SLL工作流程.
 
-= SLL工作流程 =
+== SLL工作流程 ==
 
  # 领取任务:[http://sociallearnlab.everydo.com/ SLL EveryDo]
+
  # 获取或更新SVN版本：[http://code.google.com/p/sociallearnlab/wiki/UsageSVN SVN使用方法]
+
  # 本地编写内容~[http://code.google.com/p/sociallearnlab/wiki/UsageDocumentname 内容约定]
+
  # 上传新的版本^参照流程2说明^
 
-= 需要交流时，请： =
+== 需要交流时，请： ==
 
  # 用IRC即时交流 ~ [http://code.google.com/p/sociallearnlab/wiki/UsageIRC IRC使用方法]
+
  # 用Google Group 论坛列表：[http://groups.google.com/group/sociallearnlab 教育大发现讨论组]
+
  # 用Issues追踪修订意见~[http://code.google.com/p/sociallearnlab/wiki/UsageIssue 快速使用Issue教程]
