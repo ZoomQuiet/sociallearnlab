@@ -1,14 +1,18 @@
-#summary Google Services Handbook
-#labels Featured,GSH
+#summary Google Services Handbook Proj.
+#labels Book,GSH
 
 = 《Google服务应用 》 =
 
 Add your content here.
 
+== 目标 ==
 
-= Details =
+== 团队 ==
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+== 正文 ==
+ * [GSH/ZhGsh0index 首页]
+
+
+= TODO =
+
+= Discuss =
