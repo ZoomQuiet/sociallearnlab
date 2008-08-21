@@ -4,7 +4,7 @@
 == SLL工作流程 ==
 
  # 领取任务:[http://sociallearnlab.everydo.com/ SLL EveryDo]
- # 获取或更新SVN版本~[http://code.google.com/p/sociallearnlab/wiki/UsageSVN SVN使用方法]
+ # 获取或更新SVN版本~[http://code.google.com/p/sociallearnlab/wiki/UsageSVN SVN使用方法]/[http://code.google.com/p/support/wiki/WikiSyntax Wiki标记说明]
  # 本地编写内容~[http://code.google.com/p/sociallearnlab/wiki/UsageDocumentname 内容约定]
  # 上传新的版本~^参照流程2说明^
 
