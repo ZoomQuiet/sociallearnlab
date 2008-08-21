@@ -26,14 +26,32 @@ eg:Google服务应用手册，英文翻译是：Google Services Usage Handbook,�
 图书的章节可以用“chapter”或“ch”表示，“第一章”可以用“chapter1”或“ch1”表示；
 === 图片 ===
 0. Pisaca 图片集,分享编辑权利
+
+
 1. 图片命名规范
+
+
 图 Charpt-No.png
+
+
 |  |      |  +-- 统一使用PNG格式提供
+
+
 |  |      +-- 章节附图序号
+
+
 |  +-- 章节序号
+
+
 +-- 统一标识字
+
+
 e.g
+
+
 图 CDay-4-2.png 意为 CDay-4日故事 第2附图
+
+
  * 注：格式一定要统一用.png
 
 
