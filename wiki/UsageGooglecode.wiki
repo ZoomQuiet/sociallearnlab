@@ -20,21 +20,19 @@ Project Home| Downloads| Wiki| Issues| Source| Administrator
  * Issues是存放各种需要修改文件的信息，请参看[http://code.google.com/p/sociallearnlab/issues/detail?id=1 Task]；
 
  * Source是SVN所在地，也是我们Googlecode的核心，便于对文件版本进行控制；          
-     +-- tasks    收集各种和主工程无关的辅助,支持性质任务代码
+     o  tasks    收集各种和主工程无关的辅助,支持性质任务代码
  
-     +-- tangle   对应开辟各种成员目录,收集平时的积累,成熟后就可以合并到trunk中
+     o  tangle   对应开辟各种成员目录,收集平时的积累,成熟后就可以合并到trunk中
 
 
-     +-- trunk    主干分支, 所有最新的成果组织在期中，也就是我们的图书
+     o  trunk    主干分支, 所有最新的成果组织在期中，也就是我们的图书
 
 
-     +-- branches 发布版本分支收集, 收集阶段性成果,并进行针对版本的追踪维护
+     o branches 发布版本分支收集, 收集阶段性成果,并进行针对版本的追踪维护
+     o wiki     图书维基 
 
 
-     +-- wiki     图书维基 
 
-
-o 
 
 ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ----
  
