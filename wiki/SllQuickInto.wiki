@@ -34,7 +34,8 @@ GoogleCode手册看完后，大家进入Googlecode，能看到的界面主要有
 
 Project Home| Downloads| Wiki| Issues| Source| Administrator （注：Administrator只有Project owners才能看 到，Project members看不到） 大家先点点前5个标签，试试吧，看看都有什么东东！
  # Project Home其实就是我们Googlecode的首页，通过它能链接到各个WIKI页面；
- # Downloads里面可以存放些资料，供大家下载，一般很少用；*Wiki就是我们写书和发布一些资料的内容，Googlecode的首页就相当于WIKI的目录；
+ # Downloads里面可以存放些资料，供大家下载，一般很少用；
+ # Wiki就是我们写书和发布一些资料的内容，Googlecode的首页就相当于WIKI的目录；
  # Issues是存放各种需要修改文件的信息，请参看Task；
  # Source是SVN所在地，也是我们Googlecode的核心，便于对文件版本进行控制，SVN包括以下几个目录：
    * tasks 收集各种和主工程无关的辅助,支持性质任务代码;
