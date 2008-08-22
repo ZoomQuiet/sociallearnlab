@@ -25,7 +25,7 @@
        o Google产品的故事活动，http://www.haokanbu.com/event/33/
  * 6、益学会做的翻译项目ITM：http://www.edu2do.com/itm/
  * 7、Google中国黑板报：http://googlechinablog.com/
-== 团队 ==
+== 五、团队 ==
 参与即是学习，让我们用社会性的方式来参与体验学习推动web2.0学习，有兴趣参与图书编写的朋友请联系我们，
 我们的社区网站：教育大发现（socialle­arnlab）http://sociallearnlab.org，联系方式：
 
@@ -37,11 +37,56 @@
 
 
   o 庄秀丽：xiuli.zhuang@gmail.com
-== 正文 ==
+== 六、正文 ==
  * [GshZh0Index]～ 首页
  * [GshZh1Summary]～简介
 
+前言
 
+
+一、综述（背景，Google服务目前发展，新时代有新的要求，Google教育与学习，为什么有这样的变化和要求）
+
+
+二、GoogleGmail
+
+
+三、GoogleNotebook
+
+
+四、GooglePicasa
+
+
+五、GoogleGroups
+
+
+六、GoogleIgoogle
+
+
+七、GoogleDocuments
+
+
+八、GoogleBook
+
+
+九、GoogleCalendar
+
+
+十、GoogleReader
+
+
+十一、GoogleEarth
+
+
+十二、GoogleMap
+
+
+十三、GoogleApps
+
+
+十四、GoogleOthers
+
+
+十五、GoogleSources
 = TODO =
 
 = Discuss =
