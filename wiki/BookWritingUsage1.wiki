@@ -9,8 +9,8 @@
  * 4、实时讨论~ IRC  
 == 二、以下是针对上面工具的应用手册，大家看着做就可以：== 
  * 1、UsageGooglecode 
- * 2、UsageSVN 
- * 3、UsageIRC 
+ * 2、[UsageSVN] 
+ * 3、[UsageIRC] 
  * 4、UsageEverydo 
 == 三、任务驱动（边看边做）== 
 === 1.1熟悉GoogleCode界面 ===
@@ -76,11 +76,7 @@ http://blog.csdn.net/andylin02/archive/2007/07/06/1681387.aspx
 例如输入https://sociallearnlab.googlecode.com/svn 
 提示输入用户名和密码（用户名和密码是在
 http://code.google.com/p/sociallearnlab/source/browse/，左上角的checkout的URL 中自动获取的（When prompted, enter your generated googlecode.com password.））成功之后在本地“SocialLearnLab”文件夹中出现几个子文件夹,分别是： 
-   o branches 
-  o tangle 
-  o tasks 
-  o trunk 
-  o wiki 
+         branches tangle tasks  trunk  wiki 
 
 
 当然,以后编辑可以直接在本地文件中的文件中进行编辑,然后再通过” commit” 上传即可. 
@@ -89,7 +85,7 @@ http://code.google.com/p/sociallearnlab/source/browse/，左上角的checkout的
 关于如何为何需要SVN： 
 
 
-SVN简明介绍,UsageSVN 
+SVN简明介绍,[UsageSVN] 
 
 
 进一步参考：http://tortoisesvn.net/ 
