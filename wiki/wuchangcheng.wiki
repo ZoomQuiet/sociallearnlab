@@ -1,5 +1,5 @@
 ﻿#summary 吴长城(chengcheng1098,hardwork_06).
-#labels Featured,wuchangcheng
+#labels wuchangcheng
 
 = Introduction =
 
