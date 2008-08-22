@@ -63,12 +63,12 @@ http://blog.csdn.net/andylin02/archive/2007/07/06/1681387.aspx
 选择TortoiseSVN菜单下的Export…，接着它会让你输入url； 
 例如输入https://sociallearnlab.googlecode.com/svn 
 提示输入用户名和密码（用户名和密码是在
-http://code.google.com/p/sociallearnlab/source/browse/，左上角的checkout的URL 中自动获取的（When prompted, enter your generated googlecode.com password.））成功之后在本地“SocialLearnLab”文件夹中出现几个子文件夹,分别是： 
+[http://code.google.com/p/sociallearnlab/source/browse/]，左上角的checkout的URL 中自动获取的（When prompted, enter your generated googlecode.com password.））成功之后在本地“SocialLearnLab”文件夹中出现几个子文件夹,分别是： 
          branches tangle tasks  trunk  wiki 
 
 
 当然,以后编辑可以直接在本地文件中的文件中进行编辑,然后再通过” commit” 上传即可. 
-当然还可以直接访问http://code.google.com/p/sociallearnlab/会看到界面上方有5个标签：Project Home| Downloads| Wiki| Issues| Source|,(这里还有一份说明UsageGooglecode)请记住这几个命令：Export，Commit，Revert，Add，Delete... 
+当然还可以直接访问[http://code.google.com/p/sociallearnlab/]会看到界面上方有5个标签：Project Home| Downloads| Wiki| Issues| Source|,(这里还有一份说明UsageGooglecode)请记住这几个命令：Export，Commit，Revert，Add，Delete... 
 === 2.3删除你上传的文件（请勿乱删除）； === 
 关于如何为何需要SVN： 
 
