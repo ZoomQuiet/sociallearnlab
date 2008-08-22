@@ -43,7 +43,7 @@ Project Home| Downloads| Wiki| Issues| Source| Administrator （注：Administra
    * trunk 主干分支, 所有最新的成果组织在期中，也就是我们的图书 o branches 发布版本分支收集, 收集阶段性成果,并进行针对版本的追维护；
    * wiki 图书维基。
 
-==== 1.2完成WIKI页面制作，写个自我介绍 ====
+==== 1.2 完成WIKI页面制作，写个自我介绍 ====
 
 大家对GoogleCode有个大概了解后，手痒痒了吧！开始做吧！
 
@@ -63,7 +63,7 @@ Project Home| Downloads| Wiki| Issues| Source| Administrator （注：Administra
 
 第六步：完成。
 
-==== 1.3发表ISSUES ====
+==== 1.3 发表ISSUES ====
 
 第一步：看例子；点击ISSUES标签，进入ISSUES页面，先看Tsak；
 
@@ -98,16 +98,19 @@ Project Home| Downloads| Wiki| Issues| Source| Administrator （注：Administra
  # 在本地计算机建立一个文件夹，比如我在E盘建立了“SocialLearnLab”文件夹，右键点击该文件夹，就可以使用刚才安装的“TortoiseSVN”。
 
  # 选择TortoiseSVN菜单下的Export…，接着它会让你输入url；
-例如输入https://sociallearnlab.googlecode.com/svn,提示输入用户名和密码（用户名和密码是在http://code.google.com/p/sociallearnlab/source/browse/，左上角的checkout的URL 中自动获取的（When prompted, enter your generated googlecode.com password.））成功之后在本地“SocialLearnLab”文件夹中出现几个子文件夹,分别是：
+例如输入[https://sociallearnlab.googlecode.com/svn],提示输入用户名和密码（用户名和密码是在[http://code.google.com/p/sociallearnlab/source/browse/]，左上角的checkout的URL 中自动获取的（When prompted, enter your generated googlecode.com password.））成功之后在本地“SocialLearnLab”文件夹中出现几个子文件夹,分别是：
+
+{{{
 \branches
 \tangle
 \tasks
 \trunk
 \wiki
+}}}
 
-当然,以后编辑可以直接在本地文件中的文件中进行编辑,然后再通过” commit” 上传即可。
+当然,以后编辑可以直接在本地文件中的文件中进行编辑,然后再通过“ commit” 上传即可。
 
-当然还可以直接访问'http://code.google.com/p/sociallearnlab/'，会看到界面上方有5个标签：Project Home| Downloads| Wiki| Issues| Source|,(这里还有一份说明[http://code.google.com/p/sociallearnlab/wiki/UsageGooglecode])。
+当然还可以直接访问[http://code.google.com/p/sociallearnlab/]，会看到界面上方有5个标签：Project Home| Downloads| Wiki| Issues| Source|,(这里还有一份说明[http://code.google.com/p/sociallearnlab/wiki/UsageGooglecode])。
 
 请记住这几个命令：Export，Commit，Revert，Add，Delete...
 
@@ -116,7 +119,9 @@ Project Home| Downloads| Wiki| Issues| Source| Administrator （注：Administra
 关于如何为何需要SVN：
 
 SVN简明介绍：[http://code.google.com/p/sociallearnlab/wiki/UsageSVN]
+
 进一步参考：[http://tortoisesvn.net/]
+
                           [http://www.subversion.org.cn/svnbook/1.4/index.html]
                    
 === 其它 ===
