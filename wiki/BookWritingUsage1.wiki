@@ -21,19 +21,7 @@ Administrator只有Project owners才能看 到，Project members看不到） 大
  * Wiki就是我们写书和发布一些资料的内容，Googlecode的首页就相当于WIKI的目录； 
  * Issues是存放各种需要修改文件的信息，请参看Task； 
  * Source是SVN所在地，也是我们Googlecode的核心，便于对文件版本进行控制，SVN包括以下几个目录：
-      o tasks 收集各种和主工程无关的辅助,支持性质任务代码 
-
-
-      o tangle 对应开辟各种成员目录,收集平时的积累,成熟后就可以合并到trunk中 
-
-
-      o trunk 主干分支, 所有最新的成果组织在期中，也就是我们的图书 
-
-
-     o branches 发布版本分支收集, 收集阶段性成果,并进行针对版本的追维护
-
-
-     o wiki 图书维基 
+      o tasks 收集各种和主工程无关的辅助,支持性质任务代码 o tangle 对应开辟各种成员目录,收集平时的积累,成熟后就可以合并到trunk中  o trunk 主干分支, 所有最新的成果组织在期中，也就是我们的图书 o branches 发布版本分支收集, 收集阶段性成果,并进行针对版本的追维护o wiki 图书维基 
 
 === 1.2完成WIKI页面制作，写个自我介绍 ===  
 大家对GoogleCode有个大概了解后，手痒痒了吧！开始做吧！ 
