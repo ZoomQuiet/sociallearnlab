@@ -1,4 +1,4 @@
-#labels IRC,IRC20080821
+#labels IRC,IRC
 #IRC 会议记录
 
 =IRC 20080821 =
@@ -170,9 +170,190 @@
 
 
 
-= Details =
+= IRC 20080823 =
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+(10:09:59 PM) wwq0327: 长城，在否？
+
+(10:10:29 PM) wuchangcheng: 在
+
+(10:11:07 PM) wuchangcheng: 王老师，看了您的GoogleRead，写的真快，很干脆
+
+(10:12:18 PM) wwq0327: 在了。
+
+(10:13:03 PM) xiulizhuang: 是的
+
+(10:13:07 PM) wwq0327: 初搞出来了，再一起修改。改到满意为止。这样这套书的结构就可以理好了。
+
+(10:13:17 PM) xiulizhuang: 我想应该统一针对某个用户群来写，比如就针对教师用户群来写
+
+(10:13:35 PM) wwq0327: 会不会太狭隘了？
+
+(10:16:45 PM) wuchangcheng: 恩，针对用户，我一开始也在考虑
+
+(10:17:59 PM) wuchangcheng: 庄老师，是否要像《社会软件应用手册》那样来做，但现在可能只能针对一种用户
+
+(10:18:56 PM) xiulizhuang: 针对一个用户群容易写
+
+(10:19:09 PM) wuchangcheng: 大家人手不够，先针对一种人群写，另外，也可以做为范例
+
+(10:19:27 PM) xiulizhuang: 以后其他用户群，就在其中改例子就可以
+
+(10:19:47 PM) xiulizhuang: 这样以后可以按用户群不同发布多版本
+
+(10:20:05 PM) xiulizhuang: 最后我们建立读者社区
+
+(10:20:14 PM) xiulizhuang: 把读者又可以互联在一起
+
+(10:20:32 PM) xiulizhuang: 鼓励读者加入自己的感受和发现
+
+(10:20:37 PM) xiulizhuang: 成为再版的作者
+
+(10:20:48 PM) xiulizhuang: 以此类推持续发展
+
+(10:21:09 PM) wuchangcheng: 另外，我发现我们的图书还得有个统一的格式，比如：各种标题，章节等
+
+(10:21:22 PM) wuchangcheng: 都要规范起来
+
+(10:21:54 PM) xiulizhuang: 嗯
+
+(10:22:09 PM) xiulizhuang: 参考仨儿他们的，拿来用就可以
+
+(10:22:54 PM) wuchangcheng: 恩
+
+(10:23:12 PM) wwq0327: 拿来主义。我也用了不少。
+
+(10:23:51 PM) xiulizhuang: 另外也要注意引用规范
+
+(10:24:04 PM) xiulizhuang: 作出统一说明，以后大家都参考你们的
+
+(10:24:15 PM) xiulizhuang: 总算向前迈进了一步
+
+(10:24:31 PM) xiulizhuang: 所以从具体的开始做，就能向前走
+
+(10:24:54 PM) wwq0327: 针对具体用户，我暂时还不知道如何去添加。
+
+(10:24:58 PM) wwq0327: 长城想点办法。
+
+(10:25:23 PM) wwq0327: 我在带儿了，，他不睡，就坐在我腿上。。。
+
+(10:26:43 PM) xiulizhuang: 这个找有工作经验的老师参与最好
+
+(10:27:31 PM) xiulizhuang: 回头我来加点内容
+
+(10:27:57 PM) wuchangcheng: 恩，好的，庄老师搞个模板，我们就知道下一步怎么做啦
+
+(10:28:19 PM) wuchangcheng: 我也想想办法
+
+(10:28:41 PM) xiulizhuang: 好的，每人想一点，就会更好
+
+(10:29:09 PM) xiulizhuang: 总的来说，王老师的结构基本就这么定
+
+(10:29:23 PM) xiulizhuang: 我们加也是加对老师有用的一些资源而已
+
+(10:32:03 PM) wuchangcheng: 另外，王老师的截图能否再完美点，就是尽量不要出现那种截掉一半文字的，看上去像少了什么
+
+(10:32:51 PM) wwq0327: 哈哈。我刚刚也感觉到了。后面我会把图重新修剪下。尽量做到美观。
+
+(10:33:52 PM) wuchangcheng: 加上我们大家的建议，相信很快就能完善起来啦，大家注意WIKI的保存啊
+
+(10:36:31 PM) wwq0327: 通过SVN上传的，每次都有记录的。
+
+(10:40:13 PM) wuchangcheng: 王老师，现在书的每一章是否都要建立一个WIKI页面的？你和余波是如何商量的？
+
+(10:42:17 PM) xiulizhuang: “通过SVN上传的，每次都有记录的。”我就是不很明白这句话的意思
+
+(10:42:49 PM) xiulizhuang: 比如昨天晚上的聊天记录，我放在WIKI中，是否是受到SVN管理的呢
+
+(10:45:43 PM) wwq0327: 一样，只要有修改，就会记录下来。你改后去看下SVN里的相应该文件就明白了。
+
+(10:46:36 PM) xiulizhuang: 哦
+
+(10:47:10 PM) xiulizhuang: 就是整个googlecode都是受SVN监控的
+
+(10:47:43 PM) xiulizhuang: 但是我还是不明白，这跟下载安装SVN好像没有关系
+
+(10:48:08 PM) xiulizhuang: 就是说我不下载SVN，我始终在线参与，也是可以的
+
+(10:48:13 PM) xiulizhuang: 是不是这样呢
+
+(10:51:15 PM) wuchangcheng: SVN控制每个用户的本地和GoogleCode版本同步，你在本地更新，通过操作，如上传，实现和GoogleCode同步，同样，可以通过下载，实现GoogleCode和本地同步
+
+(10:52:22 PM) wuchangcheng: 不下载SVN，在线参与好像也可以，王老师，我这样理解对吗？
+
+(10:59:10 PM) wuchangcheng: 刚和余波沟通啦，他也觉得不下载SVN也可以，SVN可以帮助不同用户结合个人习惯使用结构化文本
+
+(11:00:56 PM) wwq0327: 差不多吧，SVN还是有好处的，每次Update一次，就可以看到哪些被修改过。对于提交的版本，可以看到修改的理由
+
+(11:01:40 PM) wwq0327: 本地编，可能让你忘掉面页生成后是个什么样子，而专心书写内容。
+
+(11:03:49 PM) wwq0327: 这个SVN好像不能进行版本锁定，我在本地用程序锁定时，不起作用。长城，你那个软件能不能对版进行锁定？
+
+(11:06:42 PM) wuchangcheng: 我试试看啊
+
+(11:09:01 PM) wuchangcheng: 好像也不能，提示是这样，Error: Locking feature temporarily disabled.
+
+(11:09:46 PM) wwq0327: 提示一样。
+
+(11:14:46 PM) wuchangcheng: 王老师，你在本地是如何编辑WIKI的？用的T2T吗
+
+(11:37:57 PM) wwq0327: 没有，就用文本编辑器。
+
+(11:38:11 PM) wwq0327: 我在Ubuntu下，用的是gedit
+
+(11:41:08 PM) wwq0327: 在本地修改，再传到服务器，可以添加修改记录，而网页上直接修改则不能。你们可以看下SVN下面的changes
+
+(11:55:28 PM) wuchangcheng: 我看看
+
+(11:56:52 PM) wuchangcheng: 有记录的，我刚在线编辑的BookOnLinePlan.wiki ? r139 r237
+
+(11:56:57 PM) wuchangcheng: 王老师你看看
+
+(11:57:20 PM) wuchangcheng: BookWritingUsage1.wiki
+
+(11:57:43 PM) wuchangcheng: 这个BookWritingUsage1.wiki，我在线编辑的
+
+(8/23/2008 12:00:09 AM) wwq0327: 有记录，但不能提交修改的原因。
+
+(12:01:47 AM) wwq0327: 你还问题我想提下，好像可以将修改的原因，直接发到用户邮箱。
+
+(12:02:44 AM) wwq0327: http://code.google.com/p/sociallearnlab/admin这个页面的最下方“Activity Notifications“，你看下。
+
+(12:03:29 AM) wwq0327: : http://code.google.com/p/sociallearnlab/admin 这个页面的最下方“Activity Notifications“，你看下。
+
+(12:05:55 AM) wuchangcheng: 王老师，你给的链接是首页吗？我打开是GoogleCode的首页
+
+(12:06:12 AM) wuchangcheng: 没看到Activity Notifications
+
+(12:06:57 AM) wwq0327: 最后的管理员页面。
+
+(12:13:29 AM) wuchangcheng: 你的意思是这个管理员页面没有在线记录，是这个意思吗？
+
+(12:19:08 AM) wwq0327: 好像是能自动向指定的邮箱发送修改记录。
+
+(12:19:53 AM) wwq0327: 我刚刚又看了下changes，觉得很有必要使用SVN工具来修改文档内容
+
+(12:20:29 AM) wwq0327: http://code.google.com/p/sociallearnlab/source/browse/wiki/GoogleReader.wiki?r=223
+
+(12:21:26 AM) wwq0327: 这里就是修改的记发，如果用SVN的话，每次提交新版，都填写上记录，就样我们就能很明确的知道每次到底修的的是什么内容。
+
+(12:22:22 AM) wwq0327: 如果是在线修改的话，总是相同的一句话：Edited wiki page through web user interface.
+
+(12:23:11 AM) wwq0327: 对一同一个内容，填写上适当的修改理由，还可以对修改回复，
+
+(12:23:19 AM) wwq0327: http://code.google.com/p/sociallearnlab/source/list?path=/wiki/GoogleReader.wiki&start=223
+
+(12:32:08 AM) wuchangcheng: 王老师说的对，我看了，的确是这样的
+
+(12:37:44 AM) wuchangcheng: 这两种方式差别就只有两个：一个是对修改的说明更详细，另一个可以讨论，但一般可能会很少有人进行讨论吧？但是，我们让大家掌握SVN，为了得到版本修改说明的更详细，这样做是否值得？
+
+(12:43:14 AM) wuchangcheng: 王老师的这个问题提的非常关键，大家都考虑下
+
+(12:43:42 AM) wwq0327: 嗯，，，我在改文档呢。
+
+(12:43:59 AM) wwq0327: 你也可以用个本地编器下载下来编辑。
+
+(12:51:49 AM) wuchangcheng: 试过了，我是用的在本地记事本打来编辑了我的自我介绍，出现了“Log message”
+
+(12:51:52 AM) wuchangcheng: Modified/wiki/wuchangcheng.wikidiff
+
+(1:03:01 AM) wwq0327: 好了，休息了。太晚了。明天接着做。
