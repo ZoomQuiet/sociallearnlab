@@ -15,7 +15,7 @@
 
 ==2 什么是Reader==
 
-[http://www.google.com/reader/ Google Reader]是Google提供的在线RSS阅读工具，中文又叫“Google 阅读器”，提供用中文版服务。
+[http://www.google.com/reader/ Google Reader]是Google提供的在线RSS阅读工具，中文又叫“Google 阅读器”，并提供中文版服务。
 
 {{{
 利用这个阅读器，Google注册用户可以及时获得自己挑选的内容或更新的信息聚合。用户在Google上注册后，可以自己创建阅读名单。使用 Google Reader，用户能够在博客上贴出自己的新闻RSS聚合，或是直接通过电子邮件，将这些聚合的信息与朋友即时分享。
@@ -24,7 +24,26 @@ Google Reader 最大的特色就是向用户发布用户自己选择的站点的
 
 Google已经发布了“个性化的内容搜索页面”，而Google Reader则可以帮助用户更好地搜集符合自身需求的网络内容。[1]
 }}}
+
 ===2.1 什么是RSS===
+
+RSS是何物，先了解下：
+
+{{{
+RSS是一种用于网上新闻频道、网志（weblogs）和其他Web内容的数据交换规范，起源于网景通讯公司（Netscape）的推送技术（push technology），将订户订阅的内容传送给他们的通讯协同格式（Protocol）。RSS可以是以下三个解释的其中一个：
+
+    * Really Simple Syndication（RSS 2.0）
+    * RDF （Resource Description Framework） Site Summary（RSS 0.91, RSS 1.0）
+    * Rich Site Summary （RSS 0.9 and 1.0）
+
+但其实这三个解释都是指同一种企业联合组织（Syndication）的技术。
+
+简单来说，RSS 是一种格式规范，用来传递经常更新的网页内容，例如Blog 或新闻资讯等。
+
+RSS(也叫聚合内容，Really Simple Syndication)是一种描述和同步网站内容的格式，是目前使用最fbhbn t应用。可以被称为资源共享模式的延伸。[2]
+}}}
+
+
 
 ==3 如何使用Reader==
 
@@ -111,6 +130,7 @@ Google已经发布了“个性化的内容搜索页面”，而Google Reader则�
  * 加星标项目：文章下面有“加注星标”，相当于一个精华收藏功能吧，平时看到的好东西可以标个星收藏起来。
  * 趋势：对你阅读情况的统计与描述，图文并茂，很似详细。
 [http://lh6.ggpht.com/wwq0327/SK6WWkipyiI/AAAAAAAAAMU/LaDknnqrUdQ/gsh-10-09.jpg]
+
 ==4 扩展应用==
 
 ===4.1 设置===
@@ -155,7 +175,7 @@ Google已经发布了“个性化的内容搜索页面”，而Google Reader则�
 ==5 资源索引==
 
  # [http://baike.baidu.com/view/631075.htm 百度百科]
-
+ # [http://zh.wikipedia.org/w/index.php?title=RSS&variant=zh-cn 维基百科]
 
 ----
 Add your content here.
