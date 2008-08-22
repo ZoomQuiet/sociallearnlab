@@ -122,6 +122,34 @@ Google已经发布了“个性化的内容搜索页面”，而Google Reader则�
  * 导入／导出：导入可将其他订阅工具的列表以文件的形式导入到Reader（RSS搬家专用）；导出则相反，如果你一直在一个电脑上阅读的话，可将Reader列表导出为一个文件，再导入你的本地软件中。当然也适用于从Reader搬出时使用。
 [http://lh4.ggpht.com/wwq0327/SK6WY4-6PNI/AAAAAAAAAM0/Myas2tE24uw/gsh-10-13.jpg]
 
+===4.2 快捷键操作===
+
+鼠标并不能代表一切，看似原始的键盘，功能更是无比强大！
+
+|| *快捷键* || *定义* || *作用* ||
+|| j/k | | item down/up || 上一个条目/下一个条目||
+||空格/shift+空格 || page down/up || 向下翻一页/向上翻一页  ||
+|| n/p  || scan down/up || 向下/向上选择（仅List查看模式）||
+|| o || open/close item || 展开条目（仅List查看模式） ||
+|| 回车键 || open/close item || 展开条目（仅List查看模式） ||
+|| s || toggle star || 标记所选择的条目星号（取消标记） ||
+|| shift+s || toggle share || 共享所选择的条目 ||
+|| m || mark as read/unread || 标记为已读或未读 ||
+|| t || tag an item || 给一个条目设置Tag ||
+|| v || view original || 查看原文（即打开条目相应的链接） ||
+|| shift+a || mark all as read || 标记所有条目为已读 ||
+|| 1 || expanded view || 展开预览方式 ||
+|| 2 || list view || 列表预览方式 ||
+|| r || refresh || 刷新 ||
+|| shift+n/p || navigation down/up || 向下/向上选择（左侧导航） ||
+|| shift+x || navigation expand/collapse || 展开/收起导航 ||
+|| shift+o || navigation open subscription || 打开导航中的订阅 ||
+|| gh || go to home || 打开Google Reader首页 ||
+|| ga || go to all items || 显示所有条目 ||
+|| gs || go to starred items || 显示已标记星号的条目 ||
+|| gt || go to tag || 打开标签选择（这个很炫！） ||
+|| gu || go to subscription || 打开已订阅的RSS（一样很炫！） ||
+
 ==5 资源索引==
 
  # [http://baike.baidu.com/view/631075.htm 百度百科]
