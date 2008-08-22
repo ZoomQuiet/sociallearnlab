@@ -1,6 +1,7 @@
 #summary 第十章 Google Reader.
 #labels GSH,Google,Reader,RSS
 
+[GSH]
 = 第十章 Google Reader =
 
 产品标识：
@@ -181,12 +182,3 @@ RSS(也叫聚合内容，Really Simple Syndication)是一种描述和同步网�
  # [http://zh.wikipedia.org/w/index.php?title=RSS&variant=zh-cn 维基百科]
 
 ----
-Add your content here.
-
-
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
