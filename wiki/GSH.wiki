@@ -1,7 +1,7 @@
 #summary Google Services Handbook Proj.
 #labels Book,GSH
 
-= 《Google服务应用 》 =
+= 《Google服务应用手册》 =
 == 一、背景与需求 ==
 在互联网迅速发展的今天，我们的学习和生活越来越离不开网络。尤其是在Web2.0的迅速发展之下，很多公司纷纷推出各种在线社会性软件，帮助全球各地的朋友更快捷、更高效、更便利的分享资源、互联信息、合作学习、交流思想、认知世界。
 
@@ -12,7 +12,7 @@
 == 三、图书编写的方式与基本原则 ==
 === 1.编写方式 ===
 图书的编写以Sociallearnlab社区名义协作完成，每一位有兴趣的朋友发挥您的才华,贡献您的力量，作为图书共同创作参与者，加入图书的编写，协同完­成图书。
-编写空间：GSH 讨论组：https://groups.google.com/group/google360
+编写空间：本页[GSH] 讨论组：https://groups.google.com/group/google360
 === 2.基本原则 ===
 首先，兴趣第一，有兴趣，我们才会有激情地投入工作。您可以根据您的特点和兴趣，选择参与您想编写的章节，欢迎您的参与，本书编写遵守CC协议。
 == 四、参考资源 ==
@@ -27,9 +27,15 @@
  * 7、Google中国黑板报：http://googlechinablog.com/
 == 团队 ==
 参与即是学习，让我们用社会性的方式来参与体验学习推动web2.0学习，有兴趣参与图书编写的朋友请联系我们，
-我们的社区网站：教育大发现（socialle­arnlab）http://sociallearnlab.org
+我们的社区网站：教育大发现（socialle­arnlab）http://sociallearnlab.org，联系方式：
+
+
   o 吴长城：chengcheng1098@gmail.com
+
+
   o 余波：y.blj018@gmail.com
+
+
   o 庄秀丽：xiuli.zhuang@gmail.com
 == 正文 ==
  * [GshZh0Index]～ 首页
