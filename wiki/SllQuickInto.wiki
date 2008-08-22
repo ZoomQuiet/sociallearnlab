@@ -28,7 +28,7 @@
 
 === code.google ===
 
-==== 1.1熟悉GoogleCode界面 ====
+==== 1.1 熟悉GoogleCode界面 ====
 
 GoogleCode手册看完后，大家进入Googlecode，能看到的界面主要有6个标签：
 
