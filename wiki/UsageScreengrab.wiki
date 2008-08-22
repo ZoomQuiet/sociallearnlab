@@ -19,18 +19,6 @@ Screengrab地址：[https://addons.mozilla.org/zh-CN/firefox/downloads/file/2945
 
 简单说下各目录下的功能：
 
-Screengrab-----Save------Complete Page/Frame  （整个Web页面切取）
-
-
-       |  	+-------Visible portion  （可视窗口切取）
-
- 
-       |        +-------Selection （自同切取）
-
-       +------Copy-------            |                                             
-           
-                +-------             | 这部分和上一部份相同，不知道有什么不同？ 
-
-                +-------             |
+[http://lh6.ggpht.com/wwq0327/SK7HFdrm35I/AAAAAAAAAN0/t71TcFmOcr4/screenshot01.png]
 
 
