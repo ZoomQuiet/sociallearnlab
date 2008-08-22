@@ -1,6 +1,6 @@
                           http://sociallearnlab.org/pic/logo-b-blue.png
                           =教育大发现图书编写项目=
-                       *S*ocial*L*earn*L*ab 缩写: *SLL*
+                       * SocialLearnLab* 缩写: *SLL*
 ==请先了解我们==
 ----
 我们是[http://www.sociallearnlab.org 教育大发现（SocialLearnLab）]，我们的英文名“SocialLearnLab”。我们的图标，选用的是甲骨文“人”字。今天是一个网络和教育技术大发展的时期，必将迎来一个[http://www.sociallearnlab.org 教育大发现]，的时代！今天我们会比过去更为自觉、更注重参与，在向更多的人介绍网络和社会化学习的同时，我们也在呼吁大家来共同参与、共同创造一个[http://www.sociallearnlab.org 教育大发现]的时代！
@@ -9,13 +9,15 @@
 
 
 == 参与 ==
-----
  * [SllJoinHowto] ~ 如何参加 SLL
+  * [SllQuickInto 如何参加 SLL]
+ * [SllResource] ~ SLL 资源
+
+== 組織 ==
  * [SllGroup] ~ SLL团队
- * [SllRole] ~ SLL 角色
+  * [SllRole] ~ SLL 角色
  * [SllFlows]~ SLL 工作流程
  * [SllRules] ~ SLL 规章
- * [SllResource] ~ SLL 资源
 
 == 图书项目 ==
 ----
@@ -66,14 +68,13 @@
 新来这里的朋友会被一大堆从来没有听说没有接触过的软件工具吓到，不要紧，当你放松心态大胆试用他们的时候会发现其实一切都很简单，我们需要的是放松心态，用心实践，在做中学，不要陷在繁杂的软件教程阅读之中,可以参考一下庄秀丽老师分享使用这些软件的心得的[http://sociallearnlab.org/blog/?p=303 这篇文章]。同时，我们也提供这些简明教程为大家快速上手做参考：
  * [http://code.google.com/p/sociallearnlab/wiki/UsageGooglecode Googlecode使用介绍]
 
- * [http://code.google.com/p/sociallearnlab/wiki/UsageSVN 版本控制SVN简明介绍]
+ * [http://code.google.com/p/sociallearnlab/wiki/UsageSVN 版本控制SVN简明介绍]^图书协同写作工具说明^
 
- * [http://code.google.com/p/sociallearnlab/wiki/UsageIRC IRC使用说明]
+ * [http://code.google.com/p/sociallearnlab/wiki/UsageIRC IRC使用说明]^即时沟通工具^
 
- * [http://code.google.com/p/sociallearnlab/wiki/UsageEverydo Everydo使用说明]
+ * [http://code.google.com/p/sociallearnlab/wiki/UsageEverydo Everydo使用说明]^项目管理工具^
 
 appending...
-
 
 
 
