@@ -127,9 +127,9 @@ Google已经发布了“个性化的内容搜索页面”，而Google Reader则�
 鼠标并不能代表一切，看似原始的键盘，功能更是无比强大！
 
 || *快捷键* || *定义* || *作用* ||
-|| j/k | | item down/up || 上一个条目/下一个条目||
-||空格/shift+空格 || page down/up || 向下翻一页/向上翻一页  ||
-|| n/p  || scan down/up || 向下/向上选择（仅List查看模式）||
+|| j/k || item down/up || 上一个条目/下一个条目 ||
+||空格/shift+空格 || page down/up || 向下翻一页/向上翻一页 ||
+|| n/p  || scan down/up || 向下/向上选择（仅List查看模式） ||
 || o || open/close item || 展开条目（仅List查看模式） ||
 || 回车键 || open/close item || 展开条目（仅List查看模式） ||
 || s || toggle star || 标记所选择的条目星号（取消标记） ||
