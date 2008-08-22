@@ -9,7 +9,7 @@
 一、综述（背景，Google服务目前发展，新时代有新的要求，Google教育与学习，为什么有这样的变化和要求）
 
 
-二、Gmail+Gtalk
+二、Gmail
 
 
 三、GoogleNotebook
@@ -45,8 +45,7 @@
 十三、GoogleApps
 
 
-十四、Google其它服务概述
+十四、GoogleOthers
 
 
-十五、Google服务资源推荐
-
+十五、GoogleSources
