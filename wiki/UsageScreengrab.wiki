@@ -1,5 +1,5 @@
 #summary Web下强大的Firefox切图插件Screengrab
-#Lables 截图,Firefox,Screengrab
+#labels 截图,Firefox,Screengrab
 
 == Web下强大的Firefox切图插件Screengrab ==
 这个工具是我前几天装上的，但还一直没用。今天写Google Reader时，需要切图，这时拿起Screengrab就开用，没想到如此好用。忍不住拿出来分享下。
