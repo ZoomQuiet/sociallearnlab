@@ -1,10 +1,10 @@
 #summary Web下强大的Firefox切图插件Screengrab
-#lables 截图,Firefox,Screengrab
+#Lables 截图,Firefox,Screengrab
 
 == Web下强大的Firefox切图插件Screengrab ==
 这个工具是我前几天装上的，但还一直没用。今天写Google Reader时，需要切图，这时拿起Screengrab就开用，没想到如此好用。忍不住拿出来分享下。
 
-引用下仨儿的图标：[http://zqlib.sourceforge.net/style/noIE.png]
+引用下仨儿的图标：|| [http://zqlib.sourceforge.net/style/noIE.png] || [http://lh3.ggpht.com/wwq0327/SK7K_W0zmfI/AAAAAAAAAOA/0clZz6lZf_k/image.jpg] ||
 
 这个插件是Firefox的，没安装的，赶快去下个吧！
 
@@ -23,5 +23,3 @@ Screengrab地址：[https://addons.mozilla.org/zh-CN/firefox/downloads/file/2945
 [http://lh6.ggpht.com/wwq0327/SK7HFdrm35I/AAAAAAAAAN0/t71TcFmOcr4/screenshot01.png]
 
 *最后再声明一点：这个插件只能应用于Web页面内，超出了就不能使用！*
-
-
