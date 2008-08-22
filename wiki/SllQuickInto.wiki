@@ -95,10 +95,9 @@ Project Home| Downloads| Wiki| Issues| Source| Administrator （注：Administra
 
 [http://blog.csdn.net/andylin02/archive/2007/07/06/1681387.aspx]
 
- # 在本地计算机建立一个文件夹，比如我在E盘建立了“SocialLearnLab”文件夹，右键点击该文件夹，就可以使用刚才安装的“TortoiseSVN”。
-
- # 选择TortoiseSVN菜单下的Export…，接着它会让你输入url；
-例如输入[https://sociallearnlab.googlecode.com/svn],提示输入用户名和密码（用户名和密码是在[http://code.google.com/p/sociallearnlab/source/browse/]，左上角的checkout的URL 中自动获取的（When prompted, enter your generated googlecode.com password.））成功之后在本地“SocialLearnLab”文件夹中出现几个子文件夹,分别是：
+ * 在本地计算机建立一个文件夹，比如我在E盘建立了“SocialLearnLab”文件夹，右键点击该文件夹，就可以使用刚才安装的“TortoiseSVN”。
+ * 选择TortoiseSVN菜单下的Export…，接着它会让你输入url；
+例如输入[https://sociallearnlab.googlecode.com/svn]，提示输入用户名和密码（用户名和密码是在[http://code.google.com/p/sociallearnlab/source/browse/]，左上角的checkout的URL 中自动获取的（When prompted, enter your generated googlecode.com password.））成功之后在本地“SocialLearnLab”文件夹中出现几个子文件夹,分别是：
 
 {{{
 \branches
