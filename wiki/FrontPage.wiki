@@ -10,7 +10,7 @@
 
 == 参与 ==
  * [SllJoinHowto] ~ 如何参加 SLL
-  * [SllQuickInto 如何参加 SLL]
+  * SllQuickInto ~ 快速进入 SLL 团队协同 ^教程^
  * [SllResource] ~ SLL 资源
 
 == 組織 ==
