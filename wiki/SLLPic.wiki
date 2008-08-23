@@ -1,5 +1,5 @@
+﻿#summary 用Picasa保存文档所需的图片 
 #labels Featured,如何存放文档中的图片
-# 用Picasa保存文档所需的图片 
 
 [http://picasa.google.com/assets/logo.gif]
 
