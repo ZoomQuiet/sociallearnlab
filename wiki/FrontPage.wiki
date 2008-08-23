@@ -1,3 +1,6 @@
+#summary SocialLearnLab介绍.
+#labels Featured
+
                           http://sociallearnlab.org/pic/logo-b-blue.png
                           =教育大发现图书编写项目=
                        * SocialLearnLab* 缩写: *SLL*
@@ -75,6 +78,4 @@
  * [http://code.google.com/p/sociallearnlab/wiki/UsageEverydo Everydo使用说明]^项目管理工具^
 
 appending...
-
-
 
