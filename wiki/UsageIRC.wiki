@@ -23,7 +23,7 @@
 
 [http://lh3.ggpht.com/wwq0327/SKwpi5AbqQI/AAAAAAAAAJo/aEFM8mpCRrM/screenshot06.jpg?imgmax=512]
 
-补点小技巧：
+==== 补点小技巧： ====
 
 默认情况下，Pidgin的聊天信息声望只是一对一的时候才有，而在频道的多人聊天中，刚没有了。为了让成员的消息你能及时收到，所以设置声音提示是必要的。方法如下：
 
