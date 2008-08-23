@@ -358,4 +358,121 @@
 (12:51:52 AM) wuchangcheng: Modified/wiki/wuchangcheng.wikidiff
 
 (1:03:01 AM) wwq0327: 好了，休息了。太晚了。明天接着做。
+
+= IRC 20080824 =
+
+(10:44:43 PM) wwq0327: 长城同志，在了哈，刚刚看中央六台的集结号，
+
+(10:45:55 PM) wwq0327: 终于明白什么是组织不可靠了。
+
+(10:47:49 PM) xiansf [n=Administ@221.221.151.20] entered the room.
+
+(10:54:01 PM) xiulizhuang: 余波怎么一天都没有露面
+
+(10:56:00 PM) wuchangcheng1: 庄老师，他不能上网啦
+
+(10:56:26 PM) wuchangcheng1: 他们学校的网络整体出现问题，星期一应该可以调整好
+
+(10:57:02 PM) wwq0327: 长城，我没找到怎么恢复，实在不行，暂时就用将原版本制过来的办法了。
+
+(10:58:49 PM) wuchangcheng1: 等下啊，我知道在哪里，可是不知道怎么恢复WIKI的旧版本
+
+(11:00:02 PM) wuchangcheng1: http://code.google.com/p/sociallearnlab/source/browse/wiki/wuchangcheng.wiki?r=273
+
+(11:00:41 PM) wuchangcheng1: 你看看这个页面啊，在右上角有数字r248/r273/r275
+
+(11:01:07 PM) wuchangcheng1: 王老师，看到没有？你点不同的数字表示不同的版本
+
+(11:01:35 PM) wwq0327: 直接把文容复制进最新后版本中，可以不？
+
+(11:01:41 PM) wwq0327: 这个我知道。
+
+(11:02:31 PM) wuchangcheng1: 然后，你再点击左上角的“changs”,可以看到什么
+
+(11:02:40 PM) wuchangcheng1: 各版本的不同吧
+
+(11:03:06 PM) wwq0327: 看到每次修改的记录。这个我知道呀。
+
+(11:03:49 PM) wuchangcheng1: 随便点开一个，然后能看到有个Diff吗
+
+(11:04:55 PM) wwq0327: 嗯，然后就能比较相关文件各版本的不同内容了。
+
+(11:05:40 PM) wuchangcheng1: 恩，这个功能也不错啊，我才发现
+
+(11:06:39 PM) wwq0327: 我以为你知道呢。所以没给你说。
+
+(11:06:52 PM) wuchangcheng1: 太隐蔽啦
+
+(11:07:19 PM) wuchangcheng1: 你看上面还有一个Edit
+
+(11:08:40 PM) wwq0327: 如果能直接将原文档版本直接转过去覆盖掉错误版本就好了。
+
+(11:09:28 PM) wwq0327: 我还担心个问题，如果把文件删掉的话，能不能还原呢？
+
+(11:10:39 PM) wuchangcheng1: 可以啊，有旧版本在啊
+
+(11:12:23 PM) wwq0327: 我觉得我们该做个备分了，
+
+(11:12:34 PM) wwq0327: 以防万一。。
+
+(11:12:55 PM) wwq0327: 只能恢版本，对文件的操作好像不行的。
+
+(11:15:56 PM) wuchangcheng1: 我在想如何恢复到旧版本呢？你刚说的拷贝我试啦，非常麻烦，格式又得调，肯定不是一个好办法
+
+(11:17:14 PM) wwq0327: 再找下吧。仨这时又不在。我也在考虑还有没有更好的办法。
+
+(11:17:23 PM) wuchangcheng1: 不用备份啊，每个人机子上都用下载，你得坏了他的还在，另外也有旧版本可恢复，可是现在还不知道怎么恢复，当然，多一个备份不是坏事
+
+(11:29:08 PM) wwq0327: 后面等仨进IRC，我们再谈下这个问题，听下他专业意见
+
+(11:30:08 PM) wwq0327: 你复制得不对吧？
+
+(11:33:05 PM) wuchangcheng1: 啊？我复制完以后得进行格式调整，格式调整很麻烦
+
+(11:33:41 PM) wwq0327: 确实如此，刚刚我没注意这个问题。
+
+(11:34:02 PM) wuchangcheng1: 我觉得应能够一个按键恢复吧，不会用复制§粘贴这种笨办法吧
+
+(11:34:29 PM) wwq0327: 如果要有复制的办法，也要摄制到文档编辑器呀噻
+
+(11:34:39 PM) wwq0327: 希望有。
+
+(11:36:16 PM) wuchangcheng1: 恩，到论坛问问仨儿吧
+
+(11:37:04 PM) wwq0327: 你先吧，我找点资料
+
+(11:38:45 PM) wuchangcheng1: 好的
+
+(11:50:40 PM) xiansf left the room.
+
+(11:50:45 PM) wuchangcheng1: 使用SVN 的版本回退... 
+
+(11:50:46 PM) wuchangcheng1: http://www.subversion.org.cn/svnbook/1.4/svn.ref.html#svn.ref.svn.sw 
+
+(11:50:58 PM) wuchangcheng1: 我试试看
+
+(11:53:23 PM) wwq0327: 嗯
+
+(11:56:15 PM) wwq0327: 找到办法了，用Merge命令。
+
+(11:57:57 PM) xiansf [n=Administ@221.221.151.20] entered the room.
+
+(8/24/2008 12:04:19 AM) xiansf left the room.
+
+(12:04:59 AM) wwq0327: 你试下，要回到哪个版本？
+
+(12:06:34 AM) wuchangcheng1: Merge不是合并吗
+
+(12:06:53 AM) wwq0327: 他有两种方式。
+
+(12:07:46 AM) wwq0327: 一种是顺着的，就是将老的合到新的去。但反过来，老的就会覆盖掉新的。
+
+(12:08:24 AM) wuchangcheng1: 哦，我看看
+
+(12:08:45 AM) wwq0327: 你试下嘛。本地软件也有这个功能，
+
+(12:09:46 AM) wuchangcheng1: 肯定不是这个，再试试，这个是合并，虽然
+
+(12:09:47 AM) wuchangcheng1: 这样可以
+
 }}}
