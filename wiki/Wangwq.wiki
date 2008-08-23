@@ -1,4 +1,5 @@
-﻿#labels Featured,王万清
+﻿#summary 王万清
+#labels Featured,王万清
 ==Wang.w.q==
 
 王万清，热爱网络。使用Ubuntu工作，但系统还带个XP，主要是和同事玩游戏使用。在Ubuntu上工作学习都很棒，还想着一年后教儿子也用Ubuntu。
