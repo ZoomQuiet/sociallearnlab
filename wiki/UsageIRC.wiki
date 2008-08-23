@@ -1,4 +1,4 @@
-#labels Featured,IRC快速使用指南
+﻿#labels Featured,IRC快速使用指南
 #IRC快速使用指南。
 
 为方便教育大发现团队成员即时交流，我建了一个SLL频道，下面说下使用方法。
@@ -9,13 +9,13 @@
 
 2、安装完成后添加帐户：
 
-点击帐户－管理，在面板最下方点击“添加”，协议选IRC，服务器填：irc.freenode.net，再填上用户名，密码等。这个密码不一定必须填，但为了别人不至于用你的名字进入频道，你还是可以设置一个。如图所示：
+点击帐户(Accounts)－管理(Manage)，在面板最下方点击“添加(Add)”，协议选IRC，服务器(Server)填：irc.freenode.net，再填上用户名，密码等。这个密码不一定必须填，但为了别人不至于用你的名字进入频道，你还是可以设置一个。如图所示：
 
 [http://lh3.ggpht.com/wwq0327/SKzCFOIarwI/AAAAAAAAAJw/M5Hjvj-ETvs/image.png?imgmax=512]
 
 3、添加聊天：
 
-在菜单中选中“好友”－“添加聊天”。在出现的面板中，帐户就选你刚建好的IRC帐户，频道就输入：#sll，下面的别名，分组你可以随便填了，密码不用，下面的选项勾上第一个。如图所示：
+在菜单中选中“好友(Buddies)”－“添加聊天(Add Chat)”。在出现的面板中，帐户就选你刚建好的IRC帐户，频道(Channel)就输入：#sll，下面的别名，分组你可以随便填了，密码不用，下面的选项勾上第一个。如图所示：
 
 [http://lh6.ggpht.com/wwq0327/SKzChLkJ9jI/AAAAAAAAAJ0/MeTCtD3Z3h4/image.png]
 
