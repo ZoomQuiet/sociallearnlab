@@ -1,8 +1,9 @@
-#labels IRC,IRC
+﻿#labels IRC,IRC
 #IRC 会议记录
 
 =IRC 20080821 =
 
+{{{
 (9:49:29 PM) Zoom: 有什么要问的?
 
 (9:49:52 PM) wuchangcheng: 这样的，我们这样想的，我们想先在GoogleCode中写书，写一段时间后，大家基本适应平台，然后在本机用T2t或TXT，然后转换成HTML，最后出版的时候，再转换成Office文档
@@ -357,3 +358,4 @@
 (12:51:52 AM) wuchangcheng: Modified/wiki/wuchangcheng.wikidiff
 
 (1:03:01 AM) wwq0327: 好了，休息了。太晚了。明天接着做。
+}}}

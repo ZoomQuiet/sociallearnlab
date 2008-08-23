@@ -1,4 +1,4 @@
-﻿#summary IRC快速使用指南
+﻿﻿#summary IRC快速使用指南
 #labels Featured,IRC快速使用指南
 
 为方便教育大发现团队成员即时交流，我建了一个SLL频道，下面说下使用方法。
@@ -22,5 +22,11 @@
 这时，你可以双击好友列表中的sll，和团队成员进行交流了。如图所示：
 
 [http://lh3.ggpht.com/wwq0327/SKwpi5AbqQI/AAAAAAAAAJo/aEFM8mpCRrM/screenshot06.jpg?imgmax=512]
+
+补点小技巧：
+
+默认情况下，Pidgin的聊天信息声望只是一对一的时候才有，而在频道的多人聊天中，刚没有了。为了让成员的消息你能及时收到，所以设置声音提示是必要的。方法如下：
+
+打开“Tool"菜单下的”Preferences“选项卡面版，点开“Sounds"选项卡，在最下方将”Others talk in chat“勾上，这样你就能听到频道中的信息提示音了。 
 
 最后感谢ZoomQuiet，我照着他的程序来写的。
