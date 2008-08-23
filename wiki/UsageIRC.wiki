@@ -1,4 +1,4 @@
-﻿﻿#summary IRC快速使用指南
+﻿#summary IRC快速使用指南
 #labels Featured,IRC快速使用指南
 
 为方便教育大发现团队成员即时交流，我建了一个SLL频道，下面说下使用方法。
