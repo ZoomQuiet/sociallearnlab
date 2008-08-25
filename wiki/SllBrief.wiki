@@ -1,4 +1,4 @@
-#summary 教育大发现社区社区简报页面
+#summary 教育大发现社区社区简报
 #labels Featured,Phase-Design
 
 = 简报发行介绍 =
