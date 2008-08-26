@@ -2,4 +2,4 @@
 #labels GSH,Google,GoogleGmail
 [GSH]
 = GoogleGmail =
-GSHZh02Googlegmail
+GshZh02Googlegmail
