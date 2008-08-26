@@ -1,2 +1,2 @@
-#summary 《Google服务应用手册》第一章综述》
+#summary 《Google服务应用手册》第一章综述.
 #labels GSH,Google,GooglePreface
