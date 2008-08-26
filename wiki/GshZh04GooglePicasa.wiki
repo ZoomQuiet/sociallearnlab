@@ -1,0 +1,5 @@
+#summary 《Google服务应用手册》GooglePicasa.
+#labels GSH,Google,GooglePicasa
+
+[GSH]
+= GooglePicasa =
