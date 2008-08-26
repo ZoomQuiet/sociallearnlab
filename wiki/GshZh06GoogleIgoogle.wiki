@@ -1,4 +1,4 @@
-#summary 《Google服务应用手册》GoogleIgoogle.
+#summary 《Google服务应用手册》第六章GoogleIgoogle.
 #labels GSH,Google,GoogleIgoogle
 
-= GoogleIgoogle =
+= Google Igoogle =
