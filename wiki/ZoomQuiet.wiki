@@ -1,5 +1,5 @@
 #summary zip abt. ZoomQuiet
-#labels Member
+#labels Member,ZoomQuiet
 
 = abt.吾 =
 *Zoom.Quiet === Zoomq = 仨儿*
@@ -35,7 +35,9 @@ PI keeps evolving organizations which promoting people be good!
  * 作 4 http://trac-hacks.org/wiki/TracChineseTranslation
 
 == i advocating ==
-||http://badvista.fsf.org/logos/BadVista_no_littering.png || http://zqlib.sourceforge.net/style/noIE.png || http://people.ofset.org/~ckhung/i/nd/nodoc1.png http://people.ofset.org/~ckhung/i/nd/fydoc.png http://people.ofset.org/~ckhung/i/nd/nodoc4.png || http://hellobmw.com/wp-content/uploads/access-flickr.png ||
+||http://badvista.fsf.org/logos/BadVista_no_littering.png || http://zqlib.sourceforge.net/style/noIE.png || http://hellobmw.com/wp-content/uploads/access-flickr.png || http://people.ofset.org/~ckhung/i/nd/nodoc1.png http://people.ofset.org/~ckhung/i/nd/fydoc.png http://people.ofset.org/~ckhung/i/nd/nodoc4.png http://people.ofset.org/~ckhung/i/nd/fydoc1.png || 
+ * '''[http://people.ofset.org/~ckhung/a/c041.php 好公民不助長非法拷貝]'''^--請停止散佈 .doc^
+
 
  * Pls. usage OOo to replace M$ Office. http://zh.openoffice.org
  * Pls. usage 7-zip to replace `WinRAR/WinZip`.  http://7-zip.org
