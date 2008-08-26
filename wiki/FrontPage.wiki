@@ -1,7 +1,7 @@
 #summary SocialLearnLab介绍.
 #labels Featured
 
-                          http://sociallearnlab.org/pic/logo-b-blue.png
+                                                   http://sociallearnlab.org/pic/logo-b-blue.png
                           =教育大发现图书编写项目=
                        * SocialLearnLab* 缩写: *SLL*
 ==请先了解我们==
@@ -12,9 +12,10 @@
 
 
 == 参与 ==
- * [SllJoinHowto] ~ 如何参加 SLL
+ * [SllJoinHowto] ~ 加入 SLL 社区概述
   * SllQuickInto ~ 快速进入 SLL 团队协同 ^教程^
  * [SllResource] ~ SLL 资源
+ * [SllDict] ~ SLL 辞典
 
 == 組織 ==
  * [SllGroup] ~ SLL团队
@@ -43,7 +44,7 @@
   * *[GSH]* ~ Google Services Handbook
   * [http://sociallearnlab.org/?page_id=235 项目概况]
  # 社会性软件工具应用手册 (大学生版 教师群版 企业员工版)
-  * *[STM]* ~ Socialsoftware Tools Manual ( Stm4College Stm4Enterprise Stm4Staff )
+  * *[STM]* ~ Socialsoftware Tools Manual ( Stm4College Stm4Teacher Stm4Enterprise )
   * [http://sociallearnlab.org/?page_id=302 项目概况]^大学生版^
  # 社会性网络环境下的教学活动实施案例
  * *[SEPL]* ~ Socialnetwork Education Practice Library 
@@ -78,4 +79,5 @@
  * [http://code.google.com/p/sociallearnlab/wiki/UsageEverydo Everydo使用说明]^项目管理工具^
 
 appending...
+
 
