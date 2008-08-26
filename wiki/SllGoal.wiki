@@ -1,0 +1,60 @@
+#labels Featured,Phase-Design
+#Sll发展现状、目标、宗旨.
+
+
+以下对SLL发展目标的定位的认识，作为讨论稿。每个人的认识都有其局限性，希望通过进一步讨论，来增进认识、达成社区发展共识，并能阶段性的调整和发展我们的共识。
+
+
+SLL:SocialLearnLab 缩写，中文名“教育大发现” 。（参考 http://code.google.com/p/sociallearnlab/wiki/SllDict ） ；
+
+
+= SLL 现状：=
+
+SLL实际是处于发芽阶段，还只是部分芽尖露出泥土的发芽阶段。目前具体做的事情有：
+
+（1）搭建了社区主页  http://sociallearnlab.org/  ，这是一个从无到有的过程。
+
+（2）初步规划了社区以“项目”驱动发展的想法，设立了几个项目，见项目说明 ，http://sociallearnlab.org/?page_id=9 
+
+（3）邀请了部分专家顾问和部分核心成员，见 “团队”，http://sociallearnlab.org/?page_id=20 
+
+（4）为配合项目实施中科学管理问题，搭建了开源软件工程项目项目管理环境，即http://code.google.com/p/sociallearnlab 
+
+= SLL目前现状中存在的问题：=
+
+（1）真正项目管理经验，还需要在项目实施过程中积累。因此我们可能是出于不断碰到问题、解决问题的过程中。
+
+（2）“团队”力量需要拓展。
+
+（3）新的项目管理环境，对多数人来说，需要有个适应过程，才能真正逐步走上用新平台合作做事。
+
+
+= SLL发展目标：=
+
+（1）担当以WEB2.0服务为主的企业与学校教育领域的桥梁；
+
+如何担当，例如，
+
+在学校教育中引导学生应用真实的WEB2.0环境进行学习；
+
+在学校环境中，帮助企业推广新应用；
+
+跟企业做一些合作研究；
+
+（2）推动SLL发展的若干“项目”，实质应当成为谋求发展的学习者（大学生 研究生 教师 其他终身学习者）搭建的基于真实任务驱动、体验全新学习方式、练就终身学习能力的成长平台。
+
+（3）在实践的土壤中，推进教育研究
+
+
+= SLL宗旨：=
+
+从能做的实践做起，运用集体智慧，实践新方法，传播新方法。
+
+
+
+= Details =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
