@@ -1,4 +1,4 @@
-#summary 《Google服务应用手册》GooglePicasa.
+#summary 《Google服务应用手册》第四章GooglePicasa.
 #labels GSH,Google,GooglePicasa
 
 [GSH]
