@@ -38,55 +38,11 @@
 
   o 庄秀丽：xiuli.zhuang@gmail.com
 == 六、正文 ==
- * [GshZh0Index]～ 首页
- * [GshZh1Summary]～简介
-
-前言
-
-
-一、综述（背景，Google服务目前发展，新时代有新的要求，Google教育与学习，为什么有这样的变化和要求）
+ * [GshZh0Index]～ 索引
+ * [GshZh1Summary]～前言 + 综述
+ * ... 
 
 
-二、GoogleGmail
-
-
-三、GoogleNotebook
-
-
-四、GooglePicasa
-
-
-五、GoogleGroups
-
-
-六、GoogleIgoogle
-
-
-七、GoogleDocuments
-
-
-八、GoogleBook
-
-
-九、GoogleCalendar
-
-
-十、GoogleReader
-
-
-十一、GoogleEarth
-
-
-十二、GoogleMap
-
-
-十三、GoogleApps
-
-
-十四、GoogleOthers
-
-
-十五、GoogleSources
 = TODO =
 
 = Discuss =

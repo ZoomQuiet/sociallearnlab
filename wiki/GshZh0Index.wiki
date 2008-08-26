@@ -1,51 +1,21 @@
 #summary Google Services Handbook
 #labels Featured,GSH
 
-= 《Google服务应用 》 =
+= 《Google 服务应用 》 =
 
-前言
+ # GshZh1Summary ~ 前言 + 综述（背景，Google 服务目前发展，新时代有新的要求，Google 教育与学习，为什么有这样的变化和要求）
+ # GshZhGmail 
+ # GshZhNotebook
+ # GshZhPicasa
+ # GshZhGroups
+ # GshZhiGoogle
+ # GshZhDocuments  或是 GshZh02GoogleDocuments ???
+ # GshZhBook
+ # GshZhCalendar
+ # GshZhReader
+ # GshZhEarth
+ # GshZhMap
+ # GshZhApps
+ # GshZhOthers
+ # GshZhSources
 
-
-一、综述（背景，Google服务目前发展，新时代有新的要求，Google教育与学习，为什么有这样的变化和要求）
-
-
-二、GoogleGmail
-
-
-三、GoogleNotebook
-
-
-四、GooglePicasa
-
-
-五、GoogleGroups
-
-
-六、GoogleIgoogle
-
-
-七、GoogleDocuments
-
-
-八、GoogleBook
-
-
-九、GoogleCalendar
-
-
-十、GoogleReader
-
-
-十一、GoogleEarth
-
-
-十二、GoogleMap
-
-
-十三、GoogleApps
-
-
-十四、GoogleOthers
-
-
-十五、GoogleSources
