@@ -1,8 +1,0 @@
-#summary Google 帐户注册
-#lables Google,Account,帐户注册
-
-注册方法太简单了，不知道怎么写了，给个注册地址吧：
-
-[http://mail.google.com/mail/signup]
-
-有了这个帐号，Google的产品服务你就能全部使用了。
