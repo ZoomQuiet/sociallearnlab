@@ -18,7 +18,7 @@
 == 四、参考资源 ==
  * 1、Google官方Blog ：http://googleblog.blogspot.com/
  * 2、Google的Youtube：http://www.youtube.com/google
- * 3、sociallearnlab wiki的首页：http://sociallearnlab.org/wiki/
+ * 3、sociallearnlab wiki的 http://sociallearnlab.org/wiki/index.php/Chapter_Google
  * 4、Google360论坛：https://groups.google.com/group/google360
  * 5、好看簿中：
         o GoogleFans小组，http://www.haokanbu.com/group/27/
