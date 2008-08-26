@@ -1,5 +1,4 @@
-#summary 《Google服务应用手册》GoogleGroups.
+#summary 《Google服务应用手册》第五章GoogleGroups.
 #labels GoogleGroups,GSH,Google
 
-= GoogleGroups =
-
+= Google Groups =
