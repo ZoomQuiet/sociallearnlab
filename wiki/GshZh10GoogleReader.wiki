@@ -1,4 +1,4 @@
-#summary 第十章 Google Reader.
+#summary 《Google服务应用手册》第十章 Google Reader.
 #labels GSH,Google,GoogleReader,RSS
 
 [GSH]
