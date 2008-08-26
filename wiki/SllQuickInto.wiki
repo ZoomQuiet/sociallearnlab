@@ -107,6 +107,8 @@ Project Home| Downloads| Wiki| Issues| Source| Administrator （注：Administra
 \wiki
 }}}
 
+(各文件夹说明参看[UsageSVN])
+
 当然,以后编辑可以直接在本地文件中的文件中进行编辑,然后再通过“ commit” 上传即可。
 
 当然还可以直接访问[http://code.google.com/p/sociallearnlab/]，会看到界面上方有5个标签：Project Home| Downloads| Wiki| Issues| Source|,(这里还有一份说明[http://code.google.com/p/sociallearnlab/wiki/UsageGooglecode])。
