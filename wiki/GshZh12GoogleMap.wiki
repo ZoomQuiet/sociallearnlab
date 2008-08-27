@@ -1,6 +1,6 @@
 #summary 《Google服务应用手册》第十二章GoogleMap.
 #labels GSH,Google,GoogleMap
-
+[GSH]首页
 = Google Map =
 Google Map
 
