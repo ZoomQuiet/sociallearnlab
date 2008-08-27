@@ -1,6 +1,6 @@
 #summary 《Google服务应用手册》第十六章Google服务应用资源GoogleSources.
 #labels GSH,Google,GoogleSources
-
+[GSH]首页
 = Google　Sources =
 
-Google　Sources
+Google Sources
