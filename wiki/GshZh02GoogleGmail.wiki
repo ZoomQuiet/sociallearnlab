@@ -1,5 +1,5 @@
 #summary 《Google服务应用手册》第二章GoogleGmail.
 #labels GSH,Google,GoogleGmail
-[GSH]
+[GSH]首页
 = GoogleGmail =
 GshZh02Googlegmail
