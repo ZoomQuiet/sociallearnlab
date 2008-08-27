@@ -1,4 +1,4 @@
 #summary 《Google服务应用手册》第十一章GoogleEarth.
 #labels GSH,Google,GoogleEarth
-
+[GSH]首页
 = Google Earth =
