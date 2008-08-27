@@ -1,4 +1,4 @@
 #summary 《Google服务应用手册》第十五章Google服务整合应用案例GoogleIntegrate.
 #labels ＧＳＨ,Ｇｏｏｇｌｅ,GoogleIntegrate
-
+[GSH]首页
 = Google Integrate =
