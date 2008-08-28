@@ -4,7 +4,7 @@
 = 第九章 Google Calendar =
 
 产品标识：
- * 英文版标识：
+ * 英文版标识：[http://www.google.com/intl/en_uk/googlecalendar/images/logo_calendar.gif]
  * 中文版标识：
 ==1 问题情景==
 ===1.1 情景一===
