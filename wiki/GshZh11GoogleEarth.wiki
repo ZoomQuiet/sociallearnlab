@@ -1,4 +1,40 @@
 #summary 《Google服务应用手册》第十一章GoogleEarth.
 #labels GSH,Google,GoogleEarth
 [GSH]首页
-= Google Earth =
+= 第十一章 Google Earth =
+产品标识：
+ * 英文版标识：
+ * 中文版标识：
+==1 问题情境==
+
+=== 1.1 情境一 ===
+
+=== 1.2 情境二 ===
+
+=== 1.3 情境N ===
+
+==2 什么是Google Earth==
+
+===2.1 ===
+===2.2 ===
+
+==3 如何使用Google Earth==
+
+在使用使用之前，请确认你已注册有Google的账户，如果没有注册，请查看[GSHGoogleAccount Google帐户注册说明]被点击[http://mail.google.com/mail/signup 这里]注册。
+
+===3.1 Google Earth界面===
+
+===3.2 ===
+
+===3.3 ===
+
+==4 扩展应用==
+
+===4.1 ===
+
+===4.2 ===
+
+==5 资源索引==
+
+ 
+----
