@@ -1,7 +1,7 @@
 #labels Featured,Phase-Design
 =教育大发现社区简报=
 
-第1期
+    _第1期_
 
   * 创刊词 
   * 起步
