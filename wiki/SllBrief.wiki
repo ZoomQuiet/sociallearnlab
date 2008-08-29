@@ -6,7 +6,7 @@
 }}}
 
 == 简报发行 ==
-`使用十年树木,百年树人的谚语概念,将不同阶段的社区活动,都和植物进行隐喻:`
+[https://groups.google.com/group/sociallearnlab-members/browse_thread/thread/22b0755e9779d2dc/43e82e8cef3fcbd9 使用十年树木,百年树人的谚语概念],将不同阶段的社区活动,都和植物进行隐喻:
  * 0.0 seed ~ 种子
   # SllBrief080901 ~ 选种刊 _seed choice_ ^撰写ing^
   # ~ 净种刊 _seed clean_  ^筹备ing^
