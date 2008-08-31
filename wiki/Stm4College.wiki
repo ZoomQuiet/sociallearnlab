@@ -19,19 +19,19 @@
 
 前言
 
-一、综述（背景，网络变化，学习的变化，新时代有新的要求，为什么有这样的变化和要求）[sum]
+一、综述（背景，网络变化，学习的变化，新时代有新的要求，为什么有这样的变化和要求）[Stm4Collegezh01Sum]
 
-二、社会书签
+二、社会书签[Stm4Collegezh02SocialBookmarking]
 
-三、Tag标签
+三、Tag标签[Stm4Collegezh03Tag]
 
-四、RSS
+四、RSS[Stm4Collegezh04RSS]
 
-五、Blog
+五、Blog[Stm4Collegezh05Blog]
 
-六、WIKI
+六、WIKI[Stm4Collegezh06WIKI]
 
-七、CC及版权
+七、CC及版权[Stm4Collegezh07CC]
 
 八、国内的一些社会性软件（概述，简要介绍）
 
