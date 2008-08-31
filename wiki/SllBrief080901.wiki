@@ -88,9 +88,15 @@
 
 目前社区的项目研究和管理都在google code上进行，详细链接：http://code.google.com/p/sociallearnlab/
 
-其中，《Google服务应用手册》图书编写项目入口：http://code.google.com/p/sociallearnlab/wiki/GSH
+对于图书编辑项目来说，这些图书不仅仅是普通的技术手册，它是更是结合着生动的学习、生活案例的工具与思想的学习手册，我们希望参与者在参与编写图书的过程中除了收获技术的使用之外，更能深入的领会到这些web2.0工具所具有的社会性学习内涵，在社区项目实践中理解、学会社会化学习。目前，两本图书的章节框架设计已经完成，《Google服务应用手册》已经开始Google Reader章节的编写，而庄秀丽老师也为《社会性软件工具应用手册（大学生版）》一书撰写了前言————[http://sociallearnlab.org/?p=16 写给大学生朋友的话]。希望更多的朋友参与进来，我们一同实践体验社会性学习！
+
+《Google服务应用手册》图书编写项目入口：http://code.google.com/p/sociallearnlab/wiki/GSH 
 
 《社会性软件工具应用手册（大学生版）》图书编写项目入口：http://code.google.com/p/sociallearnlab/wiki/Stm4College
+
+随着新学期的开始，与好看簿合作的引导学生应用真实web2.0环境进行学习的研究项目也即将进入开展。欢迎加入[http://groups.google.com/group/itc-haokanbu 课题管理论坛]，同时，我们还建了[http://www.haokanbu.com/group/130/ 好看簿课题小组]，欢迎访问探讨！
+
+
 
 
 
