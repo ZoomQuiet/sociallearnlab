@@ -19,7 +19,7 @@
 
 前言
 
-一、综述（背景，网络变化，学习的变化，新时代有新的要求，为什么有这样的变化和要求）
+一、综述（背景，网络变化，学习的变化，新时代有新的要求，为什么有这样的变化和要求）[sum]
 
 二、社会书签
 
@@ -41,9 +41,9 @@
 
 您可以根据您的特点和兴趣，选择参与您想编写的章节，目前我们所使用的协作平台主要是：
 
-共创空间：http://sociallearnlab.org/wiki/index.php/Ss4student
-              http://code.google.com/p/sociallearnlab
+共创空间：http://code.google.com/p/sociallearnlab
 
+             
 研讨讨论：https://groups.google.com/group/socialsoftwarehandbook-workgroup
 
 
@@ -98,7 +98,9 @@ http://sociallearnlab.org
 一天，风飞而过，撒下一粒种子。种子的顽强生命力和所承载的希望光芒，陆续地吸引了一群同好者，相识的和不相识的，他们为种子的成长，织网耕耘。
 
 今天，你还可以去追溯，他们曾经走过的路：
+
 http://groups.google.com/group/socialsoftwarehandbook-workgroup
+
 http://sociallearnlab.org/wiki/index.php/Ss4student
 今天，你还可以成为他们，继续着编织的耕耘过程。
 
