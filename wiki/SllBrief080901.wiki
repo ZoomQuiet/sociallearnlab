@@ -71,11 +71,19 @@
 
 在庄秀丽老师倡议下，我们共同发起成立了“社会化学习实验室”（_Social Learn Lab_ ），社区的Logo是一个甲骨文的“人”字。【建议：庄老师对这个“人”字多做一点解释就更好了】 
 
+（添加社区定位，服务对象。）
+
+
+（社区平台介绍）
+在各位成员的共同努力下，我们通过WordPress等开源软件搭建起了社区网络平台。目前我们的社区以[http://www.sociallearnlab.org “教育大发现”]为门户站点，他还包括用于社区成果、知识库积累的[http://www.sociallearnlab.org/wiki SocialLearnLab's Wiki]，社区成员讨论的[https://groups.google.com/group/sociallearnlab SocialLearnLab GoogleGroup]和[http://sociallearnlab.org/forum GoogleGroup]SocialLearnLab's BBS],[http://sociallearnlab.org/en/ 社区英文版],以及基于Google Code服务的社区研究项目管理平台http://code.google.com/p/sociallearnlab 。通过这些，构成了目前的社区平台服务。而[http://code.google.com/p/sociallearnlab/wiki/SLLMap 社区资源图谱]会给大家一个对社区更加直观的了解。同时，[http://sociallearnlab.org/?page_id=423 社区日历]也可以让大家对我们的工作有更加清晰深刻的认识。
+
+
+（社区项目，项目发起说明和目前启动的项目）
 我们希望，从我们做起，初期以项目的方式来带动大家的学习、实践及社区的发展。起步选择了以介绍社会化学习工具、引导学生应用真实的Web2.0环境进行学习等项目为基础，具体包括：
 
-  * 项目一：《Google服务应用手册》图书编写项目（Book-Google）
-  * 项目二：《社会性软件工具应用手册 （大学生版）》WIKI图书编辑（Book-Stm4College）
-  * 项目三：基于好看簿之信息技术课程教学改革研究（ITC-Haokanbu）
+  * 项目一：[http://sociallearnlab.org/?page_id=235 《Google服务应用手册》图书编写项目] （Book-GSH）  (目前是教师版，修订中)
+  * 项目二：[http://sociallearnlab.org/?page_id=302 《社会性软件工具应用手册 （大学生版）》]图书编辑（Book-Stm4College）
+  * 项目三：[http://sociallearnlab.org/?page_id=236 基于好看簿之信息技术课程教学改革研究]（ITC-Haokanbu）
 
 互联网企业是推动学校教育变革的重要动力。我们也希望以这种方式，逐步在web2.0与教育之间能发挥一个桥梁作用，进一步推动两者的结合与发展。
 
@@ -85,6 +93,8 @@
   * 介绍社会化学习工具的图书已经开始编写；
   * 新的学期开始了，与好看簿合作的引导学生应用真实web2.0环境进行学习的研究项目也即将进入开展。
 
+（团队构成）
+教育大发现成员的团队由
 
 团队发起人也是我们目前主要的成员，包括：【大家尝试用一句话介绍自己】
 
