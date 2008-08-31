@@ -7,6 +7,35 @@
   * 起步
   * 邀您同行 
 
+{{{
+社区需要凝聚, 大众需要知晓;
+目标阶段前进, 成果定期汇报!
+}}}
+
+== 简报发行 ==
+[https://groups.google.com/group/sociallearnlab-members/browse_thread/thread/22b0755e9779d2dc/43e82e8cef3fcbd9 使用十年树木,百年树人的谚语概念],将不同阶段的社区活动,都和植物进行隐喻:
+ * 0.0 seed ~ 种子
+  # SllBrief080901 ~ 选种刊 _seed choice_ ^撰写ing^
+  # ~ 净种刊 _seed clean_  ^筹备ing^
+  # ~ 育种刊 _seed grow_   ^筹备ing^
+  # ~ 冬藏刊  _seed winter store_  ^筹备ing^
+  # ~ 泡种刊 _seed vesic_  ^筹备ing^
+  # ~ 栽种刊  _seed fall_    ^筹备ing^
+ * 0.1 bud ~ 芽
+ * 0.2 grass ~ 草
+ * 0.3 bush ~ 灌木
+ * 0.4 arboret ~ 小树
+ * 0.5 tree ~ 树
+ * 0.6 woods ~ 树林
+ * 0.7 forest ~ 森林
+ * ...
+
+== 发行管理 ==
+ * 发行方式: ?
+ * 发行管理: ??
+ * 撰写流程: ???
+ 
+
  
 ==创刊词==
 
