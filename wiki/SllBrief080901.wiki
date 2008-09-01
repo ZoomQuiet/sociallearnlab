@@ -5,7 +5,7 @@
 
     _第1期 选种刊 Seed Choice_
 
-  * 创刊词 
+  * 名字缘由 
   * 起步
   * 邀您同行 
 
@@ -20,7 +20,7 @@
 
 讨论到这儿，由此也就有了我们社区现在的名字。
 
-http://sociallearnlab.org/pic/logo-b-blue.png
+  http://sociallearnlab.org/pic/logo-b-blue.png
 
  * 我们中文社区名字：教育大发现
  * 我们英文网站名字：SocialLearnLab
