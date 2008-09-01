@@ -1,4 +1,6 @@
+#summary 教育大发现社区简报（第2期）.
 #labels Featured,Phase-Design,SllBrief
+
 =教育大发现社区简报=
 
     _第1期_
