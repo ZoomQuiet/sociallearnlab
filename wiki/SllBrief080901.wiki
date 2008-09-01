@@ -50,19 +50,19 @@ http://sociallearnlab.org/SLLMap/SLL_CampTools.jpg
 
  * 《社会性软件工具应用手册 （大学生版）》图书编写 ：
 
-　***http://sociallearnlab.org/?page_id=302
+　**http://sociallearnlab.org/?page_id=302
 
-　***http://code.google.com/p/sociallearnlab/wiki/GSH
+　**http://code.google.com/p/sociallearnlab/wiki/GSH
 
  * 《Google服务应用手册》(GSH)图书编写
 
-　***http://sociallearnlab.org/?page_id=235
+　**http://sociallearnlab.org/?page_id=235
 
-　***http://code.google.com/p/sociallearnlab/wiki/Stm4College
+　**http://code.google.com/p/sociallearnlab/wiki/Stm4College
 
  * 基于好看簿之信息技术课程教学改革研究（ITC-Haokanbu）
 
-　***http://sociallearnlab.org/?page_id=236
+　**http://sociallearnlab.org/?page_id=236
 
 == *项目管理* ==
 
@@ -71,6 +71,14 @@ http://code.google.com/p/sociallearnlab/
 
 关于项目管理平台使用，我们已经整理了一些资料，Google Code使用入门教程：
 http://sociallearnlab.org/?p=361
+
+== *社区交流* ==
+
+　* 论坛：设有专用核心成员论坛，采用朋友机制邀请成为核心队员，加入核心成员论坛。另外每个项目，有项目专用论坛。
+
+　** 公设社区论坛：任何人申请都可以参加。
+　　http://groups.google.com/group/sociallearnlab
+
 
 
 
