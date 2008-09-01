@@ -42,7 +42,7 @@ http://sociallearnlab.org
 
 == *社区地图* ==
 
-
+http://sociallearnlab.org/SLLMap/SLL_CampTools.jpg
   
 == *社区项目* ==
 
@@ -54,11 +54,13 @@ http://sociallearnlab.org/?page_id=302
 http://code.google.com/p/sociallearnlab/wiki/GSH
  
 * 《Google服务应用手册》(GSH)图书编写
+
 http://sociallearnlab.org/?page_id=235
 
 http://code.google.com/p/sociallearnlab/wiki/Stm4College
 
  * 基于好看簿之信息技术课程教学改革研究（ITC-Haokanbu）
+
 http://sociallearnlab.org/?page_id=236
 
 == *项目管理* ==
