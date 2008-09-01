@@ -3,16 +3,16 @@
 
 = 教育大发现 • 社区简报 =
 
-    _第1期 选种刊_
+    第1期 选种刊
 
-  * 名字缘由 
+  * 社区名字 
   * 社区定位
   * 社区地图
   * 社区项目
   * 社区管理
 
 
-== *名字缘由* ==
+== *社区名字* ==
 
 2008年8月上旬，当讨论社区起名的时候，我们不由得与“地理大发现”的时代联系在一起：同样是一个以勇气和科技腾飞为标志，并把整个世界重新连接起来的时代，我们能以什么角色、什么方式参与到今天这个伟大时代的创造中来呢？
 
@@ -85,15 +85,42 @@ http://code.google.com/p/sociallearnlab/
 
 　**http://irc.freenode.net/#sll
 
+== *八月进展* ==
 
+*社区正式启动的项目有两个*
 
-*北京小聚*
+　**《Google服务应用手册》(GSH)图书编写
 
-说到这儿，很多人可能还不认识SLL团队的成员。前两天庄老师在[http://groups.google.com/group/sociallearnlab 社区论坛]里发了一个帖子，说陈堃（[http://www.QienKuen.org QienKuen]）近日在北京、8号回厦门，看谁有时间大家可以聚一下。北京不少成员都积极响应。不能来的和外地的[http://www.zoomquiet.org Zoom.Quiet]、[http://www.wuchangcheng.com 长城]、[http://youbilin.com/ 万清]、[http://edu.80s.net.cn/ 清风]等他们只能不断地提醒大家：“录音！录像！照片！文字！一个都不能少！外地的成员，就依赖这些异步知识储备来同步认识了！”
+　**基于好看簿之信息技术课程教学改革研究（ITC-Haokanbu）
 
-魏老师（[http://www.haokanbu.com/story/105149/ 教育大发现之北京小聚]）和庄老师（[http://www.haokanbu.com/story/105052/ 陈堃小聚]）对这次聚会都做了生动的记录。这次聚会，用魏老师的话说，“交流围绕着庄老师设计的几个题目有序进行”，尤其是[http://www.haokanbu.com/user/1126/ 都都]很活跃，一会儿“对陈堃的电脑比较感兴趣，上盖贴的花里胡哨的”，一会儿“和妈妈抢镜头，还画性大发，给每人现场作画一副，并签名”，给聚会增添了几分轻松幽默的注脚。不过这么说，怎么也没有[http://www.haokanbu.com/story/105149/ 魏老师]、[http://www.haokanbu.com/story/105052/ 庄老师]的照片和文字好，:)
+*构建了社区平台与交流环境，包括项目管理平台配置*
 
- 
+*沉淀了一些技术使用文档*
+
+　** Googlecode使用介绍 
+
+　** http://code.google.com/p/sociallearnlab/wiki/UsageGooglecode
+
+　** 版本控制SVN简明介绍图书协同写作工具说明 
+
+　** http://code.google.com/p/sociallearnlab/wiki/UsageSVN
+
+　** IRC使用说明即时沟通工具
+
+　** http://code.google.com/p/sociallearnlab/wiki/UsageIRC 
+
+　** Everydo使用说明项
+
+　** http://code.google.com/p/sociallearnlab/wiki/UsageEverydo
+
+*社区队伍构建*
+
+*社区进行了第一次小聚*
+
+参与者有厦门大学陈堃同学、廊坊教育局化学教研室魏国福老师、武健老师、张有宁老师、石峰、余波、庄秀丽和都都。聚会记录放在好看簿活动“北京小聚20080830”：
+
+http://www.haokanbu.com/event/1445/
+
 
 ==邀您同行==
  
