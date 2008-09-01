@@ -1,4 +1,4 @@
-#labels Featured,Phase-Design,SllBrief
+#labels Phase-Design,SllBrief
 =教育大发现社区简报=
 
     第1期
