@@ -19,6 +19,62 @@
 为迎接“教育大发现”时代而组织起来的我们,将比过去更为自觉更注重参与，在向更多的人介绍网络应用和社会化学习的同时，我们也在呼吁大家来共同参与、共同创造一个“教育大发现”的时代！
 
 ==起步==
+ 
+*名称*
+
+北京闹运会激战正酣的时候，我们[http://sociallearnlab.org “教育大发现”社区]成立了。在庄秀丽老师倡议下，大家共同发起成立了“社会化学习实验室”（Social Learn Lab，简称*SLL* ），并开始搭建“教育大发现”社区。社区的Logo是一个甲骨文的“*人* ”字。
+
+ 
+*目标*
+
+SLL的发展目标：
+
+  * 在Web2.0服务与学校教育之间搭起一座桥梁。比如：引导学生应用真实的Web2.0环境进行学习；在学校环境中，帮助企业推广新的应用；与企业开展合作研究。
+  * 推动SLL发展的若干“项目”，为学习者（大学生、研究生、中小学生、教师及其他终身学习者）搭建基于真实 任务驱动、体验全新学习方式、练就终身学习能力的成长平台。
+  * 在实践的土壤中，推进教育研究。
+
+  
+*进展*
+
+SLL正处于发芽阶段，还只是部分芽尖刚露出泥土。目前具体做的事情有：
+
+  * 搭建了[http://sociallearnlab.org/ 社区主页] ，这是一个从无到有的过程。
+  * 初步规划了社区以“项目”驱动发展的想法，设立了几个项目，见[http://sociallearnlab.org/?page_id=9 项目说明]。
+  * 邀请了部分专家顾问和核心成员，见[http://sociallearnlab.org/?page_id=20 “团队”]。
+  * 为配合项目实施中科学管理，搭建了[http://code.google.com/p/sociallearnlab 开源项目管理环境]。
+
+
+*问题*
+
+SLL目前现状中存在的问题：
+
+  * 真正的项目管理经验，还需要在项目实施过程中积累。因此我们可能是出于不断碰到问题、解决问题的过程中。 
+  * “团队”力量需要拓展。
+  * 新的项目管理环境，对多数人来说，需要有个适应过程，才能真正逐步走上用新平台合作做事。
+ 
+
+*北京小聚*
+
+说到这儿，很多人可能还不认识SLL团队的成员。前两天庄老师在[http://groups.google.com/group/sociallearnlab 社区论坛]里发了一个帖子，说陈堃（[http://www.QienKuen.org QienKuen]）近日在北京、8号回厦门，看谁有时间大家可以聚一下。北京不少成员都积极响应。不能来的和外地的[http://www.zoomquiet.org Zoom.Quiet]、[http://www.wuchangcheng.com 长城]、[http://youbilin.com/ 万清]、[http://edu.80s.net.cn/ 清风]等他们只能不断地提醒大家：“录音！录像！照片！文字！一个都不能少！外地的成员，就依赖这些异步知识储备来同步认识了！”
+
+魏老师（[http://www.haokanbu.com/story/105149/ 教育大发现之北京小聚]）和庄老师（[http://www.haokanbu.com/story/105052/ 陈堃小聚]）对这次聚会都做了生动的记录。这次聚会，用魏老师的话说，“交流围绕着庄老师设计的几个题目有序进行”，尤其是[http://www.haokanbu.com/user/1126/ 都都]很活跃，一会儿“对陈堃的电脑比较感兴趣，上盖贴的花里胡哨的”，一会儿“和妈妈抢镜头，还画性大发，给每人现场作画一副，并签名”，给聚会增添了几分轻松幽默的注脚。不过这么说，怎么也没有[http://www.haokanbu.com/story/105149/ 魏老师]、[http://www.haokanbu.com/story/105052/ 庄老师]的照片和文字好，:)
+
+ 
+
+==邀您同行==
+ 
+教育大发现社区除了邀请的成员以外，
+
+  * 可以自由申请加入（[http://groups.google.com/group/sociallearnlab 欢迎新成员]）。
+  * 访问[http://www.sociallearnlab.org 首页]，可以对我们是谁、在做什么获得一个框架性的了解。 
+  * 如果有一份好奇和耐心，在这儿您能发现感兴趣的[http://sociallearnlab.org/?page_id=20 成员]或者您关注的某些[http://sociallearnlab.org/?page_id=9 项目]。
+  * 通过[http://groups.google.com/group/sociallearnlab 教育大发现论坛]，您可以和我们交流，有什么问题、有什么收获，可以相互分享，知识以互换而广而新，学术以观摩而臻而明。
+  * 成为社区的成员可以参考这儿的一些[http://sociallearnlab.org/?p=255 说明]；
+  * 如果您特别感兴趣，参与我们社区的[http://code.google.com/p/sociallearnlab 研究项目]，每个项目都有如何具体参与的说明。
+  * 小提示：为了提高效率，我们把[http://code.google.com/p/sociallearnlab 研究项目]中的一些词语用英文简写作出了标识，如果你看到一些陌生的词汇，比如SLL，可以参考[http://code.google.com/p/sociallearnlab/wiki/SllDict 社区辞典]。
+
+
+==起步==
 
 在北京奥运会激战正酣的时候，我们[http://www.sociallearnlab.org “教育大发现”]社区成立了。
 
