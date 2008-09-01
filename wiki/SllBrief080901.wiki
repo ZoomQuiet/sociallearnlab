@@ -87,15 +87,15 @@ http://code.google.com/p/sociallearnlab/
 
 == *八月进展* ==
 
-*社区正式启动的项目有两个*
+ * 社区正式启动的项目有两个
 
 　**《Google服务应用手册》(GSH)图书编写
 
 　**基于好看簿之信息技术课程教学改革研究（ITC-Haokanbu）
 
-*构建了社区平台与交流环境，包括项目管理平台配置*
+ * 构建了社区平台与交流环境，包括项目管理平台配置
 
-*沉淀了一些技术使用文档*
+ * 沉淀了一些技术使用文档
 
 　** Googlecode使用介绍 
 
@@ -113,139 +113,53 @@ http://code.google.com/p/sociallearnlab/
 
 　** http://code.google.com/p/sociallearnlab/wiki/UsageEverydo
 
-*社区队伍构建*
+ * 社区队伍构建
 
-*社区进行了第一次小聚*
+ * 社区进行了第一次小聚
 
 参与者有厦门大学陈堃同学、廊坊教育局化学教研室魏国福老师、武健老师、张有宁老师、石峰、余波、庄秀丽和都都。聚会记录放在好看簿活动“北京小聚20080830”：
 
 http://www.haokanbu.com/event/1445/
 
 
-==邀您同行==
- 
-教育大发现社区除了邀请的成员以外，
+== *社区团队* ==
 
-  * 可以自由申请加入（[http://groups.google.com/group/sociallearnlab 欢迎新成员]）。
-  * 访问[http://www.sociallearnlab.org 首页]，可以对我们是谁、在做什么获得一个框架性的了解。 
-  * 如果有一份好奇和耐心，在这儿您能发现感兴趣的[http://sociallearnlab.org/?page_id=20 成员]或者您关注的某些[http://sociallearnlab.org/?page_id=9 项目]。
-  * 通过[http://groups.google.com/group/sociallearnlab 教育大发现论坛]，您可以和我们交流，有什么问题、有什么收获，可以相互分享，知识以互换而广而新，学术以观摩而臻而明。
-  * 成为社区的成员可以参考这儿的一些[http://sociallearnlab.org/?p=255 说明]；
-  * 如果您特别感兴趣，参与我们社区的[http://code.google.com/p/sociallearnlab 研究项目]，每个项目都有如何具体参与的说明。
-  * 小提示：为了提高效率，我们把[http://code.google.com/p/sociallearnlab 研究项目]中的一些词语用英文简写作出了标识，如果你看到一些陌生的词汇，比如SLL，可以参考[http://code.google.com/p/sociallearnlab/wiki/SllDict 社区辞典]。
+社区成员分为普通成员、核心成员、发起人和专家顾问。目前，核心成员与专家顾问都还在邀请过程中。已有的成员如下：
 
+  * 社区发起人　：庄秀丽　张渝江 张有宁 武健 汤富源 余波 吴长城 郑彬彬 王莹 石峰。
 
-==起步==
+  * 社区已经邀请的专家顾问：
 
-在北京奥运会激战正酣的时候，我们[http://www.sociallearnlab.org “教育大发现”]社区成立了。
+　** 邹景平（GoldRed）：“基于好看簿之信息技术课程教学改革研究”项目特聘顾问；
+　** 毛向辉（Isaac Mao）：社区发展与运营顾问；
+　** 陈坤 （QienKuen）：《社会性软件工具应用手册 （大学生版）》Wiki项目特聘顾问；
+　** 周琦（Zoomq，仨儿）：社区项目工程管理与技术顾问；
+　** 魏志慧（Winni）：社区项目研究与学术顾问；
+　** 王晓波：社区项目研究与学术顾问；
+　** 陈少钧：社区技术平台顾问；
+　** 余扬（Danny Yu）：社区社会教育与终身学习专题方向顾问；
+　** 洪波（keso）：社区互联网行业发展顾问；
 
-在庄秀丽老师倡议下，我们共同发起成立了“社会化学习实验室”（_Social Learn Lab_ ），社区的Logo是一个甲骨文的“人”字。【建议：庄老师对这个“人”字多做一点解释就更好了】 
+== *加入社区* ==
 
-（添加社区定位，服务对象。）
+加入社区的方法很简单，访问：
 
-
-（社区平台介绍）
-在各位成员的共同努力下，我们通过WordPress等开源软件搭建起了社区网络平台。目前我们的社区以[http://www.sociallearnlab.org “教育大发现”]为门户站点，他还包括用于社区成果、知识库积累的[http://www.sociallearnlab.org/wiki SocialLearnLab's Wiki]，社区成员讨论的[https://groups.google.com/group/sociallearnlab SocialLearnLab GoogleGroup]和[http://sociallearnlab.org/forum GoogleGroup]SocialLearnLab's BBS],[http://sociallearnlab.org/en/ 社区英文版],以及基于Google Code服务的社区研究项目管理平台http://code.google.com/p/sociallearnlab 。通过这些，构成了目前的社区平台服务。[http://sociallearnlab.org/SLLMap/SLL_CampTools.html 社区资源图谱]会给大家一个对社区更加直观的了解。同时，[http://sociallearnlab.org/?page_id=423 社区日历]也可以让大家对我们的工作有更加清晰深刻的认识。
-
-
-（社区项目，项目发起说明和目前启动的项目）
-我们希望，从我们做起，初期以项目的方式来带动大家的学习、实践及社区的发展。起步选择了以介绍社会化学习工具、引导学生应用真实的Web2.0环境进行学习等项目为基础，具体包括：
-
-  * 项目一：[http://sociallearnlab.org/?page_id=235 《Google服务应用手册》图书编写项目] （Book-GSH） 
-  * 项目二：[http://sociallearnlab.org/?page_id=302 《社会性软件工具应用手册（大学生版）》]图书编辑（Book-Stm4College）
-  * 项目三：[http://sociallearnlab.org/?page_id=236 基于好看簿之信息技术课程教学改革研究]（ITC-Haokanbu）
-
-目前社区的项目研究和管理都在google code上进行，详细链接：http://code.google.com/p/sociallearnlab/
-
-对于图书编辑项目来说，这些图书不仅仅是普通的技术手册，它是更是结合着生动的学习、生活案例的工具与思想的学习手册，我们希望参与者在参与编写图书的过程中除了收获技术的使用之外，更能深入的领会到这些web2.0工具所具有的社会性学习内涵，在社区项目实践中理解、学会社会化学习。目前，两本图书的章节框架设计已经完成，《Google服务应用手册》已经开始Google Reader章节的编写，而庄秀丽老师也为《社会性软件工具应用手册（大学生版）》一书撰写了前言————[http://sociallearnlab.org/?p=16 写给大学生朋友的话]。希望更多的朋友参与进来，我们一同实践体验社会性学习！
-
-《Google服务应用手册》图书编写项目入口：http://code.google.com/p/sociallearnlab/wiki/GSH 
-
-《社会性软件工具应用手册（大学生版）》图书编写项目入口：http://code.google.com/p/sociallearnlab/wiki/Stm4College
-
-随着新学期的开始，与好看簿合作的引导学生应用真实web2.0环境进行学习的研究项目也即将进入开展。欢迎加入[http://groups.google.com/group/itc-haokanbu 课题管理论坛]，同时，我们还建了[http://www.haokanbu.com/group/130/ 好看簿课题小组]，欢迎访问探讨！
-
-
-
-
-
-
-互联网企业是推动学校教育变革的重要动力。我们也希望以这种方式，逐步在web2.0与教育之间能发挥一个桥梁作用，进一步推动两者的结合与发展。
-
-目前各项前期准备工作基本就绪：
-
-  * 项目协作及图书编写的平台已经建立起来，大家逐步熟悉了新平台上的协作；
-  * 介绍社会化学习工具的图书以及Google服务的图书已经开始编写；
-  * 新的学期开始了，与好看簿合作的引导学生应用真实web2.0环境进行学习的研究项目也即将进入开展。
-
-
-
-
-（团队构成）
-教育大发现成员的团队由团队发亲成员，团队核心成员，社区普通成员以及我们邀请的社区专家顾问构成。
-
-团队发起人也是我们目前主要的成员，包括：【大家尝试用一句话介绍自己】
-
-  * 庄秀丽：
-  * 张渝江：
-  * 张有宁：
-  * 武健：
-  * 汤富源：
-  * 余波：
-  * 吴长城：
-  * 郑彬彬：
-  * 王莹：
-  * 石峰：
-
-目前，社区的专家顾问包括：【专家顾问的介绍大家也出出主意】
-
-  * 邹景平（GoldRed）：“基于好看簿之信息技术课程教学改革研究”项目特聘顾问；
-  * 陈坤 （QienKuen）：《社会性软件工具应用手册 （大学生版）》Wiki项目特聘顾问；
-  * 周琦（Zoomq，仨儿）：社区项目工程管理与技术顾问；
-  * 魏志慧（Winni）：社区项目研究与学术顾问；
-  * 王晓波：社区项目研究与学术顾问；
-  * 陈少钧：社区技术平台顾问；
-  * 余扬（Danny Yu）：社区社会教育与终身学习专题方向顾问；
-  * 洪波（keso）：社区互联网行业发展顾问；
-  * 毛向辉（Isaac Mao）：社区发展与运营顾问；
-
-
-
-==邀您同行==
-
-
-“教育大发现”社区发展是以“项目”驱动发展的社区，社区团对核心成员发展，是采用社会化朋友机制来发展，参与成为社区核心成员，请参阅：[http://sociallearnlab.org/?p=255 “核心成员”加盟参考说明]。
-
-另外，你还有多种方式参与到“教育大发现”社区：
-
-访问[http://sociallearnlab.org 首页]，您可以对我们是谁、在做什么获得一个框架性的了解。
-
-加入[http://groups.google.com/group/sociallearnlab 教育大发现论坛]，您可以跟大家一起交流，有什么问题、有什么收获，可以相互分享，知识以互换而广而新，学术以观摩而臻而明。
-
-如果您特别感兴趣，参与我们社区的[http://sociallearnlab.org/?page_id=9 研究项目]，每个项目都有如何具体参与的说明。
-
-其中 http://code.google.com/p/sociallearnlab ，是对具体项目实施的相关管理平台。
-
-共同织网，在网络互联的世界里，你可以通过使用Tag标签 “sociallearnlab” ，来参与“教育大发现”的网络编织。
+http://groups.google.com/group/sociallearnlab 申请加入，介绍自己，越详细越好。
 
 我们期待你的参与、合作、支持。
 
-= 我们同行的收获 =
+== *九月进展* ==
+
+  * 已经启动的两个项目，将会有实质性进展。
+  * 进一步完善项目管理机制建设。
+  * 完善新手上路的帮带学习机制建设。
+  * 初步稳定社区队伍建设。
 
 
-= 简报发行介绍 =
-
-{{{
-社区需要凝聚, 大众需要知晓;
-目标阶段前进, 成果定期汇报!
-}}}
-
-
-
-== 发行管理 ==
- * 发行方式: ?
- * 发行管理: ??
- * 撰写流程: ???
+== 简报发行 ==
+ * 利用GoogleCode进行每期简报管理；
+ * 发行管理:采用专用GoogleGroup论坛进行投递人员管理。
+ * 撰写流程:重要事情随时记录，月末逐步生成简报。
  
 
  
