@@ -1,4 +1,4 @@
-#summary One-sentence summary of this page.
+#summary 教育大发现社区简报（第2期）.
 #labels SllBrief
 
 = Introduction =
