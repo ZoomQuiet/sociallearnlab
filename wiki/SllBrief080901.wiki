@@ -52,8 +52,8 @@ http://sociallearnlab.org/SLLMap/SLL_CampTools.jpg
 http://sociallearnlab.org/?page_id=302
 
 http://code.google.com/p/sociallearnlab/wiki/GSH
- 
-* 《Google服务应用手册》(GSH)图书编写
+
+ * 《Google服务应用手册》(GSH)图书编写
 
 http://sociallearnlab.org/?page_id=235
 
