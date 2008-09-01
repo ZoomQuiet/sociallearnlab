@@ -159,6 +159,7 @@ http://groups.google.com/group/sociallearnlab 申请加入，介绍自己，越�
 == 简报发行 ==
  * 利用GoogleCode进行每期简报管理；
  * 发行管理:采用专用GoogleGroup论坛进行投递人员管理。
+http://groups.google.com/group/sllbrief
  * 撰写流程:重要事情随时记录，月末逐步生成简报。
  
 
