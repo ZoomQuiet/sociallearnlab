@@ -77,7 +77,6 @@
 （社区平台介绍）
 在各位成员的共同努力下，我们通过WordPress等开源软件搭建起了社区网络平台。目前我们的社区以[http://www.sociallearnlab.org “教育大发现”]为门户站点，他还包括用于社区成果、知识库积累的[http://www.sociallearnlab.org/wiki SocialLearnLab's Wiki]，社区成员讨论的[https://groups.google.com/group/sociallearnlab SocialLearnLab GoogleGroup]和[http://sociallearnlab.org/forum GoogleGroup]SocialLearnLab's BBS],[http://sociallearnlab.org/en/ 社区英文版],以及基于Google Code服务的社区研究项目管理平台http://code.google.com/p/sociallearnlab 。通过这些，构成了目前的社区平台服务。[http://sociallearnlab.org/SLLMap/SLL_CampTools.html 社区资源图谱]会给大家一个对社区更加直观的了解。同时，[http://sociallearnlab.org/?page_id=423 社区日历]也可以让大家对我们的工作有更加清晰深刻的认识。
 
-（资源图谱吴长城正在改造中，目前技术上还是有点问题）
 
 （社区项目，项目发起说明和目前启动的项目）
 我们希望，从我们做起，初期以项目的方式来带动大家的学习、实践及社区的发展。起步选择了以介绍社会化学习工具、引导学生应用真实的Web2.0环境进行学习等项目为基础，具体包括：
