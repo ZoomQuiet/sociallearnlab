@@ -48,6 +48,9 @@ http://sociallearnlab.org
 == *社区地图* ==
 
 http://sociallearnlab.org/SLLMap/SLL_CampTools.jpg
+
+
+社区地图地址：http://sociallearnlab.org/SLLMap/SLL_CampTools.html
   
 == *社区项目* ==
 
