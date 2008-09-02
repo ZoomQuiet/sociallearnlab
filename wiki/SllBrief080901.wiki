@@ -98,10 +98,10 @@ http://groups.google.com/group/sociallearnlab-members
 
 == *社区地图* ==
 
-http://sociallearnlab.org/SLLMap/SLL_CampTools.jpg
+http://sociallearnlab.org/SLLMap/SLL_CmapTools.jpg
 
 
-社区地图地址：http://sociallearnlab.org/SLLMap/SLL_CampTools.html
+社区地图地址：http://sociallearnlab.org/SLLMap/SLL_CmapTools.html
   
 == *社区项目* ==
 
