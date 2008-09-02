@@ -62,7 +62,7 @@ http://groups.google.com/group/sociallearnlab
 
 http://groups.google.com/group/sociallearnlab-members
 
-核心成员有30人中：
+核心成员有30人，其中：
 
 在校本科生研究生学生朋友有，李子秋（教育心理学）、熊羽（教育技术）、陶丹（教育技术）、钱薇旭（课程论）、李利娟（思想政治）、白杨（计算机）、上官良雅（海洋科学）、余波（教育技术）、吴长城（教育技术）、郑彬彬（教育技术）、王莹（教育技术）、陈堃（法语）。
 
@@ -74,7 +74,7 @@ http://groups.google.com/group/sociallearnlab-members
 
 关注于新思想新项目孵化方向的朋友有：曲元周。
 
-在这些人中，作为社区发起人的有：庄秀丽　张渝江 张有宁 武健 汤富源 余波 吴长城 郑彬彬 王莹 石峰。
+在这些人中，作为社区发起人的有：庄秀丽、张渝江、张有宁、武健、汤富源、余波、吴长城、郑彬彬、王莹、石峰。
 
 另外社区采用邀请的方式，不断邀请专家作为社区发展顾问，已经邀请的顾问有：
 
@@ -82,7 +82,7 @@ http://groups.google.com/group/sociallearnlab-members
 
 　** 毛向辉（Isaac Mao）：社区发展与运营顾问；
 
-　** 陈堃 （QienKuen）：《社会性软件工具应用手册 （大学生版）》Wiki项目特聘顾问；
+　** 陈坤 （QienKuen）：《社会性软件工具应用手册 （大学生版）》Wiki项目特聘顾问；
 
 　** 周琦（Zoomq，仨儿）：社区项目工程管理与技术顾问；
 
@@ -132,9 +132,9 @@ http://code.google.com/p/sociallearnlab/
 
  * 社区交流　
 
-论坛：设有专用核心成员论坛，采用朋友机制邀请成为核心队员，加入核心成员论坛。另外每个项目，有项目专用论坛。
+有社区核心成员论坛、项目论坛、公共论坛，及IRC频道。核心成员论坛采用朋友机制，邀请成为核心队员，加入核心成员论坛。另外每个项目，有项目专用论坛。
 
-　公设社区论坛：任何人申请都可以参加。
+　社区公共论坛：任何人申请都可以参加。
 
 　**http://groups.google.com/group/sociallearnlab
 
@@ -158,15 +158,15 @@ http://code.google.com/p/sociallearnlab/
 
 　** http://code.google.com/p/sociallearnlab/wiki/UsageGooglecode
 
-　** 版本控制SVN简明介绍图书协同写作工具说明 
+　** 版本控制SVN简明介绍及图书协同写作工具说明 
 
 　** http://code.google.com/p/sociallearnlab/wiki/UsageSVN
 
-　** IRC使用说明即时沟通工具
+　** IRC即时沟通工具使用说明
 
 　** http://code.google.com/p/sociallearnlab/wiki/UsageIRC 
 
-　** Everydo使用说明项
+　** Everydo使用说明
 
 　** http://code.google.com/p/sociallearnlab/wiki/UsageEverydo
 
@@ -206,6 +206,7 @@ http://groups.google.com/group/sociallearnlab
 
 
 == 简报发行 ==
+
  * 利用GoogleCode进行每期简报管理；
  * 发行管理:采用专用GoogleGroup论坛进行投递人员管理。
 http://groups.google.com/group/sllbrief
