@@ -218,12 +218,12 @@ http://groups.google.com/group/sllbrief
 
  * 0.0 seed ~ 种子
 
- ** SllBrief080901 ~ 选种刊 _seed choice_ ^撰写ing^
-  # SllBrief081001 ~ 净种刊 _seed clean_  ^筹备ing^
-  # ~ 育种刊 _seed grow_   ^筹备ing^
-  # ~ 冬藏刊  _seed winter store_  ^筹备ing^
-  # ~ 泡种刊 _seed vesic_  ^筹备ing^
-  # ~ 栽种刊  _seed fall_    ^筹备ing^
+  ** SllBrief080901 ~ 选种刊 _seed choice_ ^撰写ing^
+  **  ~ 净种刊 _seed clean_  ^筹备ing^
+  **  ~ 育种刊 _seed grow_   ^筹备ing^
+  **  ~ 冬藏刊  _seed winter store_  ^筹备ing^
+  ** ~ 泡种刊 _seed vesic_  ^筹备ing^
+  ** ~ 栽种刊  _seed fall_    ^筹备ing^
 
  * 0.1 bud ~ 芽
  * 0.2 grass ~ 草
