@@ -5,6 +5,9 @@
 
     第1期 选种刊
 
+
+
+
   * 社区名字 
   * 社区定位
   * 社区地图
@@ -25,8 +28,8 @@
     http://sociallearnlab.org/pic/logo-b-blue.png
 
  * 我们中文社区名字：教育大发现
- * 我们英文网站名字：SocialLearnLab
- * 我们的实验室名字: 社会化学习实验室（缩写: SLL）
+ * 我们英文网站名字：SocialLearnLab（缩写: SLL）
+ * 我们的实验室名字: 社会化学习实验室
  * 我们的社区标识是甲骨文的“*人* ”字，出自已故甲骨文研究专家董作宾之手，表示“教育大发现”核心是要在网络和教育技术大发展时期，努力去发现每个个体人的创造力。
  * 我们的网站地址是：
 http://sociallearnlab.org
@@ -161,6 +164,24 @@ http://groups.google.com/group/sociallearnlab 申请加入，介绍自己，越�
  * 发行管理:采用专用GoogleGroup论坛进行投递人员管理。
 http://groups.google.com/group/sllbrief
  * 撰写流程:重要事情随时记录，月末逐步生成简报。
+
+== 选种刊 ==
+使用十年树木,百年树人的谚语概念,将不同阶段的社区活动,都和植物进行隐喻:
+ * 0.0 seed ~ 种子
+  # SllBrief080901 ~ 选种刊 _seed choice_ ^撰写ing^
+  # SllBrief081001 ~ 净种刊 _seed clean_  ^筹备ing^
+  # ~ 育种刊 _seed grow_   ^筹备ing^
+  # ~ 冬藏刊  _seed winter store_  ^筹备ing^
+  # ~ 泡种刊 _seed vesic_  ^筹备ing^
+  # ~ 栽种刊  _seed fall_    ^筹备ing^
+ * 0.1 bud ~ 芽
+ * 0.2 grass ~ 草
+ * 0.3 bush ~ 灌木
+ * 0.4 arboret ~ 小树
+ * 0.5 tree ~ 树
+ * 0.6 woods ~ 树林
+ * 0.7 forest ~ 森林
+ * ...
  
 
  
