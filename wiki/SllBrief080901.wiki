@@ -83,7 +83,7 @@ http://code.google.com/p/sociallearnlab/
 
 　IRC频道：
 
-　**http://irc.freenode.net/#sll
+　**irc://irc.freenode.net/#sll
 
 == *八月进展* ==
 
