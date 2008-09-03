@@ -74,10 +74,15 @@
 仨儿,跨越两个组做指导
 
 = 技术组讨论 =
+
 正式会议后，技术组继续讨论，分配写作任务，商议写作体例及交稿时间
+
 1 14号之前把reader完善下。  
+
 2 技术组7人，除仨儿指导，一人两章，时间：9月30号交一章，你任意选你两章中的一章完成。
+
 3 资料：http://sociallearnlab.org/?page_id=235    
+
 4 按照仨儿的说法，书的样板：http://wiki.woodpecker.org.cn/moin/PyCookbook 这是原型，http://wiki.woodpecker.org.cn/moin/ObpLovelyPython/PCS 这是个变形
 
 = 会议详细内容 =
