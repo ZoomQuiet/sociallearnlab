@@ -1,4 +1,3 @@
-#labels Featured
                           http://sociallearnlab.org/pic/logo-b-blue.png
                           =教育大发现图书编写项目=
                        * SocialLearnLab* 缩写: *SLL*
@@ -29,7 +28,7 @@
 
  * [HowtoBuildBookOnLine 如何组织在线图书工程]^源自OBP计划^
  * [BookOnLinePlan 在线编写图书计划]
-  * [UsageDocumentname 图书文件命名规范]
+  * *[UsageDocName 图书维基文件命名规范]*
  * [IssueTags Issue 提案标签详解]
  * [IssueFlow Issue 提案流程概述]  
 
@@ -78,4 +77,6 @@
  * [http://code.google.com/p/sociallearnlab/wiki/UsageEverydo Everydo使用说明]^项目管理工具^
 
 appending...
+
+
 
