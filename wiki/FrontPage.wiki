@@ -1,7 +1,5 @@
-#summary SocialLearnLab介绍.
 #labels Featured
-
-                                                   http://sociallearnlab.org/pic/logo-b-blue.png
+                          http://sociallearnlab.org/pic/logo-b-blue.png
                           =教育大发现图书编写项目=
                        * SocialLearnLab* 缩写: *SLL*
 ==请先了解我们==
@@ -37,17 +35,18 @@
 
 提示：因为空间大小限制（100m），在本项目中请谨慎上传非文本格式的文件，图片尽量使用链接
 
-*图书：
- # 社会性参与式网络中的学与教实践
-  * *[EiSNS]* ~ Education in SNS net
- # Google服务应用
-  * *[GSH]* ~ Google Services Handbook
+*各图书项目介绍及项目入口：
+
+ # 《Google服务应用手册》（GSH）（进行中）
+  * *[GSH]* ~ Google Services Handbook 项目入口
   * [http://sociallearnlab.org/?page_id=235 项目概况]
  # 社会性软件工具应用手册 (大学生版 教师群版 企业员工版)
   * *[STM]* ~ Socialsoftware Tools Manual ( Stm4College Stm4Teacher Stm4Enterprise )
   * [http://sociallearnlab.org/?page_id=302 项目概况]^大学生版^
  # 社会性网络环境下的教学活动实施案例
- * *[SEPL]* ~ Socialnetwork Education Practice Library 
+  * *[SEPL]* ~ Socialnetwork Education Practice Library 
+ # 社会性参与式网络中的学与教实践
+  * *[EiSNS]* ~ Education in SNS net
  
 
 == 项目组织管理方式 ==
@@ -63,7 +62,7 @@
 
   * 知识积累~ [http://sociallearnlab.org/wiki SocialLearnLabWiki]  
 
-  * 实时讨论~ IRC [http://irc.freenode.net/#sll IRC频道#sll]
+  * 实时讨论~ IRC [irc://irc.freenode.net/#sll IRC频道#sll]
 
   * 项目管理~ [http://sociallearnlab.everydo.com Everydo]
 
@@ -79,5 +78,4 @@
  * [http://code.google.com/p/sociallearnlab/wiki/UsageEverydo Everydo使用说明]^项目管理工具^
 
 appending...
-
 
