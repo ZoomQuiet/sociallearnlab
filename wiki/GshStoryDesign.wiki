@@ -5,7 +5,7 @@
 = 《Google服务应用手册》教师故事版 =
 
 设计一个实例故事，将一个中学的教学改革过程叙述出来,将大家的教育思想融解在其中!
-
+ * 思路源自:'''[https://groups.google.com/group/sociallearnlab-members/browse_thread/thread/b6974caf54c2edda 给GSH项目组的建议]'''
 `学校背景可以合理模糊化,就是说出在教育SNS 化的各个阶段 Google 的各种服务的不同组合和使用...`
 
 == 大纲 ==
