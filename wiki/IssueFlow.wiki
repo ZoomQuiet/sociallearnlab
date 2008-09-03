@@ -15,24 +15,20 @@ SEE: *IssueTags* ~ 提案标签详解
 }}}
 
 === 示意 ===
-
 提案生命周期示意
 
 {{{
 0-> 创建, Status=New
-
-1-> 认领, Status=Accepted
-
-2-> 处理, Status=Started
-
-3-> 复审, Status=Accepted 将 Owner 置为要指派给的人
-
-4-> 关闭, Status=Fixed(己修正)
+ 1-> 认领, Status=Accepted
+  2-> 处理, Status=Started
+   3-> 复审, Status=Accepted 将 Owner 置为要指派给的人
+    4-> 关闭, Status=Fixed(己修正)
                 /Invalid(无效的)
                 /Duplicate(重复的)
                 /WontFix (待处理)
 }}}
 
+提案实例:*[http://code.google.com/p/sociallearnlab/issues/detail?id=4 Issue 4: GSH 故事组大纲设计]*
 === 解说 ===
 
 *创建时:*

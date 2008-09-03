@@ -5,6 +5,7 @@ SEE: IssueFlow ~ 提案协同流程
 
 *Issue(提案)作为软件开发项目中的bug 提供了实用的追踪管理服务.*
  * 然而实际上,在利用 code.google 进行图书工程时,图书的撰写/勘误/校对等等任务的提交/指派/认领/流转/关闭的处理也非常类似，特此定制并约定相关标签进行支持: 
+ * 提案实例:*[http://code.google.com/p/sociallearnlab/issues/detail?id=4 Issue 4: GSH 故事组大纲设计]*
 
 == 提案模板 ==
 *非成员用:*
