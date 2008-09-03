@@ -77,3 +77,5 @@ gtk-font-name = “SimSun 9″
 方法二：
 
 下载最新版[http://nchc.dl.sourceforge.net/sourceforge/pidgin/pidgin-2.5.1-no-gtk.exe pidgin-2.5.1-no-gtk.exe]，最好是NO-GTK的，下载[http://nchc.dl.sourceforge.net/sourceforge/pidgin/gtk-runtime-2.12.1-rev-b.exe gtk-runtime-2.12.1-rev-b.exe],分别安装即可。
+
+*关于Pidgin的使用还可以参看魏国福老师在好看簿上的作品————[http://www.haokanbu.com/story/106685 学习使用IRC之Pidgin] 
