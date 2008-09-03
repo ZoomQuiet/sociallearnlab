@@ -12,7 +12,7 @@
  * eg:Google服务应用手册，英文翻译是：Google Services Usage Handbook,可以缩写成：GoogleSerHandbook，或再简化成Gsh，大家都知道后，形成约定俗成的东西，以便在标签等地方进行使用。
  
 *章节文章维基命名规约:*
-
+{{{
 GshZhStory0Index.wiki
  |  |  |  | |    +-- 维基文件后缀 
  |  |  |  | +-- WIkiName 各式的章节名,例: UsageDocsGoogle 使用docs.google 服务
