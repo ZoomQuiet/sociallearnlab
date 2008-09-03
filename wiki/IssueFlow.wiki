@@ -1,22 +1,17 @@
 #summary summary of Usage Issue
 #labels Phase-QA,Phase-Implementation,Phase-Support
 
+SEE: *IssueTags* ~ 提案标签详解
 = Issue流程概述 =
 
 *约定基于 Issue 的图书工程協作*
-
-    * 这是标准的 问题追踪 模式的项目协同方式! 
+ * 这是标准的 问题追踪 模式的项目协同方式! 
 
 === 要点 ===
 
 {{{
-一事一提案, 理由要叙述;
-
-处理先认领, 关闭要复审!
-
-标签选择对, 指派人要明;
-
-提案处理完, 版本得缀清!
+一事一提案, 理由要叙述; 处理先认领, 关闭要复审!
+标签选择对, 指派人要明; 提案处理完, 版本得缀清!
 }}}
 
 === 示意 ===
@@ -71,3 +66,4 @@
     * 流程说明图谱 
 ------------
 转自openbookproject:http://code.google.com/p/openbookproject/wiki/IssueFlow
+
