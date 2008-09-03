@@ -1,0 +1,659 @@
+<HTML>
+<HEAD>
+  <TITLE>SLL_CampTools.html</TITLE>
+  <meta NAME = "GENERATOR"          CONTENT = "IHMC CmapTools v4.18 ">
+  <meta NAME = "KEYWORDS"           CONTENT = "wuchangcheng, 概念图, cmap, CmapTools, IHMC, SLL_CampTools,  论坛,  发现大学项目,  Tearm Introduction,  翻译项目,  图书编写项目,  教育掘客,  教育大发现社区 SocialLearnLab,  Everydo,  好看簿项目,  About,  中文网站,  V.20080901 by.WuChangcheng,  编写,  Googlecode,  GoogleGroup 论坛,  《社会性软件应用手册 （大学生版）》,  http://sociallearnlab.org/en,  好看簿,  资讯,  项目">
+  <meta NAME = "DESCRIPTION"        CONTENT = "此概念图以 IHMC CmapTools 创建, 内含信息有关于: SLL_CampTools, 项目 版本控制 Googlecode, 图书编写项目 包括 《社会性软件应用手册 （大学生版）》, 《社会性软件应用手册 （大学生版）》 参与 编写, http://sociallearnlab.org/ 包括 团队, http://sociallearnlab.org/ 包括 Wiki资源, http://sociallearnlab.org/ 包括 资讯, http://sociallearnlab.org/ 包括 IRC, http://sociallearnlab.org/ 包括 项目, 项目 包括 好看簿项目, http://sociallearnlab.org/ 包括 关于, 团队 资源 专家资源, 《社会性软件应用手册 （大学生版）》 参与 论坛, 项目 项目管理 Everydo, 英文网站 is http://sociallearnlab.org/en, http://sociallearnlab.org/ 包括 GoogleGroup 论坛, 教育大发现社区 SocialLearnLab 主页 英文网站, 项目 非实时交流 GoogleGroup 论坛, http://sociallearnlab.org/en is composed of About, http://sociallearnlab.org/ 包括 好看簿, http://sociallearnlab.org/ 包括 工作简报">
+  <meta NAME = "AUTHOR"             CONTENT = "IHMC CmapTools">
+  <meta HTTP-EQUIV = "Content-Type" CONTENT = "text/html; charset = UTF-8">
+  <script LANGUAGE="JavaScript1.2">
+  <!--
+    //  PopUp --
+    //  Institute for Human and Machine Cognition, http://www.ihmc.us/
+    //  CmapTools, Version 4.15, http://cmap.ihmc.us/
+    //  Modify by: CmapTools Developers, cmapsupport@ihmc.us
+    //  Date: 02/05/2008
+
+    var IE = 0;
+    var IE4PC = 0;
+    var NS = 0;
+    var GECKO = 0;
+
+    var openpopups = new Array();
+
+    if (document.all) {                 // Internet Explorer Detected
+	   IE = true;	
+    }
+    else if (document.layers) {         // Netscape Navigator Detected
+	   NS = true;	
+    }
+    else if (document.getElementById) { // Netscape 6 Detected
+       GECKO = true;
+    }
+    else {
+	   alert("Unrecognized Browser Detected::\nSorry, your browser is not compatible.");
+    }
+
+    if (IE)
+    {
+	   OS = navigator.platform;
+	   VER = new String(navigator.appVersion);
+	   VER = VER.substr (0, VER.indexOf(" "));
+	   if ((VER < 4.8) && (OS == "Win32")) 
+	   {
+	       IE4PC = 1;
+	   }
+    }
+
+    function handleResize() {
+	    location.reload();
+	    return false;
+    }
+
+
+    if ((NS) && (navigator.platform == "MacPPC")) {
+	   window.captureEvents (Event.RESIZE);
+	   window.onresize = handleResize;
+    }
+
+    function openResource(event, resourcePath, resourceName, resourceType)
+    {
+	   var newwindow;
+
+       // Resource MIMETypes are enumerated as follows: 
+       // cMap     = Undefined
+       // Image    = 0
+       // Video    = 1
+       // Text     = 2
+       // Audio    = 3
+
+       popDown();
+
+	   switch (resourceType) 
+	   {
+	    case 0:     //Image
+                    newwindow = window.open (resourcePath,resourceName);
+                    newwindow.onBlur = newwindow.focus()
+                    var text ='<center><img src=\"';
+                    text += resourcePath;
+                    text +='\"> </center>';
+             break;
+		
+	    case 1:  text   // Video
+		     newwindow = window.open (resourcePath,resourceName);
+                     newwindow.onBlur = newwindow.focus()
+                     var text ='<embed src=\"';
+                     text += resourcePath;
+                     text +='\" autostart=true> </embed> ';
+             break;
+
+	    case 2:      // Text or Unknown 
+		     newwindow = window.open(resourcePath,resourceName);
+                     newwindow.onBlur = newwindow.focus()
+              break;
+
+	    case 3:       // Audio
+                    newwindow = window.open (resourcePath,resourceName);
+                    newwindow.onBlur = newwindow.focus()
+                    var text ='<embed src=\"';
+                    text += resourcePath;
+                    text +='\" autoplay=true> </embed> ';
+             break;
+
+	    case 4:
+                    newwindow = window.open(resourcePath,resourceName);
+                    newwindow.onBlur = newwindow.focus()
+	     break;
+	    }
+        return;
+    }
+
+
+
+    function popUpEvt(event, popupName)
+    {
+	popDown();
+
+	if (GECKO)
+	{
+	    document.getElementById(popupName).style.left = event.layerX;
+	    document.getElementById(popupName).style.top = event.layerY;
+	    document.getElementById(popupName).style.background = "#B3B3B3";
+	    document.getElementById(popupName).style.visibility = "visible";
+	    openpopups.push(popupName);
+	}
+	else if (NS) 
+	{
+	    document.layers[popupName].moveTo (event.pageX, event.pageY);
+	    document.layers[popupName].bgColor = "#B3B3B3";
+	    document.layers[popupName].visibility = "show";
+	    openpopups.push(popupName);
+	}
+	else // if (IE)
+	{
+	    window.event.cancelBubble = true;
+	    if (!IE4PC) {
+		document.all[popupName].style.backgroundColor = "#B3B3B3";
+	    }	
+	    document.all[popupName].style.left = window.event.clientX + document.body.scrollLeft;
+	    document.all[popupName].style.top = window.event.clientY + document.body.scrollTop;
+	    document.all[popupName].style.visibility = "visible";
+	    openpopups[openpopups.length] = popupName;
+	}
+	return false;
+    }
+
+    function popDown()
+    {
+	var popupname;
+	
+	for (var i = 0; i < openpopups.length; i++) 
+	{
+	    popupname = new String (openpopups[i]);      
+	    if (GECKO) {
+		document.getElementById(popupname).style.visibility = "hidden";
+	    }
+	    else if (NS) {
+		document.layers[popupname].visibility = "hide";
+	    }
+	    else {
+		document.all[popupname].style.visibility = "hidden";
+	    }
+	}
+	openpopups = new Array();
+	return;
+    }
+
+    function popDownNoGecko() 
+    {
+	var popupname;
+	for (var i = 0; i < openpopups.length; i++) 
+	{
+	    popupname = new String (openpopups[i]);      
+	    if (GECKO) {
+           //  document.getElementById(popupname).style.visibility = "hidden"; 
+	        return;   // erased for test purposes
+	    }  
+	    else if (NS) {
+	        document.layers[popupname].visibility = "hide";
+	    }
+	    else {
+	        document.all[popupname].style.visibility = "hidden";
+	    }
+	}
+	openpopups = new Array();
+        return;
+    }
+  //-->
+  </script>
+</HEAD>
+<BODY bgcolor="#FFFFFF" leftmargin="0" topmargin="0">
+  <noscript>    <table width=90% cellpadding=10>      <tr>	<td bgcolor=ff4444>	  <font color=000000 size=+1 face="helvetica">	    <h1>Warning:</h1>	    <b>JavaScript is turned OFF.  None of the links on this page will work until it is reactivated.	      <p>		<a href="http://cmap.ihmc.us/docs/EnablingJavaScript.html">		  If you need help turning JavaScript On, click here.		</a>	      </p>	    </b>	</td>      </tr>    </table>
+此概念图以 IHMC CmapTools 创建, 内含信息有关于: SLL_CampTools, 项目 版本控制 Googlecode, 图书编写项目 包括 《社会性软件应用手册 （大学生版）》, 《社会性软件应用手册 （大学生版）》 参与 编写, http://sociallearnlab.org/ 包括 团队, http://sociallearnlab.org/ 包括 Wiki资源, http://sociallearnlab.org/ 包括 资讯, http://sociallearnlab.org/ 包括 IRC, http://sociallearnlab.org/ 包括 项目, 项目 包括 好看簿项目, http://sociallearnlab.org/ 包括 关于, 团队 资源 专家资源, 《社会性软件应用手册 （大学生版）》 参与 论坛, 项目 项目管理 Everydo, 英文网站 is http://sociallearnlab.org/en, http://sociallearnlab.org/ 包括 GoogleGroup 论坛, 教育大发现社区 SocialLearnLab 主页 英文网站, 项目 非实时交流 GoogleGroup 论坛, http://sociallearnlab.org/en is composed of About, http://sociallearnlab.org/ 包括 好看簿, http://sociallearnlab.org/ 包括 工作简报
+
+</noscript>
+
+<map name="SLL_CampTools.html">
+  <area shape="rect"
+        href="1219679963866I973523530I4100ItextIhtml"
+        onClick="popUpEvt(event,'1219679963866I973523530I4100ItextIhtml'); return false;"
+        coords="45,162,63,180">
+  <area shape="rect"
+        href="1219681508907I2043679734I5195ItextIhtml"
+        onClick="popUpEvt(event,'1219681508907I2043679734I5195ItextIhtml'); return false;"
+        coords="122,516,140,534">
+  <area shape="rect"
+        href="1219680314810I544028234I4429ItextIhtml"
+        onClick="popUpEvt(event,'1219680314810I544028234I4429ItextIhtml'); return false;"
+        coords="956,133,974,151">
+  <area shape="rect"
+        href="1219679236019I2078614468I3401ItextIhtml"
+        onClick="popUpEvt(event,'1219679236019I2078614468I3401ItextIhtml'); return false;"
+        coords="34,439,52,457">
+  <area shape="rect"
+        href="1219679382269I1578397931I3602ItextIhtml"
+        onClick="popUpEvt(event,'1219679382269I1578397931I3602ItextIhtml'); return false;"
+        coords="619,651,637,669">
+  <area shape="rect"
+        href="1219670628142I272998591I578ItextIhtml"
+        onClick="popUpEvt(event,'1219670628142I272998591I578ItextIhtml'); return false;"
+        coords="577,59,595,77">
+  <area shape="rect"
+        href="1219678700108I724009534I3107ItextIhtml"
+        onClick="popUpEvt(event,'1219678700108I724009534I3107ItextIhtml'); return false;"
+        coords="200,609,218,627">
+  <area shape="rect"
+        href="1219679257830I1790684256I3454ItextIhtml"
+        onClick="popUpEvt(event,'1219679257830I1790684256I3454ItextIhtml'); return false;"
+        coords="42,346,60,364">
+  <area shape="rect"
+        href="1219680426511I498994190I4573ItextIhtml"
+        onClick="popUpEvt(event,'1219680426511I498994190I4573ItextIhtml'); return false;"
+        coords="809,139,827,157">
+  <area shape="rect"
+        href="1219670788182I757339453I840ItextIhtml"
+        onClick="popUpEvt(event,'1219670788182I757339453I840ItextIhtml'); return false;"
+        coords="527,174,545,192">
+  <area shape="rect"
+        href="1219679916588I1250755354I4017ItextIhtml"
+        onClick="popUpEvt(event,'1219679916588I1250755354I4017ItextIhtml'); return false;"
+        coords="210,150,228,168">
+  <area shape="rect"
+        href="1219678766244I431267648I3181ItextIhtml"
+        onClick="popUpEvt(event,'1219678766244I431267648I3181ItextIhtml'); return false;"
+        coords="326,612,344,630">
+  <area shape="rect"
+        href="1219716677097I711245719I1043ItextIhtml"
+        onClick="popUpEvt(event,'1219716677097I711245719I1043ItextIhtml'); return false;"
+        coords="500,649,518,667">
+  <area shape="rect"
+        href="1219679613312I1971176675I3730ItextIhtml"
+        onClick="popUpEvt(event,'1219679613312I1971176675I3730ItextIhtml'); return false;"
+        coords="118,284,136,302">
+  <area shape="rect"
+        href="1219678032018I33580166I2638ItextIhtml"
+        onClick="popUpEvt(event,'1219678032018I33580166I2638ItextIhtml'); return false;"
+        coords="896,265,914,283">
+  <area shape="rect"
+        href="1219681299516I1776894573I4969ItextIhtml"
+        onClick="popUpEvt(event,'1219681299516I1776894573I4969ItextIhtml'); return false;"
+        coords="1022,510,1040,528">
+  <area shape="rect"
+        href="1219678584062I249328300I3038ItextIhtml"
+        onClick="popUpEvt(event,'1219678584062I249328300I3038ItextIhtml'); return false;"
+        coords="576,542,594,560">
+  <area shape="rect"
+        href="1219678554709I193751920I2992ItextIhtml"
+        onClick="popUpEvt(event,'1219678554709I193751920I2992ItextIhtml'); return false;"
+        coords="359,459,377,477">
+  <area shape="rect"
+        href="1219678402951I832725934I2794ItextIhtml"
+        onClick="popUpEvt(event,'1219678402951I832725934I2794ItextIhtml'); return false;"
+        coords="766,508,784,526">
+  <area shape="rect"
+        href="1219671941981I103094653I1089ItextIhtml"
+        onClick="popUpEvt(event,'1219671941981I103094653I1089ItextIhtml'); return false;"
+        coords="663,563,681,581">
+  <area shape="rect"
+        href="1219678485520I1982427409I2915ItextIhtml"
+        onClick="popUpEvt(event,'1219678485520I1982427409I2915ItextIhtml'); return false;"
+        coords="922,512,940,530">
+  <area shape="rect"
+        href="1219678771391I1417114841I3205ItextIhtml"
+        onClick="popUpEvt(event,'1219678771391I1417114841I3205ItextIhtml'); return false;"
+        coords="476,521,494,539">
+  <area shape="rect"
+        href="1219680199745I7660549I4351ItextIhtml"
+        onClick="popUpEvt(event,'1219680199745I7660549I4351ItextIhtml'); return false;"
+        coords="1065,599,1083,617">
+  <area shape="rect"
+        href="1219677851248I49890273I2406ItextIhtml"
+        onClick="popUpEvt(event,'1219677851248I49890273I2406ItextIhtml'); return false;"
+        coords="511,269,529,287">
+  <area shape="rect"
+        href="1219678179991I624664560I2659ItextIhtml"
+        onClick="popUpEvt(event,'1219678179991I624664560I2659ItextIhtml'); return false;"
+        coords="713,524,731,542">
+  <area shape="rect"
+        href="1219680141231I1768266709I4270ItextIhtml"
+        onClick="popUpEvt(event,'1219680141231I1768266709I4270ItextIhtml'); return false;"
+        coords="924,600,942,618">
+  <area shape="rect"
+        href="1219678462146I702654089I2849ItextIhtml"
+        onClick="popUpEvt(event,'1219678462146I702654089I2849ItextIhtml'); return false;"
+        coords="845,525,863,543">
+  <area shape="rect"
+        href="1219671762312I834479220I1006ItextIhtml"
+        onClick="popUpEvt(event,'1219671762312I834479220I1006ItextIhtml'); return false;"
+        coords="651,180,669,198">
+  <area shape="rect"
+        href="1219679663944I237855929I3844ItextIhtml"
+        onClick="popUpEvt(event,'1219679663944I237855929I3844ItextIhtml'); return false;"
+        coords="298,292,316,310">
+  <area shape="rect"
+        href="1219680005646I633956608I4150ItextIhtml"
+        onClick="popUpEvt(event,'1219680005646I633956608I4150ItextIhtml'); return false;"
+        coords="322,152,340,170">
+</map>
+
+<center>
+  <table width=* height=* cellpadding=0 cellspacing=0 border=0>
+    <tr>
+      <td valign=center align=center>
+      <img USEMAP="#SLL_CampTools.html"
+           SRC="SLL_CampTools.jpg"
+           ALIGN=middle
+           BORDER=0
+           onClick=popDown();>
+      </td>    </tr>    <tr>      <td VALIGN=top ALIGN=right>      <table>	<tr>             <td ALIGN=right VALIGN=middle>                 <map NAME="CmapToolsTrademark">                     <area SHAPE="rect"                           href="http://cmap.ihmc.us/"                           onClick="openResource(event,'http://cmap.ihmc.us/', 0, 2); return false;"                           coords="1,1,210,50">                 </map>	<tr>	  <td  ALIGN=right VALIGN=middle>               <img USEMAP="#CmapToolsTrademark"                    SRC="CmapToolsTrademark.gif"                     ALT="IHMC Cmap Tools Trademark" width="210" height="50"                    ALIGN=middle                    BORDER=0>	   </td>	     <td VALIGN=middle>         </td>	</tr>      </table>    </td>  </tr></table></center></body></html>
+<div id="1219679963866I973523530I4100ItextIhtml" style="POSITION: absolute; Z-INDEX: 20; VISIBILITY: hidden; left: 0; top: 0;">
+  <table border=1 cellpadding=1 cellspacing=0 bgcolor="#dddddd">
+    <tr>
+      <td nowrap><font face="Geneva, Arial" size=2>
+      <a href="https://groups.google.com/group/socialsoftwarehandbook-workgroup? "TITLE="《社会性软件应用手册（大学生版）》">
+      Book_Stm4College论坛
+      </a>
+      </td>
+    </tr>
+  </table>
+</div>
+<div id="1219681508907I2043679734I5195ItextIhtml" style="POSITION: absolute; Z-INDEX: 20; VISIBILITY: hidden; left: 0; top: 0;">
+  <table border=1 cellpadding=1 cellspacing=0 bgcolor="#dddddd">
+    <tr>
+      <td nowrap><font face="Geneva, Arial" size=2>
+      <a href="http://www.haokanbu.com/group/134/ "TITLE="发现大学好看簿">
+      发现大学好看簿
+      </a>
+      </td>
+    </tr>
+  </table>
+</div>
+<div id="1219680314810I544028234I4429ItextIhtml" style="POSITION: absolute; Z-INDEX: 20; VISIBILITY: hidden; left: 0; top: 0;">
+  <table border=1 cellpadding=1 cellspacing=0 bgcolor="#dddddd">
+    <tr>
+      <td nowrap><font face="Geneva, Arial" size=2>
+      <a href="http://sociallearnlab.org/en/?page_id=6 "TITLE="tearm introduction">
+      tearm introduction
+      </a>
+      </td>
+    </tr>
+  </table>
+</div>
+<div id="1219679236019I2078614468I3401ItextIhtml" style="POSITION: absolute; Z-INDEX: 20; VISIBILITY: hidden; left: 0; top: 0;">
+  <table border=1 cellpadding=1 cellspacing=0 bgcolor="#dddddd">
+    <tr>
+      <td nowrap><font face="Geneva, Arial" size=2>
+      <a href="http://sociallearnlab.org/?cat=7 "TITLE="翻译项目">
+      翻译项目
+      </a>
+      </td>
+    </tr>
+  </table>
+</div>
+<div id="1219679382269I1578397931I3602ItextIhtml" style="POSITION: absolute; Z-INDEX: 20; VISIBILITY: hidden; left: 0; top: 0;">
+  <table border=1 cellpadding=1 cellspacing=0 bgcolor="#dddddd">
+    <tr>
+      <td nowrap><font face="Geneva, Arial" size=2>
+      <a href="http://www.edudig.net/ "TITLE="教育掘客">
+      教育掘客
+      </a>
+      </td>
+    </tr>
+  </table>
+</div>
+<div id="1219670628142I272998591I578ItextIhtml" style="POSITION: absolute; Z-INDEX: 20; VISIBILITY: hidden; left: 0; top: 0;">
+  <table border=1 cellpadding=1 cellspacing=0 bgcolor="#dddddd">
+    <tr>
+      <td nowrap><font face="Geneva, Arial" size=2>
+      <a href="http://sociallearnlab.org/ "TITLE="教育大发现网站">
+      “教育大发现”（Sociallearnlab）社区门户网站
+      </a>
+      </td>
+    </tr>
+  </table>
+</div>
+<div id="1219678700108I724009534I3107ItextIhtml" style="POSITION: absolute; Z-INDEX: 20; VISIBILITY: hidden; left: 0; top: 0;">
+  <table border=1 cellpadding=1 cellspacing=0 bgcolor="#dddddd">
+    <tr>
+      <td nowrap><font face="Geneva, Arial" size=2>
+      <a href="http://sociallearnlab.everydo.com "TITLE="Everydo实现项目管理">
+      Everydo实现项目管理
+      </a>
+      </td>
+    </tr>
+  </table>
+</div>
+<div id="1219679257830I1790684256I3454ItextIhtml" style="POSITION: absolute; Z-INDEX: 20; VISIBILITY: hidden; left: 0; top: 0;">
+  <table border=1 cellpadding=1 cellspacing=0 bgcolor="#dddddd">
+    <tr>
+      <td nowrap><font face="Geneva, Arial" size=2>
+      <a href="http://www.haokanbu.com/group/130/ "TITLE="基于好看簿之信息技术课程教学改革研究">
+      ITC_Haokanbu基于好看簿之信息技术课程教学改革研究
+      </a>
+      </td>
+    </tr>
+  </table>
+</div>
+<div id="1219680426511I498994190I4573ItextIhtml" style="POSITION: absolute; Z-INDEX: 20; VISIBILITY: hidden; left: 0; top: 0;">
+  <table border=1 cellpadding=1 cellspacing=0 bgcolor="#dddddd">
+    <tr>
+      <td nowrap><font face="Geneva, Arial" size=2>
+      <a href="http://sociallearnlab.org/en/?page_id=2 "TITLE="About Us">
+      About Us
+      </a>
+      </td>
+    </tr>
+  </table>
+</div>
+<div id="1219670788182I757339453I840ItextIhtml" style="POSITION: absolute; Z-INDEX: 20; VISIBILITY: hidden; left: 0; top: 0;">
+  <table border=1 cellpadding=1 cellspacing=0 bgcolor="#dddddd">
+    <tr>
+      <td nowrap><font face="Geneva, Arial" size=2>
+      <a href="http://sociallearnlab.org/ "TITLE="教育大发现网站">
+      教育大发现中文网站
+      </a>
+      </td>
+    </tr>
+  </table>
+</div>
+<div id="1219679916588I1250755354I4017ItextIhtml" style="POSITION: absolute; Z-INDEX: 20; VISIBILITY: hidden; left: 0; top: 0;">
+  <table border=1 cellpadding=1 cellspacing=0 bgcolor="#dddddd">
+    <tr>
+      <td nowrap><font face="Geneva, Arial" size=2>
+      <a href="http://code.google.com/p/sociallearnlab/w/list "TITLE="图书编写空间">
+      图书编写空间
+      </a>
+      </td>
+    </tr>
+  </table>
+</div>
+<div id="1219678766244I431267648I3181ItextIhtml" style="POSITION: absolute; Z-INDEX: 20; VISIBILITY: hidden; left: 0; top: 0;">
+  <table border=1 cellpadding=1 cellspacing=0 bgcolor="#dddddd">
+    <tr>
+      <td nowrap><font face="Geneva, Arial" size=2>
+      <a href="http://code.google.com/p/sociallearnlab/ "TITLE="GoogleCode+SVN实现版本控制及管理">
+      GoogleCode+SVN实现版本控制及管理
+      </a>
+      </td>
+    </tr>
+  </table>
+</div>
+<div id="1219716677097I711245719I1043ItextIhtml" style="POSITION: absolute; Z-INDEX: 20; VISIBILITY: hidden; left: 0; top: 0;">
+  <table border=1 cellpadding=1 cellspacing=0 bgcolor="#dddddd">
+    <tr>
+      <td nowrap><font face="Geneva, Arial" size=2>
+      <a href="https://groups.google.com/group/sociallearnlab "TITLE="GoogleGroup论坛">
+      GoogleGroup论坛
+      </a>
+      </td>
+    </tr>
+  </table>
+</div>
+<div id="1219679613312I1971176675I3730ItextIhtml" style="POSITION: absolute; Z-INDEX: 20; VISIBILITY: hidden; left: 0; top: 0;">
+  <table border=1 cellpadding=1 cellspacing=0 bgcolor="#dddddd">
+    <tr>
+      <td nowrap><font face="Geneva, Arial" size=2>
+      <a href="http://sociallearnlab.org/?page_id=302 "TITLE="《社会性软件工具应用手册（大学生版）》">
+      Book_Stm4College
+      </a>
+      </td>
+    </tr>
+  </table>
+</div>
+<div id="1219678032018I33580166I2638ItextIhtml" style="POSITION: absolute; Z-INDEX: 20; VISIBILITY: hidden; left: 0; top: 0;">
+  <table border=1 cellpadding=1 cellspacing=0 bgcolor="#dddddd">
+    <tr>
+      <td nowrap><font face="Geneva, Arial" size=2>
+      <a href="http://sociallearnlab.org/en/ "TITLE="Sociallearnlab英文版">
+      教育大发现英文网站
+      </a>
+      </td>
+    </tr>
+  </table>
+</div>
+<div id="1219681299516I1776894573I4969ItextIhtml" style="POSITION: absolute; Z-INDEX: 20; VISIBILITY: hidden; left: 0; top: 0;">
+  <table border=1 cellpadding=1 cellspacing=0 bgcolor="#dddddd">
+    <tr>
+      <td nowrap><font face="Geneva, Arial" size=2>
+      <a href="http://www.haokanbu.com/group/88/ "TITLE="好看簿">
+      教育大发现社区好看簿
+      </a>
+      </td>
+    </tr>
+  </table>
+</div>
+<div id="1219678584062I249328300I3038ItextIhtml" style="POSITION: absolute; Z-INDEX: 20; VISIBILITY: hidden; left: 0; top: 0;">
+  <table border=1 cellpadding=1 cellspacing=0 bgcolor="#dddddd">
+    <tr>
+      <td nowrap><font face="Geneva, Arial" size=2>
+      <a href="http://sociallearnlab.org/?cat=3 "TITLE="教育大发现资讯">
+      教育大发现资讯
+      </a>
+      </td>
+    </tr>
+  </table>
+</div>
+<div id="1219678554709I193751920I2992ItextIhtml" style="POSITION: absolute; Z-INDEX: 20; VISIBILITY: hidden; left: 0; top: 0;">
+  <table border=1 cellpadding=1 cellspacing=0 bgcolor="#dddddd">
+    <tr>
+      <td nowrap><font face="Geneva, Arial" size=2>
+      <a href="http://sociallearnlab.org/?page_id=9 "TITLE="教育大发现社区项目">
+      教育大发现社区项目
+      </a>
+      </td>
+    </tr>
+  </table>
+</div>
+<div id="1219678402951I832725934I2794ItextIhtml" style="POSITION: absolute; Z-INDEX: 20; VISIBILITY: hidden; left: 0; top: 0;">
+  <table border=1 cellpadding=1 cellspacing=0 bgcolor="#dddddd">
+    <tr>
+      <td nowrap><font face="Geneva, Arial" size=2>
+      <a href="http://sociallearnlab.org/forum "TITLE="教育大发现BBS">
+      教育大发现BBS
+      </a>
+      </td>
+    </tr>
+  </table>
+</div>
+<div id="1219671941981I103094653I1089ItextIhtml" style="POSITION: absolute; Z-INDEX: 20; VISIBILITY: hidden; left: 0; top: 0;">
+  <table border=1 cellpadding=1 cellspacing=0 bgcolor="#dddddd">
+    <tr>
+      <td nowrap><font face="Geneva, Arial" size=2>
+      <a href="http://sociallearnlab.org/wiki "TITLE="Wiki资源">
+      Wiki资源
+      </a>
+      </td>
+    </tr>
+  </table>
+</div>
+<div id="1219678485520I1982427409I2915ItextIhtml" style="POSITION: absolute; Z-INDEX: 20; VISIBILITY: hidden; left: 0; top: 0;">
+  <table border=1 cellpadding=1 cellspacing=0 bgcolor="#dddddd">
+    <tr>
+      <td nowrap><font face="Geneva, Arial" size=2>
+      <a href="http://sociallearnlab.org/?page_id=20 "TITLE="教育大发现团队">
+      教育大发现团队
+      </a>
+      </td>
+    </tr>
+  </table>
+</div>
+<div id="1219678771391I1417114841I3205ItextIhtml" style="POSITION: absolute; Z-INDEX: 20; VISIBILITY: hidden; left: 0; top: 0;">
+  <table border=1 cellpadding=1 cellspacing=0 bgcolor="#dddddd">
+    <tr>
+      <td nowrap><font face="Geneva, Arial" size=2>
+      <a href="http://irc.freenode.net/#sll "TITLE="实时交流IRC">
+      实时交流IRC
+      </a>
+      </td>
+    </tr>
+  </table>
+</div>
+<div id="1219680199745I7660549I4351ItextIhtml" style="POSITION: absolute; Z-INDEX: 20; VISIBILITY: hidden; left: 0; top: 0;">
+  <table border=1 cellpadding=1 cellspacing=0 bgcolor="#dddddd">
+    <tr>
+      <td nowrap><font face="Geneva, Arial" size=2>
+      <a href="http://sociallearnlab.org/?page_id=257 "TITLE="专家资源学习">
+      专家资源学习
+      </a>
+      </td>
+    </tr>
+  </table>
+</div>
+<div id="1219677851248I49890273I2406ItextIhtml" style="POSITION: absolute; Z-INDEX: 20; VISIBILITY: hidden; left: 0; top: 0;">
+  <table border=1 cellpadding=1 cellspacing=0 bgcolor="#dddddd">
+    <tr>
+      <td nowrap><font face="Geneva, Arial" size=2>
+      <a href="http://sociallearnlab.org/ "TITLE="教育大发现网站">
+      教育大发现中文网站
+      </a>
+      </td>
+    </tr>
+  </table>
+</div>
+<div id="1219678179991I624664560I2659ItextIhtml" style="POSITION: absolute; Z-INDEX: 20; VISIBILITY: hidden; left: 0; top: 0;">
+  <table border=1 cellpadding=1 cellspacing=0 bgcolor="#dddddd">
+    <tr>
+      <td nowrap><font face="Geneva, Arial" size=2>
+      <a href="http://sociallearnlab.org/?page_id=3 "TITLE="关于教育大发现">
+      关于教育大发现
+      </a>
+      </td>
+    </tr>
+  </table>
+</div>
+<div id="1219680141231I1768266709I4270ItextIhtml" style="POSITION: absolute; Z-INDEX: 20; VISIBILITY: hidden; left: 0; top: 0;">
+  <table border=1 cellpadding=1 cellspacing=0 bgcolor="#dddddd">
+    <tr>
+      <td nowrap><font face="Geneva, Arial" size=2>
+      <a href="http://sociallearnlab.org/?page_id=293 "TITLE="团队成员Blog汇集">
+      团队成员Blog
+      </a>
+      </td>
+    </tr>
+  </table>
+</div>
+<div id="1219678462146I702654089I2849ItextIhtml" style="POSITION: absolute; Z-INDEX: 20; VISIBILITY: hidden; left: 0; top: 0;">
+  <table border=1 cellpadding=1 cellspacing=0 bgcolor="#dddddd">
+    <tr>
+      <td nowrap><font face="Geneva, Arial" size=2>
+      <a href="http://sociallearnlab.org/?page_id=67 "TITLE="教育大发现工作简报">
+      教育大发现工作简报
+      </a>
+      </td>
+    </tr>
+  </table>
+</div>
+<div id="1219671762312I834479220I1006ItextIhtml" style="POSITION: absolute; Z-INDEX: 20; VISIBILITY: hidden; left: 0; top: 0;">
+  <table border=1 cellpadding=1 cellspacing=0 bgcolor="#dddddd">
+    <tr>
+      <td nowrap><font face="Geneva, Arial" size=2>
+      <a href="http://sociallearnlab.org/en/ "TITLE="Sociallearnlab英文版">
+      Sociallearnlab英文版
+      </a>
+      </td>
+    </tr>
+  </table>
+</div>
+<div id="1219679663944I237855929I3844ItextIhtml" style="POSITION: absolute; Z-INDEX: 20; VISIBILITY: hidden; left: 0; top: 0;">
+  <table border=1 cellpadding=1 cellspacing=0 bgcolor="#dddddd">
+    <tr>
+      <td nowrap><font face="Geneva, Arial" size=2>
+      <a href="http://sociallearnlab.org/?page_id=235 "TITLE="《Google服务应用手册》">
+      《Google服务应用手册》
+      </a>
+      </td>
+    </tr>
+  </table>
+</div>
+<div id="1219680005646I633956608I4150ItextIhtml" style="POSITION: absolute; Z-INDEX: 20; VISIBILITY: hidden; left: 0; top: 0;">
+  <table border=1 cellpadding=1 cellspacing=0 bgcolor="#dddddd">
+    <tr>
+      <td nowrap><font face="Geneva, Arial" size=2>
+      <a href="https://groups.google.com/group/google360 "TITLE="google图书编写项目_GSH">
+      google图书编写项目_GSH_google360
+      </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
