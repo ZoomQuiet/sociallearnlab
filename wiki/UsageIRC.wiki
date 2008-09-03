@@ -29,6 +29,8 @@
 
 打开“Tool"菜单下的”Preferences“选项卡面版，点开“Sounds"选项卡，在最下方将”Others talk in chat“勾上，这样你就能听到频道中的信息提示音了。 
 
+最后感谢ZoomQuiet，我照着他的程序来写的。
+
 ==== 图片怎么办？ ====
 
 很遗憾，IRC不能像QQ,MSN以及其他很多的IM那样直接传递图片，在讨论问题时，一张图片却能替很多的文字说明。下面给大家一个解决办法，那就是使用Ubuntu提供的Paste页面来临时性的发送我们所需传送的图片：
@@ -42,4 +44,36 @@
 
 其他人就可以通过别人提供给你的网址，在浏览器中打开即可。
 
-最后感谢ZoomQuiet，我照着他的程序来写的。
+
+==== pidgin 界面中文乱码解决 ====
+
+（选自http://blog.chinaunix.net/u/29318/showart_499723.html）
+
+因为Pidgin所基于的 GTK 跟 Windows 本身的字体显示子系统是完全不沾边的，所以装上以后无法显示中文，人名显示出来的全是乱码。解决办法是分两步：
+
+1.C:\Program Files\Common Files\GTK\2.0\etc\gtk-2.0\gtkrc 把里面的
+
+{{{
+gtk-font-name = “sans 8″
+}}}
+改为
+
+{{{
+gtk-font-name = “SimSun 9″
+}}}
+
+2.然后运行 C:\Program Files\Common Files\GTK\2.0\bin\gtkthemeselector.exe ，并选择任何一个非 MS-Windows 的主题。最后，重新运行 Pidgin 就可以了。
+
+第二步是关键，不修改主题中文依旧是乱码
+
+==== QQ所有信息显示为NULL，解决 ==== 
+
+方法一：
+
+我使用的是Pidgin2.4.0版的，只要安装前一版本的gtk+ （我使用的版本为gtk+ 2.12.1 rev_b）包即可。
+
+但仍有部分群的名称显示为NULL（不影响使用）
+
+方法二：
+
+下载最新版[http://nchc.dl.sourceforge.net/sourceforge/pidgin/pidgin-2.5.1-no-gtk.exe pidgin-2.5.1-no-gtk.exe]，最好是NO-GTK的，下载[http://nchc.dl.sourceforge.net/sourceforge/pidgin/gtk-runtime-2.12.1-rev-b.exe gtk-runtime-2.12.1-rev-b.exe],分别安装即可。
