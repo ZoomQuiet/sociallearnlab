@@ -2,12 +2,16 @@
 #labels GSH,Log
 = 项目记录 =
 
-Add your content here.
+08年9月3日21：00～22：00 GSH项目组召开了IRC会议，做出如下决议
 
+（0）书籍编写分为技术内容和故事情境内容两大类
 
-= Details =
+（1）技术和故事独立进行
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+（2）技术，故事，自身都可以作为独立成果
+
+（3）技术+故事 整合，出现教师版，大学生版，研究生版，企业员工版等
+
+（4）先出教师版（book）
+
+详细内容: [GshIrc080903 ]
