@@ -1,4 +1,4 @@
-#labels Featured
+#labels book,GSH
 #Google Services Handbook Proj. StorySchedule
 
 = Introduction =
