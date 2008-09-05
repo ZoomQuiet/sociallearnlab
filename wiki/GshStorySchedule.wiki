@@ -1,5 +1,5 @@
-#labels book,GSH
-#Google Services Handbook Proj. StorySchedule
+#summary Google Services Handbook Proj. StorySchedule.
+#labels book,GSH,define
 
 = Introduction =
 
