@@ -1,0 +1,24 @@
+#summary Google Services Handbook Proj. TEAM info.
+#labels Book,GSH,Define
+
+返回:[GSH] ~ 图书工程首页
+= 《Google服务应用手册》撰写团队 =
+[http://code.google.com/p/sociallearnlab/issues/detail?id=5 Issue 5]~ GSH故事组团队定义
+
+SEE:
+ * GshStoryDesign ~ 情节设定,,,
+ * GshStoryIndex ~ GSH故事版 章节入口索引(包含章节内容范围设定)
+ * GshStorySchedule ~ GSH故事组 进度报表
+
+
+== 团队组织 ==
+
+== 成员信息 ==
+
+
+
+= Discuss =
+
+  
+
+= TODO =
