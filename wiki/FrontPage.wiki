@@ -1,5 +1,5 @@
                           http://sociallearnlab.org/pic/logo-b-blue.png
-                          =教育大发现图书编写项目=
+                          =教育大发现图书、科研项目平台=
                        * SocialLearnLab* 缩写: *SLL*
 ==请先了解我们==
 ----
@@ -19,6 +19,12 @@
   * [SllRole] ~ SLL 角色
  * [SllFlows]~ SLL 工作流程
  * [SllRules] ~ SLL 规章
+
+== 科研项目 ==
+----
+基于好看簿之社会化教学活动设计研究（ITC－Haokanbu）
+  * *[ItcHaokanbu]* ~ ITC－Haokanbu 项目入口
+
 
 == 图书项目 ==
 ----
@@ -77,6 +83,4 @@
  * [http://code.google.com/p/sociallearnlab/wiki/UsageEverydo Everydo使用说明]^项目管理工具^
 
 appending...
-
-
 
