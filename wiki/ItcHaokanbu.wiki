@@ -1,4 +1,6 @@
-#summary ItcHaokanbu
+#summary ItcHaokanbu Proj.
+#labels Research,ItcHaokanbu
+
 
 = Introduction =
 
