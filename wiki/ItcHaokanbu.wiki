@@ -7,7 +7,23 @@
 基于好看簿之社会化教学活动设计研究(实施提纲) ，http://www.haokanbu.com/story/108343/
 
 
-= Details =
+= 启动热身阶段活动 =
+
+== 相识热身 ==
+
+ * ITC-Haokanbu“我和我的学生及我们的学校”，http://www.haokanbu.com/event/1263/
+		
+ * 教育大发现: 认识我，从这里开始……，http://www.haokanbu.com/event/1471/
+
+状态：进展中...
+
+== 案例研讨与相互激发 ==
+
+状态：未展开。
+
+= 项目实施日志 =
+
+http://code.google.com/p/sociallearnlab/wiki/ItcHaokanbuLog 
 
 Add your content here.  Format your content with:
   * Text in *bold* or _italic_
