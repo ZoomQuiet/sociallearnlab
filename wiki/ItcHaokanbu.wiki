@@ -4,8 +4,11 @@
 
 = 项目介绍与实施纲要 =
 
-基于好看簿之社会化教学活动设计研究(实施提纲) ，http://www.haokanbu.com/story/108343/
+基于好看簿之社会化教学活动设计研究(实施提纲) ，
+http://www.haokanbu.com/story/108343/
 
+项目工程管理平台，
+http://sociallearnlab.everydo.com/projects/126577
 
 = 启动热身阶段活动 =
 
