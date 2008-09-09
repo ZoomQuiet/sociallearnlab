@@ -1,0 +1,38 @@
+#summary GSH技术组编写设计
+#labels GSH,Book,Phase-Design
+
+= 《Google服务应用手册》技术版 =
+
+
+= 参与人员及分工 =
+（不分先后）
+ * 石峰：Gmail，Docs
+ * 吴长城：Calendar，Group
+ * 余波：Notebook，earth
+ * 上官：picassa，map
+ * 王万清老师：Igoogle，Reader
+ * 李新宇老师：Book, Apps
+
+ * 指导：仨儿
+
+共完成12章，剩下的Others和Intergrate大家一起来吧！
+
+= 时间安排 =
+
+时间：9月30号交一章，每人任意选两章中的一章完成
+
+11月初，两章内容完成，
+
+= 样式 = 
+
+目前基本统一样式，14号之前把reader完善下。
+
+仨儿提供的书的样板：
+ * 样板原型 http://wiki.woodpecker.org.cn/moin/PyCookbook 
+ * 样板变形 http://wiki.woodpecker.org.cn/moin/ObpLovelyPython/PCS
+
+叙述统一： 就是从使用的角度,将一个服务的"领域问题/基本使用/高级使用/引申讨论/小技巧的说明就好 “这个算是万能公式“
+
+= 参考资料 = 
+
+大家写的过程中不断往里补充：http://sociallearnlab.org/?page_id=235
