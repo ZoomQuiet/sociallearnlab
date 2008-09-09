@@ -1,7 +1,6 @@
-#summary 庄秀丽（xiuli.zhuang）
+#summary 庄秀丽 xiulizhuang.
 #labels Member,xiulizhuang
 
-#庄秀丽（xiuli.zhuang）
 
 = 过程思考与记录 =
 
