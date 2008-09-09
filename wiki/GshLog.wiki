@@ -2,7 +2,8 @@
 #labels GSH,Log
 = 项目记录 =
 
-08年9月3日21：00～22：00 GSH项目组召开了IRC会议，做出如下决议
+= 08年9月3日 = 
+21：00～22：00 GSH项目组召开了IRC会议，做出如下决议 
 
 （0）书籍编写分为技术内容和故事情境内容两大类
 
@@ -15,3 +16,7 @@
 （4）先出教师版（book）
 
 详细内容: 080903IRC会议记录——GSH项目 [GshIrc080903]
+
+= 08年9月8日 = 
+
+技术组[https://groups.google.com/group/sociallearnlab-members/browse_thread/thread/7204e729679ebe57/a979f2bf840deda6?lnk=gst&q=%E5%85%B3%E4%BA%8Egoogle%E5%B7%A5%E5%85%B7%E4%B8%AD%E8%8B%B1%E6%96%87%E7%89%88%E6%9C%AC%E5%B7%AE%E5%BC%82+#a979f2bf840deda6 讨论]决定编写技术手册时，google工具版本选择以中文为主，英文为辅 
