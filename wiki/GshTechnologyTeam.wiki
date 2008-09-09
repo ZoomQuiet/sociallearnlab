@@ -3,6 +3,22 @@
 
 = 《Google服务应用手册》技术版 =
 
+== 章节索引 ==
+
+ # GshTechnologyGmail 
+ # GshTechnologyNotebook
+ # GshTechnologyPicasa
+ # GshTechnologyGroups
+ # GshTechnologyiGoogle
+ # GshTechnologyDoc
+ # GshTechnologyBook
+ # GshTechnologyCalendar
+ # GshTechnologyReader
+ # GshTechnologyEarth
+ # GshTechnologyMap
+ # GshTechnologyApps
+ # GshTechnologyOthers
+ # GshTechnologyIntergrate
 
 == 参与人员及分工 ==
 （不分先后）
@@ -33,6 +49,10 @@
 
 叙述统一： 就是从使用的角度,将一个服务的"领域问题/基本使用/高级使用/引申讨论/小技巧的说明就好 “这个算是万能公式“
 
+== Tips ==
+
+有问题通过论坛或者IRC讨论，学会使用Issue，尽量在协作中发掘、完善项目操作管理方法，写作不是唯一目的！
+
 == 参考资料 ==
 
-大家写的过程中不断往里补充：http://sociallearnlab.org/?page_id=235
+大家写的过程中不断往里补充：[http://sociallearnlab.org/?page_id=235]
