@@ -11,7 +11,7 @@
 
   * （3）注册gmail邮箱，注册地址：http://gmail.google.com/ ，相关参考，请访问，大家都来体验Gmail and Gtalk，写下你的试用感受！http://www.haokanbu.com/group/130/topic/1644/
 
-== 20080909 ==
+= 20080909 =
 
 （1）对项目中里程碑任务、每个阶段的任务列表等等，采用everydo管理，
 
