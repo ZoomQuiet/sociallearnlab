@@ -17,7 +17,7 @@
 
 （1）对项目中里程碑任务、每个阶段的任务列表等等，采用everydo管理，
 
-http://sociallearnlab.everydo.com/projects/126577，
+http://sociallearnlab.everydo.com/projects/126577
 
 这样做的好处，整个项目全貌在心中，不会乱。从而有利于把精力投入到关键任务实施的质量提升上。
 
