@@ -26,7 +26,9 @@ http://sociallearnlab.everydo.com/projects/126577
 
 = 项目实施日志 =
 
-http://code.google.com/p/sociallearnlab/wiki/ItcHaokanbuLog 
+项目进展总日志：http://code.google.com/p/sociallearnlab/wiki/ItcHaokanbuLog 
+
+晓晓老师的项目实施日志：http://code.google.com/p/sociallearnlab/wiki/ItcHaokanbuXiexianxiao
 
 
 = 项目实施中沟通机制 =
