@@ -1,6 +1,10 @@
 #summary ItcHaokanbu Proj.
 #labels Research,ItcHaokanbu
 
+[ItcHaokanbuLog]  
+
+[ItcHaokanbuXiexianxiao]
+
 
 = 项目介绍与实施纲要 =
 
