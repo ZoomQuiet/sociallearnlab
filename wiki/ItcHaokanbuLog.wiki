@@ -49,9 +49,7 @@ http://sociallearnlab.org/blog/?p=312
 
 （2）晓晓在实践中，取得比较大的进展，她开始把自己在实践中体会到东西转化为问题，到http://groups.google.com/group/itc-haokanbu 发帖进行教学研讨了。
 
-（3）我跟亚玲在GTalk上进行了沟通。她对技术探索很有自己的经验。
-
-（４）我尝试给晓晓建立一个用于日常数据备份与资料整理的课题研究页面。
+（３）我尝试给晓晓建立一个用于日常数据备份与资料整理的课题研究页面。
 http://code.google.com/p/sociallearnlab/wiki/ItcHaokanbuXiexianxiao　
 这样可以把有关项目数据收集整理工作做在日常，而不是等到课题结束时，花很多时间去整理。
 
