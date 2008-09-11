@@ -1,6 +1,8 @@
 #summary Itc-Haokanbu 项目实施记录.
 #labels Research,ItcHaokanbu
 
+返回项目首页［ItcHaokanbu］
+
 = 20080908 =
 
 发布启动热身阶段任务公告：http://www.haokanbu.com/group/130/topic/1666/
