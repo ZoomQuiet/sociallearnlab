@@ -74,5 +74,4 @@
  * 一定要有合同，有社区背景中，出版社对署名的理解是不同的，一定要事先沟通好，否则，会有解释不清的麻烦，对社区贡献也是个隐患
  * 签定合同时,一定要有法人资格的社区出面来交涉,出版社会比较重视...
 -----------------
-转载:*OBP* ~ Open Book Project：*http://code.google.com/p/openbookproject/wiki/HowToBuildBookOnline*
-
+转载:*OBP* ~ Open Book Project：http://code.google.com/p/openbookproject/wiki/HowToBuildBookOnline
