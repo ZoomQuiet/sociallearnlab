@@ -1,0 +1,14 @@
+#summary 个人知识管理工具与方法（大学生版） 课程教学 庄秀丽 PKM.
+#labels PKM,大学生,庄秀丽
+
+= Introduction =
+
+Add your content here.
+
+
+= Details =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
