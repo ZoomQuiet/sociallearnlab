@@ -2,17 +2,19 @@
 #labels Research,ItcHaokanbu,ItcHkbBreif
 
 
-  * 简报目的 
   * 项目准备阶段工作
    * 项目名称
    * 发布项目实施提纲
    * 建立项目实施交流网络平台
+  * 相识热身的任务列表
+  * 实施进展概述
+  * 小学组具体进展
+  * 中学组具体进展
+  * 附录
+   * 谢贤晓
+   * 黄利锋
+   * 武健 姜爱民
 
-*简报目的*
-
-  * 对项目实施按周进行小结。
-
-  * 帮助大家之间沟通信息。
 
 = 项目准备阶段工作 =
 
@@ -40,11 +42,13 @@
   * 好看教研邮件列表：http://groups.google.com/group/itc-haokanbu
 
   * 好看教研项目数据整理：http://code.google.com/p/sociallearnlab/wiki/ItcHaokanbu
-发布启动热身阶段任务公告：http://www.haokanbu.com/group/130/topic/1666/
+
 
 = 相识热身的任务列表 =
 
 注：我们在很多地方用“任务”，主要是为了与好看簿平台中的“活动”相区分。
+
+相识热身阶段任务公告：http://www.haokanbu.com/group/130/topic/1666/
 
   * （1）没有在“课题通讯录“的小组成员，请参与回复，
 http://www.haokanbu.com/group/130/topic/1554/
