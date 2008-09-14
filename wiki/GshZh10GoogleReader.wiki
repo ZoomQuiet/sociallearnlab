@@ -118,7 +118,10 @@ RSS(也叫聚合内容，Really Simple Syndication)是一种描述和同步网�
 
 ===3.5 如何管理===
 在Reader的左边，点击“管理订阅”按钮，就能实现对Reader的设置和管理。如图所示：
+
 [http://pic.yupoo.com/chengcheng1098/0904462ff647/6lg08y39.jpg]
+
+
 管理过程中实现以下功能： 
 
      * 订阅：实现对订阅的网站进行添加、重命名、删除等管理操作，设置所属文件夹等；
