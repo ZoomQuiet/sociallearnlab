@@ -3,6 +3,31 @@
 
 = 概述 =
 
+“好看教研”项目已经徐徐开始启动。在此之前项目组做的准备工作包括：
+
+（1）项目名称
+
+  *基于好看簿之信息技术课程教学改革研究，是最初原名；
+
+  *基于好看簿之社会化教学活动设计研究，经部分老师提议将项目原名修改为此名；
+
+  *好看教研，为方便指代说明，用“好看教研”指代“基于好看簿之社会化教学活动设计研究”；
+
+  *Itc-Haokanbu， ItcHaokanbu，ItcHkb，都是此项目名称的字母缩写。
+
+
+（1）发布实施提纲，即“基于好看簿之社会化教学活动设计研究(实施提纲)” ，http://www.haokanbu.com/story/108343/  
+
+（2）建立项目实施交流网络平台
+
+  *好看教研小组：http://www.haokanbu.com/group/130/
+
+  *好看教研邮件列表：http://groups.google.com/group/itc-haokanbu
+
+  *好看教研项目数据整理：http://code.google.com/p/sociallearnlab/wiki/ItcHaokanbu
+
+= 概述 =
+
 *1. 参与活动“ITC-Haokanbu‘我和我的学生及我们的学校’”*
 http://www.haokanbu.com/event/1263/ 
 
