@@ -1,6 +1,9 @@
 #summary 好看教研项目的实施第1周进展简报.
 #labels Research,ItcHaokanbu,ItcHkbBreif
 
+返回项目首页ItcHaokanbu  。
+
+
   * 写在最前面的话
   * 第1周任务小结
    * 项目准备阶段工作
