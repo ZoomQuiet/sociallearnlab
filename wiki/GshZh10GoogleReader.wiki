@@ -71,7 +71,11 @@ RSS(也叫聚合内容，Really Simple Syndication)是一种描述和同步网�
 
 ===3.1 Google Reader 界面===
 
+如图Charpt-10-1所示：
 [http://lh6.ggpht.com/wwq0327/SK7aiHj37vI/AAAAAAAAAOk/56aOsDO3Mj0/gsh-10-01.jpg]
+
+
+图Charpt-10-1 Google Reader 界面图
 
  * 登录名、Reader设置、帮助；
  * RSS内容检索工具，可根据你设置的内容而分类检索；
@@ -84,17 +88,23 @@ RSS(也叫聚合内容，Really Simple Syndication)是一种描述和同步网�
 
 ===3.2 如何订阅===
 
-一般情况下，我们只需要向Reader中添加你所要订阅网站的网址即可，如“教育大发现”网址为[http://sociallearnlab.org/]，点击栏目(2)的“添加”，并在其中添加入网址[http://sociallearnlab.org/]，如图所示：
+一般情况下，我们只需要向Reader中添加你所要订阅网站的网址即可，如“教育大发现”网址为[http://sociallearnlab.org/]，点击栏目(2)的“添加”，并在其中添加入网址[http://sociallearnlab.org/]，如图Charpt-10-2所示：：
 
 [http://lh4.ggpht.com/wwq0327/SK7aq5ri_mI/AAAAAAAAAQA/8Nb9-uMJYgc/gsh-10-02.png]
 
-点击“添加“后，会出现下面的提示：
+图Charpt-10-2 订阅RSS图
+
+点击“添加“后，会出现下面的提示，如图Charpt-10-3所示：
 
 [http://lh4.ggpht.com/wwq0327/SK7aijcHJAI/AAAAAAAAAOs/bXCTvqtot-Q/gsh-10-03.jpg]
 
-这里是叫你给添加的RSS指定一个目录，如果你已有相对应的目录，则从下拉菜单中选择即可，如笔者添加到"edu"文件夹。若无适当目录，可点击最后一项“新建文件夹”来建立一个新的存放目录。此时，在左边的栏目分类中，即出现“sociallearnlab（9）”，同时在Reader的阅读区内，便会自动列出最新的十条内容（sociallearnlab暂时只有9篇日志）。如图所示：
+图Charpt-10-3 添加后的提示图
+
+这里是叫你给添加的RSS指定一个目录，如果你已有相对应的目录，则从下拉菜单中选择即可，如笔者添加到"edu"文件夹。若无适当目录，可点击最后一项“新建文件夹”来建立一个新的存放目录。此时，在左边的栏目分类中，即出现“sociallearnlab（9）”，同时在Reader的阅读区内，便会自动列出最新的十条内容（sociallearnlab暂时只有9篇日志）。如图Charpt-10-4所示：
 
 [http://lh3.ggpht.com/wwq0327/SK7ajCXE9qI/AAAAAAAAAO0/V12GoOliLEU/gsh-10-04.jpg]
+
+图Charpt-10-4 添加后的提示图
 
 ===3.3 如何阅读===
 
