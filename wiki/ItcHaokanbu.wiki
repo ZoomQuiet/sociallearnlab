@@ -51,6 +51,8 @@ http://sociallearnlab.everydo.com/projects/126577
 
 这样,项目事务的正式发布/变更讨论/通告传播就有机结合起来了。
 
+= 周简报 =
+第1周简报  http://code.google.com/p/sociallearnlab/wiki/ItcHkbBreif001
 
 Add your content here.  Format your content with:
   * Text in *bold* or _italic_
