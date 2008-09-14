@@ -73,12 +73,12 @@ RSS(也叫聚合内容，Really Simple Syndication)是一种描述和同步网�
 
 [http://lh6.ggpht.com/wwq0327/SK7aiHj37vI/AAAAAAAAAOk/56aOsDO3Mj0/gsh-10-01.jpg]
 
- * (1)登录名、Reader设置、帮助；
- * (2)RSS内容检索工具，可根据你设置的内容而分类检索；
- * (3)页面导航栏；
- * (4)订阅栏，可添加新的RSS源；“发现”刚出官方推荐RSS源；
- * (5)栏目分类；
- * (6)阅读区。
+ * 登录名、Reader设置、帮助；
+ * RSS内容检索工具，可根据你设置的内容而分类检索；
+ * 页面导航栏；
+ * 订阅栏，可添加新的RSS源；“发现”刚出官方推荐RSS源；
+ * 栏目分类；
+ * 阅读区。
 
 简单的认识Google Reader（以下简称Reader）界面后，下面我们介绍下具体的操作。我们不妨以订阅“教育大发现”上的文章为例来向大家介绍Reader的使用方法。
 
@@ -118,7 +118,7 @@ RSS(也叫聚合内容，Really Simple Syndication)是一种描述和同步网�
 
 ===3.5 如何管理===
 在Reader的左边，点击“管理订阅”按钮，就能实现对Reader的设置和管理。如图所示：
-[http://f.yupoo.com/v.swf?id=chengcheng1098-ff8080811c5427e0011c5ed517991bb3-m]
+[http://pic.yupoo.com/chengcheng1098/0904462ff647/6lg08y39.jpg]
 管理过程中实现以下功能： 
 
      * 订阅：实现对订阅的网站进行添加、重命名、删除等管理操作，设置所属文件夹等；
