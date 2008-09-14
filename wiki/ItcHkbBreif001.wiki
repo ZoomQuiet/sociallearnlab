@@ -1,9 +1,19 @@
 #summary 好看教研项目的实施一周进展简报.
 #labels Research,ItcHaokanbu,ItcHkbBreif
 
-= Introduction =
+== 参与情况 ==
 
-Add your content here.
+
+谢贤晓，浙江省平阳县昆阳二信息技术老师，
+
+好看页面 http://www.haokanbu.com/user/15248/
+
+教学小组 http://www.haokanbu.com/group/142/ 
+
+
+
+
+ .
 
 
 = Details =
