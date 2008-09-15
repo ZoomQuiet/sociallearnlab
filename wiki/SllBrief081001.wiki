@@ -3,7 +3,51 @@
 
 = Introduction =
 
-Add your content here.
+= 几个链接 =
+
+（1）社区首页，http://sociallearnlab.org
+
+
+（2）社区项目管理的总入口， http://code.google.com/p/sociallearnlab/
+
+ 
+（3）社区发展Log日志， http://code.google.com/p/sociallearnlab/w/edit/SllLog
+
+ 
+（4）社区核心论坛资源整理，http://code.google.com/p/sociallearnlab/wiki/SllGgResource
+
+
+（5）社区字典，http://code.google.com/p/sociallearnlab/wiki/SllDict
+
+ 
+（6）社区9月简报，http://code.google.com/p/sociallearnlab/wiki/SllBrief080901  
+
+ 
+（7）社区10月简报，http://code.google.com/p/sociallearnlab/wiki/SllBrief081001
+
+ 
+（8）好看教研周简报，http://code.google.com/p/sociallearnlab/wiki/ItcHkbBreif001
+
+
+（9）社区组织集体交流方法建议，http://code.google.com/p/sociallearnlab/wiki/TipsCommunication
+
+
+（10）社区进入速浏，http://code.google.com/p/sociallearnlab/wiki/SllQuickInto
+
+ 
+（11）社区参与流程，http://code.google.com/p/sociallearnlab/wiki/SllFlows
+
+
+（12）使用GoogleCodeWiki命名的规范，http://code.google.com/p/sociallearnlab/wiki/UsageDocName
+
+
+（13）社区发展目标，http://code.google.com/p/sociallearnlab/wiki/SllGoal 
+
+ 
+（14）社区相关资源分布，http://code.google.com/p/sociallearnlab/wiki/SllResource
+
+
+
 
 
 = Details =
