@@ -1,8 +1,15 @@
 #summary GoogleGroup论坛内容整理
+#labels SllGgResource,SllKM,SllMem
 
-= Introduction =
+= 2008年9月15日 =
 
-Add your content here.
+== 社区发展 ==
+ * KM
+  # 关于本讨论区中的讨论内容整理的问题	社区发展	
+  # 社区辞典	社区发展	KM
+  # 如何把其他GG论坛的发言内容以及回复都转到我们论坛中	社区发展 	KM
+  # TheScene	社区发展	KM 资料
+
 
 
 = Details =
