@@ -27,22 +27,23 @@
 首先，兴趣第一，有兴趣，我们才会有激情地投入工作。您可以根据您的特点和兴趣，选择参与您想编写的章节，欢迎您的参与，本书编写遵守CC协议。
 == 四、正文 ==
 
- # GshZh1Summary ~ 前言 + 综述（背景，Google 服务目前发展，新时代有新的要求，Google 教育与学习，为什么有这样的变化和要求）
- # GshZhGmail 
- # GshZhNotebook
- # GshZhPicasa
- # GshZhGroups
- # GshZhiGoogle
- # GshZhDocuments  或是 GshZh02GoogleDocuments ???
- # GshZhBook
- # GshZhCalendar
- # GshZhReader
- # GshZhEarth
- # GshZhMap
- # GshZhApps
- # GshZhOthers
- # GshZhSources
-
+  # GshZh0Index ~ 前言 + 综述（背景，Google 服务目前发展，新时代有新的要求，Google 教育与学习，为什么有这样的变化和要求）
+ # GshZh01Preface
+ # GshZh02GoogleGmail 
+ # GshZh03GoogleNotebook
+ # GshZh04GooglePicasa
+ # GshZh05GoogleGroups
+ # GshZh06GoogleIgoogle
+ # GshZh07GoogleDocuments
+ # GshZh08GoogleBook
+ # GshZh09GoogleCalendar
+ # GshZh10GoogleReader
+ # GshZh11GoogleEarth
+ # GshZh12GoogleMap
+ # GshZh13GoogleApps
+ # GshZh14GoogleOthers
+ # GshZh15Googleintergrate
+ # GshZh16GoogleSources
 == 五、团队 ==
 参与即是学习，让我们用社会性的方式来参与体验学习推动web2.0学习，有兴趣参与图书编写的朋友请联系我们，
 我们的社区网站：教育大发现（socialle­arnlab）http://sociallearnlab.org ，联系方式：
