@@ -1,5 +1,5 @@
 #summary GSH技术组编写设计
-#labels GSH,Book,Phase-Design
+#labels GSH,Book,Phase-Design,Google
 
 = 《Google服务应用手册》技术版 =
 
@@ -10,7 +10,7 @@
  # GshTechnologyPicasa
  # GshTechnologyGroups
  # GshTechnologyiGoogle
- # GshTechnologyDoc
+ # GshTechnologyDocuments
  # GshTechnologyBook
  # GshTechnologyCalendar
  # GshTechnologyReader
@@ -19,6 +19,7 @@
  # GshTechnologyApps
  # GshTechnologyOthers
  # GshTechnologyIntergrate
+ # GshTechnologySources
 
 == 参与人员及分工 ==
 （不分先后）
