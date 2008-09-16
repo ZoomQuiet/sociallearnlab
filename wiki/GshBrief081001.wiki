@@ -156,10 +156,10 @@ SEE:
  * 3、sociallearnlab wiki的 http://sociallearnlab.org/wiki/index.php/Chapter_Google
  * 4、Google360论坛：https://groups.google.com/group/google360
  * 5、好看簿中：
-       o GoogleFans小组，http://www.haokanbu.com/group/27/
+        o GoogleFans小组，http://www.haokanbu.com/group/27/
 
 
-       o Google产品的故事活动，http://www.haokanbu.com/event/33/
+        o Google产品的故事活动，http://www.haokanbu.com/event/33/
  * 6、益学会做的翻译项目ITM：http://www.edu2do.com/itm/
  * 7、Google中国黑板报：http://googlechinablog.com/
  * 8、Google帮助（中文）：http://www.google.com/support/?hl=cn
