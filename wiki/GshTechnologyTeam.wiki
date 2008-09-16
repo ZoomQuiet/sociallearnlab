@@ -9,7 +9,7 @@
  # GshTechnologyNotebook
  # GshTechnologyPicasa
  # GshTechnologyGroups
- # GshTechnologyiGoogle
+ # GshTechnologyIgoogle
  # GshTechnologyDocuments
  # GshTechnologyBook
  # GshTechnologyCalendar
@@ -18,7 +18,7 @@
  # GshTechnologyMap
  # GshTechnologyApps
  # GshTechnologyOthers
- # GshTechnologyIntergrate
+ # GshTechnologyIntegrate
  # GshTechnologySources
 
 == 参与人员及分工 ==
