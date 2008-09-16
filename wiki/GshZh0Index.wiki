@@ -8,19 +8,18 @@
 * GshStoryIndex ~故事设计索引
 
  # GshZh0Index ~ 前言 + 综述（背景，Google 服务目前发展，新时代有新的要求，Google 教育与学习，为什么有这样的变化和要求）
- # GshZh01Preface
- # GshZh02GoogleGmail 
- # GshZh03GoogleNotebook
- # GshZh04GooglePicasa
- # GshZh05GoogleGroups
- # GshZh06GoogleIgoogle
- # GshZh07GoogleDocuments
- # GshZh08GoogleBook
- # GshZh09GoogleCalendar
- # GshZh10GoogleReader
- # GshZh11GoogleEarth
- # GshZh12GoogleMap
- # GshZh13GoogleApps
- # GshZh14GoogleOthers
- # GshZh15GoogleIntegrate
- # GshZh16GoogleSources
+  # GshTechnologyGmail 
+ # GshTechnologyNotebook
+ # GshTechnologyPicasa
+ # GshTechnologyGroups
+ # GshTechnologyIgoogle
+ # GshTechnologyDocuments
+ # GshTechnologyBook
+ # GshTechnologyCalendar
+ # GshTechnologyReader
+ # GshTechnologyEarth
+ # GshTechnologyMap
+ # GshTechnologyApps
+ # GshTechnologyOthers
+ # GshTechnologyIntegrate
+ # GshTechnologySources
