@@ -146,9 +146,7 @@ SEE:
 
  * 汤富源
 
-边缘参与者：
-
- * 傅佩缮 （傅老师有些自己工作中的突发任务需要近日内处理。） 
+ * 傅佩缮  
 
 == 七、参考资源 ==
  * 1、Google官方Blog ：http://googleblog.blogspot.com/
