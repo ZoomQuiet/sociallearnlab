@@ -3,6 +3,10 @@
 
 = 《Google 服务应用 》 =
 
+* GshStoryDesign ~ 故事设计思路
+
+* GshStoryIndex ~故事设计索引
+
  # GshZh0Index ~ 前言 + 综述（背景，Google 服务目前发展，新时代有新的要求，Google 教育与学习，为什么有这样的变化和要求）
  # GshZh01Preface
  # GshZh02GoogleGmail 
