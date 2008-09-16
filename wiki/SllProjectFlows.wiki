@@ -1,0 +1,39 @@
+#summary 社区项目建立流程
+#labels Featured,Phase-Design,Phase-Implementation,project
+
+= 介绍 =
+
+关于社区项目发起建立的基本流程
+
+
+= 流程 =
+
+0.项目提议
+  * 0.1 撰写项目计划书,发至社区论坛讨论。这样的好处，一是你自己理清思路，能够较好地把握住自己究竟想要做什么。二是通过与核心团队成员共享交流你的项目草案，你可以汇集一些参谋建议；三是保持社区核心队员之间信息通畅。
+  * 0.2 讨论完善通过后在[www.sociallearnlab.org 社区主页]以日志和项目专门页面的形式发布项目.具体方法：登陆[www.sociallearnlab.org 社区主页]，在后台新建页面，作为已有“项目”页的二级页面。在页面中对你发起的项目进行介绍，包括项目负责人、项目核心参与者、其他人员如何参与项目的说明。一般来说项目发起者担任项目负责人。项目负责人一定要承担起项目任务的设计以及项目任务实施的推进，以保证项目实施落到实处。
+参考:
+项目日志: http://sociallearnlab.org/?p=288
+项目专门页面: http://sociallearnlab.org/?page_id=236
+
+1.项目管理:
+
+项目性质不同，具体实施平台，亦有可能不同。但是有些实施管理流程模式，可以相互借鉴：
+
+  * 1.1 为每个项目建立论坛（可以在GoogleGroup中新建），为项目实施交流学习之用。
+
+  * 1.2 项目使用[http://code.google.com/p/sociallearnlab/ Google Code]和[http://sociallearnlab.everydo.com Everydo]管理，项目负责人需要定期总结项目实施进度与问题，在核心队员社区中进行分享。也可以通过多种方式，包括通过 https://groups.google.com/group/sociallearnlab 招募更多的支持者参与项目。
+
+  * 1.3 项目实施日志记录。使用[http://code.google.com/p/sociallearnlab/w/list googlecode wiki]完成。命名规则，项目英文名+Log.
+详细参考：[http://code.google.com/p/sociallearnlab/wiki/ItcHaokanbuLog Itc-Haokanbu 项目实施记录]
+
+
+2.其它补充
+
+2.1 项目发起管理案例参考
+
+可以参考项目[http://sociallearnlab.org/?page_id=236 “基于好看簿之信息技术课程教学改革研究”]
+
+2.2 平台使用说明及规范
+  * [http://code.google.com/p/sociallearnlab/wiki/UsageEverydo Everydo使用说明]
+  * [UsageGooglecode 快速使用Googlecode]
+  * [http://code.google.com/p/sociallearnlab/wiki/UsageDocName 文件命名规范]
