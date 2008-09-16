@@ -25,25 +25,26 @@
 编写空间：本页[GSH] 讨论组：https://groups.google.com/group/google360
 === 2.基本原则 ===
 首先，兴趣第一，有兴趣，我们才会有激情地投入工作。您可以根据您的特点和兴趣，选择参与您想编写的章节，欢迎您的参与，本书编写遵守CC协议。
-== 四、正文 ==
+== 四、技术组正文 ==
 
  # GshZh0Index ~ 前言 + 综述（背景，Google 服务目前发展，新时代有新的要求，Google 教育与学习，为什么有这样的变化和要求）
  # GshZh01Preface
- # GshZh02GoogleGmail 
- # GshZh03GoogleNotebook
- # GshZh04GooglePicasa
- # GshZh05GoogleGroups
- # GshZh06GoogleIgoogle
- # GshZh07GoogleDocuments
- # GshZh08GoogleBook
- # GshZh09GoogleCalendar
- # GshZh10GoogleReader
- # GshZh11GoogleEarth
- # GshZh12GoogleMap
- # GshZh13GoogleApps
- # GshZh14GoogleOthers
- # GshZh15GoogleIntegrate
- # GshZh16GoogleSources
+ # GshTechnologyGmail 
+ # GshTechnologyNotebook
+ # GshTechnologyPicasa
+ # GshTechnologyGroups
+ # GshTechnologyIgoogle
+ # GshTechnologyDocuments
+ # GshTechnologyBook
+ # GshTechnologyCalendar
+ # GshTechnologyReader
+ # GshTechnologyEarth
+ # GshTechnologyMap
+ # GshTechnologyApps
+ # GshTechnologyOthers
+ # GshTechnologyIntegrate
+ # GshTechnologySources
+
 == 五、团队 ==
 参与即是学习，让我们用社会性的方式来参与体验学习推动web2.0学习，有兴趣参与图书编写的朋友请联系我们，
 我们的社区网站：教育大发现（socialle­arnlab）http://sociallearnlab.org ，联系方式：
