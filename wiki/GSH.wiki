@@ -27,7 +27,7 @@
 首先，兴趣第一，有兴趣，我们才会有激情地投入工作。您可以根据您的特点和兴趣，选择参与您想编写的章节，欢迎您的参与，本书编写遵守CC协议。
 == 四、正文 ==
 
-  # GshZh0Index ~ 前言 + 综述（背景，Google 服务目前发展，新时代有新的要求，Google 教育与学习，为什么有这样的变化和要求）
+ # GshZh0Index ~ 前言 + 综述（背景，Google 服务目前发展，新时代有新的要求，Google 教育与学习，为什么有这样的变化和要求）
  # GshZh01Preface
  # GshZh02GoogleGmail 
  # GshZh03GoogleNotebook
