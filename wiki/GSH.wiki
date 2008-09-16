@@ -1,5 +1,5 @@
 #summary Google Services Handbook Proj.
-#labels Book,GSH
+#labels Book,GSH,Google
 
 = 《Google服务应用手册》 =
 == 一、背景与需求 ==
@@ -42,7 +42,7 @@
  # GshZh12GoogleMap
  # GshZh13GoogleApps
  # GshZh14GoogleOthers
- # GshZh15Googleintergrate
+ # GshZh15GoogleIntegrate
  # GshZh16GoogleSources
 == 五、团队 ==
 参与即是学习，让我们用社会性的方式来参与体验学习推动web2.0学习，有兴趣参与图书编写的朋友请联系我们，
