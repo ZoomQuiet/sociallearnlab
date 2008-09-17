@@ -36,4 +36,8 @@
 技术组 [https://groups.google.com/group/sociallearnlab-members/browse_thread/thread/7204e729679ebe57/a979f2bf840deda6?lnk=gst&q=%E5%85%B3%E4%BA%8Egoogle%E5%B7%A5%E5%85%B7%E4%B8%AD%E8%8B%B1%E6%96%87%E7%89%88%E6%9C%AC%E5%B7%AE%E5%BC%82+#a979f2bf840deda6 讨论] 决定编写技术手册时，google工具版本选择以中文为主，英文为辅 
 
 = 08年9月9日 = 
-技术小组建立 [GshTechnologyTeam] 页面，将08年9月3日[https://groups.google.com/group/sociallearnlab-members/browse_thread/thread/43e41dd9f4703329# 协作分工及时间安排事宜] 归档wiki	
+技术小组建立 [GshTechnologyTeam] 页面，将08年9月3日[https://groups.google.com/group/sociallearnlab-members/browse_thread/thread/43e41dd9f4703329# 协作分工及时间安排事宜] 归档wiki
+
+= 08年9月16日 =	
+
+[GshBrief081001 GSH项目第一期简报]雏形发布
