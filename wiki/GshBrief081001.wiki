@@ -148,11 +148,8 @@ SEE:
 
  * 傅佩缮  
 
-== 七、项目项目实施记录 ==
 
-[GshLog 《Google服务应用手册》项目实施记录]
-
-== 八、参考资源 ==
+== 七、参考资源 ==
  * 1、Google官方Blog ：http://googleblog.blogspot.com/
  * 2、Google的Youtube：http://www.youtube.com/google
  * 3、sociallearnlab wiki的 http://sociallearnlab.org/wiki/index.php/Chapter_Google
@@ -173,5 +170,5 @@ SEE:
  * 14、G日报：http://gribao.com/
 
 
-== 九、GSH讨论 ==
-GSH讨论记录参见GshLog
+== 八、GSH项目实施日志 ==
+参见GshLog
