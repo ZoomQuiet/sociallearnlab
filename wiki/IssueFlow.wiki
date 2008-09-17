@@ -32,7 +32,7 @@ SEE: *IssueTags* ~ 提案标签详解
 
 从我们创建 Issue 开始到完成任务,Issue 支持的自动解析:
  # 创建提案后, http://code.google.com/p/sociallearnlab/issues/detail?id=5
-  * 最后的 id= 的数字就是全球唯一的任务编号
+  * 最后的 id= 的数字就是工程唯一的任务编号
  #  在Issue 中 任何地方使用 " Issue 5 " 这种格式的字串,就可以自动解析成提案的链接!
  # 在我们为此任务进行SVN 检入时的注释中就可以使用! 这样在 SVN 的Changeset 中,就可以自动解析出任务的链接:
   * 例如: http://code.google.com/p/sociallearnlab/source/detail?r=525
@@ -73,4 +73,3 @@ Issue->认领->SVN检入解决
 
 ------------
 转自openbookproject:http://code.google.com/p/openbookproject/wiki/IssueFlow
-
