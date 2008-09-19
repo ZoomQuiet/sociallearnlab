@@ -1,4 +1,4 @@
-#summary 《Google服务应用手册》项目实施记录
+﻿#summary 《Google服务应用手册》项目实施记录
 #labels GSH,Log
 = 项目记录 =
 ---------
@@ -40,4 +40,4 @@
 
 = 08年9月16日 =	
 
-[GshBrief081001 GSH项目第一期简报]雏形发布
+[GshBrief081001 GSH项目第一期简报]雏形发布；
