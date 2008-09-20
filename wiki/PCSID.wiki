@@ -2,7 +2,7 @@
 #labels PCSID,ItcHaokanbu
 项目“基于好看簿之社会化教学活动设计研究”(ItcHaokanbu)成果。 
 
-= 课例：《我向往的地方》（小学） =
+= 课例：谢贤晓 《我向往的地方》（小学） =
 
 ==一、方案背景与产生过程==
 
@@ -154,7 +154,7 @@ http://groups.google.com/group/itc-haokanbu/browse_thread/thread/1e3ef104036eb30
 
 
 
-=课例：《课间乐》（小学） =
+=课例：丁老师的《课间乐》（小学） =
 
 ==一、方案背景与产生过程==
 小学六年级学生。班主任丁老师任教。
