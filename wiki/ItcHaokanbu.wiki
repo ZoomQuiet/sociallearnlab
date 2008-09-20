@@ -54,6 +54,10 @@ http://sociallearnlab.everydo.com/projects/126577
 = 周简报 =
 第1周简报  http://code.google.com/p/sociallearnlab/wiki/ItcHkbBreif001
 
+= 项目成果 =
+ # 图书 ：社会化网络环境下的教学设计与实施案例集 Practical Cases of Social Instructional Design（PCSID）
+http://code.google.com/p/sociallearnlab/wiki/PCSID
+
 Add your content here.  Format your content with:
   * Text in *bold* or _italic_
   * Headings, paragraphs, and lists
