@@ -1,14 +1,17 @@
 #summary ItcHaokanbu Proj.
 #labels Research,ItcHaokanbu
 
-[ItcHaokanbuLog]  
+项目实施日志[ItcHaokanbuLog]  
 
-[ItcHaokanbuXiexianxiao]
+谢贤晓[ItcHaokanbuXiexianxiao]
 
-[ItcHaokanbuhlf]
+黄利锋[ItcHaokanbuhlf]
 
-[ItcHaokanbuJping] 
+江平[ItcHaokanbuJping] 
 
+向明[ItcHaokanbuXiangMing]
+
+丁老师[ItcHaokanbuBanzhurenD]
 
 = 项目介绍与实施纲要 =
 
