@@ -1,14 +1,18 @@
-#summary One-sentence summary of this page.
+#summary 向明老师的教学研究记录备份
 #labels Research,ItcHaokanbu,XiangMing
 
-= Introduction =
+返回项目首页［ItcHaokanbu］
 
-Add your content here.
+项目团队：黄利锋ItcHaokanbuhlf  江平ItcHaokanbuJping  丁老师ItcHaokanbuBanzhurenD
 
 
-= Details =
+= 向明 =
+好看簿页面
+http://www.haokanbu.com/user/2705/
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+教学小组
+
+(您可以选择在这里添加简单的个人介绍)
+
+
+= 教学记录 =
