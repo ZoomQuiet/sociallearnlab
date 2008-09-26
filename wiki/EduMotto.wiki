@@ -1,0 +1,30 @@
+#labels Featured,edumotto
+#教育格言警句
+
+= 教育格言警句 =
+
+Add your content here.
+
+===来自“金陵叙事”：===
+http://www.szeblog.cn/user1/3/
+
+    认识你自己——德尔裴太阳神庙题辞　　
+
+　　教育不是灌输，而是点燃火焰——苏格拉底
+
+　　要是没有热情，世界上任何伟大的事业都不会成功——黑格尔
+
+　　重要的不是获得知识，而是发展思维能力。教育无非是一切已学过的东西都忘掉后所剩下的东西——劳厄
+
+　　每一个BLOG，都是跳动着的一颗生命，是闪烁着的一束火花。生命彼此感应，火花彼此碰撞……（庄秀丽）
+
+　　教育技术是通过创造、使用、管理适当的技术性的过程和资源，以促进学习和提高绩效的研究与符合伦理道德的实践。（AECT2005教育技术定义）　　　　　　
+
+
+
+= Details =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
