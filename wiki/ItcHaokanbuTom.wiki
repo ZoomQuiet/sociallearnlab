@@ -1,5 +1,5 @@
 #summary 汤富源老师的教学研究记录
-#labels Research
+#labels Research,ItcHaokanbu,汤富源,Tom
 
 返回项目首页［ItcHaokanbu］
 
@@ -49,5 +49,3 @@ Email:  mynetlive@gmail.com
 =教学实施方案=
 
      【Web2.0网络互联学习】
-
-
