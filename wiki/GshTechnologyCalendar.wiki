@@ -48,7 +48,9 @@ Google日历设置主要实现日历共享、新建、删除、隐藏等功能�
 ===3.2.3 Google日历移动设置===
 要使用免费短信功能，你需要先设置它──点右上角的设置，选择“移动设置”，填写手机号，点“发送验证代码”，将手机上收到的验证码输入便可完成设置。要获得某项活动的短信提醒，点击向下的箭头，选择日历设置，再选“通知”选项卡，将SMS全不选上勾并将手机设为接收状态。以后，就可以通过手机短信提醒你某天的日程安排啦！[http://lh3.ggpht.com/bnuleo/SLbAUIJ47qI/AAAAAAAAAGg/dMcGlrUBnPY/s800/13.PNG]
 ==4 讨论==
-想应用Google日历的朋友，赶紧注册吧！别忘了及时设置好您的Google日历提醒功能，别让无关的Google日历短信和邮件打扰了您。
+1.应用Google日历的朋友，别忘了及时设置好您的Google日历提醒功能，别让无关的Google日历短信和邮件打扰了您；
+2.将Google日历粘贴到自己博客或网站时，注意大小、颜色、位置等；
+3.每次输入Google日历时，注意内容在日历中显示的大小，以免共享时影响订阅者和自己的阅读。
 ==5 参考==
 [1]myfriendsh,Google 日历成了我的工作助手，http://laiba.tianya.cn/laiba/CommMsgs?cmm=766&tid=2614656127073933043，2008-09-26
 [2]Mark Wagner，校园在线日历，http://www.edu2do.com/itm/2006/10/04/online-calendars-in-schools.html，2008-09-26
