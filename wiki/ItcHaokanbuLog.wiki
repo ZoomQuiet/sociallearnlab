@@ -1,4 +1,4 @@
-#summary Itc-Haokanbu 项目实施记录.
+﻿#summary Itc-Haokanbu 项目实施记录.
 #labels Research,ItcHaokanbu
 
 返回项目首页［ItcHaokanbu］
@@ -183,8 +183,3 @@ http://www.haokanbu.com/group/146/
 
 Jping的教学小组：
 http://www.haokanbu.com/group/147/
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
