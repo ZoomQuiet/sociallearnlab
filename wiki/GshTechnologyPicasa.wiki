@@ -33,6 +33,7 @@ Picasa 网络相册旨在帮助用户在网上简单快捷地张贴和共享照�
 ===3.1 创建网络相册===
 
 创建相册：
+http://picasaweb.google.com/liangya.sg/Sociallearnlab?authkey=Dh34RMe7KPw#5250963912397482386
 
 要创建新的网络相册，请执行以下步骤：
    1. 从 http://picasaweb.google.com 使用您的 Google 帐户用户名和密码登录 Picasa 网络相册。
@@ -154,6 +155,7 @@ Picasa 网络相册旨在帮助用户在网上简单快捷地张贴和共享照�
 
 
 ==4 扩展应用==
+
 
 ===4.1 ===
 
