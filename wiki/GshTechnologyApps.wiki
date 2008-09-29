@@ -157,7 +157,7 @@ http://lh3.ggpht.com/bnuleo/SOCbgMPO0TI/AAAAAAAAASY/xLZBSm_J4EQ/s800/charpt13-18
 图charpt13-18
 
   * 创建自定义网址
-创建简单、易记的自定义网址，并通过自定义网址将用户重定向至域中的服务登录页。 您可以不必告知用户通过 http://mail.google.com/a/your_domain.com 登录其电子邮件帐户，而是创建形如 http://mail.your_domain.com 的自定义网址。 然后，当用户在浏览器地址栏中键入 http://mail.your_domain.com 时，会被重定向至 http://mail.google.com/a/your_domain.com 。
+创建简单、易记的自定义网址，并通过自定义网址将用户重定向至域中的服务登录页。 您可以不必告知用户通过 http://mail.google.com/a/your_domain.com 登录其电子邮件帐户，而是创建形如 http://mail.your_domain.com 的自定义网址。 然后，当用户在浏览器地址栏中键入 http://mail.your_domain.com 时，会被重定向至 http://mail.google.com/a/your_domain.com 。（请注意：网址中的your_domain.com应替换为自己的网站域名，例如：alexrun.com；wuchangcheng.com等。）
   * 禁用服务
 如果确定不再需要 Google 企业应用套件中提供的某项服务，可以按照下列步骤禁用该服务：
    # 登录到控制面板；
@@ -300,10 +300,11 @@ Google apps日历与 Google 日历的不同之处在于，Google apps日历提�
   * 标准版功能的限制及不稳定。
 
 ==5 探讨==
-[http://www.google.com/support/a/bin/topic.py?topic=14580 google apps高级工具的应用请参考]
+[http://www.google.com/support/a/bin/topic.py?topic=14580 google apps高级工具的应用]
 ==6 参考文献==
 [http://www.google.com/support/a/?hl=zh_CN Google Apps Admin 帮助]      
 
+----
 
 {{{ 
    _ 特别感谢余波、吴长城提供域名的无私帮助。_
