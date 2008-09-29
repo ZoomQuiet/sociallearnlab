@@ -235,7 +235,7 @@ http://lh5.ggpht.com/bnuleo/SOCbqjf-xpI/AAAAAAAAASw/qd_RfC3ZoQ4/s800/charpt13-21
 申请google apps成功并激活、设置google apps提供的各项组件服务后，可以开始使用该套件提供的各种服务了。
 ==== 3.3.1 初始页====
   * 管理员可为内、外部用户建立一个独一无二的动态位置，供其查找重要的相关信息、预览收件箱与日历，并且搜索网络。 并可以自定义布局、标题信息和颜色方案以及页面的默认内容，可包括 Google 个性化主页模块、所在组织机构的自定义内容和链接以及 RSS 供稿等。 用户在登录后，可以根据需要进一步自定义初始页。
-  * 更多使用请参考igoogle一章。
+  * 更多使用请参考[http://code.google.com/p/sociallearnlab/wiki/GshTechnologyIgoogle igoogle]一章。
 ==== 3.3.2 即时通信====
   * 用户与其联系人可即时交换文本消息，并通过网络进行语音对话，与家人、世界各地的朋友及同事联系，所有这些服务都是完全免费的。
   * 更多使用请参考gtalk一章。
