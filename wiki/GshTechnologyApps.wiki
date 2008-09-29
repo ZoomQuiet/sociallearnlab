@@ -242,10 +242,30 @@ http://lh5.ggpht.com/bnuleo/SOCbqjf-xpI/AAAAAAAAASw/qd_RfC3ZoQ4/s800/charpt13-21
 ==== 3.3.3 网站====
 Google Sites网站是一款在线应用程序，也是google apps的一个套件服务。利用 Google Sites，可以在一个位置快速收集包括视频、日历、演示文稿、附件和文本在内的各类信息，然后与一个小组、整个机构或者全世界轻松共享这些信息以进行查看或编辑，网站的制作像文档编辑一样简单，当然，这一切都是免费的。其主要功能有：自定义网站界面、创建子网页、网页类型（ 网页、声明、档案柜、控制台和列表）选择、多媒体嵌入及上传文件附件、网站隐私设置及网站的编辑和查看、搜索 Google Sites 内容。
   * google sites建站实例：
- # 2062科学教育开放社区：http://sites.google.com/a/project2062cn.org/home/
- # 分享精彩，快乐生活：http://sites.google.com/a/qiexing.com/bestlife/
- # 向明老师的课堂：http://sites.google.com/site/xiangming/
- # 思想道德修养与法律基础：http://sites.google.com/a/ethicedu.com/jichu/Home
+ # [http://sites.google.com/a/project2062cn.org/home/ 2062科学教育开放社区]
+
+http://lh5.ggpht.com/bnuleo/SODMvxFxddI/AAAAAAAAATQ/CHToYIowu0o/s800/charpt13-22.png
+
+图charpt13-22
+
+ # [http://sites.google.com/a/qiexing.com/bestlife/ 分享精彩，快乐生活]
+
+http://lh3.ggpht.com/bnuleo/SODMv9qLHdI/AAAAAAAAATY/1XOHYKZ088U/s800/charpt13-23.png
+
+图charpt13-23
+
+ # [http://sites.google.com/site/xiangming/ 向明老师的课堂]
+
+http://lh4.ggpht.com/bnuleo/SODMwbsOpoI/AAAAAAAAATg/oJp9oWRNwDg/s800/charpt13-24.png
+
+图charpt13-24
+
+ # [http://sites.google.com/a/ethicedu.com/jichu/Home 思想道德修养与法律基础]
+
+http://lh4.ggpht.com/bnuleo/SODMwYTK9pI/AAAAAAAAATo/P8q1Y9smVY0/s800/charpt13-25.png
+
+图charpt13-25
+
 ==== 3.3.4 电子邮件====
   * 用户不必因存储空间的限制而删除任何邮件，并且能够毫不费力地即刻找到某人前一年发送的遗失很久的备忘录。 同时，用户可在浏览器中与其联系人交换即时消息。
   * 创建电子邮件列表：电子邮件列表是让团队和团队用户向经常联系的一群人轻松发送邮件的邮寄列表。利用电子邮件列表，您只要选择一个地址，就可以将邮件发送给多人。管理员可以将域内或域外的电子邮件地址添加至电子邮件列表，且任何人都可以发送给到管理员创建的列表。请记住，一般“发送限制”适用于发送至邮寄列表的邮件，而且当您发送至列表时会包含该列表上的每个收件人。
