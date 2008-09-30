@@ -174,7 +174,7 @@ http://lh4.ggpht.com/liangya.sg/SOI5L_CyDII/AAAAAAAADYc/R5j4vhhlniU/s640/6.PNG
 
 ===4.2 ===
 在firefox浏览器中安装了"Add to Picassa Web Alblums" 这个插件之后，在浏览网页的时候，如果看到想要存到Picassa网络相册里的图片时，在图片上打右键，选择Add to Picassa Web Alblums项就可以简单快捷的将图片存到Picassa里了。
-
+http://lh6.ggpht.com/liangya.sg/SOI6aJdT4CI/AAAAAAAADYk/JPX4HdR5BMw/s576/7.PNG
 ==5 资源索引==
 Google帮助文档： http://www.google.com/support/
 Wiki-picassa：  http://sociallearnlab.org/wiki/index.php/Google_Picasa
