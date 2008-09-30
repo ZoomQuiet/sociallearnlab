@@ -168,12 +168,14 @@ http://lh3.ggpht.com/liangya.sg/SN8r3f9azMI/AAAAAAAADVY/VoyD1qrsAdg/s640/5.PNG
 
 ==4 扩展应用==
 
-
 ===4.1 ===
+结合其他社会性软件发布终端，可以将照片的变动信息发布到各个平台上面去，如friendfeed，facebook，twitter等。
 
 ===4.2 ===
+在firefox浏览器中安装了"Add to Picassa Web Alblums" 这个插件之后，在浏览网页的时候，如果看到想要存到Picassa网络相册里的图片时，在图片上打右键，选择Add to Picassa Web Alblums项就可以简单快捷的将图片存到Picassa里了。
 
 ==5 资源索引==
-
+Google帮助文档： http://www.google.com/support/
+Wiki-picassa：  http://sociallearnlab.org/wiki/index.php/Google_Picasa
  
 ----
