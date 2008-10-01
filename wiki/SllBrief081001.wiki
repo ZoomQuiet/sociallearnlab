@@ -1,5 +1,25 @@
-#summary 10月简报.
+#summary 教育大发现社区简报（第2期）.
 #labels Featured,Phase-Design,SllBrief
+
+= 教育大发现 • 社区简报 =
+
+    第2期 净种刊 
+
+  * 社区名字 
+  * 目标宗旨
+  * 社区团队
+  * 社区地图
+  * 社区项目
+  * 社区管理
+  * 九月进展
+  * 十月规划
+  * 新友加入
+  * 简报发行
+  * “选种刊”注释
+
+
+== *社区名字* ==
+
 
 = Introduction =
 
@@ -57,10 +77,49 @@
 ——摘自谢贤晓老师[ITC-Haokanbu:504] 活动《我最向往的地方--》第二课时教学实录和反馈
 
 
+== *新友加入* ==
 
-= Details =
+欢迎大家加入社区，方法很简单，访问：
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+http://groups.google.com/group/sociallearnlab 
+
+  准入基本原则:
+
+ * 0. 认同社区宗旨
+
+ * 1. 有网络条件
+
+ * 2. 有相关经验/体验/思考
+
+申请加入，介绍自己，越详细越好。我们期待你的参与、合作、支持。
+
+
+== 简报发行 ==
+
+ * 利用GoogleCode进行每期简报管理；
+ * 发行管理:采用专用GoogleGroup论坛进行投递人员管理。
+http://groups.google.com/group/sllbrief
+ * 撰写流程:重要事情随时记录，月末逐步生成简报。
+
+== “选种刊”注释 ==
+
+使用十年树木,百年树人的谚语概念,将不同阶段的社区活动,都和植物进行隐喻:
+
+ * 0.0 seed ~ 种子
+
+  ** SllBrief080901 ~ 选种刊 _seed choice_ ^撰写ing^
+  ** SllBrief081001 ~ 净种刊 _seed clean_  ^筹备ing^
+  **  ~ 育种刊 _seed grow_   ^筹备ing^
+  **  ~ 冬藏刊  _seed winter store_  ^筹备ing^
+  ** ~ 泡种刊 _seed vesic_  ^筹备ing^
+  ** ~ 栽种刊  _seed fall_    ^筹备ing^
+
+ * 0.1 bud ~ 芽
+ * 0.2 grass ~ 草
+ * 0.3 bush ~ 灌木
+ * 0.4 arboret ~ 小树
+ * 0.5 tree ~ 树
+ * 0.6 woods ~ 树林
+ * 0.7 forest ~ 森林
+ * ...
+ 
