@@ -84,17 +84,23 @@ http://code.google.com/p/sociallearnlab/wiki/PCSID
 
 == *GSH项目* ==
 
+*1.发布项目简报*
+http://code.google.com/p/sociallearnlab/wiki/GshBrief081001
+
+*2.GSH项目实施记录*
+http://code.google.com/p/sociallearnlab/wiki/GshLog
+
+*3.GSH图书项目irc会议讨论建议*
+080903IRC会议记录——GSH项目,
+http://code.google.com/p/sociallearnlab/wiki/GshIrc080903
+
+
 
 == *知识管理* ==
+GoogleGroup论坛内容整理,
 
+http://code.google.com/p/sociallearnlab/wiki/SllGgResource
 
-
- 
-
-== *简报发行* ==
-
-
-= Introduction =
 
 = *相关链接* =
 
