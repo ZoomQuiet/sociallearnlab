@@ -130,46 +130,82 @@ http://code.google.com/p/sociallearnlab/wiki/SllGgResource
 
 = *相关链接* =
 
-（1）社区首页，http://sociallearnlab.org
+（1）社区首页，
+
+http://sociallearnlab.org
 
 
-（2）社区项目管理的总入口， http://code.google.com/p/sociallearnlab/
+（2）社区项目管理的总入口， 
 
- 
-（3）社区发展Log日志， http://code.google.com/p/sociallearnlab/w/edit/SllLog
-
- 
-（4）社区核心论坛资源整理，http://code.google.com/p/sociallearnlab/wiki/SllGgResource
-
-
-（5）社区字典，http://code.google.com/p/sociallearnlab/wiki/SllDict
+http://code.google.com/p/sociallearnlab/
 
  
-（6）社区9月简报，http://code.google.com/p/sociallearnlab/wiki/SllBrief080901  
+（3）社区发展Log日志， 
+
+http://code.google.com/p/sociallearnlab/w/edit/SllLog
 
  
-（7）社区10月简报，http://code.google.com/p/sociallearnlab/wiki/SllBrief081001
+（4）社区核心论坛资源整理，
+
+http://code.google.com/p/sociallearnlab/wiki/SllGgResource
+
+
+（5）社区字典，
+
+http://code.google.com/p/sociallearnlab/wiki/SllDict
 
  
-（8）好看教研周简报，http://code.google.com/p/sociallearnlab/wiki/ItcHkbBreif001
+（6）社区9月简报，
 
-
-（9）社区组织集体交流方法建议，http://code.google.com/p/sociallearnlab/wiki/TipsCommunication
-
-
-（10）社区进入速浏，http://code.google.com/p/sociallearnlab/wiki/SllQuickInto
+http://code.google.com/p/sociallearnlab/wiki/SllBrief080901  
 
  
-（11）社区参与流程，http://code.google.com/p/sociallearnlab/wiki/SllFlows
+（7）社区10月简报，
 
-
-（12）使用GoogleCodeWiki命名的规范，http://code.google.com/p/sociallearnlab/wiki/UsageDocName
-
-
-（13）社区发展目标，http://code.google.com/p/sociallearnlab/wiki/SllGoal 
+http://code.google.com/p/sociallearnlab/wiki/SllBrief081001
 
  
-（14）社区相关资源分布，http://code.google.com/p/sociallearnlab/wiki/SllResource
+（8）好看教研周简报，
+
+http://code.google.com/p/sociallearnlab/wiki/ItcHkbBreif001
+
+
+（9）社区组织集体交流方法建议，
+
+http://code.google.com/p/sociallearnlab/wiki/TipsCommunication
+
+
+（10）社区进入速浏，
+
+http://code.google.com/p/sociallearnlab/wiki/SllQuickInto
+
+ 
+（11）社区参与流程，
+
+http://code.google.com/p/sociallearnlab/wiki/SllFlows
+
+
+（12）使用GoogleCodeWiki命名的规范，
+
+http://code.google.com/p/sociallearnlab/wiki/UsageDocName
+
+
+（13）社区发展目标，
+
+http://code.google.com/p/sociallearnlab/wiki/SllGoal 
+
+ 
+（14）社区相关资源分布，
+
+http://code.google.com/p/sociallearnlab/wiki/SllResource
+
+（15）九月“好看教研”（Itc-Haokanbu）项目实施记录
+
+http://code.google.com/p/sociallearnlab/wiki/ItcHaokanbuLog
+
+（16）九月《Google服务应用手册》（GSH)项目实施记录
+
+http://code.google.com/p/sociallearnlab/wiki/GshLog
 
 
 
