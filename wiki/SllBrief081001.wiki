@@ -51,25 +51,29 @@ http://www.haokanbu.com/story/108343
   丁笑飞老师在“好看教研”项目中的《课间乐》写作 ，
   http://www.haokanbu.com/story/115404/
 }}}
- 
 
- 
-
-好看教研项目的实施第1周进展简报，
-
+  * 发布好看教研第1周进展简报，
 http://code.google.com/p/sociallearnlab/wiki/ItcHkbBreif001
 
+*3.好看活动*
+  * 活动：ITC-Haokanbu“我和我的学生及我们的学校”
+http://www.haokanbu.com/event/1263/
+  * 活动：各地信息技术类教材目录， 
+http://www.haokanbu.com/event/1587/ 
+  * 活动：我的家乡-校际合作中的相互认识，
+http://www.haokanbu.com/event/1620/ 
 
+*4.项目管理*
 
-即“基于好看簿之社会化教学活动设计研究(实施提纲)” ，/  
+  * “好看教研”项目知识管理，
+http://code.google.com/p/sociallearnlab/wiki/ItcHaokanbu   
+  *　教学行进中的研讨邮件列表，
+http://groups.google.com/group/itc-haokanbu
+  * 好看簿中的项目小组，
+http://www.haokanbu.com/group/130/
 
-*（3）建立项目实施交流网络平台*
-
-  * 好看教研小组：http://www.haokanbu.com/group/130/
-
-  * 好看教研邮件列表：http://groups.google.com/group/itc-haokanbu
-
-  * 好看教研项目数据整理：http://code.google.com/p/sociallearnlab/wiki/ItcHaokanbu
+*5.发起了教师教学实施用网条件调查*
+结果在统计中。
 
 
 == *GSH项目* ==
