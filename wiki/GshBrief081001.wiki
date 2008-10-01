@@ -1,8 +1,8 @@
-#summary GSH项目第一期简报.
+#summary GSH项目开发计划.
 #labels GSH,Google,Featured
 
 [GSH]首页
-= GSH项目简报 =
+= GSH项目开发计划 =
 
 == GSH项目简介 ==
 GSH项目是《Google服务应用手册》的英文“Google Service Handbook”的缩写“GSH”。GSH是“教育大发现”社区发起的图书编写项目的子项目，旨在将Google服务（产品）引入教育教学，为更多的教师和学习者服务，推进Google服务与教育的结合，构建Web2.0环境下的网络教育新形式。
