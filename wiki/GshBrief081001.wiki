@@ -170,13 +170,22 @@ SEE:
  * 14、G日报：http://gribao.com/
 
 == 八、写作平台应用说明 ==
+
 GoogleCode应用手册：
+
 http://code.google.com/p/sociallearnlab/wiki/
+
 SVN简明介绍：
+
 http://code.google.com/p/sociallearnlab/wiki/UsageSVN
+
 IRC使用说明：
+
 http://code.google.com/p/sociallearnlab/wiki/UsageIRC
+
 Everydo使用说明：
+
 http://code.google.com/p/sociallearnlab/wiki/UsageEverydo
+
 == 九、GSH项目实施日志 ==
 参见GshLog
