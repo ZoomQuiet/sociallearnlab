@@ -4,7 +4,7 @@
 
 = 课例：谢贤晓 《我向往的地方》（小学） =
 
-==一、方案背景与产生过程==
+== 一、方案背景与产生过程 ==
         为何要让学生参与到好看簿这个项目的实验中来，我把自己的想法进行了记录：      
   
         http://www.haokanbu.com/diary/18695/
@@ -90,7 +90,8 @@ http://groups.google.com/group/itc-haokanbu/browse_thread/thread/c2a10fba6933059
 ））））第二课时描述，谢贤晓补充
 
 
-==二、方案设计与教学实施==（谢贤晓补充）
+== 二、方案设计与教学实施 ==
+（谢贤晓补充）
 
 （相比前面的“方案背景与产生过程”，这一部分内容完全是紧扣教学准备和实施进行了介绍内容。
 
@@ -118,7 +119,8 @@ http://groups.google.com/group/itc-haokanbu/browse_thread/thread/c2a10fba6933059
 第二课时教学实施：http://www.haokanbu.com/diary/18163/
 
 
-==三、学生成就分析==（谢贤晓补充）
+==三、学生成就分析==
+（谢贤晓补充）
 
 （包括两部分内容，一部分就是对学生作品的分析，另一部分内容是通过问卷或者访谈收集的学习对该学习活动经历的反馈信息。）
 
@@ -184,8 +186,15 @@ http://groups.google.com/group/itc-haokanbu/browse_thread/thread/c2a10fba6933059
 
 http://groups.google.com/group/itc-haokanbu/browse_thread/thread/8b66a882e68c09e1# 
 
+== 参考网址 ==
+ * http://www.haokanbu.com/user/15248/
 
- 
+ * http://groups.google.com/group/itc-haokanbu/web/cnxiexianxiao
+
+ * http://code.google.com/p/sociallearnlab/wiki/ItcHaokanbuXiexianxiao
+
+ * 好看教研好故事系列(1),
+http://sociallearnlab.org/blog/?p=317
 
 ---- 
 
