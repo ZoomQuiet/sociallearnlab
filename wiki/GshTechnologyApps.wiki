@@ -103,7 +103,7 @@ http://lh4.ggpht.com/bnuleo/SOCa3b5KWjI/AAAAAAAAARY/1y2lMCz3OSo/s800/charpt13-10
 
 图charpt13-09
 
-配置时应注意按照正确的顺序与优先级排名配置记录，同时注意域名后面的尾随点必须要加上。配置完成后，点击“我已经完成了这些步骤”，然后等待邮件激活。所有的组件启用和激活后如下图charpt13-11。组件服务的网址为默认的google服务的网址，如果需要自定义的网址，须在域名托管公司的网站添加CNAME记录。
+配置时应注意按照正确的顺序与优先级排名配置记录，同时注意域名后面的尾随点必须要加上“."。配置完成后，点击“我已经完成了这些步骤”，然后等待邮件激活。所有的组件启用和激活后如下图charpt13-11。组件服务的网址为默认的google服务的网址，如果需要自定义的网址，须在域名托管公司的网站添加CNAME记录。
 
 http://lh5.ggpht.com/bnuleo/SOCbWoXibsI/AAAAAAAAARg/vRloTzcTTdo/s800/charpt13-11.PNG
 
