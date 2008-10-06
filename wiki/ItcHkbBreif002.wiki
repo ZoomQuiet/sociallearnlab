@@ -4,7 +4,7 @@
 返回项目首页ItcHaokanbu  。
 
 
-==1.共同活动== 
+=1.共同活动=
 
   * 活动：教育大发现: 认识我，从这里开始……，
 http://www.haokanbu.com/event/1471/
@@ -16,7 +16,7 @@ http://www.haokanbu.com/event/1587/
 http://www.haokanbu.com/event/1678/
 
 
-==2.实施完毕的教学活动案例一==
+=2.实施完毕的教学活动案例一=
 
 *(1) 活动主题：我向往的地方*
 
@@ -60,7 +60,7 @@ http://www.haokanbu.com/diary/18536/
 
 http://www.haokanbu.com/story/115225/
 
-==3.实施完毕的教学活动案例二==
+=3.实施完毕的教学活动案例二=
 
 *(1) 活动主题：课间乐*
 
@@ -94,12 +94,12 @@ http://www.haokanbu.com/diary/18370/
 
 http://www.haokanbu.com/story/115404/
 
-==4.实施完毕的教学活动案例小结整理与分析==
+=4.实施完毕的教学活动案例小结整理与分析=
 
 这项工作在进行中，其中晓晓老师关于《我向往的地方》案例整理的的初稿第一个稿已经初步完成，在润色修改中。
 
 
-==5.进展中的校际合作活动==
+=5.进展中的校际合作活动=
 *（1）校际合作主题：我的家乡*
   * 活动：我的家乡-校际合作中的介绍，
 
@@ -120,7 +120,7 @@ http://www.haokanbu.com/user/15248/
 http://www.haokanbu.com/user/4128/
   * 活动："画说襄樊"
 
-==6.进展中的其他活动==
+=6.进展中的教学活动=
 
 *（1）向明老师：高一好看簿活动《我最向往的地方》*
   * 湖南吉首市民族中学155班156班班级小组：
@@ -148,8 +148,16 @@ http://www.haokanbu.com/story/113796/
   * 搽耳小学初2010级2班班级活动小组，
 http://www.haokanbu.com/group/196/
 
+=7.教师教学实施用网条件调查结果=
 
-Google“好看教研”论坛收集整理：
+  * 教师教学实施用网条件调查结果,
+http://spreadsheets.google.com/pub?key=pD9z06pJtUC7VOIGSJbm7Hw 
+
+  * 还没有参加调查的老师请通过之前我们共享的Google文档《" 基于好看簿之信息技术课程教学改革研究 " 教师教学实施用网条件调查》完成此次调查合作,
+
+https://spreadsheets.google.com/ccc?key=pD9z06pJtUC6j_ATb8vLnQA&hl=en_GB 
+
+=8.Google“好看教研”论坛收集整理=
 
 == 好看教研项目前期准备 ==
 
@@ -265,9 +273,10 @@ https://groups.google.com/group/itc-haokanbu/web/itspanther
 google group上的记录：
 https://groups.google.com/group/itc-haokanbu/web/
 
-== 教学设计案例：（按时间、活动的顺序排列，在gmial里输入“ITC-Haokanbu＋编号”可查询相关主题内容 ）==
+== 教学设计案例==
+（按时间、活动的顺序排列，在gmial里输入“ITC-Haokanbu＋编号”可查询相关主题内容 ）
 
-* 谢贤晓发起
+* 谢贤晓发起*
 
 [ITC-Haokanbu:31] 构思第一个活动的主题（昆阳二小 六年（1））谢贤晓老师开始构思活动主题
 
@@ -301,7 +310,7 @@ http://www.haokanbu.com/event/1522/
 教学设计方案（摘自晓晓老师日记）：
 http://www.haokanbu.com/diary/17909/
 
-* 向明老师发起
+* 向明老师发起*
 
 [ITC-Haokanbu:137] 2008年秋季高一信息技术《我最向往的地方》活动（同一个主题帖）
 
@@ -311,18 +320,18 @@ http://groups.google.com/group/itc-haokanbu/browse_thread/thread/7d6a96c15b89075
 [ITC-Haokanbu:538] 高一好看簿活动《我最向往的地方》（教学设计案例，向明老师）
 
 
-* 江平发起
+* 江平发起*
 
 [ITC-Haokanbu:153] 活动：月饼盒里不仅仅是月饼（通过活动认识社会，了解社会）
 http://www.haokanbu.com/event/1466/
 
-* （丁老师）
+* 丁笑飞老师*
 
-课间乐》故事，
+《课间乐》故事，
 
 http://www.haokanbu.com/story/112536/
 
- 　《课间乐》活动，
+《课间乐》活动，
 
 http://www.haokanbu.com/event/1553/
 
@@ -355,7 +364,7 @@ http://www.haokanbu.com/story/112536/
 
 
 
-[ITC-Haokanbu:439] View this page "综合实践活动《保护水资源》的教学设想"（包老师）
+[ITC-Haokanbu:439] "综合实践活动《保护水资源》的教学设想"（包老师）
 
 https://groups.google.com/group/itc-haokanbu/browse_thread/thread/e699ffdc50a534c3/e91911e4090a58fb#e91911e4090a58fb
 
@@ -388,8 +397,7 @@ http://tinyurl.com/52pco5
 http://code.google.com/p/sociallearnlab/wiki/ItcHaokanbuTom
 
 
-
-== 教学方法：==
+== 教学方法==
 
 [ITC-Haokanbu:64] 社会化学习中，教学组织的最终目标是什么？
 
@@ -398,62 +406,40 @@ http://code.google.com/p/sociallearnlab/wiki/ItcHaokanbuTom
 
 [ITC-Haokanbu:3] 深圳市初一年级上学期信息技术教学内容 （引申出信息技术教材目录的展示）
 
-== 问题与关注：==
+== 问题与关注==
 
-[ITC-Haokanbu:71] 为什么要使用好看簿？（项目初期的疑惑）
+[ITC-Haokanbu:71] 为什么要使用好看簿？
 
 [ITC-Haokanbu:73] 如何吸引学生使用好看簿？
 
-[ITC-Haokanbu:257] 关于好看簿中的文字和图片比例问题！（长城发帖，引申出在“好看簿”整理教育类主题的tag问题）
-
-[ITC-Haokanbu:568] 拟将参加“基于好看簿之社会化教学活动设计研究”（ITC－Haokanbu）项目的教师活动/信息课例作为研究内容（好看教研的总体设计，建议，方向。好看关注点，问题讨论）
+[ITC-Haokanbu:257] 关于好看簿中的文字和图片比例问题！
+（长城发帖，引申出在“好看簿”整理教育类主题的tag问题）
 
 
 == 好看班级小组地址 ==
 
-
-张家港市东莱小学班级小组
+ * 黄利锋老师，张家港市东莱小学班级小组，
 
 http://www.haokanbu.com/group/146/
 
-湖南吉首市民族中学155班156班班级小组：
+ * 向明老师，湖南吉首市民族中学155班156班班级小组：
 
 http://www.haokanbu.com/group/166/
 
-平阳县昆阳二小六年（1）班小组
+ * 谢贤晓老师，平阳县昆阳二小六年（1）班小组
 
 http://www.haokanbu.com/group/142/
 
-平阳县昆阳二小六年（1）班小组
+ * 谢贤晓老师，平阳县昆阳二小六年（1）班小组
  
 http://www.haokanbu.com/group/149/
 
-"动物分类"班级小组地址：
+ * 邓云老师，深圳市南山实验学校麒麟中学部7（6）班，"动物分类"班级小组地址：
 
 http://www.haokanbu.com/group/192/
 
-== 好看班级活动地址 ==
+  * 王万清老师，搽耳小学初2010级2班班级活动小组，
+http://www.haokanbu.com/group/196/
 
-活动“美丽港城我的家”
-
-http://www.haokanbu.com/event/1519/
-
-活动一“我最向往的地方------”
-
-http://www.haokanbu.com/event/1522/
-
-无脊椎动物
-
-http://www.haokanbu.com/event/1629/
-
-脊椎动物：
-
-http://www.haokanbu.com/event/1619/
- 
-
-
-－－－
-
-我和我的学生及我们的学校””
-
-http://www.haokanbu.com/event/1263/
+  * 王军老师，小组: 高中信息技术学习共同体，
+http://www.haokanbu.com/group/157/
