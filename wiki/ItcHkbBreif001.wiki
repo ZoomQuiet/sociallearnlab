@@ -3,6 +3,8 @@
 
 返回项目首页ItcHaokanbu  。
 
+第2期，ItcHkbBreif002 
+
 
   * 写在最前面的话
   * 第1周任务小结
