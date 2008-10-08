@@ -50,6 +50,29 @@
 
 叙述统一： 就是从使用的角度,将一个服务的"领域问题/基本使用/高级使用/引申讨论/小技巧的说明就好 “这个算是万能公式“
 
+
+== 图片管理 ==
+
+图片管理采用分散+集中的方式，分散到自己的Yupoo,Flickr和Picasa上，集中到Delicious上。具体操作：大家把图片分散放到自己的Yupoo,Flickr和Picasa上,然后添加到delicious，在Delicious里面必须用统一的标签：GSH,GSH-Picasa，GSH-Gmail等等之类的!这样便于图片管理!
+Tag使用规则详细如下：
+每张图片至少两个标签（全英文及英文标点）：GSH 和 GSH-xxx 不同章节分别为
+
+ # GshTechnologyGmail           GSH-Gmail     
+ # GshTechnologyNotebook        GSH-Notebook
+ # GshTechnologyPicasa          GSH-Picasa
+ # GshTechnologyGroups          GSH-Groups
+ # GshTechnologyIgoogle         GSH-Igoogle
+ # GshTechnologyDocuments       GSH-Documents
+ # GshTechnologyBook            GSH-Book
+ # GshTechnologyCalendar        GSH-Calendar
+ # GshTechnologyReader          GSH-Reader
+ # GshTechnologyEarth           GSH-Earth
+ # GshTechnologyMap             GSH-Map
+ # GshTechnologyApps            GSH-Apps
+ # GshTechnologyScholar         GSH-Scholar
+
+tips:也可以适当的使用delicious的notes功能，加入一些注释，便于管理
+
 == Tips ==
 
 有问题通过论坛或者IRC讨论，学会使用Issue，尽量在协作中发掘、完善项目操作管理方法，写作不是唯一目的！
