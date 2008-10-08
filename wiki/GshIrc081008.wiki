@@ -5,6 +5,9 @@
 
 08年10月8日21：00～22：40 GSH项目IRC会议记录
 
+= 参会人员 =
+参会人员(各位google帐号名称)：chengcheng1098   zoom.quiet   Tom  xiuli  bnuleo   liangya.sg   xiansf  hzh2008624   alexyu 
+
 = 议题 =
 1、如何管理图书中的图片问题？
 
@@ -19,6 +22,25 @@
 = 会议概要 =
 === 1、如何管理图书中的图片问题？===
 图片管理采用分散+集中的方式，分散到自己的Yupoo,Flickr和Picasa上，集中到Delicious上。具体操作：大家把图片分散放到自己的Yupoo,Flickr和Picasa上,然后添加到delicious，在Delicious里面必须用统一的标签：GSH,GSH-Picasa，GSH-Gmail等等之类的!这样便于图片管理!
+Tag使用规则详细如下：
+每张图片至少两个标签（全英文及英文标点）：GSH 和 GSH-xxx 不同章节分别为
+
+ # GshTechnologyGmail           GSH-Gmail     
+ # GshTechnologyNotebook        GSH-Notebook
+ # GshTechnologyPicasa          GSH-Picasa
+ # GshTechnologyGroups          GSH-Groups
+ # GshTechnologyIgoogle         GSH-Igoogle
+ # GshTechnologyDocuments       GSH-Documents
+ # GshTechnologyBook            GSH-Book
+ # GshTechnologyCalendar        GSH-Calendar
+ # GshTechnologyReader          GSH-Reader
+ # GshTechnologyEarth           GSH-Earth
+ # GshTechnologyMap             GSH-Map
+ # GshTechnologyApps            GSH-Apps
+ # GshTechnologyScholar         GSH-Scholar
+
+tips:也可以适当的使用delicious的notes功能，加入一些注释，便于管理
+
 === 2、每人已经编写好的图书一章内容，讨论存在什么问题，有什么优缺点？===
 李新宇老师（Bnuleo）：管理google apps这块体验不深，还需要加强和修改，没有应用环境，所以很难把APPs深入用下去。小石老师（xiansf）:Gmail写作。。。
 解决方法：关于Apps的问题，李老师给大家每人一个余波那个域名的Apps帐号，发到邮箱中，大家来用用，一同感受下，应该不会耽误大家太多时间，这样也解决了Sites的问题吧！大家在实践中成长和学习。
