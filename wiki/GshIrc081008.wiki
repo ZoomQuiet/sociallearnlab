@@ -1,5 +1,5 @@
 #summary 081008IRC会议记录——GSH项目
-#labels GSH,log,IRC
+#labels GSH,Log,IRC
 
 = 介绍 =
 
