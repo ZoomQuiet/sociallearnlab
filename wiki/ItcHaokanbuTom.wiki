@@ -1,11 +1,11 @@
-#summary 汤富源老师的教学研究记录
+#summary 汤冨源老师的教学研究记录
 #labels Research,ItcHaokanbu,汤富源,Tom
 
 返回项目首页［ItcHaokanbu］
 
 项目团队：黄利锋ItcHaokanbuhlf  江平ItcHaokanbuJping  向明ItcHaokanbuXiangMing  丁老师[ItcHaokanbuBanzhurenD]  张晋梅[ItcHaokanbuZhangJM]
 
-= 汤富源 （Tom）=
+= 汤冨源 （Tom）=
 
 Tom的好看薄
 
@@ -20,7 +20,7 @@ Email:  mynetlive@gmail.com
 
 课程名称： 《管理信息系统》
 
-专业班级：  2006级物流管理 （1） 、（2）班   （大三学生）
+专业班级：  物流管理专业（06级）
 
 人数： 57+56  =  113
 
@@ -593,5 +593,3 @@ Twitter  --- 微型博客，也称一句话博客
 
 
 大学生是具备一定独立自主能力的群体，对于Web2.0的社会性软件和工具，介绍给他们之后，应该让他们加入自己的判断，并作出选择。如何把Web2.0技术工­具与方法跟大学生的个人提升、就业发展、融入社会尽可能的关联起来，可能是影响大学生使用和体验深度的一个主要因素。 
-
-
