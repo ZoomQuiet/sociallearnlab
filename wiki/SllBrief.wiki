@@ -1,56 +1,168 @@
+#summary 教育大发现社区简报（第3期）.
 #labels Featured,Phase-Design,SllBrief
-= 教育大发现社区简报 =
-{{{
-社区需要凝聚, 大众需要知晓;
-目标阶段前进, 成果定期汇报!
-}}}
 
-== 简报发行 ==
-[https://groups.google.com/group/sociallearnlab-members/browse_thread/thread/22b0755e9779d2dc/43e82e8cef3fcbd9 使用十年树木,百年树人的谚语概念],将不同阶段的社区活动,都和植物进行隐喻:
- * 0.0 seed ~ 种子
-  # [SllBrief080901] ~ 选种刊 _seed choice_ 已发行 [http://sociallearnlab.org/?page_id=67 点击查看] 
-  # SllBrief081001 ~ 净种刊 _seed clean_  ^筹备ing^
-  # ~ 育种刊 _seed grow_   ^筹备ing^
-  # ~ 冬藏刊  _seed winter store_  ^筹备ing^
-  # ~ 泡种刊 _seed vesic_  ^筹备ing^
-  # ~ 栽种刊  _seed fall_    ^筹备ing^
- * 0.1 bud ~ 芽
- * 0.2 grass ~ 草
- * 0.3 bush ~ 灌木
- * 0.4 arboret ~ 小树
- * 0.5 tree ~ 树
- * 0.6 woods ~ 树林
- * 0.7 forest ~ 森林
- * ...
+= 教育大发现 • 社区简报 =
 
-== 发行管理 ==
- * 发行方式: ?
- * 发行管理: ??
- * 撰写流程: ???
- 
-== 创刊词 ==
 
-我们社区的名字
 
-在为社区起名字的时候，大家都若有所思起来，不时冒出一个又一个名字。后来当有人提到从“地理大发现”到“教育大发现”的时候，大家产生了共鸣。 
+IRC会议讨论决定，成立论坛内容收集整理小组，小组成员是：吴长城、余波、石峰、王万清、李新宇（后来不是达成共识大家共建知识库吗，共同维护）
 
-“地理大发现”之前的世界是什么样子？可能不仅仅是对地理知识的无知和匮乏。 
+第三期简报由以上人员先期收集十月份的论坛资料并总结，最后形成简报提纲和内容并递交sll论坛审核发布。
 
-一些人为了贸易、贪婪或者生存，为了避开陆地上的豪强，为了绕过海峡上的封锁，不得不驾驶着粗布帆船远赴重洋。他们面对一片湛蓝的、或苍茫的，一望无际、或迷雾重重的，时而宁静、又时而咆哮的大海，不由得会心存敬畏。他们谨慎地沿着已知的航线缓缓前行——前人的经验是他们最宝贵的资源。尽管如此，他们仍然有随时被风浪卷走，抛离航线的危险。如果远离了航线，他们就只有在未知的海洋上，不得不更为谨慎又更为大胆地，在希望和恐惧的交加下，探寻生命的航线——他们可能会就此发现新的航线，也更可能会被无情的大海所吞没。 
+第一期简报：http://code.google.com/p/sociallearnlab/wiki/SllBrief080901
 
-更多的人，他们被迫生活在自己的世界里——生活在被海洋和疆域割裂的世界上。在既定的范围内，因循守旧，生活和思想被任意分割，碾碎，乃至揉捏成任意的形状。可以选择的是，要么适应这种生活，要么在无奈的抵抗中了却一生。许多人说，这就是命运。 
+第二期简报：http://code.google.com/p/sociallearnlab/wiki/SllBrief081001
 
-一个巨大的、笼罩一切的、沉重的、无情的、无知的盖子，笼罩在人们头顶上……。这和今天教育及其大多数受众的现状，何其相似？！ 
 
-每当谈到教育，就让人想起大学刚毕业的时候，许多人说我们"不了解社会"，因而也谈不上"不了解自己"；想起刚走出校门，梦想着到社会的海洋上自由自在地扬帆远航时，却处处受风浪和暗礁的折磨，有多少人闯过来，又有多少人沉下去。教育仍像那片茫茫的海洋，笼罩所有人，却没有几个人能获救。
+》》》》》》》》》》》》》》》》》》》》》》》》》》》》》》》》》》》》》》》》》》
 
- 
-"地理大发现"让我们重新认识到勇气和航海科技发展等对社会的推进作用，同样，今天是一个网络和教育技术大发展的时期，必将迎来一个"教育大发现"的时代，唯一缺少的是为迎接这个时代而组织起来的一群人，坚定地站在"排头兵"的位置上，标示教育和社会的方向，给更多的人以勇气和力量。
+==讨论意见区==
 
- 
-此外，"地理大发现"是事后人们给那个时代的命名，或许今天我们比过去更为自觉、更注重参与，在向更多的人介绍网络和社会化学习的同时，也更应该呼吁大家来共同参与、共同创造一个"教育大发现"的时代！
+0~需要分工，好看中的故事和活动需要分开整理，谁来整理故事？谁来整理活动？
 
- 
-由此，“教育大发现”也被确立为我们社区的名字。
- 
+还可以这样分：好看教研中有班级小组，有班级活动，还有跨校活动，还有各位成员提供的相关故事支持，尤其是庄老师，王军老师写的那些总结和介绍各位中小学教师如何参与进好看教研的故事
 
+
+
+1~建议：长城、李新宇收集GSH项目的内容及论坛其它内容。
+            石峰、余波、王万清收集“好看教研”有关的内容。
+
+本月GSH项的讨论不多，内容基本上都已集中在在wiki的项目日志和IRC会议记录中，比较全的，不需要花多少时间去整理，好看簿项目的整理是个难点，我这两天也帮助各位参与好看教研的中小学老师在googlegroup的日志页面https://groups.google.com/group/itc-haokanbu/web
+
+
+        根据余波的意见，我们同时整理好看里的内容吧
+
+
+3~需要挖掘和分析故事和活动的内容，不应仅仅停留在列出这些故事和活动的地址和出处
+
+4~除了项目内容，教育大发现社区还开展了“我的家乡活动”等增进社区成员了解的活动 http://www.haokanbu.com/event/1735/ 可以把这些活动经验分享
+
+
+
+》》》》》》》》》》》》》》》》》》》》》》》》》》》》》》》》》》》》》》》》》》
+
+==吴长城整理==
+
+《Google服务应用手册》
+GSH项目IRC会议：
+GshIrc081008:http://code.google.com/p/sociallearnlab/wiki/GshIrc081008
+会议概要：
+会议概要
+1、如何管理图书中的图片问题？
+
+图片管理采用分散+集中的方式，分散到自己的Yupoo,Flickr和Picasa上，集中到Delicious上。具体操作：大家把图片分散放到自己的 Yupoo,Flickr和Picasa上,然后添加到delicious，在Delicious里面必须用统一的标签：GSH,GSH- Picasa，GSH-Gmail等等之类的!这样便于图片管理! Tag使用规则详细如下： 每张图片至少两个标签（全英文及英文标点）：GSH 和 GSH-xxx 不同章节分别为
+
+   1.
+
+
+   1. GshTechnologyGmail GSH-Gmail
+   2. GshTechnologyNotebook GSH-Notebook
+   3. GshTechnologyPicasa GSH-Picasa
+   4. GshTechnologyGroups GSH-Groups
+   5. GshTechnologyIgoogle GSH-Igoogle
+   6. GshTechnologyDocuments GSH-Documents
+   7. GshTechnologyBook GSH-Book
+   8. GshTechnologyCalendar GSH-Calendar
+   9. GshTechnologyReader GSH-Reader
+  10. GshTechnologyEarth GSH-Earth
+  11. GshTechnologyMap GSH-Map
+  12. GshTechnologyApps GSH-Apps
+  13. GshTechnologyScholar? GSH-Scholar 
+
+tips:也可以适当的使用delicious的notes功能，加入一些注释，便于管理
+
+2、每人已经编写好的图书一章内容，讨论存在什么问题，有什么优缺点？
+
+李新宇老师（Bnuleo）：管理google apps这块体验不深，还需要加强和修改，没有应用环境，所以很难把APPs深入用下去。小石老师（xiansf）:Gmail写作。。。解决方法：关于Apps的问题，李老师给大家每人一个余波那个域名的Apps帐号，发到邮箱中，大家来用用，一同感受下，应该不会耽误大家太多时间，这样也解决了Sites的问题吧！大家在实践中成长和学习。大家可以把每一章单独设立一个主题进行征集，放到Group中，大家跟贴。发到sociallearnlab论坛里面，然后，加上自己的章节标题，可以通过转发的形式转发到Google360中，形成更大的影响力。
+
+3、关于编写“情景”这块，有什么问题吗？那部分是故事组还是我们编写呢？
+
+“情景”这块主要由故事组编写，我们主要负责技术部分内容，庄老师主动承担了这块内容，其他朋友集思广益吧！
+
+4、关于新人加入GSH项目？
+
+朋友对GSH项目感兴趣，想加入，他不是教育大发现成员，那么，他应该先加入教育大发现，然后才能成为我们GSH图书编写项目的成员。
+
+5、关于下章内容编写改进措施？
+
+下章内容也以主题形式放到Group中吧，现在就开始收集资料！还可以通过Google快讯，收集每天的邮件，获取最新的资讯。同时，可以像是好看教研中老师发布教案那样，把我们要写的东西整理成大纲，集思广益。 提醒：下章交稿时间是11月11号。
+2008年10月成员完成的技术组章节内容：
+上官良雅的Picasa：
+http://code.google.com/p/sociallearnlab/wiki/GshTechnologyPicasa
+王万清的Reader：http://code.google.com/p/sociallearnlab/wiki/GshTechnologyReader
+吴长城的Calendar：http://code.google.com/p/sociallearnlab/wiki/GshTechnologyCalendar
+李新宇的GoogleAPPS：http://code.google.com/p/sociallearnlab/wiki/GshTechnologyApps
+余波的Notebook：http://code.google.com/p/sociallearnlab/wiki/GshTechnologyNotebook
+
+GG论坛中的讨论：
+Gmail使用的讨论：https://groups.google.com/group/sociallearnlab/browse_thread/thread/94546971dbe82067
+GoogleApps应用的讨论：
+https://groups.google.com/group/sociallearnlab/browse_thread/thread/644b845c2f61004d
+
+
+
+--------------
+==李新宇整理==
+
+活动：共建好看“活动”教学资源库
+http://www.haokanbu.com/event/1994/
+》故事：好看教研项目：实施主要技术支持环境20081022 
+http://www.haokanbu.com/story/126479/
+
+》江平发起：活动：校园心语系列
+http://www.haokanbu.com/event/1988/
+
+》活动：我的家乡-校际合作中运用
+http://www.haokanbu.com/event/1620/
+
+》[ITC-Haokanbu:996] 好看教研项目一些说明(给还未参加教学活动设计与实施的老师)
+
+(1) 好看教研项目：实施主要技术支持环境,
+http://www.haokanbu.com/story/126479/
+
+如果你还没有把这些支持环境用起来,请快速注册使用.
+
+(2)   好看教研项目：人与人交流的活动   ,
+http://www.haokanbu.com/story/126479/
+
+如果你对应用网络跟其他老师进行交流,还有什么心理上的顾虑,
+打消它吧, 勇猛地加入到实践的行动队列中.
+
+(3)好看教研项目：教师参加项目进行教学活动设计实施的基本流程
+http://www.haokanbu.com/story/126685/
+
+参与项目的老师,一定要结合自己的教学实践,通过课的设计实施, 参与到项目中, 项目为大家的课的设计实施, 提供研讨交流推进的环境.
+
+我把跟项目实施有关的故事, 用一个活动捆绑关联在一起了,
+
+活动：ITCHaokanbu好看教研项目故事,
+http://www.haokanbu.com/event/1261/
+恳请大家能够把你写的跟这个项目实施有关的故事,加入到这个活动中,谢谢!
+目前我知道的有王军老师(四校合作概念图的那个) ,晓晓老师(总结的我向往的地方的案例),余波(在地图上找大家的那个)你们都有相关的故事,可以加
+到这个活动中.
+
+
+
+
+
+
+--------------
+==余波整理==
+
+
+
+
+
+--------------
+==石峰整理==
+
+
+
+
+--------------
+==王万清整理==
+
+
+
+
+--------------
