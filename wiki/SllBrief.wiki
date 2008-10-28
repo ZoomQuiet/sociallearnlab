@@ -14,33 +14,44 @@
 
 ==讨论意见区==
 
-本月GSH项的讨论不多，内容基本上都已集中在在wiki的项目日志 GSH 和IRC会议记录 GshIrc081008 中，比较全的，不需要花多少时间去整理，好看簿项目的整理是个难点，而且是个重点，目前已经出现了一些比较成功的课案。我觉得最好是把好看教研项目的进展情况先整理出来，归入知识库（wiki以及好看簿googlegroup的页面
- https://groups.google.com/group/itc-haokanbu/web ），
-这样就比较方便简报的编写，同时也是知识库建设与维护，我和李新宇老师商量了下，在28号要把这些整理完毕，大家分工协作吧 －－余波
+记录一些比较成功的课案
 
-0~需要分工，好看中的故事和活动需要分开整理，谁来整理故事？谁来整理活动？
+好看教研项目的进展情况先整理出来
 
-好看教研中有班级小组，有班级活动，还有跨校活动，还有各位成员提供的相关故事支持，尤其是庄老师，王军老师写的那些总结和介绍各位中小学教师如何参与进好看教研的故事
+归入知识库（wiki以及好看簿googlegroup的页面
+https://groups.google.com/group/itc-haokanbu/web ），
+
+好看中的故事和活动需要分开整理
+
+好看教研中有班级小组，有班级活动，还有跨校活动，各位成员提供的相关故事支持，尤其是庄老师，王军老师写的那些总结和介绍各位中小学教师如何参与进好看教研的故事
+
 好看教研也许可以按照教师来整理，目前主要有这些教师：
+
 江平    jping2            http://www.haokanbu.com/user/2144/
+
 张晋梅    小荷才露尖尖角    http://www.haokanbu.com/user/3773/
+
 王军    itspanther    http://www.haokanbu.com/user/4128/
+
 向明    Xiang.Ming    http://www.haokanbu.com/user/2705/
+
 包士娟    baosj            http://www.haokanbu.com/user/2539/
+
 丁笑飞    banzhurend      http://www.haokanbu.com/user/74410/
+
 黄利锋    黄利锋               http://www.haokanbu.com/user/1045/
+
 谢贤晓    晓晓               http://www.haokanbu.com/user/15248/
 
-还有一些老师也在参与，但是没有加入到社区讨论中来，或者有些只是在潜水观望，这些潜在的或者说参与的还不太充分的由我来重点整理，大家可以在上面列表的那些老师中认领，整理可以放在wiki以及好看簿googlegroup的页面https://groups.google.com/group/itc-haokanbu/web
-（以上是我的一个建议，大家可以提出自己的想法，但是一定要尽快，因为时间是比较紧张的 ）
+还有一些老师也在参与，但是没有加入到社区讨论中来，或者有些只是在潜水观望，这些潜在的或者说参与的还不太充分的由我来重点整理，大家可以在上面列表的那些老师中认领，整理可以放在wiki以及好看簿googlegroup的页面
 
+https://groups.google.com/group/itc-haokanbu/web
 
-3~需要挖掘和分析故事和活动的内容，不应仅仅停留在列出这些故事和活动的地址和出处
+需要挖掘和分析故事和活动的内容，不应仅仅停留在列出这些故事和活动的地址和出处
 
-是的，这一步很重要，大家可以提出要整理成什么样子的，最好是整理出一部分样本来，然后共享讨论
+除了项目内容，教育大发现社区还开展了“我的家乡活动”等增进社区成员了解的活动 
 
-
-4~除了项目内容，教育大发现社区还开展了“我的家乡活动”等增进社区成员了解的活动 http://www.haokanbu.com/event/1735/ 可以把这些活动经验分享
+http://www.haokanbu.com/event/1735/ 可以把这些活动经验分享
 
 
 
@@ -49,31 +60,56 @@
 
 ==吴长城整理==
 
-《Google服务应用手册》
-GSH项目IRC会议：
-GshIrc081008:http://code.google.com/p/sociallearnlab/wiki/GshIrc081008
+《Google服务应用手册》GSH项目IRC会议：GshIrc081008:
+
+http://code.google.com/p/sociallearnlab/wiki/GshIrc081008
+
 会议概要：
-会议概要
+
 1、如何管理图书中的图片问题？
 
 图片管理采用分散+集中的方式，分散到自己的Yupoo,Flickr和Picasa上，集中到Delicious上。具体操作：大家把图片分散放到自己的 Yupoo,Flickr和Picasa上,然后添加到delicious，在Delicious里面必须用统一的标签：GSH,GSH- Picasa，GSH-Gmail等等之类的!这样便于图片管理! Tag使用规则详细如下： 每张图片至少两个标签（全英文及英文标点）：GSH 和 GSH-xxx 不同章节分别为
 
-   1.
+   
+1. GshTechnologyGmail GSH-Gmail
+
+  
+2. GshTechnologyNotebook GSH-Notebook
 
 
-   1. GshTechnologyGmail GSH-Gmail
-   2. GshTechnologyNotebook GSH-Notebook
-   3. GshTechnologyPicasa GSH-Picasa
-   4. GshTechnologyGroups GSH-Groups
-   5. GshTechnologyIgoogle GSH-Igoogle
-   6. GshTechnologyDocuments GSH-Documents
-   7. GshTechnologyBook GSH-Book
-   8. GshTechnologyCalendar GSH-Calendar
-   9. GshTechnologyReader GSH-Reader
-  10. GshTechnologyEarth GSH-Earth
-  11. GshTechnologyMap GSH-Map
-  12. GshTechnologyApps GSH-Apps
-  13. GshTechnologyScholar? GSH-Scholar 
+   
+3. GshTechnologyPicasa GSH-Picasa
+
+   
+4. GshTechnologyGroups GSH-Groups
+
+  
+5. GshTechnologyIgoogle GSH-Igoogle
+
+   
+6. GshTechnologyDocuments GSH-Documents
+
+   
+7. GshTechnologyBook GSH-Book
+
+   
+8. GshTechnologyCalendar GSH-Calendar
+
+   
+9. GshTechnologyReader GSH-Reader
+
+  
+10. GshTechnologyEarth GSH-Earth
+
+  
+11. GshTechnologyMap GSH-Map
+
+  
+12. GshTechnologyApps GSH-Apps
+
+  
+13. GshTechnologyScholar? GSH-Scholar 
+
 
 tips:也可以适当的使用delicious的notes功能，加入一些注释，便于管理
 
@@ -92,17 +128,26 @@ tips:也可以适当的使用delicious的notes功能，加入一些注释，便�
 5、关于下章内容编写改进措施？
 
 下章内容也以主题形式放到Group中吧，现在就开始收集资料！还可以通过Google快讯，收集每天的邮件，获取最新的资讯。同时，可以像是好看教研中老师发布教案那样，把我们要写的东西整理成大纲，集思广益。 提醒：下章交稿时间是11月11号。
+
 2008年10月成员完成的技术组章节内容：
+
 上官良雅的Picasa：
 http://code.google.com/p/sociallearnlab/wiki/GshTechnologyPicasa
+
 王万清的Reader：http://code.google.com/p/sociallearnlab/wiki/GshTechnologyReader
+
 吴长城的Calendar：http://code.google.com/p/sociallearnlab/wiki/GshTechnologyCalendar
+
 李新宇的GoogleAPPS：http://code.google.com/p/sociallearnlab/wiki/GshTechnologyApps
+
 余波的Notebook：http://code.google.com/p/sociallearnlab/wiki/GshTechnologyNotebook
 
 GG论坛中的讨论：
+
 Gmail使用的讨论：https://groups.google.com/group/sociallearnlab/browse_thread/thread/94546971dbe82067
+
 GoogleApps应用的讨论：
+
 https://groups.google.com/group/sociallearnlab/browse_thread/thread/644b845c2f61004d
 
 
@@ -114,6 +159,7 @@ http://groups.google.com/group/itc-haokanbu
 
 活动：共建好看“活动”教学资源库
 http://www.haokanbu.com/event/1994/
+
 》故事：好看教研项目：实施主要技术支持环境20081022 
 http://www.haokanbu.com/story/126479/
 
@@ -148,6 +194,7 @@ http://www.haokanbu.com/story/126685/
 
 活动：ITCHaokanbu好看教研项目故事,
 http://www.haokanbu.com/event/1261/
+
 恳请大家能够把你写的跟这个项目实施有关的故事,加入到这个活动中,谢谢!
 目前我知道的有王军老师(四校合作概念图的那个) ,晓晓老师(总结的我向往的地方的案例),余波(在地图上找大家的那个)你们都有相关的故事,可以加
 到这个活动中.
