@@ -4,8 +4,39 @@
 = 2018年中国教育宣言~草案 =
 
 == 背景 ==
+ * [http://www.douban.com/group/144786/ 中文网志年会教育圆桌会议小组]^豆瓣^
+ * [http://groups.google.com/group/Edu2/browse_thread/thread/59bc377a0c28ab6e 关于“2018年中国教育宣言”的一些商榷 - Edu 2.0 - 开放、协作、分享 | Google 网上论坛]
+ * [https://groups.google.com/group/sociallearnlab-members/browse_thread/thread/2d1d7ad043c1d2e3 面向2018年的中国教育宣言（集思广益） - SocialLearnLab-Members:“教育大发现”核心成员列表 | Google 网上论坛]
+
+=== 缘由 ===
+
+2008年教育网志年会，在广州举办，11月15-16，
+http://www.cnbloggercon.org/blog/
+
+=== 发端 ===
+
+教育大发现中参与人员报到,详见Tom的发帖,Tom在广东, 到时候在广州,请Tom提前组织一下,让教育大发现社区成员, 能够有个面对面如切如磋如琢如磨交流聚会机会, 请大家在这里回帖，即可：
+
+参加2008中文网志年会的社区朋友到这里知会一下，
+ * http://groups.google.com/group/sociallearnlab/browse_thread/thread/8e...
+
+=== 要务 ===
+
+“教育大发现社区” 与 “鸢尾花（IRIS）学习项目团队” 将要在这次网志年会上，共同组织一个圆桌会议，会议主题是：
+{{{
+面向2018年的中国教育宣言 。
+}}}
+ * 圆桌会议历时3个小时，即，2008年11月15日下午2:00pm--5:00pm
+ * 毛向辉(Issac Mao)先生是这个圆桌会议的主持，毛先生是我们教育大发现社区邀请的高级顾问。
+ * 吴向东 庄秀丽，负责会议策划，吴老师也是我们教育大发现的核心成员。
+
 
 == 思考 ==
+ 邀请大家思考:
+  # 面向未来10年内中国教育的发展,应该如何促动?
+  # 宣言应该如何起草
+  # 宣言应该包含什么
+
 
 == 宣言 ==
 
@@ -16,3 +47,4 @@
 
 == 参考 ==
  * [http://zh.wikipedia.org/wiki/%E7%8B%AC%E7%AB%8B%E5%AE%A3%E8%A8%80 美國獨立宣言 - 维基百科，自由的百科全书]
+ 
