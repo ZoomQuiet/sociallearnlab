@@ -1,6 +1,8 @@
 #summary ItcHaokanbu Proj.
 #labels Research,ItcHaokanbu
 
+*基于好看簿之社会化教学活动设计研究*
+
 项目实施日志[ItcHaokanbuLog]  
 
 谢贤晓[ItcHaokanbuXiexianxiao]
