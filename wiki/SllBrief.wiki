@@ -1,4 +1,4 @@
-#summary 教育大发现社区简报（第3期 起草中）.
+#summary 教育大发现社区简报（讨论稿）.
 #labels Featured,Phase-Design,SllBrief
 
 = 教育大发现 • 社区简报 =
