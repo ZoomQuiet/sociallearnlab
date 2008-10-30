@@ -3,7 +3,7 @@
 
 返回项目首页ItcHaokanbu  。
 
-第1期，ItcHkbBreif001 
+第2期，ItcHkbBreif002 
 
 
   * 1.共同活动
