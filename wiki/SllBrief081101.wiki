@@ -38,7 +38,7 @@
 （1）[http://mail.google.com/mail?hl... 注册Gmail邮箱]
 
 
-（2）注册Gmail邮箱之后，申请[http://groups.google.com/group... 加入项目研讨的邮件列表]
+（2）注册Gmail邮箱之后，[http://groups.google.com/group... 申请加入项目研讨的邮件列表]
 
 
 （3）注册好看簿，并[http://www.haokanbu.com/group/... 申请加入项目小组]
@@ -76,18 +76,18 @@ jping发起：[http://www.haokanbu.com/event/1715/ “画”说上海]
 
 邮件列表[ITC-Haokanbu:571] 中有各位老师的班级小组和活动地址
 
-黄利锋老师：
+* 黄利锋老师：
 
 [http://www.haokanbu.com/group/146/ 张家港市东莱小学班级小组]　
 
 [http://www.haokanbu.com/event/1519/ 活动“美丽港城我的家”]　
 
 
-向明老师：
+* 向明老师：
 
 [http://www.haokanbu.com/group/166/ 湖南吉首市民族中学155班156班班级小组]
 
-谢贤晓老师：
+* 谢贤晓老师：
 
 [http://www.haokanbu.com/group/142/ 平阳县昆阳二小六年（1）班小组] 
 
@@ -96,20 +96,20 @@ jping发起：[http://www.haokanbu.com/event/1715/ “画”说上海]
 [http://www.haokanbu.com/event/1522/ 活动一“我最向往的地方------”]
 
 
-dengyun老师：
+* dengyun老师：
 
 深圳市南山实验学校麒麟中学部7（6）班
 
-[http://www.haokanbu.com/group/192/ "动物分类"班级小组地址]
+[http://www.haokanbu.com/group/192/ "动物分类"班级小组]
 
-创建的活动地址：
+创建的活动：
 
 [http://www.haokanbu.com/event/1629/ 无脊椎动物] 
 
 [http://www.haokanbu.com/event/1619/ 脊椎动物]
 
 
-王万清老师：
+* 王万清老师：
 
 四川省南充市高坪区搽耳小学初2010级2班
 
@@ -119,7 +119,7 @@ http://www.haokanbu.com/group/196/
 
 
 
-汤富源老师：
+* 汤富源老师：
 
 广东商学院 06物流管理（1）、（2）班
 
@@ -132,7 +132,7 @@ http://www.haokanbu.com/group/196/
 好看簿活动----[http://www.haokanbu.com/event/64/ 【思维导图大本营】]  
 
 
-包士娟老师：
+* 包士娟老师：
 
 [http://www.haokanbu.com/event/1694/ 要塞实小五(4)班]
 
@@ -142,7 +142,7 @@ http://www.haokanbu.com/group/196/
 http://www.haokanbu.com/group/199/
 
 
-王军老师：
+* 王军老师：
 
 湖北襄樊四中高一年级
 
@@ -151,7 +151,7 @@ http://www.haokanbu.com/group/199/
 活动：[http://www.haokanbu.com/event/1695/ 画说襄樊]　
 
 
-江平老师：
+* 江平老师：
 
 上海西南模范中学 预初年级（相当于小学6年级）
 
@@ -161,35 +161,30 @@ http://www.haokanbu.com/group/199/
 
 最喜欢的活动：[http://www.haokanbu.com/event/713/ 我是谁] 
 
-谢老师带领昆阳二小六年一班、二班的学生，建立了两个小组参加了这个活动
-
-谢老师建的[http://www.haokanbu.com/group/142/ 昆阳二小六年一班的小组]
+谢老师带领昆阳二小六年一班、二班的学生，建立了两个小组参加了这个活动。[http://www.haokanbu.com/group/142/ 昆阳二小六年一班的小组;]
       
+[http://www.haokanbu.com/group/149/ 昆阳二小六年二班的小组;]  
 
-谢老师建的[http://www.haokanbu.com/group/149/ 昆阳二小六年二班的小组]
+一班同学也自建了一个小组，他们把这个活动也加入到他们的[http://www.haokanbu.com/group/150/  小组]里来了
       
-
-一班同学也自建了一个小组，他们把这个活动也加入到他们的小组里来了
-      
-http://www.haokanbu.com/group/150/ 
-
 
 === “好看教研”班级活动 ===
 
 
 丁老师发起的活动：[http://www.haokanbu.com/event/1553/ 课间乐]
       
-谢老师带领昆阳二小六年一班、二班的学生，建立了两个小组参加了这个活动
+
+谢老师带领昆阳二小六年一班、二班的学生，建立了两个小组参加了这个活动。
 
    
-谢老师建的[http://www.haokanbu.com/group/142/ 昆阳二小六年一班的小组]
+分别是[http://www.haokanbu.com/group/142/ 昆阳二小六年一班的小组]；
       
   
-谢老师建的[http://www.haokanbu.com/group/149/ 昆阳二小六年二班的小组]
+[http://www.haokanbu.com/group/149/ 昆阳二小六年二班的小组]。
       
-一班同学也自建了一个小组，他们把这个活动也加入到他们的小组里来了
+一班同学也自建了一个小组，他们把这个活动也加入到他们的[http://www.haokanbu.com/group/150/  小组]里来了
      
-http://www.haokanbu.com/group/150/ 
+
 
 === “好看教研”跨校活动 ===
 
@@ -217,9 +212,9 @@ http://www.haokanbu.com/group/150/
 [http://www.haokanbu.com/story/119006/ 学校介绍]
 
 
-活动小组：
+[http://www.haokanbu.com/group/146/ 活动小组]
 
-http://www.haokanbu.com/group/146/
+
 
 活动：[http://www.haokanbu.com/event/1519/ 美丽港城我的家]
 
@@ -291,10 +286,7 @@ http://www.haokanbu.com/group/146/
 
 （2）主动尝试让大家认识你了解你是谁，请详细参考故事，
   
-好看教研项目：[http://www.haokanbu.com/story/126624/ 人与人交流的活动]
-
-
-[http://www.haokanbu.com/story/120041/ 在地图上找大家]
+好看教研项目：[http://www.haokanbu.com/story/126624/ 人与人交流的活动]；[http://www.haokanbu.com/story/120041/ 在地图上找大家]。
 
 
 （3） 进行教学活动设计与实施，详细参考以下故事中的第一步、第二步、第三步，
@@ -405,6 +397,6 @@ http://www.haokanbu.com/group/146/
 
 == *其它方面* ==
 
-[SLL-mem:1154] [https://groups.google.com/group/sociallearnlab-members/browse_thread/thread/2d1d7ad043c1d2e3/e5054e982b6f5edf?lnk=gst&q=[SLL-mem%3A1154]#e5054e982b6f5edf 面向2018年的中国教育宣言（集思广益）]
+[https://groups.google.com/group/sociallearnlab-members/browse_thread/thread/2d1d7ad043c1d2e3/e5054e982b6f5edf?lnk=gst&q=[SLL-mem%3A1154]#e5054e982b6f5edf 面向2018年的中国教育宣言（集思广益）]
 
-[SLL-mem:1182] [https://groups.google.com/group/sociallearnlab-members/browse_thread/thread/567dac918d0e7318/c04df699af3a867f?lnk=gst&q=SLL-mem%3A1182#c04df699af3a867f [研讨]教育大发现社区管理结构要务]
+[https://groups.google.com/group/sociallearnlab-members/browse_thread/thread/567dac918d0e7318/c04df699af3a867f?lnk=gst&q=SLL-mem%3A1182#c04df699af3a867f 教育大发现社区管理结构要务]
