@@ -455,6 +455,7 @@ http://www.haokanbu.com/user/15248/diary/ ）
 
 故事上端的那个"推荐"按钮，鼠标放上去，没有反应。不能标注；不能编辑相片；
 
+
 ==  *Google服务应用手册(GSH)项目* ==
 
 === GSH项目IRC会议（GshIrc081008） ===
@@ -462,11 +463,15 @@ http://www.haokanbu.com/user/15248/diary/ ）
 http://code.google.com/p/sociallearnlab/wiki/GshIrc081008
 
 会议讨论了以下五个问题并形成了相关决议
+
 1、如何管理图书中的图片问题？
+
 2、每人已经编写好的图书一章内容，讨论存在什么问题，有什么优缺点？
 
 3、关于编写“情景”这块，有什么问题吗？那部分是故事组还是我们编写呢？
+
 4、关于新人加入GSH项目？
+
 5、关于下章内容编写改进措施？ 
 
 === 2008年10月成员完成的技术组章节内容 ===
@@ -488,6 +493,7 @@ http://code.google.com/p/sociallearnlab/wiki/GshTechnologyCalendar
 http://code.google.com/p/sociallearnlab/wiki/GshTechnologyApps
 
 余波的Notebook：
+
 http://code.google.com/p/sociallearnlab/wiki/GshTechnologyNotebook 
 
 以上初步完成的章节，还请大家多多参与讨论并修改。
