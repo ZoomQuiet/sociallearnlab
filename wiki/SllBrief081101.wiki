@@ -5,17 +5,17 @@
 
     第3期 育种刊
 
-  * 社区名字 
-  * 目标宗旨
-  * 社区团队
-  * 社区地图
-  * 社区项目
-  * 社区管理
-  * 十月进展
-  * 十一月规划
-  * 新友加入
-  * 简报发行
-  * “选种刊”注释
+ 
+  *  "好看教研"(ItcHaokanbu)项目
+  
+  *  Google服务应用手册(GSH)项目
+  
+  *  社区学习工具的使用
+  
+  *  社区正在进行时
+
+
+
 
 
 == *“好看教研”(ItcHaokanbu)项目* ==
@@ -266,12 +266,12 @@ http://www.haokanbu.com/group/199/
 
 === “好看教研”形成的课例和阶段性成果 ===
 
-[SLL-mem:1153] [http://groups.google.com/group/itc-haokanbu “好看教研” 实施汇报与分享]
+庄秀丽老师：[SLL-mem:1153] [http://groups.google.com/group/itc-haokanbu “好看教研” 实施汇报与分享]
 
-王军：[ITC-Haokanbu:774] [http://code.google.com/p/sociallearnlab/wiki/PCSID "画"说襄樊课堂实录]
+王军老师：[ITC-Haokanbu:774] [http://code.google.com/p/sociallearnlab/wiki/PCSID "画"说襄樊课堂实录]
 
 
-谢贤晓：[http://www.haokanbu.com/story/121436/ “我最向往的地方”教学活动设计与实施案例]
+谢贤晓老师：[http://www.haokanbu.com/story/121436/ “我最向往的地方”教学活动设计与实施案例]
 
 
 因为我们没有具体的在新的网络环境支持条件下设计实施的课例拿出来，一切后续深入研究推进的工作，就无从谈起。
@@ -395,8 +395,8 @@ http://www.haokanbu.com/group/199/
 （6）参考活动：[http://www.haokanbu.com/event/... 好看薄使用基础教程]
 
 
-== *其它方面* ==
+== *社区正在进行时* ==
 
-[https://groups.google.com/group/sociallearnlab-members/browse_thread/thread/2d1d7ad043c1d2e3/e5054e982b6f5edf?lnk=gst&q=[SLL-mem%3A1154]#e5054e982b6f5edf 面向2018年的中国教育宣言（集思广益）]
+[https://groups.google.com/group/sociallearnlab-members/browse_thread/thread/2d1d7ad043c1d2e3/7ee9bf67f880af40?lnk=gst&q=%E9%9D%A2%E5%90%912018%E5%B9%B4%E7%9A%84%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B2%E5%AE%A3%E8%A8%80%E9%9B%86%E6%80%9D%E5%B9%BF%E7%9B%8A#7ee9bf67f880af40 面向2018年的中国教育宣言集思广益]
 
 [https://groups.google.com/group/sociallearnlab-members/browse_thread/thread/567dac918d0e7318/c04df699af3a867f?lnk=gst&q=SLL-mem%3A1182#c04df699af3a867f 教育大发现社区管理结构要务]
