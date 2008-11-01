@@ -123,11 +123,9 @@ jping发起：[http://www.haokanbu.com/event/1715/ “画”说上海]
 
 [http://www.haokanbu.com/group/192/ 深圳市南山实验学校麒麟中学部7（6）班"动物分类"班级小组]
 
-创建的活动：
+活动：[http://www.haokanbu.com/event/1629/ 无脊椎动物] 
 
-[http://www.haokanbu.com/event/1629/ 无脊椎动物] 
-
-[http://www.haokanbu.com/event/1619/ 脊椎动物]
+活动：[http://www.haokanbu.com/event/1619/ 脊椎动物]
 
 
 * [http://code.google.com/p/sociallearnlab/wiki/ItcHaokanbuZhangJM 张晋梅老师] 
