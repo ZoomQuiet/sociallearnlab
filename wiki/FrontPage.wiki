@@ -1,7 +1,7 @@
                           http://sociallearnlab.org/pic/logo-b-blue.png
                           =教育大发现图书、科研项目平台=
                        * SocialLearnLab* 缩写: *SLL*
-==请先了解我们==
+== 关于 ==
 ----
 我们是[http://www.sociallearnlab.org 教育大发现（SocialLearnLab）]，我们的英文名“SocialLearnLab”。我们的图标，选用的是甲骨文“人”字。今天是一个网络和教育技术大发展的时期，必将迎来一个[http://www.sociallearnlab.org 教育大发现]，的时代！今天我们会比过去更为自觉、更注重参与，在向更多的人介绍网络和社会化学习的同时，我们也在呼吁大家来共同参与、共同创造一个[http://www.sociallearnlab.org 教育大发现]的时代！
  * 我们的中文网站:[http://sociallearnlab.org]
@@ -14,23 +14,26 @@
  * [SllResource] ~ SLL 资源
  * [SllDict] ~ SLL 辞典
 
-== 組織 ==
+== 组织 ==
  * [SllGroup] ~ SLL团队
   * [SllRole] ~ SLL 角色
  * [SllFlows]~ SLL 工作流程
  * [SllRules] ~ SLL 规章
 
-== 科研项目 ==
 ----
+*SllBrief ~ SLL简报*:
+ * 2008: [SllBrief080901 九月]; [SllBrief081001 十月]; [SllBrief081101 十一月]; 
+
+== 科研项目 ==
+
 基于好看簿之社会化教学活动设计研究（ITC－Haokanbu）
-  * *[ItcHaokanbu]* ~ ITC－Haokanbu 项目入口
+  * *[ItcHaokanbu]* ~ 好看教研 ITC－Haokanbu 项目入口
 
 
 == 图书项目 ==
-----
 像社会性软件、WEB2.0方式，应当成为每一位力求改变自己寻求发展的学习者，一种成长的方式，终身学习的方式。这是历史发展的必然。为了传播和推进这样一种让人获得新生力量，变革的学习工具，变革的学习方式，我们以教育领域人群（但不局限于）为主要对象，在尝试编写第一套图书。编写前请看：
 
-图书编写规则：
+=== 图书撰写资源 ===
 
  * [HowtoBuildBookOnLine 如何组织在线图书工程]^源自OBP计划^
  * [BookOnLinePlan 在线编写图书计划]
@@ -40,7 +43,8 @@
 
 提示：因为空间大小限制（100m），在本项目中请谨慎上传非文本格式的文件，图片尽量使用链接
 
-*各图书项目介绍及项目入口：
+
+=== 各图书索引 ===
 
  # 《Google服务应用手册》（GSH）（进行中）
   * *[GSH]* ~ Google Services Handbook 项目入口
@@ -48,39 +52,30 @@
  # 社会性软件工具应用手册 (大学生版 教师群版 企业员工版)
   * *[STM]* ~ Socialsoftware Tools Manual ( Stm4College Stm4Teacher Stm4Enterprise )
   * [http://sociallearnlab.org/?page_id=302 项目概况]^大学生版^
- # 社会性网络环境下的教学活动实施案例
-  * *[SEPL]* ~ Socialnetwork Education Practice Library 
+ # 社会化网络环境下的教学设计与实施案例集
+  * *[PCSID]* ~ Practical Cases of Social Instructional Design 
  # 社会性参与式网络中的学与教实践
   * *[EiSNS]* ~ Education in SNS net
  
 
 == 项目组织管理方式 ==
 ----
-
-  * 版本控制~ [http://code.google.com/p/sociallearnlab code.google工程管理服务] 
-
-  * 日常沟通~ Google Groups 
-
-          o [https://groups.google.com/group/sociallearnlab sociallearnlab论坛]
-
-          o appending...
-
-  * 知识积累~ [http://sociallearnlab.org/wiki SocialLearnLabWiki]  
-
-  * 实时讨论~ IRC [irc://irc.freenode.net/#sll IRC频道#sll]
-
-  * 项目管理~ [http://sociallearnlab.everydo.com Everydo]
+ * 版本控制~ [http://code.google.com/p/sociallearnlab code.google工程管理服务] 
+ * 日常沟通~ Google Groups 
+  # [https://groups.google.com/group/sociallearnlab sociallearnlab论坛]
+  # appending...
+ * 知识积累~ [http://sociallearnlab.org/wiki SocialLearnLabWiki]  
+ * 实时讨论~ IRC `irc://irc.freenode.net/#sll` (IRC频道#sll)
+ * 项目管理~ [http://sociallearnlab.everydo.com Everydo]
 
 == 技术指引 ==
 ----
 新来这里的朋友会被一大堆从来没有听说没有接触过的软件工具吓到，不要紧，当你放松心态大胆试用他们的时候会发现其实一切都很简单，我们需要的是放松心态，用心实践，在做中学，不要陷在繁杂的软件教程阅读之中,可以参考一下庄秀丽老师分享使用这些软件的心得的[http://sociallearnlab.org/blog/?p=303 这篇文章]。同时，我们也提供这些简明教程为大家快速上手做参考：
  * [http://code.google.com/p/sociallearnlab/wiki/UsageGooglecode Googlecode使用介绍]
-
  * [http://code.google.com/p/sociallearnlab/wiki/UsageSVN 版本控制SVN简明介绍]^图书协同写作工具说明^
-
  * [http://code.google.com/p/sociallearnlab/wiki/UsageIRC IRC使用说明]^即时沟通工具^
-
  * [http://code.google.com/p/sociallearnlab/wiki/UsageEverydo Everydo使用说明]^项目管理工具^
+ * appending...
 
-appending...
+
 
