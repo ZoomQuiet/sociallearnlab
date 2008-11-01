@@ -16,6 +16,7 @@
      # “好看教研”班级小组
      # “好看教研”班级活动
      # “好看教研”跨校活动
+     # 本月新参与进“好看教研”的老师
      # “好看教研”形成的课例和阶段性成果
      # “好看教研”中遇到的问题
   
@@ -263,6 +264,27 @@ jping发起：[http://www.haokanbu.com/event/1715/ “画”说上海]
 [http://www.haokanbu.com/story/120870/ 我的家乡－－校际合作中运用成员图说]
 
 [http://www.haokanbu.com/story/120041/ 在地图上找大家]
+
+=== 本月新加入“好看教研”的老师和朋友 ===
+
+罗明康 http://www.haokanbu.com/user/60772/ 
+魏彦昆 http://www.haokanbu.com/user/6110/  
+时亚珍 http://www.haokanbu.com/user/78853/
+盖素霞 http://www.haokanbu.com/user/77869/
+杨华 http://www.haokanbu.com/user/78103/
+郑亚玲 http://www.haokanbu.com/user/78565/
+叶妙玲 http://www.haokanbu.com/user/78327/
+谌业锋 http://www.haokanbu.com/user/5479/
+无知的三傻 http://www.haokanbu.com/user/73267/	
+chgbnu http://www.haokanbu.com/user/66638/	
+Helen http://www.haokanbu.com/user/1084/	
+李明山 http://www.haokanbu.com/user/83424/	
+Connie-k http://www.haokanbu.com/user/71464/	
+lym http://www.haokanbu.com/user/83567/	
+张英军 http://www.haokanbu.com/user/83866/	
+杨胜利 http://www.haokanbu.com/user/83781/	
+马京宣 http://www.haokanbu.com/user/83820/	
+曹建军 http://www.haokanbu.com/user/83856
 
 
 === “好看教研”形成的课例和阶段性成果 ===
