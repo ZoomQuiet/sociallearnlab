@@ -8,9 +8,8 @@
   *  导读 
   *  "好看教研"(ItcHaokanbu)项目
      * “好看教研”进展
-     * “好看教研”班级小组
-     * “好看教研”班级活动
-     *  新入“好看教研”行动的成员
+     * “我向往的地方”课例分享
+     * “画说家乡”跨校活动
      * “好看教研”阶段性成果
   
   *  Google服务应用手册(GSH)项目
@@ -31,237 +30,41 @@
 
 === “好看教研”进展 ===
 
-“好看教研”实指一个研究项目，即“基于[http://www.haokanbu.com/ 好看簿]之信息技术课程教学改革研究”，该课题后改名为“基于好看簿之社会化教学活动设计研究”，主要是为从题目反映课题研究之核心问题，即探索在以用户创作作品参与的社会化交流网络支持环境中，进行教学活动设计的一些方式方法，以及这样的教学活动实施，对学习者可能产生的作用。
+“好看教研”指一个研究项目，即“基于[http://www.haokanbu.com/ 好看簿]之信息技术课程教学改革研究”，该课题后改名为“基于好看簿之社会化教学活动设计研究”，主要是为突出课题研究之核心问题，即在以用户参与创作贡献的社会化网络支持环境中，进行教学活动设计的方法与策略探索，以及对相应教学活动实施产生的可能的学习效果探索。
 
-=== 如何参与“好看教研” ===
+“好看教研”从九月中旬左右启动到十月底，在历时一个半月中，项目进展可以分为两个阶段。第一个阶段基于好看簿之社会化教学活动设计，其主要范式是由教师设计任务，由某个班级体内学生参与完成任务的模式，第二阶段则是在第一个阶段基础上，不同学校学生各自参与完成性质相同的主题任务，在此过程中增加了学生进行校际交流的成分。
 
-教师具体参与课题，目标之一，是先尝试做出一个课例。所谓课例，可以参考[http://www.haokanbu.com/user/15248/ 谢贤晓]老师做的工作，她做了一个同时也整理出了一个很完整的课例实施情况[http://www.haokanbu.com/story/121436/ 小结]。
+参与第一个阶段教学活动设计的老师主要有谢贤晓、丁笑飞，其后又增加了向明、邓云。
 
-设计实施这样的课，我们希望利用网络的社会化特性来进行，利用集体的智慧来推进。具体参与如下：
+参与第二个阶段以“画说家乡”为主题的跨校活动的老师主要有谢贤晓、黄利锋、江平、王军。
 
-（1）好看教研是使用社会化网络工具开展的，因此，先要了解这些工具的使用。
+另外作为作文教学改革的尝试，丁笑飞老师的“快乐写作”探索，完成了第一个课例的探索，进入了第二个课例的实施。
 
-好看教研项目[http://www.haokanbu.com/story/126479/ 实施主要技术支持环境]
+其他出现的探索，还有王万清老师在数学学科的初步探索、陈秀云老师在历史学科的应用探索。
 
-（2）大家在分享、交流、协作的基础上完成课程，为了能最大话的发挥这一点，发挥群体智慧，可以参考或者加入这样的活动
-  
+除最初加入的一批老师之外，十月中下旬又迎来了新的一波老师朋友。
 
-[http://www.haokanbu.com/story/126624/ 人与人交流的活动]
+=== “我向往的地方”课例分享 ===
 
-[http://www.haokanbu.com/story/120041/ 在地图上找大家]
+谢贤晓老师对第一个阶段课例小结：
+[http://www.haokanbu.com/story/121436/ “我最向往的地方”教学活动设计与实施案例]
 
+=== “画说家乡”跨校活动 ===
 
-（3） 进行教学活动设计与实施
+围绕“画说家乡”主题，谢贤晓、黄利锋、江平、王军四位老师在教学活动设计实施过程，同学们藉助参与同一个主题任务，增加了跨校交流的成分。
 
-参与好看教研的老师利用好看簿、邮件列表等多种工具将课程设计、课程进展情况与其他朋友一同分享，一同探讨实施课程
+这四所学校学生作品与交流如下：
 
-教师参加项目进行教学活动设计[http://www.haokanbu.com/story/126685/ 实施的基本流程]
+[http://www.haokanbu.com/event/1519/  “美丽港城我的家”]　
 
-[http://groups.google.com/group/itc-haokanbu/web/cnxiexianxiao 谢贤晓老师《我最向往的地方》课程设计、实施过程信息]
+[http://www.haokanbu.com/event/1695/ 画说襄樊]　
 
-[http://static.haokanbu.com/media/origin/67eecc9308014dcf8b2cbf578ba89dd0.png]
-
-=== “好看教研”参与建议 ===
-
-确切地说，这个项目的作用在于，为教师之间教学研讨交流，搭建了一个平台，尤其是信息技术学科教师。为了帮助大家能够在参与项目的过程中，真正有所收获，并能够形成交流成果，提几点建议：
-
-（1）每一位老师在参与项目过程中，一定要切实地基于自己设计的课，来参与项目，不能只是注册帐号停留在观看阅读别人的教学方案打算、教学研讨、教学实施记录的层面。一定要自己动手做，即动手设计自己的课，通过邮件列表来研讨交流自己的课，应用好看簿来实施自己的课，及时小结自己的课，以提升自己对这种参与交流过程以及教学活动设计实施过程的体验认识。一定要充分运用项目中老师集体的智慧进行教学实施过程的研讨，不要只是潜水，然后自己独自一个人设计课实施课，那样你的实际收获会大打折扣。
-
-（2）如果你对常规教学能够驾驭得比较好，在这个项目中就不要只是尝试模仿已有的其他老师实施的课案，尝试能够在已有课的实施案例基础上，有所突破，特别鼓励大家发起一些校际合作层面的课的设计打算或者设计方案，可以先到项目论坛中抛出自己的方案计划，然后再不断地征集校际活动实施的合作者。
-
-（3）参与这个项目，你可以从一学期只做一个课例开始实施。做完一个有感觉之后，可以再争取做下一个新的课例。以这种方式，来不断地积累。不要一开始就想着自己用一种全新模式来替代自己已有的常规教学实施，这不现实，也容易让我们心理上产生某种压力。
-
-=== “好看教研”实施流程 ===
-
-教师参加项目进行教学活动设计实施的[http://www.haokanbu.com/story/126685/  基本流程]
-
-
-=== “好看教研”发起的活动 ===
-
-sociallearn发起：[http://www.haokanbu.com/event/1620/ 我的家乡-校际合作中运用]
-
-sociallearn发起：[http://www.haokanbu.com/event/1261/ ITCHaokanbu好看教研项目故事]
-
-jping发起：[http://www.haokanbu.com/event/1988/ 校园心语系列]
-
-jping发起：[http://www.haokanbu.com/event/1994/ 共建好看“活动”教学资源库]
-
-jping发起：[http://www.haokanbu.com/event/1715/ “画”说上海]
-
-
-=== “好看教研”班级小组与活动 ===
-
-
-* [http://code.google.com/p/sociallearnlab/wiki/ItcHaokanbuhlf 黄利锋老师]：
-
-[http://www.haokanbu.com/group/146/ 张家港市东莱小学班级小组]　
-
-[http://www.haokanbu.com/event/1519/ 活动“美丽港城我的家”]　
-
-
-* [http://code.google.com/p/sociallearnlab/wiki/ItcHaokanbuXiangMing 向明老师]：
-
-[http://www.haokanbu.com/group/166/ 湖南吉首市民族中学155班156班班级小组]
-
-* [http://code.google.com/p/sociallearnlab/wiki/ItcHaokanbuXiexianxiao 谢贤晓老师]和[http://code.google.com/p/sociallearnlab/wiki/ItcHaokanbuBanzhurenD 丁老师]：
-
-[http://www.haokanbu.com/group/142/ 平阳县昆阳二小六年（1）班小组] 
-
-[http://www.haokanbu.com/group/149/ 平阳县昆阳二小六年（1）班小组] 
-
-[http://www.haokanbu.com/event/1522/ 活动：我最向往的地方------]
-
-[http://www.haokanbu.com/event/1553/ 活动：课间乐]
-
-[http://www.haokanbu.com/event/1929/ 活动：快乐写作《课间乐》后续活动——将快乐进行到底]
-
-
-* [http://www.haokanbu.com/user/5292/ 邓云老师]：
-
-[http://www.haokanbu.com/group/192/ 深圳市南山实验学校麒麟中学部7（6）班"动物分类"班级小组]
-
-活动：[http://www.haokanbu.com/event/1629/ 无脊椎动物] 
-
-活动：[http://www.haokanbu.com/event/1619/ 脊椎动物]
-
-
-* [http://code.google.com/p/sociallearnlab/wiki/ItcHaokanbuZhangJM 张晋梅老师] 
-
-小组：[http://www.haokanbu.com/group/293/ 山西省大同市城区四十八校] 
-
-
-* [http://code.google.com/p/sociallearnlab/wiki/ItcHaokanbuWangWQ 王万清老师]：
-
-[http://www.haokanbu.com/group/196/ 四川省南充市高坪区搽耳小学初2010级2班]
-
-[http://www.haokanbu.com/event/1710/ 活动：数学家你知多少？]
-
-
-* [http://code.google.com/p/sociallearnlab/wiki/ItcHaokanbuTom 汤富源老师]：
-
-广东商学院 06物流管理（1）、（2）班
-
-[http://www.haokanbu.com/group/178/ 小组：物竞天择流光溢彩]    
-
-[http://www.haokanbu.com/event/1608/ 活动：认识我，从这里开始……]
-
-[http://www.haokanbu.com/event/1610/ 活动：我的世界，我的梦……] 
-
-[http://www.haokanbu.com/event/64/ 活动：思维导图大本营]  
-
-
-* [http://groups.google.com/group/itc-haokanbu/web/baoshijuan 包士娟老师]：
-
-[http://www.haokanbu.com/group/199/ 小组: 要塞实小五（4）班]
-
-[http://www.haokanbu.com/event/1694/ 活动：保护水资源]
-
-
-* [http://groups.google.com/group/itc-haokanbu/web/itspanther 王军老师]：
-
-湖北襄樊四中高一年级
-
-小组：[http://www.haokanbu.com/group/157/ 高中信息技术学习共同体]  
-
-活动：[http://www.haokanbu.com/event/1695/ 画说襄樊]　
-
-
-* [http://code.google.com/p/sociallearnlab/wiki/ItcHaokanbuJping 江平老师]：
-
-小组：[http://www.haokanbu.com/group/147/ 上海西南模范中学]预初年级（相当于小学6年级）
-
-活动：[http://www.haokanbu.com/event/1582/ 关于月饼包装的调查研究] 
-
-活动：[http://www.haokanbu.com/event/713/ 我是谁] 
-
-
-            
-* [http://www.haokanbu.com/user/78103/ 杨华老师]：
-
-[http://www.haokanbu.com/group/274/ 深圳南山小学2008届五（2）班]
-
-[http://www.haokanbu.com/group/273/ 小组: 深圳南山小学2008届五（4）班] 
-
-
-
-=== “好看教研”跨校活动 ===
-
-[http://groups.google.com/group/itc-haokanbu/web 跨校活动各校基本情况登记]
-
-
-1.浙江省平阳县昆阳二小老师：
-
-[http://www.haokanbu.com/user/15248/ 谢贤晓老师主页地址]
-
-[http://www.haokanbu.com/story/119314/ 学校介绍]
-
-昆阳二小 [http://www.haokanbu.com/group/142/ 六年(1)班活动小组]
-
-昆阳二小 [http://www.haokanbu.com/group/149/ 六年(2)班活动小组]
-
-活动：[http://www.haokanbu.com/event/1692/ 我美丽的家乡-平阳]
-
-
-2.江苏省张家港市东莱小学老师：
-
-[http://www.haokanbu.com/user/1045/ 黄利锋老师主页地址]
-
-
-[http://www.haokanbu.com/story/119006/ 学校介绍]
-
-
-[http://www.haokanbu.com/group/146/ 活动小组]
-
-
-
-活动：[http://www.haokanbu.com/event/1519/ 美丽港城我的家]
-
-
-3.襄樊四中老师：
-
-[http://www.haokanbu.com/user/4128/ 王军老师主页地址]
-
-
-学校介绍：
-
-[http://www.haokanbu.com/story/18060/ 学校樱花开了]
-
-[http://www.haokanbu.com/story/11211/ 绿色校园网吧]
-
-[http://www.haokanbu.com/story/8384/ 摸摸信息这头"象"----信息及其特征]
-
-活动小组：[http://www.haokanbu.com/story/8384/ 高中信息技术学习共同体]
-
-
-活动：[http://www.haokanbu.com/event/1695/ "画"说襄樊]
-
-4. 上海西南模范中学
-
-[http://www.haokanbu.com/user/2144/ 江平老师主页地址]
-
-[http://www.haokanbu.com/story/120428/ 学校介绍]
-
-[http://www.haokanbu.com/group/147/ 活动小组]
+[http://www.haokanbu.com/event/1692/ 我美丽的家乡-平阳]
 
 [http://www.haokanbu.com/event/1715 "画"说上海]
 
 
-5.甘肃张掖甘州区星光小学
-
-[http://www.haokanbu.com/user/83424/ 李明山老师主页地址]
-
-[http://www.haokanbu.com/story/125029/ 学校简介]
-
-[http://www.haokanbu.com/story/125451/ 小组活动]
-
-
-6.其它两个网址：
-
-[http://www.haokanbu.com/story/120870/ 我的家乡－－校际合作中运用成员图说]
-
-[http://www.haokanbu.com/story/120041/ 在地图上找大家]
-
-=== 本月新加入“好看教研”的老师和朋友 ===
+=== 新近加入“好看教研”的老师 ===
 
 罗明康 http://www.haokanbu.com/user/60772/ 
 
