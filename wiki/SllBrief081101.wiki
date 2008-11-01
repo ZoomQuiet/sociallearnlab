@@ -46,23 +46,28 @@
 
 而“好看教研” 就是老师们一起，结合学科教学，通过做出典型案例，来传播和推进这场变革的实践。这就是我们在做的内容。
 
-“好看教研”这个名字，是为了呼叫的方便，最初名字是“基于[http://www.haokanbu.com/ 好看簿]之信息技术课程教学改革研究”，后因为实际不是仅仅局限于信息技术课程，所以课题名称修改为“基于好看簿之社会化教学活动设计研究”，这实际也反映课题真正试图探索研究的中心问题。我们要探索在这样的以用户创作作品参与的社会化交流网络支持环境中，进行教学活动设计的一些方式方法，以及这样的教学活动实施，对学习者可能产生的作用。
+“好看教研”这个名字，是为了称呼的方便，最初名字是“基于[http://www.haokanbu.com/ 好看簿]之信息技术课程教学改革研究”，后因为实际不是仅仅局限于信息技术课程，所以课题名称修改为“基于好看簿之社会化教学活动设计研究”，这实际也反映课题真正试图探索研究的中心问题。我们要探索在这样的以用户创作作品参与的社会化交流网络支持环境中，进行教学活动设计的一些方式方法，以及这样的教学活动实施，对学习者可能产生的作用。
+
 === 如何参与“好看教研” ===
 
 教师具体参与课题，目标之一，是先尝试做出一个课例。所谓课例，可以参考[http://www.haokanbu.com/user/15248/ 谢贤晓]老师做的工作，她做了一个同时也整理出了一个很完整的课例实施情况[http://www.haokanbu.com/story/121436/ 小结]。
 
-好看教研是在社会化网络环境下开展的，所以需要熟悉好看教研的技术支持环境，庄秀丽老师对此做了一个[http://www.haokanbu.com/story/126479/ 小结]。
+设计实施这样的课，我们希望利用网络的社会化特性来进行，利用集体的智慧来推进。具体参与如下：
 
-需要完成以下基本步骤：
+（1）工具注册使用
 
-（1）[http://mail.google.com/mail?hl... 注册Gmail邮箱]，用于邮件列表讨论支持
+好看教研项目：[http://www.haokanbu.com/story/126479/ 实施主要技术支持环境]
+
+（2）为了能更好的沟通，发挥群体智慧，大家需要相互了解
+  
+好看教研项目：[http://www.haokanbu.com/story/126624/ 人与人交流的活动]
+
+[http://www.haokanbu.com/story/120041/ 在地图上找大家]。
 
 
-（2）注册Gmail邮箱之后，[http://groups.google.com/group/itc-haokanbu 申请加入项目研讨的邮件列表]
+（3） 进行教学活动设计与实施
 
-
-（3）注册好看簿，并[http://www.haokanbu.com/group/130/ 申请加入项目小组]
-
+好看教研项目：教师参加项目进行教学活动设计[http://www.haokanbu.com/story/126685/ 实施的基本流程]
 
 
 === “好看教研”参与建议 ===
@@ -314,66 +319,26 @@ lym http://www.haokanbu.com/user/83567/
 
 === “好看教研”形成的课例和阶段性成果 ===
 
+没有具体的在新的网络环境支持条件下设计实施的课例拿出来，一切后续深入研究推进的工作，就无从谈起。
+
 庄秀丽老师：[SLL-mem:1153] [http://groups.google.com/group/itc-haokanbu “好看教研” 实施汇报与分享]
 
 王军老师：[ITC-Haokanbu:774] [http://code.google.com/p/sociallearnlab/wiki/PCSID "画"说襄樊课堂实录]
 
-
 谢贤晓老师：[http://www.haokanbu.com/story/121436/ “我最向往的地方”教学活动设计与实施案例]
 
-
-因为我们没有具体的在新的网络环境支持条件下设计实施的课例拿出来，一切后续深入研究推进的工作，就无从谈起。
-
-但是，设计实施这样的课，我们希望利用网络的社会化特性来进行，利用集体的智慧来推进。具体参与如下：
-
-（1）工具注册使用，请详细参考故事，
-
-好看教研项目：[http://www.haokanbu.com/story/126479/ 实施主要技术支持环境]
-
-有任何问题，在故事中留言或直接回帖。
-
-（2）主动尝试让大家认识你了解你是谁，请详细参考故事，
-  
-好看教研项目：[http://www.haokanbu.com/story/126624/ 人与人交流的活动]；[http://www.haokanbu.com/story/120041/ 在地图上找大家]。
-
-
-（3） 进行教学活动设计与实施，详细参考以下故事中的第一步、第二步、第三步，
-
-好看教研项目：教师参加项目进行教学活动设计[http://www.haokanbu.com/story/126685/ 实施的基本流程]
-
-设计实施第一步：
-
-在仔细思考设计的基础上，向项目GoogleGroup论坛发帖，这就是这里这个邮件列表，阐述你基于好看教学应用的活动设计的初步打算或方案规划。设
-置你还可以提出刚萌芽的想法，通过运用集体智慧来发展完善自己的想法，然后再进一步把自己的教学设计的打算或者方案跟大家分享。方案分享不要求面面俱到
-古板形式，而在于说清楚你给什么样的学生、打算做什么、怎么做、出发点或目的是什么。
-
-设计实施第二步：
-
-你第一步发帖之后，不同的老师，会根据他们的经验，给你一些反馈信息，你根据第一步研讨结果，修改自己的教学活动设计方案，然后开始基于好看簿平台实施
-教学。一定要做教学过程实施记录，这样到课例实施完毕后，做小结的工作，就会自然而然生成出来，否则，会有工作量，很头疼。
-（大家做教学日志记录，建议大家参考谢贤晓老师的好看[http://www.haokanbu.com/user/15248/diary/ 教学日志] ）
-
-设计实施第三步：
-
-把课例单元教学的每一次教学进展，自己的教学记录，发布到项目的GoogleGroup中，运用集体智慧，进行互动研讨，根据研讨结果，修改自己的教学活动设计方案，然后继续好看平台上的教学活动实施。第三步是一个不断往复的过程。
-
-小结成果化整理阶段：
-
-课例单元教学实施完毕，进行单元课例实施小结，可以先初步做一个简要小结，然后再不断完善。告一段落，开始新的单元课例的设计与尝试。
-
-对于老师如何参与课题，基本情况就是这样来实施的。对于做得比较好的案例，会联系核心期刊进行发表，可以作为交流成果发表的内容有：
+对于做得比较好的案例，会联系核心期刊进行发表，可以作为交流成果发表的内容有：
 （1） 课的实施案例，就像晓晓老师这样的课的案例；教师交流中非常需要这一类的看得见摸得着的具体实施案例；
 （2）结合学科课程教学问题，基于案例分析，写的教学论文；
-另外，当我们能够攒到一定数量的案例，例如5个以上或者10个左右的案例，我们来把大家在新的网络应用环境中，进行新的教学活动设计实施的教学案例汇编
-在一起，以书籍形式出版。
+另外，当我们能够攒到一定数量的案例，例如5个以上或者10个左右的案例，我们来把大家在新的网络应用环境中，进行新的教学活动设计实施的教学案例汇编在一起，以书籍形式出版。
 
-另外，我们不少老师，有写硕士毕业研究论文的需要，希望和欢迎大家能够结合你参与课题的实践体验，进行选题和研究。总的来说，我们希望这个课题的实践，能够对大家产生更多的作用，也籍助大家的参与，让这种新的尝试和实践方式，能够发挥更大的社会作用。
+除此，有不少老师朋友，有写硕士毕业研究论文的需要，希望和欢迎大家能够结合你参与课题的实践体验，进行选题和研究。总的来说，我们希望这个课题的实践，能够对大家产生更多的作用，也籍助大家的参与，让这种新的尝试和实践方式，能够发挥更大的社会作用。
 
 === “好看教研”中遇到的问题 ===
 
-（1）[ITC-Haokanbu:696] 如何处理好应用好看薄教学前期准备工作与学科课程进度的问题？
+（1）[http://groups.google.com/group/itc-haokanbu/browse_thread/thread/59dbc899dd795693/cf95d3e3bf610a11?lnk=gst&q=%E5%A6%82%E4%BD%95%E5%A4%84%E7%90%86%E5%A5%BD%E5%BA%94%E7%94%A8%E5%A5%BD%E7%9C%8B%E8%96%84%E6%95%99%E5%AD%A6%E5%89%8D%E6%9C%9F%E5%87%86%E5%A4%87%E5%B7%A5%E4%BD%9C%E4%B8%8E%E5%AD%A6%E7%A7%91%E8%AF%BE%E7%A8%8B%E8%BF%9B%E5%BA%A6%E7%9A%84%E9%97%AE%E9%A2%98%EF%BC%9F# 如何处理好应用好看薄教学前期准备工作与学科课程进度的问题？]
 
-（2）[ITC-Haokanbu:996] 好看教研项目一些说明(给还未参加教学活动设计与实施的老师)
+（2）[http://groups.google.com/group/itc-haokanbu/browse_thread/thread/fe61c19030dfe22c/eb16620003cf0508?lnk=gst&q=%E5%A5%BD%E7%9C%8B%E6%95%99%E7%A0%94%E9%A1%B9%E7%9B%AE%E4%B8%80%E4%BA%9B%E8%AF%B4%E6%98%8E(%E7%BB%99%E8%BF%98%E6%9C%AA%E5%8F%82%E5%8A%A0%E6%95%99%E5%AD%A6%E6%B4%BB%E5%8A%A8%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E6%96%BD%E7%9A%84%E8%80%81%E5%B8%88)#eb16620003cf0508 好看教研项目一些说明(给还未参加教学活动设计与实施的老师)]
 
 （3）好看网站运营过程中本身存在的一些问题：
 
@@ -398,17 +363,17 @@ lym http://www.haokanbu.com/user/83567/
 
 5、关于下章内容编写改进措施？ 
 
-=== 项目完成的章节内容 ===
+=== 项目完成的章节内容（技术版） ===
 
-上官良雅的[http://code.google.com/p/sociallearnlab/wiki/GshTechnologyPicasa Picasa]
+[http://code.google.com/p/sociallearnlab/wiki/GshTechnologyPicasa Picasa]
 
-王万清的[http://code.google.com/p/sociallearnlab/wiki/GshTechnologyReader Reader]
+[http://code.google.com/p/sociallearnlab/wiki/GshTechnologyReader Reader]
 
-吴长城的[http://code.google.com/p/sociallearnlab/wiki/GshTechnologyCalendar Calendar]
+[http://code.google.com/p/sociallearnlab/wiki/GshTechnologyCalendar Calendar]
 
-李新宇的[http://code.google.com/p/sociallearnlab/wiki/GshTechnologyApps GoogleAPPS]
+[http://code.google.com/p/sociallearnlab/wiki/GshTechnologyApps GoogleAPPS]
 
-余波的[http://code.google.com/p/sociallearnlab/wiki/GshTechnologyNotebook Notebook]
+[http://code.google.com/p/sociallearnlab/wiki/GshTechnologyNotebook Notebook]
 
 以上初步完成的章节，还请大家多多参与讨论并修改。
 
