@@ -1,0 +1,9 @@
+#《Google服务应用手册》第十章 Google Scholar.
+
+[GSH]
+= 第十章 Google Scholar =
+
+产品标识：
+ * 英文版标识：[http://www.google.com/intl/en_uk/googlereader/images/logo_Scholar.gif]
+ * 中文版标识：[http://www.google.com/googlereader/images/logo_Scholar.gif]
+==1 问题情境==
