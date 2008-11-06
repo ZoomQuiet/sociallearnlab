@@ -2,6 +2,7 @@
 #labels SLL,Book
 
 = 2018年中国教育宣言~草案 =
+SEE:[EduCnUtopiaBook SLL理想书]
 
 == 背景 ==
  * [http://www.douban.com/group/144786/ 中文网志年会教育圆桌会议小组]^豆瓣^
