@@ -6,9 +6,11 @@ SEE:[EduCnUtopiaBook SLL理想书]
 
 == 背景 ==
  * [http://www.douban.com/group/144786/ 中文网志年会教育圆桌会议小组]^豆瓣^
+  * [https://spreadsheets.google.com/viewform?key=pM4AV2SJ4r6gacb18HAXtSw 为广州教育宣言设立的调查]
+  * [https://spreadsheets.google.com/pub?key=pM4AV2SJ4r6gacb18HAXtSw 为广州教育宣言设立的调查~统计]^Google 文档 - ^
  * [http://groups.google.com/group/Edu2/browse_thread/thread/59bc377a0c28ab6e 关于“2018年中国教育宣言”的一些商榷 - Edu 2.0 - 开放、协作、分享 | Google 网上论坛]
  * [https://groups.google.com/group/sociallearnlab-members/browse_thread/thread/2d1d7ad043c1d2e3 面向2018年的中国教育宣言（集思广益） - SocialLearnLab-Members:“教育大发现”核心成员列表 | Google 网上论坛]
-
+ 
 === 缘由 ===
 
 2008年网志年会，在广州举办，11月15-16，
