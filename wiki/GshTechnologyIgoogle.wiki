@@ -2,9 +2,12 @@
 #labels GSH,Google,GoogleIgoogle
 [GSH]首页
 = 第六章 Google iGoogle =
-产品标识：[http://img0.gmodules.com/ig/images/igoogle_logo_sm.gif]
- * 英文版标识：
+产品标识：
+ * 英文版标识：[http://img0.gmodules.com/ig/images/igoogle_logo_sm.gif]
  * 中文版标识：[http://www.google.cn/ig/images/guge/logo2.png]
+
+* 注：本章内容根据英文版的iGoogle编写。 *
+
 ==1 问题情境==
 
 === 1.1 情境一 ===
