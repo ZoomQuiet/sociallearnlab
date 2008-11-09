@@ -20,6 +20,8 @@ http://lh4.ggpht.com/liangya.sg/SN8vRljmlGI/AAAAAAAADVg/hjPBGfEeaLs/maps_logo_be
 ==2 什么是GoogleMap==
 
 ===2.1 ===
+Google 地图是可以在网络浏览器中查看的地图服务。根据您的位置，您可以查看基础或定制地图以及本地商户信息，其中包括商户位置和联系信息。点击并拖动地图即可查看邻近部分。查看含有或不含所需位置地图数据的卫星图像时，您可以缩放和抓移图像。
+
 ===2.2 ===
 
 ==3 如何使用Google Map==
@@ -27,19 +29,21 @@ http://lh4.ggpht.com/liangya.sg/SN8vRljmlGI/AAAAAAAADVg/hjPBGfEeaLs/maps_logo_be
 在使用使用之前，请确认你已注册有Google的账户，如果没有注册，请查看[GSHGoogleAccount Google帐户注册说明]被点击[http://mail.google.com/mail/signup 这里]注册。
 
 ===3.1 Google Map界面===
-
 http://lh4.ggpht.com/liangya.sg/SN8w6xHl4yI/AAAAAAAADVw/RlhAiFsyztA/s720/map1.PNG
 
-===3.2 ===
+===3.2 地图，卫星与地形===
 
-===3.3 ===
+===3.3 发送到手机或者Email ===
+===3.4 获取行车路线 ===
 
 ==4 扩展应用==
+将GoogleMaps嵌入自己的网页
+===4.1Google Maps API ===
+Google Maps API 使您能够使用 JavaScript 将 Google Maps 嵌入自己的网页中。API 提供了大量实用工具用以处理地图（正如 http://maps.google.com 网页上的地图），并通过各种服务向地图添加内容，从而使您能够在您的网站上创建功能强大的地图应用程序。
 
-===4.1 ===
-
-===4.2 ===
-
+===4.2 Google Mapplet===
+ Google Mapplet 是一个创建嵌入 Google Maps 站点的小型应用程序。
+详情访问http://code.google.com/intl/zh-CN/apis/maps/documentation/mapplets/
 ==5 资源索引==
 
  
