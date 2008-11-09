@@ -92,7 +92,7 @@ Google Maps API 使您能够使用 JavaScript 将 Google Maps 嵌入自己的网
 
 ==5 资源索引==
 
-Google帮助文档： http://www.google.com/support
+Google帮助文档： http://www.google.com/support 
 
  
 ----
