@@ -70,19 +70,24 @@ http://lh5.ggpht.com/_z3hdxmd1L3I/SRZKuLxKgJI/AAAAAAAADlI/75W03tb4WiY/s720/map6.
 ==4 扩展应用==
 将GoogleMaps嵌入自己的网页
 
-===4.1Google Maps API ===
+===4.1直接用代码嵌入网页 ===
+
+在查询到的地图右上角点击“链接”，并选择“粘贴HTML以便嵌入网站”，然后复制HTML代码，将其插入到网页中即可实现网页嵌入地图。
+
+http://lh3.ggpht.com/_z3hdxmd1L3I/SRZR5z_BufI/AAAAAAAADl8/4Dqew8waHDU/s720/map12.png
+
+嵌入之后形成的效果：
+
+http://lh5.ggpht.com/_z3hdxmd1L3I/SRZR5gE87UI/AAAAAAAADl0/nmRncHYRyqs/s720/map11.png
+
+===4.2 Google Maps API ===
+
 Google Maps API 使您能够使用 JavaScript 将 Google Maps 嵌入自己的网页中。API 提供了大量实用工具用以处理地图（正如 http://maps.google.com 网页上的地图），并通过各种服务向地图添加内容，从而使您能够在您的网站上创建功能强大的地图应用程序。
 
-===4.2 Google Mapplet===
+===4.3 Google Mapplet===
  Google Mapplet 是一个创建嵌入 Google Maps 站点的小型应用程序。
 详情访问http://code.google.com/intl/zh-CN/apis/maps/documentation/mapplets/
 
-
-===4.3 制作出来的效果===
-
-如下图：
-
-http://lh6.ggpht.com/_z3hdxmd1L3I/SRZLuefONkI/AAAAAAAADlo/WoXGChGi4MY/map10.png
 
 ==5 资源索引==
 
