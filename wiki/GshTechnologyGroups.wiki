@@ -15,7 +15,8 @@
 
 ==2 什么是 Google Groups==
 
-===2.1 ===
+===2.1 初始Google Groups===
+通过网址http://groups.google.com/，利用已有Gmail账户登陆论坛，可以利用“搜索论坛”进行访问。另外，也可以通过Google论坛分类进行访问。
 ===2.2 ===
 
 ==3 如何使用 Google Groups==
