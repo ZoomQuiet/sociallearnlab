@@ -32,28 +32,39 @@ http://lh4.ggpht.com/liangya.sg/SN8w6xHl4yI/AAAAAAAADVw/RlhAiFsyztA/s720/map1.PN
 ===3.2 地图，卫星与地形===
 Google地图可以使用户对于同一张地图在地图，卫星地图和地形图之间切换
 地图：
+
 http://lh5.ggpht.com/_z3hdxmd1L3I/SRZKt6b_jLI/AAAAAAAADlA/XnVcHlgOF-E/s576/map5.png
+
 卫星地图：
+
 http://lh5.ggpht.com/_z3hdxmd1L3I/SRZKsmbQwsI/AAAAAAAADkw/t1f75k1y-Po/s576/map3.png
+
 地形图：
+
 http://lh6.ggpht.com/_z3hdxmd1L3I/SRZKtG57dTI/AAAAAAAADk4/JD3P9nvQMyQ/s576/map4.png
+
 
 ===3.3 发送到手机或者Email ===
 
 用户可以将在地图中查询到的地址通过手机短信或者E-mail发送到用户的手机或者Email里面。
 
 查询到一个地址：广州火车站售票处
+
 http://lh6.ggpht.com/_z3hdxmd1L3I/SRZLtD373QI/AAAAAAAADlQ/Vi30dCxLLf8/s576/map7.png
 
 点击“发送”按钮，发送地址信息到手机短信或者Email
+
 http://lh6.ggpht.com/_z3hdxmd1L3I/SRZLtD373QI/AAAAAAAADlQ/Vi30dCxLLf8/s576/map7.png
 
 
 ===3.4 获取行车路线 ===
+
 用户还可以根据起点终点，由Google自动计算出最短的行车路线。
+
 http://lh5.ggpht.com/_z3hdxmd1L3I/SRZKt6b_jLI/AAAAAAAADlA/XnVcHlgOF-E/s576/map5.png
 
-计算出行车路线
+计算出最短行车路线
+
 http://lh5.ggpht.com/_z3hdxmd1L3I/SRZKuLxKgJI/AAAAAAAADlI/75W03tb4WiY/s720/map6.png
 
 ==4 扩展应用==
@@ -68,7 +79,9 @@ Google Maps API 使您能够使用 JavaScript 将 Google Maps 嵌入自己的网
 
 
 ===4.3 制作出来的效果===
+
 如下图：
+
 http://lh6.ggpht.com/_z3hdxmd1L3I/SRZLuefONkI/AAAAAAAADlo/WoXGChGi4MY/map10.png
 
 ==5 资源索引==
