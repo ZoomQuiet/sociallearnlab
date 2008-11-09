@@ -62,7 +62,7 @@ Google用户加入Google Groups后，可以建立自己感兴趣的论坛，Goog
 * 论坛的功能
 
 
-当我们登陆Google论坛网站：http://groups.google.com/，能够看到如下关于论坛功能的介绍，如下：
+当我们登陆Google论坛网站：http://groups.google.com/， 能够看到如下关于论坛功能的介绍，如下：
 
 在线或通过电子邮件讨论
 加入其他人的讨论
