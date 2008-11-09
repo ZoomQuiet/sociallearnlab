@@ -17,7 +17,7 @@
 Google用户加入Google Groups后，可以建立自己感兴趣的论坛，Google为每个创建的论坛分配网址和电子邮件地址，版主可以管理会员等操作，便于成员之间相互交流和学习。同时也可以加入已经创建的论坛中，在论坛中可以实现Wiki操作，对于懂得编程技术的用户，还可以实现编辑HTML语言来修改网页。每个论坛拥有100MB的存储空间，可以用于存储论坛照片、文件及其它内容。在论坛中能实现讨论问题、发布帖子、贴子评分、制作网页、上传文件、发送电子邮件等功能。
 ===2.1 初始Google Groups===
 通过网址http://groups.google.com/ ，利用已有Gmail账户登陆论坛，可以利用“搜索论坛”进行访问。另外，也可以通过Google论坛分类进行访问。Google论坛界面如下图所示：
-[http://www.yupoo.com/photos/view?id=ff8080811d765c34011d81ec01471c31&album=ff8080811d765c1a011d81ebddb11fa0]
+[http://f.yupoo.com/v.swf?id=chengcheng1098-ff8080811d765c34011d81ec01471c31-m]
 ==3 如何使用 Google Groups==
 在使用使用之前，请确认你已注册有Google的账户，如果没有注册，请查看[GSHGoogleAccount Google帐户注册说明]被点击[http://mail.google.com/mail/signup 这里]注册。
 ===3.1 加入Google Groups===
