@@ -19,10 +19,8 @@ http://lh4.ggpht.com/liangya.sg/SN8vRljmlGI/AAAAAAAADVg/hjPBGfEeaLs/maps_logo_be
 
 ==2 什么是GoogleMap==
 
-===2.1 ===
 Google 地图是可以在网络浏览器中查看的地图服务。根据您的位置，您可以查看基础或定制地图以及本地商户信息，其中包括商户位置和联系信息。点击并拖动地图即可查看邻近部分。查看含有或不含所需位置地图数据的卫星图像时，您可以缩放和抓移图像。
 
-===2.2 ===
 
 ==3 如何使用Google Map==
 
@@ -32,18 +30,47 @@ Google 地图是可以在网络浏览器中查看的地图服务。根据您的�
 http://lh4.ggpht.com/liangya.sg/SN8w6xHl4yI/AAAAAAAADVw/RlhAiFsyztA/s720/map1.PNG
 
 ===3.2 地图，卫星与地形===
+Google地图可以使用户对于同一张地图在地图，卫星地图和地形图之间切换
+地图：
+http://lh5.ggpht.com/_z3hdxmd1L3I/SRZKt6b_jLI/AAAAAAAADlA/XnVcHlgOF-E/s576/map5.png
+卫星地图：
+http://lh5.ggpht.com/_z3hdxmd1L3I/SRZKsmbQwsI/AAAAAAAADkw/t1f75k1y-Po/s576/map3.png
+地形图：
+http://lh6.ggpht.com/_z3hdxmd1L3I/SRZKtG57dTI/AAAAAAAADk4/JD3P9nvQMyQ/s576/map4.png
 
 ===3.3 发送到手机或者Email ===
+
+用户可以将在地图中查询到的地址通过手机短信或者E-mail发送到用户的手机或者Email里面。
+
+查询到一个地址：广州火车站售票处
+http://lh6.ggpht.com/_z3hdxmd1L3I/SRZLtD373QI/AAAAAAAADlQ/Vi30dCxLLf8/s576/map7.png
+
+点击“发送”按钮，发送地址信息到手机短信或者Email
+http://lh6.ggpht.com/_z3hdxmd1L3I/SRZLtD373QI/AAAAAAAADlQ/Vi30dCxLLf8/s576/map7.png
+
+
 ===3.4 获取行车路线 ===
+用户还可以根据起点终点，由Google自动计算出最短的行车路线。
+http://lh5.ggpht.com/_z3hdxmd1L3I/SRZKt6b_jLI/AAAAAAAADlA/XnVcHlgOF-E/s576/map5.png
+
+计算出行车路线
+http://lh5.ggpht.com/_z3hdxmd1L3I/SRZKuLxKgJI/AAAAAAAADlI/75W03tb4WiY/s720/map6.png
 
 ==4 扩展应用==
 将GoogleMaps嵌入自己的网页
+
 ===4.1Google Maps API ===
 Google Maps API 使您能够使用 JavaScript 将 Google Maps 嵌入自己的网页中。API 提供了大量实用工具用以处理地图（正如 http://maps.google.com 网页上的地图），并通过各种服务向地图添加内容，从而使您能够在您的网站上创建功能强大的地图应用程序。
 
 ===4.2 Google Mapplet===
  Google Mapplet 是一个创建嵌入 Google Maps 站点的小型应用程序。
 详情访问http://code.google.com/intl/zh-CN/apis/maps/documentation/mapplets/
+
+
+===4.3 制作出来的效果===
+如下图：
+http://lh6.ggpht.com/_z3hdxmd1L3I/SRZLuefONkI/AAAAAAAADlo/WoXGChGi4MY/map10.png
+
 ==5 资源索引==
 
  
