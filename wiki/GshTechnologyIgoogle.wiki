@@ -1,10 +1,10 @@
-#summary 《Google服务应用手册》第六章Google Igoogle.
+#summary 《Google服务应用手册》第六章Google iGoogle.
 #labels GSH,Google,GoogleIgoogle
 [GSH]首页
-= 第六章 Google Igoogle =
-产品标识：
+= 第六章 Google iGoogle =
+产品标识：[http://img0.gmodules.com/ig/images/igoogle_logo_sm.gif]
  * 英文版标识：
- * 中文版标识：
+ * 中文版标识：[http://www.google.cn/ig/images/guge/logo2.png]
 ==1 问题情境==
 
 === 1.1 情境一 ===
