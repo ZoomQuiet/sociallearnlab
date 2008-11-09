@@ -65,6 +65,21 @@ http://lh3.ggpht.com/liangya.sg/SN8r3AWHLxI/AAAAAAAADVI/yNCNCk5eNqU/s720/3.PNG
       如果正在使用 Internet Explorer，则还可以使用名为"上传控件"的另一个上传程序。 此工具允许您选择很多照片来立即上传。 要选择此选项，请点击右侧的上传控件链接。 如果您第一次使用该功能，则必须在系统提示时安装 Active X 插件。
    5. 选择了要上传的照片后，请点击上传或开始上传。 上传完成后，您会自动转到您的相册中。
 
+浏览照片：
+
+   1.概览
+
+http://lh4.ggpht.com/_z3hdxmd1L3I/SRZm8B698DI/AAAAAAAADmc/3cfs-0a_agM/s400/11.png
+
+   2.逐张浏览
+
+http://lh5.ggpht.com/_z3hdxmd1L3I/SRZm7vFQebI/AAAAAAAADmU/qz95saVSB_Q/s576/10.png
+
+   3.幻灯片播放
+
+http://lh5.ggpht.com/_z3hdxmd1L3I/SRZm6ymXcaI/AAAAAAAADmM/g6IbZMv1oig/s576/9.png
+
+
 ===3.2 管理网络相册===
 ====添加和删除相册照片====
   o 删除相册
