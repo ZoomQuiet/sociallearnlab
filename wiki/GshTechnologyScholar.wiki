@@ -41,10 +41,29 @@ Google 学术搜索提供可广泛搜索学术文献的简便方法。您可以�
 
 
 =3 应用=
-==3.1 新建及设置Google学术搜索==
-===3.1.1 新建Google学术搜索===
+==3.1 如何使用Google学术搜索==
+
+在使用使用之前，请确认你已注册有Google的账户，如果没有注册，请查看[GSHGoogleAccount Google帐户注册说明]被点击[http://mail.google.com/mail/signup 这里]注册。
 
 
+===3.1.1 初识Google学术搜索===
+
+
+对于新手来说，Google笔记本是一个位置“隐藏”较深的服务，不过不用着急，跟着我一步一步来，你就可以逐步的领略到它的魅力。
+
+登录谷歌账户，进入“我的账户”，在尝试新服务一栏下方有一个“更多”选项
+
+[http://pic.yupoo.com/ybadn/96701641f304/kx0ti2ar.jpg]
+
+点击打开“更多”，你会发现有一个书卷的图标：Scholar
+
+[http://sociallearnlab.org/wiki/images/2/22/Scholar2.gif]Scholar
+
+没错，就是这儿了，点击进去很容易就会找到Google学术搜索：
+
+http://sociallearnlab.org/wiki/images/8/85/Scholar3.gif
+
+     
 
 ===3.1.2 ===
 
@@ -62,8 +81,6 @@ Google 学术搜索提供可广泛搜索学术文献的简便方法。您可以�
 
 
 ==5 参考==
-
-
 
 
 
