@@ -7,7 +7,7 @@
 产品标识：
  * 英文版标识：
 
-[http://sociallearnlab.org/wiki/images/9/9a/Google.cn_Google_Scholar_scholar_logo.gif]
+[http://sociallearnlab.org/wiki/images/9/9a/Google.cn_Google_Scholar_scholar_logo.gif]Scholar
                  
  * 中文版标识：
 
@@ -57,11 +57,11 @@ Google 学术搜索提供可广泛搜索学术文献的简便方法。您可以�
 
 点击打开“更多”，你会发现有一个书卷的图标：Scholar
 
-[http://sociallearnlab.org/wiki/images/2/22/Scholar2.gif]Scholar
+[http://sociallearnlab.org/wiki/images/2/25/Scholar.gif]
 
 没错，就是这儿了，点击进去很容易就会找到Google学术搜索：
 
-http://sociallearnlab.org/wiki/images/8/85/Scholar3.gif
+[http://sociallearnlab.org/wiki/images/8/85/Scholar3.gif]
 
      
 
@@ -81,8 +81,6 @@ http://sociallearnlab.org/wiki/images/8/85/Scholar3.gif
 
 
 ==5 参考==
-
-
 
 
 
