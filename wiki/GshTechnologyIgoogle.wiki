@@ -37,6 +37,7 @@ Google 提供了创建个性化 iGoogle 网页的功能，从而可以让您快�
 ===3.1  Google Igoogle界面===
 
 iGoogle的页面内容更加丰富，如图所示：
+
 [http://lh3.ggpht.com/_cRwAOQJbfUI/SRfgXSWCLeI/AAAAAAAAB8Q/6tgf91k2rtU/s720/iGoogle_1226301510732.png]
 
 这里，还没有任何个性化的内容，下面我们就说下如何让你的iGoogle真正个性化起来！
@@ -56,6 +57,8 @@ http://lh4.ggpht.com/_cRwAOQJbfUI/SRfxjpyWNSI/AAAAAAAAB8w/sU7r3TKgVWY/thems.jpg
 确定好后，回到你的iGoogle，你会发现，Google也可以打扮得漂漂亮的！
 
 ===3.3 添加小工具===
+
+通过上一步，你可能一定将iGoogle做得很漂亮了吧，但它却并不实用。iGoogle之所以深受Google用启的喜受，主要还是因为它汇聚各种工具的能力。Google和Google用户，为iGoogle贡献了许多常用、实用的Google小工具，有了这些小工具，你就能将iGoogle组合得实用起来。
 
 http://lh6.ggpht.com/_cRwAOQJbfUI/SRfxkEvaIBI/AAAAAAAAB84/-VQlO2oWwuI/gadgets.jpg
 
