@@ -65,7 +65,12 @@ CBC年会日程，
 http://cnbloggercon.org/2008/schedule
 
 
-= Details =
+关于2018中国教育宣言，
+
+http://code.google.com/p/sociallearnlab/wiki/EduAnn2018
+
+
+
 
 Add your content here.  Format your content with:
   * Text in *bold* or _italic_
