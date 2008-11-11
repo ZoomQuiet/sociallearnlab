@@ -35,6 +35,15 @@ http://www.cnbloggercon.org/blog/
  个人宣言草稿:
   # [EduAnn2018ZQ] ~ ZoomQuiet 的思考
 
+== 邮件列表研讨贴 ==
+
+
+关于“2018年教育宣言“的一点技术性分析 ，
+
+http://groups.google.com/group/Edu2/browse_thread/thread/d9323b956d2eb3c4/6bb4aaf04ca34fc2?hl=zh-CN#6bb4aaf04ca34fc2
+
+
+
 == 当前GG邮件列表讨论归纳 1 ==
 
 （附，归纳1当前小石在整理；
