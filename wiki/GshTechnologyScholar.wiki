@@ -56,7 +56,7 @@ Google 学术搜索提供可广泛搜索学术文献的简便方法。您可以�
 [http://pic.yupoo.com/ybadn/96701641f304/kx0ti2ar.jpg]
 
 点击打开“更多”，你会发现有一个书卷的图标：
-[http://sociallearnlab.org/wiki/images/2/25/Scholar.gif] Scholar
+[http://sociallearnlab.org/wiki/images/2/25/Scholar.gif] "[http://scholar.google.cn/schhp?hl=zh-CN Scholar]"
 
 
 没错，就是这儿了，点击进去很容易就会找到Google学术搜索：
@@ -190,8 +190,6 @@ Google 学术搜索的每一个搜索结果都代表一组学术研究成果，�
 
 
 ==5 参考==
-
-
 
 
 
