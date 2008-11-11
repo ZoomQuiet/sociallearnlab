@@ -1,0 +1,50 @@
+#labels SllIrc
+#中文网志年会前夕 SLLIrc网络会议记录 .
+
+== 注意点 ==
+
+精确时间流程，高效沟通。
+
+相关会议的记录／照片／录音／录像。
+
+集中在15号。
+
+
+== 密切相关的参考信息（最后是根据实际情况定） ==
+
+
+15号下午第一个是（可以是1点或者1点半）：
+
+A4 一个老部落客的回顾与前瞻–超以相外，得其环中 （邹景平） ；
+
+
+15号下午最后两个是（吃晚饭前）
+
+A9 社会性学习的理论和实践（庄秀丽）
+
+A10 讨论：在社会性网络下的学习和教育（庄秀丽、邹景平、吴向东、陈堃） 
+
+16号上午
+
+B4 未来教育二十年蓝图（吴向东主持，需要提前报名） 
+
+
+= Introduction =
+
+Add your content here.
+
+= 参考信息 =
+
+CBC是中文网志年会缩写。
+
+CBC年会日程，
+
+http://cnbloggercon.org/2008/schedule
+
+
+= Details =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
