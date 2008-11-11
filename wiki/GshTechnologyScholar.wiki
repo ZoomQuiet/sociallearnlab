@@ -172,7 +172,7 @@ Google 学术搜索的每一个搜索结果都代表一组学术研究成果，�
 ===3.1.8 日期限制===
 
 
-（该选项只出现在"[[http://scholar.google.com/advanced_scholar_search?hl=zh-CN 高级学术搜索 页中]]"）
+（该选项只出现在"[http://scholar.google.com/advanced_scholar_search?hl=zh-CN 高级学术搜索 页中]"）
 
 在寻找某一特定领域的最新刊物时，日期限制搜索可能会比较实用。
 
@@ -190,8 +190,6 @@ Google 学术搜索的每一个搜索结果都代表一组学术研究成果，�
 
 
 ==5 参考==
-
-
 
 
 
