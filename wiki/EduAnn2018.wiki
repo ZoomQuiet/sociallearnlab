@@ -2,23 +2,13 @@
 #labels SLL,Book
 
 = 2018年中国教育宣言~草案 =
-SEE:[EduCnUtopiaBook SLL理想书]
+
 
 == 背景 ==
- * [http://www.douban.com/group/144786/ 中文网志年会教育圆桌会议小组]^豆瓣^
-  * [https://spreadsheets.google.com/viewform?key=pM4AV2SJ4r6gacb18HAXtSw 为广州教育宣言设立的调查]
-  * [https://spreadsheets.google.com/pub?key=pM4AV2SJ4r6gacb18HAXtSw 为广州教育宣言设立的调查~统计]^Google 文档 - ^
- * [http://groups.google.com/group/Edu2/browse_thread/thread/59bc377a0c28ab6e 关于“2018年中国教育宣言”的一些商榷 - Edu 2.0 - 开放、协作、分享 | Google 网上论坛]
- * [https://groups.google.com/group/sociallearnlab-members/browse_thread/thread/2d1d7ad043c1d2e3 面向2018年的中国教育宣言（集思广益） - SocialLearnLab-Members:“教育大发现”核心成员列表 | Google 网上论坛]
- 
-=== 缘由 ===
 
 2008年网志年会，在广州举办，11月15-16，
 http://www.cnbloggercon.org/blog/
 
-=== 要务 ===
-
-“教育大发现社区” 与 “鸢尾花（IRIS）学习项目团队” 将要在这次网志年会上，共同组织一个圆桌会议，会议主题是：
 {{{
 面向2018年的中国教育宣言 。
 }}}
@@ -27,6 +17,14 @@ http://www.cnbloggercon.org/blog/
  * 吴向东 庄秀丽，负责会议策划。
 
 
+  * [http://www.douban.com/group/144786/ 中文网志年会教育圆桌会议小组]^豆瓣^
+  * [https://spreadsheets.google.com/viewform?key=pM4AV2SJ4r6gacb18HAXtSw 为广州教育宣言设立的调查]
+  * [https://spreadsheets.google.com/pub?key=pM4AV2SJ4r6gacb18HAXtSw 为广州教育宣言设立的调查~统计]^Google 文档 - ^
+ * [http://groups.google.com/group/Edu2/browse_thread/thread/59bc377a0c28ab6e 关于“2018年中国教育宣言”的一些商榷 - Edu 2.0 - 开放、协作、分享 | Google 网上论坛]
+ * [https://groups.google.com/group/sociallearnlab-members/browse_thread/thread/2d1d7ad043c1d2e3 面向2018年的中国教育宣言（集思广益） - SocialLearnLab-Members:“教育大发现”核心成员列表 | Google 网上论坛]
+ * [http://groups.google.com/group/Edu2/browse_thread/thread/d9323b956d2eb3c4/6bb4aaf04ca34fc2?hl=zh-CN#6bb4aaf04ca34fc2 关于“2018年教育宣言“的一点技术性分析]
+
+ 
 == 思考 ==
  邀请大家思考:
   # 面向未来10年内中国教育的发展,应该如何促动?
@@ -34,18 +32,6 @@ http://www.cnbloggercon.org/blog/
   # 宣言应该包含什么
  个人宣言草稿:
   # [EduAnn2018ZQ] ~ ZoomQuiet 的思考
-
-== 邮件列表研讨贴 ==
-
-
-关于“2018年教育宣言“的一点技术性分析 ，
-
-http://groups.google.com/group/Edu2/browse_thread/thread/d9323b956d2eb3c4/6bb4aaf04ca34fc2?hl=zh-CN#6bb4aaf04ca34fc2
-
-整理Google共笔，
-
-http://docs.google.com/Doc?id=ah9t65dns696_135dvrqxpdv&hl=zh_CN
-
 
 
 == 当前GG邮件列表讨论归纳 1 ==
@@ -85,8 +71,6 @@ Isaac的“家庭作业”本身也是一种整理，可看作归纳3；
 无论什么背景、问题、现实与契机，我们是否都应从学习者、家长的角度去考虑？
 
 
-
-
 21、怎么理解教育及其变革；
 
 22、宣言的主要精神；
@@ -120,13 +104,14 @@ Isaac的“家庭作业”本身也是一种整理，可看作归纳3；
 
     ...
 
-== 宣言 ==
+== 宣言(发布版) ==
 === 序文 ===
 === 前言 ===
 === 反思 ===
 === 行动 ===
 
 == 原始讨论观点 ==
+
 *凡例*
 
 姓    名
@@ -709,6 +694,14 @@ Web2.0技术解决教育问题的，我觉得很有问题，这本身就属于�
 
 
 === 宣言签名 ===
+
+== 相关链接 ==
+
+整理Google共笔，
+
+http://docs.google.com/Doc?id=ah9t65dns696_135dvrqxpdv&hl=zh_CN
+
+SEE:[EduCnUtopiaBook SLL理想书]
 
 == 参考 ==
  * [http://www.capetowndeclaration.org 开普敦开放教育资源宣言]
