@@ -1,4 +1,4 @@
-﻿#summary 2018年宣言
+﻿#summary 2018年宣言 ZoomQuiet IMHO 
 #labels SLL,Book
 
 = 2018年学习者宣言~草案 =
