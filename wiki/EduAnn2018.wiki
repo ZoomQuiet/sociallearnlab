@@ -1,5 +1,5 @@
 ﻿#summary 2018年中国教育宣言
-#labels SLL,Book
+#labels EduAnn2018,Book,SLL
 
 = 2018年中国教育宣言~草案 =
 
