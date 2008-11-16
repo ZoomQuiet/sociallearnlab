@@ -137,9 +137,13 @@ http://lh6.ggpht.com/_cRwAOQJbfUI/SR-WoyhXWvI/AAAAAAAACAI/9iRAPSH7Yt0/b8.jpg
  * [http://books.google.com/intl/zh-CN/googlebooks/publishers.html 为出版商和作者提供的信息]
 
 ===4.3 Google图书搜索与几类网站比较===
+
 * 超星数字图书馆、爱读爱看(原方正数字资源平台)。和这两个网站相比，Google优势在于可查阅到更多外文图书，而中文图书少是Google的劣势；
+
 * 爱番薯等在线阅读网站。与爱番薯阅读材料为网络采集的盗版内容不同，Google选择的与出版社合作，无盗版风险；
+
 * 豆瓣。之所以提到豆瓣是因为Google图书和豆瓣一样提供图书基本信息、可收藏、可写评论、提供购买信息。但Google的中文图书书目显然没有豆瓣全，而且这依然没有社区交互的氛围，因此评论功能估计是个鸡肋。
+
 * 百度图书搜索。百度图书搜索只提供图书基本信息与章节目录，功能有待增强。
 
 ==5 资源索引==
