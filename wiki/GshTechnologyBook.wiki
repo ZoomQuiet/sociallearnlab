@@ -57,24 +57,30 @@
 
 }}}
 
-
-
-双页阅读：
+如要你平时比较喜欢读纸版的图书，你可以尝试改变下，像用双页阅读，这样看起来就更有书的样子了：
 
 [http://lh3.ggpht.com/_cRwAOQJbfUI/SR-WjhG92SI/AAAAAAAAB_g/J-NYBp7lbRA/b3.jpg]
+
 ===3.3 评论===
+Google 图书照样具有社会化产品功能，如对于图书的评论就是体现之一。右边栏中的“评论”链接，就能让你参加对该图书的评级和评论。如图：
 
 [http://lh4.ggpht.com/_cRwAOQJbfUI/SR-WkEE8QQI/AAAAAAAAB_o/i5n13NBgoSE/b4.jpg]
 
-===3.4 查找书店===
+评级是按星级来量化的，而评论，则需要你写下你自己的看法了。如果该书已存在评论的话，你会在这里看到这些评论内容的。对于图书的评论，也会是你是选择图书的一个很重要的参选。
 
+===3.4 购买图书===
+右边栏中，会向你推荐该图书的在线发行商，你可以点击进去购图该图书。国内也有合者商，如当当，卓越等。点击链接，就可以进相应的购买页面。
+
+===3.5 查找书店===
+如果你喜欢逛书城，可以试下查找书店这个功能，如图：
 [http://lh5.ggpht.com/_cRwAOQJbfUI/SR-WkjqjMCI/AAAAAAAAB_w/Pdk42LgjUrg/b5.jpg]
 
-地图：
+这里会链接到Google地图上去，哪里更新些？
 
 [http://lh5.ggpht.com/_cRwAOQJbfUI/SR-Wm4UO1hI/AAAAAAAAB_4/fG0bjpJaWPA/b6.jpg]
 
-===3.5 我的图书馆===
+===3.6 我的图书馆===
+如果你找到喜欢的书，我想你一定会收藏起来的吧，点击右边栏中的“收藏”即可完成。收藏起来的图书，你可以在“我的图书馆”中找到。所有收藏的图书都会集中在这里。
 
 [http://lh4.ggpht.com/_cRwAOQJbfUI/SR-WoOqw0ZI/AAAAAAAACAA/JbCZ2slAEHY/b7.jpg]
 
