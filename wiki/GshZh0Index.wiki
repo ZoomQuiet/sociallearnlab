@@ -8,7 +8,7 @@
 * GshStoryIndex ~故事设计索引
 
 || 章节 || 编一窝写进度 || 负责人员 || 备注 ||
-|| GshZh0Index  前言|| || ||  + 综述（背景，Google 服务目前发展，新时代有新的要求，Google 教育与学习，为什么有这样的变化和要求）||
+|| GshZh0Index  || || || 综述（背景，Google 服务目前发展，新时代有新的要求，Google 教育与学习，为什么有这样的变化和要求）||
 || GshTechnologyGmail || || || ||
 || GshTechnologyNotebook || 初稿完成 || || ||
 || GshTechnologyPicasa || 初稿完成 || || ||
@@ -17,11 +17,10 @@
 || GshTechnologyDocuments || || || ||
 || GshTechnologyBook || 初稿完成 || || ||
 || GshTechnologyCalendar || 初稿完成 || || ||
-|| GshTechnologyReader | 初稿完成 || || ||
+|| GshTechnologyReader || 初稿完成 || || ||
 || GshTechnologyEarth || || || ||
 || GshTechnologyMap || 初稿完成 || || ||
 || GshTechnologyApps || 初稿完成 || || ||
 || GshTechnologyOthers || || || ||
 || GshTechnologyIntegrate || || || ||
 || GshTechnologySources |||| || ||
-
