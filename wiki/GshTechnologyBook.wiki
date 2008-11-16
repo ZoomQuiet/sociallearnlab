@@ -90,12 +90,29 @@ Google 图书照样具有社会化产品功能，如对于图书的评论就是�
 支持图书导入与导出及以RSS发布。
 
 ===3.7 搜索图书===
+下面我们来说下如何使用图书搜索功能，输入要找图书的关键后，点击即可进行搜索。在搜索功能中，有个很有用的筛选选项，即”显示“后的下拉菜单，当我们选择“有限预览和全书浏览”时，即可将相关的图书列出来，如图：
 
 http://lh6.ggpht.com/_cRwAOQJbfUI/SR-WoyhXWvI/AAAAAAAACAI/9iRAPSH7Yt0/b8.jpg
 
-列表
+显示选项共有如下四种：
+ # 所有图书--默认搜索显示
+ # 有限预览和全书浏览--能看到图书的具部分或全部内容
+ # 仅全书浏览--能看到图书全部内容
+ # 国学图书--古董级图书
+
+据笔者测试，这些图书中，能全书浏览的数量很少，如果你要找书，只能在有限预览之类书上下功夫了。
+
+你还可以切换图书的视图模式，列表即可能看到书的一些简单介绍，如可以收藏或查看图书的详细介绍等：
+
+[http://lh6.ggpht.com/_cRwAOQJbfUI/SR-9rIc2cRI/AAAAAAAACBo/JJV2SF_rYTM/%E6%A4%8D%E7%89%A9%E5%AD%A6%E5%AE%9E%E9%AA%8C%E6%8C%87%E5%AF%BC%20-%20Google%20%E5%9B%BE%E4%B9%A6%E6%90%9C%E7%B4%A2_1226816881995.jpg]
+
+封面视图则给出图书的封面：
 
 [http://lh6.ggpht.com/_cRwAOQJbfUI/SR-WpzbbJjI/AAAAAAAACAQ/dn9RNSrqPHQ/b8-1.jpg]
+
+高级搜索，能保证你的搜索更精确：
+
+[http://lh4.ggpht.com/_cRwAOQJbfUI/SR-5si6yQMI/AAAAAAAACBI/N-AD9jxoIZ4/%E9%AB%98%E7%BA%A7%E5%9B%BE%E4%B9%A6%E6%90%9C%E7%B4%A2_1226815819492.jpg]
 
 ==4 扩展应用==
 
