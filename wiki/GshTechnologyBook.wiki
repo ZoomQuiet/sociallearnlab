@@ -1,7 +1,7 @@
-#summary 《Google服务应用手册》第八章GoogleBook.
+#summary 《Google服务应用手册》第八章GoogleBookSearch.
 #labels GSH,Google,GoogleBook
 [GSH]首页
-=第八章 Google Book=
+=第八章 Google Book Search=
 产品标识：
  * 英文版标识：[http://books.google.com/intl/en/googlebooks/images/books_sm2.gif]
  * 中文版标识：[http://books.google.com/intl/zh-CN/googlebooks/images/books_sm2.gif]
