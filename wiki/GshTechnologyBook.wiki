@@ -38,6 +38,10 @@ Google图书搜索为所有图书创建了参考页面，可以方便您快速�
 
 在使用使用之前，请确认你已注册有Google的账户，如果没有注册，请查看[GSHGoogleAccount Google帐户注册说明]被点击[http://mail.google.com/mail/signup 这里]注册。
 
+谷歌图书搜索中文首页的网址为：http://books.google.com/books?hl=zh-CN
+
+谷歌图书搜索英文首页的网址为：http://books.google.com/books?hl=en-CN
+
 ===3.1  GoogleBook界面===
 进到到：[http://books.google.com]。这里要说明一点的是，谷歌中文也有一个图书搜索，网址是：[http://books.google.cn]，但进入这个网址后，只能搜索和查看图书，而更多的功能则没有了。我们这里是以[http://books.google.com]为例来谈Google 图书。
 
