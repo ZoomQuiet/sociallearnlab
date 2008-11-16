@@ -1,5 +1,5 @@
 #summary Google Services Handbook
-#labels Featured,GSH,Google
+#labels Featured,GSH,Google,认领列表,完成进度
 
 = 《Google 服务应用 》 =
 
