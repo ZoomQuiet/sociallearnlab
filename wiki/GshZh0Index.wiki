@@ -9,17 +9,17 @@
 
  # GshZh0Index ~ 前言 + 综述（背景，Google 服务目前发展，新时代有新的要求，Google 教育与学习，为什么有这样的变化和要求）
  # GshTechnologyGmail 
- # GshTechnologyNotebook
- # GshTechnologyPicasa
- # GshTechnologyGroups
- # GshTechnologyIgoogle
+ # GshTechnologyNotebook ^初稿完成^
+ # GshTechnologyPicasa ^初稿完成^
+ # GshTechnologyGroups ^初稿完成^
+ # GshTechnologyIgoogle ^初稿完成^
  # GshTechnologyDocuments
- # GshTechnologyBook
- # GshTechnologyCalendar
- # GshTechnologyReader
+ # GshTechnologyBook ^初稿完成^
+ # GshTechnologyCalendar ^初稿完成^
+ # GshTechnologyReader ^初稿完成^
  # GshTechnologyEarth
- # GshTechnologyMap
- # GshTechnologyApps
+ # GshTechnologyMap ^初稿完成^
+ # GshTechnologyApps ^初稿完成^
  # GshTechnologyOthers
  # GshTechnologyIntegrate
  # GshTechnologySources
