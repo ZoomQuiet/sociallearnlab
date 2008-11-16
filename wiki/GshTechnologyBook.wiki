@@ -3,8 +3,9 @@
 [GSH]首页
 = 第八章 GoogleBook =
 产品标识：
- * 英文版标识：
- * 中文版标识：
+ * 英文版标识：[http://books.google.com/intl/en/googlebooks/images/books_sm2.gif]
+ * 中文版标识：[http://books.google.com/intl/zh-CN/googlebooks/images/books_sm2.gif]
+
 ==1 问题情境==
 
 === 1.1 情境一 ===
