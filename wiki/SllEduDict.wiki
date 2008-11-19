@@ -28,6 +28,9 @@ SEE:[SllDict SLL社区大辞典]
  教育资源::
     Education Resource , EduRes;
     指所有可用以支撑教育活动的物资及社会性资源! 比如说:课本/学校/教师/主题网站,,, ~ ZoomQuiet 081118
+    Education Technology, EduTech;
+    教育技术是指通过创造、使用、管理适当的技术过程和资源，促进学习和改善绩效的研究与符合道德规范的实践。（AECT2004）
+wuchangcheng 081119
 == Ff ==
 == Gg ==
 == Hh ==
@@ -70,6 +73,4 @@ SEE:[SllDict SLL社区大辞典]
 = Discuss =
  ZoomQuiet 081118:
     辞典的维护流程? 使用/引用方式? 释义的评审和发布?辞条的收入标准? ,,,
-
-
 
