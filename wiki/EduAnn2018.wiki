@@ -1,7 +1,7 @@
 ﻿#summary 2018年中国教育宣言
 #labels EduAnn2018,SLL
 
-= 2018年中国教育宣言~草案 =
+= 面向2018年的中国教育宣言 =
  相关参考::
  * [http://docs.google.com/Doc?id=ah9t65dns696_135dvrqxpdv&hl=zh_CN Google共笔整理]
  * [EduCnUtopiaBook SLL理想书]
@@ -81,4 +81,3 @@ http://www.cnbloggercon.org/blog/
   # 面向未来10年内中国教育的发展,应该如何促动?
   # 宣言应该如何起草
   # 宣言应该包含什么
-
