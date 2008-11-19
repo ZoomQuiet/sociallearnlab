@@ -1,5 +1,5 @@
 #summary SLL教育辞典
-#labels Sll,Dict
+#labels Sll,Dict,EduAnn2018
 
 SEE:[SllDict SLL社区大辞典]
 = 简介 =
@@ -70,8 +70,6 @@ SEE:[SllDict SLL社区大辞典]
 = Discuss =
  ZoomQuiet 081118:
     辞典的维护流程? 使用/引用方式? 释义的评审和发布?辞条的收入标准? ,,,
-
-
 
 
 
