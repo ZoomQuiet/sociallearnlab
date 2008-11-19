@@ -1,40 +1,76 @@
+#summary SLL教育辞典
 #labels Sll,Dict
-#SLL教育辞典
 
+SEE:[SllDict SLL社区大辞典]
 = 简介 =
+为[EduAnn2018 2018教育宣言] 组织的关键词 辞典,长期维护,定义各种概念;
+ * 用E文定义的首字母排序
+ * 释义体例:
+{{{
+ 辞条::
+    E文定义,缩写;
+    解释,,, 
+    解释,,, ~ 作者 版本日期
+}}}
+ 
+== 0~9 ==
+ 2018教育宣言::
+    由SLL发起和组织的计划,以宣言的形式来整合民间教育力量,以期不断的实质的改良中国教育; ~ ZoomQuiet 081118
+
+== Aa ==
+== Bb ==
+== Cc ==
+ 社区::
+    community
+    由人组成的,有共同目标行动纲领和固定活动场所的实体; ~ ZoomQuiet 081118
+== Dd ==
+== Ee ==
+ 教育资源::
+    Education Resource , EduRes;
+    指所有可用以支撑教育活动的物资及社会性资源! 比如说:课本/学校/教师/主题网站,,, ~ ZoomQuiet 081118
+== Ff ==
+== Gg ==
+== Hh ==
+== Ii ==
+== Jj ==
+== Kk ==
+== Ll ==
+== Mm ==
+== Nn ==
+== Oo ==
+== Pp ==
+== Qq ==
+== Rr ==
+== Ss ==
+
+ 社会性软件::
+    social software
+ 社会网络::
+    social network
+ 社会化学习::
+    social learnning
+ 社会化教育::
+    social education
+ SNS::
+    social network software/service
+    社会网络服务
+    
+== Tt ==
+== Uu ==
+== Vv ==
+== Ww ==
+ Web2.0::
+    下一代软件架构模式
+
+== Xx ==
+== Yy ==
+== Zz ==
+
+
+= Discuss =
 
 
 
-
-= Details =
-
-==Web2.0==
-
-  下一代软件架构模式
-
-
-
-==社区==
-
-
-
-==社会性软件==
-
-
-
-==社会网络==
-
-
-
-==社会化学习==
-
-
-
-==社会化教育==
-
-
-
-==SNS（社会网络服务）==
 
 
 
