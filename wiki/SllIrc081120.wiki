@@ -1,0 +1,87 @@
+#summary 教育大发现社区irc会议 针对社区委员会
+#labels SllIrc
+
+
+= Introduction =
+
+1. 时间：  11月20日晚9:00,
+
+SLL工作委员会，将进行第一次网络工作会议，
+
+2. 会议地点：
+
+ http://code.google.com/p/sociallearnlab/wiki/UsageIRC
+
+3. 会议成员包括：
+
+工作委员会成员：石峰、汤富源、上官良雅、庄秀丽，余波
+
+顾问：仨儿
+
+
+非常欢迎其他关心此事的朋友来参与。
+
+
+
+4. 主要议题
+
+我们需要讨论的话题，主要可能包括（不足的请大家补充）：
+
+
+（1） 确定工作职责：制定明晰的社区规范，确保社区成员遵守方向性决策，原则行决策，组织、推动、维护社区发展  and……
+
+（2） 明晰工作任务 
+
+仨提出的：
+
+0. 社区规章的建立和监督! 社区组织的定义,遴选,维护,,,
+
+1. 相关资源权限的仲裁; 比如说，核心成员的接纳审核;不当信息的关闭通告,,,
+
+2. 核心文献的撰写; 宗旨/规章/项目启动,,,
+
+3. 日常关键事务的响应; 新人在各种信息资源中的引导,IRC等等会议的主持,记录,
+
+通告,,,
+
+等等,
+
+即! SLL 社区,应该明确的定义出职能范围!
+
+创始人
+
+仲裁委
+
+核心成员
+
+普通成员
+
+外围成员
+
+旁观者
+
+（3） 委员会名称，规模，入选条件
+
+名称：
+
+规模：3～5
+
+入选原则：自愿，服务社区，诚意，真实表现，如果有问题想退出直接提议，或者大家提出动议
+
+（4） 
+
+
+5. 委员会成立背景
+
+11.15社区内部讨论主题：成立社区委员会，社区目标"的录音
+
+http://www.woodpecker.org.cn:9081/classes/classes2008/081115-cbc08-sll/081115-SLL-Zoom.ogg （庄老师录制）
+
+http://www.woodpecker.org.cn:9081/classes/classes2008/081115-cbc08-sll/081115-sll-moon-discuss.ogg （仨儿录制）
+
+= 会议结果 =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
