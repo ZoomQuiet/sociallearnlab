@@ -1,6 +1,10 @@
+#summary EduAnn2018工作委员会第一次会议.
 #labels EduAnn2018,SLL,EduAnnIrc
-# EduAnn2018工作委员会第一次会议.
 
+= 参考 =
+http://www.zoomquiet.org/share/mm/think3-3.png
+
+= 记要 =
 1.  时间：  11月20日（周四）晚上 7:30,
 
 EduAnn2018工作委员会，将进行第一次网络工作会议，
