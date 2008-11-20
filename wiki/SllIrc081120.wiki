@@ -101,9 +101,13 @@ http://www.woodpecker.org.cn:9081/classes/classes2008/081115-cbc08-sll/081115-sl
 
 4）新项目发起审核流程：余波与庄老师协同，本周末发布，
 
-5）任务进度跟踪页面：良雅负责
+5）任务进度跟踪页面，以及在社区中使用 Calendar+Issue进行定期提醒，任务分发，等等，：良雅负责制作、方法推行，余波协同
 
 http://code.google.com/p/sociallearnlab/wiki/SLLCalendar
+
+日历 http://bit.ly/vAxc
+
+
 
 
 *（3） 委员会名称，规模，入选条件，决议规则 *
