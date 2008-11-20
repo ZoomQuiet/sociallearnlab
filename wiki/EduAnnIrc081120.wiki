@@ -102,9 +102,7 @@ EduAnn2018工作委员会，将进行第一次网络工作会议，
 议题3：今后每周三晚上9：00，委员会准时召开工作会议，总结本周进度，策划下期安排
 
 
-Conversation with #sll
-
-(6:58:52 PM) mode (+ns ) by heinlein.freenode.net
+==EduAnn2018WG第一次会议原始记录==
 
 (7:10:01 PM) liangyasg [n=Solomon@220.160.168.187] entered the room.
 
@@ -603,4 +601,3 @@ Conversation with #sll
 (8:17:09 PM) alexyu: 欢迎大家参加
 
 (8:17:13 PM) alexyu: 还是这个irc频道
-
