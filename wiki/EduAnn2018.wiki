@@ -98,3 +98,9 @@ http://www.cnbloggercon.org/blog/
   # 面向未来10年内中国教育的发展,应该如何促动?
   # 宣言应该如何起草
   # 宣言应该包含什么
+
+== 工作组会议纪要 ==
+
+# EduAnn2018工作委员会第一次会议. 
+
+http://code.google.com/p/sociallearnlab/wiki/EduAnnIrc081120
