@@ -1,4 +1,4 @@
-#社区最近需要完成的任务
+#社区最近需要完成的任务列表
 
 = Introduction =
 
@@ -7,7 +7,4 @@ Add your content here.
 
 = Details =
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+任务       负责人       截止时间        目前完成进度
