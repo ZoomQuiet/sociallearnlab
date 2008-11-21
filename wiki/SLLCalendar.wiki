@@ -1,4 +1,5 @@
 #summary 社区任务跟踪页面
+#labels SLL,SLLS
 
 =*社区任务跟踪表*=
 
