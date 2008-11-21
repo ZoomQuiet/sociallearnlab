@@ -1,5 +1,4 @@
-#summary One-sentence summary of this page.
-
+#summary 社区任务跟踪页面
 
 
 
@@ -8,7 +7,5 @@ Add your content here.
 
 = Details =
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+--------任务-------|-------负责人--------|------时间安排--------|------目前进展情况--------
+社区理想/总旨/目标起草    石峰、庄秀丽    11.24前起草11.28完成讨论，发布
