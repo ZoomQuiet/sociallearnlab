@@ -1,0 +1,14 @@
+#summary 用来记录教育大发现社区发展的里程碑事件 历史的过程.
+#labels SLL
+
+= Introduction =
+
+Add your content here.
+
+
+= Details =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
