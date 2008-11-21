@@ -1,7 +1,11 @@
 ﻿#summary 2018年中国教育宣言 讨论
 #labels EduAnn2018,SLL
 
+SEE:[EduAnn2018] ~ 宣言首页
+
 = 2018年中国教育宣言~资料 =
+ * *EduAnnDiscuss ~ 列表中相关讨论整理*
+
 == 邮件列表公开讨论观点归类 ==
 
 *A 资源内容*
