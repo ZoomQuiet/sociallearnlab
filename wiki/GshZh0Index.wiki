@@ -11,7 +11,7 @@
 || GshZh0Index  || || || 综述（背景，Google 服务目前发展，新时代有新的要求，Google 教育与学习，为什么有这样的变化和要求）||
 || GshTechnologyGmail || || || ||
 || GshTechnologyNotebook || 初稿完成 || || ||
-|| GshTechnologyPicasa || 初稿完成 || || ||
+|| GshTechnologyPicasa || 初稿完成 || Solomon|| ||
 || GshTechnologyGroups || 初稿完成 || || ||
 || GshTechnologyIgoogle || 初稿完成 || wwq0327 || ||
 || GshTechnologyDocuments || || || ||
@@ -19,7 +19,7 @@
 || GshTechnologyCalendar || 初稿完成 || || ||
 || GshTechnologyReader || 初稿完成 || wwq0327 || ||
 || GshTechnologyEarth || || || ||
-|| GshTechnologyMap || 初稿完成 || || ||
+|| GshTechnologyMap || 初稿完成 || Solomon|| ||
 || GshTechnologyApps || 初稿完成 || || ||
 || GshTechnologyOthers || || || ||
 || GshTechnologyIntegrate || || || ||
