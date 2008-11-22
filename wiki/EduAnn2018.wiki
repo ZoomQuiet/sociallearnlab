@@ -46,6 +46,9 @@ http://www.cnbloggercon.org/blog/
  * [http://groups.google.com/group/Edu2/browse_thread/thread/a29c383a621bd046# "面向2018年的教育宣"圆桌会议安排]
 
 ==== 会议成果，及任务列表 ====
+
+进一步说明，请参考：[http://code.google.com/p/sociallearnlab/wiki/EA2018OpenTaskList?ts=1227352251&updated=EA2018OpenTaskList 当前任务列表]
+
 *录音* ~ [http://www.woodpecker.org.cn/share/classes/classes2008/081115-cbc08-sll/ 啄木鸟社区空间分享]
 
  ZoomQuiet 录制:
