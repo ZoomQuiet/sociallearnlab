@@ -1,7 +1,10 @@
 ﻿#summary 2018年中国教育宣言
 #labels EduAnn2018,SLL
 
-===                    已熟悉本板块工作的成员，可直接浏览 [http://code.google.com/p/sociallearnlab/wiki/EA2018OpenTaskList?ts=1227352251&updated=EA2018OpenTaskList 当前任务列表] ===
+{{{
+已熟悉本板块工作的成员，可直接浏览 [http://code.google.com/p/sociallearnlab/wiki/EA2018OpenTaskList?ts=1227352251&updated=EA2018OpenTaskList 当前任务列表] 
+}}}
+
 
 = 面向2018年的中国教育宣言 =
 
