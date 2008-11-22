@@ -1,6 +1,7 @@
 #labels EduAnn2018,SLL
 #2008.11.16晚柯声茂从NGO角度谈社区发展.
 
+[http://code.google.com/p/sociallearnlab/wiki/EduAnn2018?ts=1227342151&updated=EduAnn2018 返回]
 
 = 柯声茂谈价值观、领导力和机制 =
 
@@ -100,3 +101,4 @@ leader，这是我的一些简单的……
 庄老师：
 
 谢谢你啊。
+
