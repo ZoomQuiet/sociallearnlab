@@ -1,6 +1,88 @@
 ﻿#summary 2018年中国教育宣言
 #labels EduAnn2018,SLL
 
+== 录音整理任务列表及说明 ==
+
+=== 录音文字整理认领说明 ===
+
+1、录音文件说明和时间节点：
+
+年会录音需要逐步来整理成文字，有一些任务需要大家来认领。
+录音包括两部分，一部分是关于宣言讨论的，一部分是关于SLL社区建设讨论的。
+宣言讨论部分需22日晚22时前完成，SLL社区建设部分目前尚无时间要求但请从速。
+
+2、认领和提交方式：
+
+（1）认领：
+志愿者认领了某段录音的整理，请在认领的条目后添加：
+（某某人已认领，何时提交，联系方式）
+
+如小石认领这个条目：
+[http://www.sociallearnlab.org/EduAnn2018/SLLkeshengmao20081116.ogg SLLkeshengmao20081116.ogg]^1m^ 11.16晚柯声茂从NGO角度谈社区发展 
+
+认领后添加上说明，即：
+[http://www.sociallearnlab.org/EduAnn2018/SLLkeshengmao20081116.ogg SLLkeshengmao20081116.ogg]^1m^ 11.16晚柯声茂从NGO角度谈社区发展 
+（小石已认领，22日下午16时提交，Gtalk：xiansf@gmail.com/Mobile：131 4617 2275）
+
+（2）提交：
+
+志愿者提交完成的录音文字时，请以原录音文件名在本code中建立新的wiki页面，在新的wiki页面中对录音整理的文稿copy并排版后，进行署名，并在下方的Labels中分别添加EnuAnn2018、SLL标签。然后保存，并copy新wiki页面的网址，返回认领页面。在认领的条目后，增加说明，接上例：
+
+新的wiki页面文件名及参考网址是：[http://code.google.com/p/sociallearnlab/wiki/SLLkeshengmao20081116?ts=1227342021&updated=SLLkeshengmao20081116  SLLkeshengmao20081116]
+
+在该页面可以看到，除了正文之外：
+
+a、页面上下有返回到提交页面的链接：“返回EduAnn2018首页”
+a、整理时小石附加的标题：“柯声茂谈价值观、领导力和机制”
+b、关于录音整理及整理者、整理时间等说明；
+……
+
+在返回的认领页面中，可以在认领的条目后面，又增加了录音文字稿的新wiki页面链接和说明：
+
+[http://www.sociallearnlab.org/EduAnn2018/SLLkeshengmao20081116.ogg SLLkeshengmao20081116.ogg]^1m^ 11.16晚柯声茂从NGO角度谈社区发展 
+（小石已认领，22日下午16时提交，Gtalk：xiansf@gmail.com/Mobile：131 4617 2275）
+（小石已提交，[http://code.google.com/p/sociallearnlab/wiki/SLLkeshengmao20081116?ts=1227342021&updated=SLLkeshengmao20081116 录音整理]）
+
+
+
+
+
+
+
+
+
+=== 录音资料 ===
+
+宣言讨论部分:
+
+
+SLL社区建设部分：
+
+ ZoomQuiet 录制:
+  # [http://www.woodpecker.org.cn/share/classes/classes2008/081115-cbc08-sll/081115-sll-moon-discuss.ogg 081115-sll-moon-discuss.ogg]^16.6M^ 15日中午自由沟通
+  # [http://www.woodpecker.org.cn/share/classes/classes2008/081115-cbc08-sll/081115-cbc08-a9-part.ogg 081115-cbc08-a9-part.ogg]^2.3M^A9 [http://www.cnbloggercon.org/blog/archives/2008/10/28/xiuli/ 社会性学习的理论和实践] 片段
+  # [http://www.woodpecker.org.cn/share/classes/classes2008/081115-cbc08-sll/081115-cbc08-a10-part.ogg 081115-cbc08-a10-part.ogg]^12.6M^ A10 讨论：在社会性网络下的学习和教育 片段
+
+ 余波 收集:
+  # [http://www.woodpecker.org.cn/share/classes/classes2008/081115-cbc08-sll/081115-SLL-Zoom.ogg 081115-SLL-Zoom.ogg]^10.9m^ 11.15社区内部讨论 主题：成立社区委员会，社区目标 
+  # [http://www.woodpecker.org.cn/share/classes/classes2008/081115-cbc08-sll/SLLIsaacMao20081116part1.ogg SLLIsaacMao20081116part1.ogg]^3.7m^ 11.16 邀请毛向辉参社区发展讨论：毛向辉关于社区组织管理方面建议 （[http://code.google.com/p/sociallearnlab/wiki/SLLIsaacMao20081116part1 录音整理]）
+  # [http://www.woodpecker.org.cn/share/classes/classes2008/081115-cbc08-sll/SLLIsaacMao20081116part2.ogg SLLIsaacMao20081116part2.ogg]^3.7m^ 11.16 邀请毛向辉参社区发展讨论：毛向辉对社区可持续发展的建议
+  # [http://www.woodpecker.org.cn/share/classes/classes2008/081115-cbc08-sll/081116-EduAnn2018-1.ogg 081116-EduAnn2018-1.ogg]^12.3m^ 11.16 2018教育宣言 part1 引子，流程介绍，参会者自我介绍，参会者观点发言
+  # [http://www.woodpecker.org.cn/share/classes/classes2008/081115-cbc08-sll/081116-EduAnn2018-2.ogg 081116-EduAnn2018-2.ogg]^10.5m^ 11.16 2018教育宣言 part2 分组总结发言，投票，总结
+  # [http://www.sociallearnlab.org/EduAnn2018/SLLkeshengmao20081116.ogg SLLkeshengmao20081116.ogg]^1m^ 11.16晚柯声茂从NGO角度谈社区发展 （[http://code.google.com/p/sociallearnlab/wiki/SLLkeshengmao20081116?ts=1227342021&updated=SLLkeshengmao20081116 录音整理]）
+
+
+
+任务列表咨询和维护人：小石，
+
+Gtalk：xiansf@gmail.com，
+
+Mobile: 131 4617 2275 (Beijing)，
+
+如有任何问题，可随时联系。
+
+
+
 = 面向2018年的中国教育宣言 =
  相关参考::
  * [http://docs.google.com/Doc?id=ah9t65dns696_135dvrqxpdv&hl=zh_CN Google共笔整理]
@@ -41,8 +123,9 @@ http://www.cnbloggercon.org/blog/
  * [http://groups.google.com/group/Edu2/browse_thread/thread/d9323b956d2eb3c4/6bb4aaf04ca34fc2?hl=zh-CN#6bb4aaf04ca34fc2 关于“2018年教育宣言“的一点技术性分析]
  * [http://groups.google.com/group/Edu2/browse_thread/thread/a29c383a621bd046# "面向2018年的教育宣"圆桌会议安排]
 
-==== 会议成果 ====
+==== 会议成果，及任务列表 ====
 *录音* ~ [http://www.woodpecker.org.cn/share/classes/classes2008/081115-cbc08-sll/ 啄木鸟社区空间分享]
+
  ZoomQuiet 录制:
   # [http://www.woodpecker.org.cn/share/classes/classes2008/081115-cbc08-sll/081115-sll-moon-discuss.ogg 081115-sll-moon-discuss.ogg]^16.6M^ 15日中午自由沟通
   # [http://www.woodpecker.org.cn/share/classes/classes2008/081115-cbc08-sll/081115-cbc08-a9-part.ogg 081115-cbc08-a9-part.ogg]^2.3M^A9 [http://www.cnbloggercon.org/blog/archives/2008/10/28/xiuli/ 社会性学习的理论和实践] 片段
