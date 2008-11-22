@@ -22,7 +22,7 @@ SLL社区建设部分（尚无提交时间约束，但请从速）：
   # [http://www.woodpecker.org.cn/share/classes/classes2008/081115-cbc08-sll/SLLIsaacMao20081116part1.ogg SLLIsaacMao20081116part1.ogg]^3.7m^ 11.16 邀请毛向辉参社区发展讨论：毛向辉关于社区组织管理方面建议 （录制人？）（余波收集）（[http://code.google.com/p/sociallearnlab/wiki/SLLIsaacMao20081116part1 录音整理]）
   # [http://www.woodpecker.org.cn/share/classes/classes2008/081115-cbc08-sll/SLLIsaacMao20081116part2.ogg SLLIsaacMao20081116part2.ogg]^3.7m^ 11.16 邀请毛向辉参社区发展讨论：毛向辉对社区可持续发展的建议 （录制人？）（余波收集）
 
-====二、 认领和提交方式：====
+====二、 认领和提交方式说明：====
 
 （1）认领：
 
@@ -57,6 +57,9 @@ b、关于录音整理及整理者、整理时间等；
 （小石已认领，22日下午16时提交，Gtalk：xiansf@gmail.com/Mobile：131 4617 2275）
 （小石已提交，[http://code.google.com/p/sociallearnlab/wiki/SLLkeshengmao20081116?ts=1227342021&updated=SLLkeshengmao20081116 录音整理]）
 
+另，如果认领、提交的工作完成后，志愿者觉得继续保留自己的联系方式等不方便，亦可去掉，保持录音文字稿页面的署名即可，如：
+
+[http://www.woodpecker.org.cn/share/classes/classes2008/081115-cbc08-sll/SLLIsaacMao20081116part1.ogg SLLIsaacMao20081116part1.ogg]^3.7m^ 11.16 邀请毛向辉参社区发展讨论：毛向辉关于社区组织管理方面建议 （录制人？）（余波收集）（[http://code.google.com/p/sociallearnlab/wiki/SLLIsaacMao20081116part1 录音整理]）
 
 （3）附加说明：
 
