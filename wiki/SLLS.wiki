@@ -1,4 +1,4 @@
-#summary 社委会管理规则 。
+﻿#summary 社委会管理规则 。
 #labels SLLS,SLL
 
 = 一、社委会成员管理制度 =
@@ -12,9 +12,3 @@
 ==议事的程序：==
 
 
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
