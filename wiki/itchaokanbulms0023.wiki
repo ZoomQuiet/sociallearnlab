@@ -1,6 +1,11 @@
 #基于好看薄平台的活动课程设计.
-返回项目首页［ItcHaokanbu］ 
-项目团队：黄利锋ItcHaokanbuhlf 江平ItcHaokanbuJping 向明ItcHaokanbuXiangMing 丁老师ItcHaokanbuBanzhurenD   张晋梅［ItcHaokanbuZhangJM］     
+
+返回项目首页［ItcHaokanbu］
+ 
+项目团队：黄利锋ItcHaokanbuhlf 江平ItcHaokanbuJping 向明ItcHaokanbuXiangMing 
+
+丁老师ItcHaokanbuBanzhurenD   张晋梅ItcHaokanbuZhangJM
+   
 
 
 = 李明山 =
@@ -9,7 +14,7 @@
 
 甘肃省张掖市甘州区甘浚镇星光小学Email:lms0023@gmail.com 
 =过程记录=
-==2008-11-23
+==2008-11-23==
 
 教学对象：小学生
  
@@ -27,6 +32,6 @@
  
 （4）不能进行广播教学。
  
-（5）学校有电脑+电视的电教室，能进行集体教学，能上网。== 
+（5）学校有电脑+电视的电教室，能进行集体教学，能上网。
 
 ==课程设计：== 
