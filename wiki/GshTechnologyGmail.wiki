@@ -1,4 +1,4 @@
-#summary 《Google服务应用手册》第二章GoogleGmail.
+﻿#summary 《Google服务应用手册》第二章GoogleGmail.
 #labels GSH,Google,GoogleGmail
 [GSH]首页
 = 第二章 GoogleGmail =
@@ -12,6 +12,7 @@ Gmail内嵌了聊天工具Gtalk
 
  * Gtalk英文版标识：
 http://lh5.ggpht.com/_z3hdxmd1L3I/SSu3LwAaDWI/AAAAAAAAD8A/hF6HQig9daU/gtalk0.PNG
+
 ==1 问题情境==
 
 === 1.1 情境一 ===
@@ -25,32 +26,33 @@ http://lh5.ggpht.com/_z3hdxmd1L3I/SSu3LwAaDWI/AAAAAAAAD8A/hF6HQig9daU/gtalk0.PNG
 朋友听说过Gmail，Gmail 是一种基于搜索的免费 Webmail 服务，它将传统电子邮件的卓越功能同 Google 的搜索技术结合在了一起。Gmail 大大简化了邮件查找过程，您再也不需要在收件箱中乱翻邮件了。这是一种全新的阅读和跟踪邮件的方法。而且这一工具是免费的。
 
 ===2.1 ===
-简单的说它就是电子邮件，目前，Gmail能够为用户提供6.5G以上的大容量，而且容量不断增加中。首先，您到http://mail.google.com注册一个Gmail邮箱，您就可以开始享用它啦！
+简单的说它就是电子邮件，目前，Gmail能够为用户提供6.5G以上的大容量，而且容量不断增加中。首先，您到[http://mail.google.com]注册一个Gmail邮箱，您就可以开始享用它啦！
 
 
 
 
-==3 如何使用GoogleGmail==
+==3 如何使用GoogleGmai==
 
 在使用使用之前，请确认你已注册有Google的账户，如果没有注册，请查看[GSHGoogleAccount Google帐户注册说明]被点击[http://mail.google.com/mail/signup 这里]注册。
 
-===3.1 GoogleGmail 界面===
+===3.1 GoogleGmail界面===
 
 很多朋友用了都知道Gmail很不错，速度快、容量大、界面简洁等等。众所周知，Gmail采用邀请注册制度。这样做的好处是明显的，让用户自动帮助宣传，提高Gmail的知名度。除此之外，它与Gtalk(Google推出的即时聊天工具)间相互整合应用，也是Gmail的一大特色。Gmail的界面如下图所示。
 
 http://lh5.ggpht.com/_z3hdxmd1L3I/SSu0Koo7WfI/AAAAAAAAD6M/n3mtPI4yBmU/gmail1.PNG
 
-===3.2 Gmail的视图方式 ===
+===3.2 Gmail的视图方式===
 
 Gmail的老版本有三种视图方式，如上图红色标出的部分，他们分别是：“带有聊天功能的标准视图”、“不带聊天功能的标准视图”、“基本HTML视图”。在界面的最下方可以实现三种视图界面的转换。每种视图方式各有特点：“带有聊天功能的标准视图”能够实现Gmail与Gtalk的绑定，Gmail能实现存储Gtalk的聊天记录，Gtalk界面显示在Gmail中；“不带聊天功能的标准视图”主要用于Gmail发送各种电子邮件，版面相对比较简介；“基本HTML视图”能够实现把邮箱显示成网页的形式，能够实现往邮中带有图片，当然不是通过“附件”的形式啦！能够将页面正常显示在所有浏览器中，便于用户浏览邮件。
 
-===3.3 Gmail的常规设置 ===
+===3.3 Gmail的常规设置===
 
 主要设置包括：邮箱显示的语言、每页显示多少个会话、是否选择键盘快捷键、发送邮件时显示照片（图片），邮件是否显示摘录。比较特别的是能够在邮件末尾显示签名，包括邮件使用者的名字、你的IM即时通讯方式、网站、博客等，可以做到帮你宣传，也增进你与朋友的相互了解。
+
 http://lh4.ggpht.com/_z3hdxmd1L3I/SSu0LadHCkI/AAAAAAAAD6U/Hx3xMxF5y_s/s512/gmail2.PNG
 
 
-===3.4 Gmail的帐户设置 ==
+===3.4 Gmail的帐户设置==
 
 Gmail的帐户设置主要实现一个主要的功能——Mail Fetcher：绑定几个邮件帐号。Mail Fetcher是个令人震撼的功能，允许通过POP3的方式将其他信箱的电子邮件接收到Gmail中，每个网民大概都有3、4个邮件帐号，这个功能会将这些邮件都集中到Gmail中，使得人民对Gmail的依赖度越来越大。而目前Google支持每个Gmail帐户增加5个POP3帐号。
 
@@ -67,7 +69,7 @@ http://lh5.ggpht.com/_z3hdxmd1L3I/SSu0LWAM9qI/AAAAAAAAD6c/ruFiMdrauT4/gmail3.PNG
 http://lh6.ggpht.com/_z3hdxmd1L3I/SSu0L73nALI/AAAAAAAAD6s/-yM-J3i0ZhQ/gmail5.PNG
 
 
-===3.5 Gmail的标签设置和过滤器设置 ===
+===3.5 Gmail的标签设置和过滤器设置===
 
 Gmail的标签设置主要是实现对邮件的分类，添加不同的标签便于管理邮件。对重要邮件添加标签。标签能够胜任文件夹的一切工作，同时提供了另一优势：可以将一个以上的标签添加到一个会话。顺便说一下，星标可以来查看所有带星标的邮件，可以说的重点邮件。标签和星标配合使用，您也可以轻松地创建、修改和删除所有标签。
 
@@ -76,6 +78,7 @@ Gmail的标签设置主要是实现对邮件的分类，添加不同的标签便
 ===3.6 Gmail的聊天设置===
 
 聊天设置主要是针对Gtalk在Gmail中的一些设置，比如：聊天记录是否保存在Gmail中，“快捷联系人”规模、位置，自动添加所提示的联系人，声音设置等。
+
 http://lh3.ggpht.com/_z3hdxmd1L3I/SSu0kBSLw-I/AAAAAAAAD68/SdKgmnaB_xw/gmail7.PNG
 
 ===3.6 Gmail的网络剪辑===
@@ -89,21 +92,20 @@ http://lh4.ggpht.com/_z3hdxmd1L3I/SSu0kXPnYdI/AAAAAAAAD7E/ZSCdOEYVMYQ/gmail8.PNG
 所有发送到你邮件和你发送出去的邮件的地址，Gmail都能够自动记录在您的通讯录里面，这项功能比其它邮箱要方便些。
 
 
-
 ==4 扩展应用==
 
 可能你每天使用的只是简单的Gmail收发邮件，或者内嵌的Gtalk聊天，再或者有时使用一下搜索功能。除了可以用插件实现一些原本没有的功能外，Gmail本身也有部分功能你可能没有发掘，或很少使用，不能说是Gmail的秘密，只能说是你可能不知道的关于Gmail的8件事。这些功能有的是有趣的，有的是很有用的。
 
 ===4.1 Https加密方式登录===
 
-没错，Gmail是支持Https方式加密浏览的，在登录时使用https://mail.google.com进行登录或在登录后手动在地址栏的http后面加s亦可。
+没错，Gmail是支持Https方式加密浏览的，在登录时使用[https://mail.google.com]进行登录或在登录后手动在地址栏的http后面加s亦可。
 
 　　不管怎么说，使用https方式总让人更有安全感。当直接登录失败时，不妨加s重试（因为可能有时候由于某些“和谐”原因，所有含有google的url都被重置）。
 
 ===4.2 Gmail支持Atom输出===
 
 Gmail是支持Feed输出的，输出的内容为邮件摘要。你可以使用订阅器对这个feed进行订阅，这样你就可以在阅读器里查看是否有新邮件了。
-Gmail的Feed输出地址是https://帐号:密码@mail.google.com/mail/feed/atom
+Gmail的Feed输出地址是"https://"帐号:密码@mail.google.com/mail/feed/atom
 建议不要使用在线订阅器进行订阅，最好使用本地订阅器订阅（Google工具栏亦可），以防密码被盗。
 
 ===4.3 Gmail搜索支持通用搜索符===
@@ -122,7 +124,7 @@ http://lh5.ggpht.com/_z3hdxmd1L3I/SSu-gpnr_XI/AAAAAAAAD8I/TcjHiIB4o14/s720/gmail
 
 ===4.6 Gmail被盗申诉===
 
-QQ被盗后可以到腾讯申诉取回，同样Gmail也有相似的服务。当你发现Gmail或Google帐户被盗后，可以打开https://services.google.com/inquiry/gmail_security1，选择相应的项目后你会被要求提供关于你Gmail的信息，包括最常联系的人的邮箱、你所创建的标签名称、邀请人邮箱（如果你是被邀请注册的）、最后登录日期、Gmail申请日期等等。
+QQ被盗后可以到腾讯申诉取回，同样Gmail也有相似的服务。当你发现Gmail或Google帐户被盗后，可以打开[https://services.google.com/inquiry/gmail_security1]，选择相应的项目后你会被要求提供关于你Gmail的信息，包括最常联系的人的邮箱、你所创建的标签名称、邀请人邮箱（如果你是被邀请注册的）、最后登录日期、Gmail申请日期等等。
 
 所以平时注意记录下相关的信息，以免被盗时无计可施。
 
@@ -139,12 +141,14 @@ QQ被盗后可以到腾讯申诉取回，同样Gmail也有相似的服务。当�
 
 ==5 资源索引==
 
-1．Gmail开放Mail Fetcher功能http://blog.podlook.com/blog/feeds-feedburner-com-williamlong/
-Gmail%E5%BC%80%E6%94%BEMail-Fetcher%E5%8A%9F%E8%83%BD.htm
+1．Gmail开放Mail Fetcher功能:
 
-2．你可能不知道的关于Gmail的8件事，http://www.kenengba.com/post/408.html
+[http://blog.podlook.com/blog/feeds-feedburner-com-williamlong/
+Gmail%E5%BC%80%E6%94%BEMail-Fetcher%E5%8A%9F%E8%83%BD.htm]
 
-3．http://www.gseeker.com/50226711/gmailcie_39078.php
+2．你可能不知道的关于Gmail的8件事，[http://www.kenengba.com/post/408.html]
+
+3．[http://www.gseeker.com/50226711/gmailcie_39078.php]
 
  
 ----
