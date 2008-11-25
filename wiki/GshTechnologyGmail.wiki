@@ -7,6 +7,9 @@ GshZh02Googlegmail
 产品标识：
  * Gmail英文版标识：
 http://lh5.ggpht.com/_z3hdxmd1L3I/SSu3L-CGUzI/AAAAAAAAD74/F6sxmYkgQoI/gmail0.PNG
+
+Gmail内嵌了聊天工具Gtalk
+
  * Gtalk英文版标识：
 http://lh5.ggpht.com/_z3hdxmd1L3I/SSu3LwAaDWI/AAAAAAAAD8A/hF6HQig9daU/gtalk0.PNG
 ==1 问题情境==
