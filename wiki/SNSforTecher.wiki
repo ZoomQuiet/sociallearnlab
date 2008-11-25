@@ -50,7 +50,9 @@
 
 3、加入教育大发现。
 
-4、阅读《Google服务应用手册》 http://code.google.com/p/sociallearnlab/wiki/GSH。
+4、阅读《Google服务应用手册》 http://code.google.com/p/sociallearnlab/wiki/GSH
+
+5、网络社会互联学习技术与工具 http://sociallearnlab.org/wiki/index.php/SocialLearn2008
 
 ====二、实施阶段====
 
@@ -65,6 +67,8 @@
 4、体验协作平台（共同编辑复习资料）
 
 5、体验在线文档（如，设计网上调查表）
+
+6、其他。
      
 == Discuss ==
 http://xmindshare.s3.amazonaws.com/preview/sn-start-for-tech-bhefa-1227623116309.jpg
