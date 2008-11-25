@@ -113,7 +113,9 @@ Gmail是搜索除了能使用类似"in:inbox”的搜索范围语句之外，"+"
 
 ===4.5 快捷键===
 
-可能Google Reader里快捷键使用的频率较高，Gmail里没有多少人使用快捷键。但事实上Gmail也是支持快捷键的，但先要到设置里启用。具体的快捷键列表可参看这里，和GR里一样，如果你忘记了某个快捷键可键入“？”（Ctrl+/）。
+非常酷的功能。可能Google Reader里快捷键使用的频率较高，Gmail里没有多少人使用快捷键。但事实上Gmail也是支持快捷键的，但先要到设置里启用。具体的快捷键列表可参看这里，和GR里一样，如果你忘记了某个快捷键可键入“？”（Ctrl+/）。
+
+http://lh5.ggpht.com/_z3hdxmd1L3I/SSu-gpnr_XI/AAAAAAAAD8I/TcjHiIB4o14/s720/gmail9.png
 
 ===4.6 Gmail被盗申诉===
 
@@ -136,7 +138,9 @@ QQ被盗后可以到腾讯申诉取回，同样Gmail也有相似的服务。当�
 
 1．Gmail开放Mail Fetcher功能http://blog.podlook.com/blog/feeds-feedburner-com-williamlong/
 Gmail%E5%BC%80%E6%94%BEMail-Fetcher%E5%8A%9F%E8%83%BD.htm
+
 2．你可能不知道的关于Gmail的8件事，http://www.kenengba.com/post/408.html
+
 3．http://www.gseeker.com/50226711/gmailcie_39078.php
 
  
