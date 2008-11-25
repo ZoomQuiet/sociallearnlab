@@ -15,9 +15,12 @@
 
 本图书顾问：周琦
 
+== xiuli 之思 ==
 http://xmindshare.s3.amazonaws.com/preview/e-learning-handbook-1-sojjs-1227365751215.jpg
 
-
+== ZQ 之思 ==
+http://www.zoomquiet.org/share/mm/eduann2018-analyze/SLHB-ZQway-081125.png
+ * xMind 原稿: [http://sociallearnlab.googlecode.com/svn/tangle/zoom.quiet/xmind/SLHB-myway.xmind SLHB-myway.xmind]
 = 网络学习手册 =
 
 == 1. 个人的适应与参与 == 
