@@ -28,10 +28,7 @@ http://lh5.ggpht.com/_z3hdxmd1L3I/SSu3LwAaDWI/AAAAAAAAD8A/hF6HQig9daU/gtalk0.PNG
 ===2.1 ===
 简单的说它就是电子邮件，目前，Gmail能够为用户提供6.5G以上的大容量，而且容量不断增加中。首先，您到[http://mail.google.com]注册一个Gmail邮箱，您就可以开始享用它啦！
 
-
-
-
-==3 如何使用GoogleGmai==
+==3 如何使用GoogleGmail==
 
 在使用使用之前，请确认你已注册有Google的账户，如果没有注册，请查看[GSHGoogleAccount Google帐户注册说明]被点击[http://mail.google.com/mail/signup 这里]注册。
 
@@ -143,10 +140,11 @@ QQ被盗后可以到腾讯申诉取回，同样Gmail也有相似的服务。当�
 
 1．Gmail开放Mail Fetcher功能:
 
-[http://blog.podlook.com/blog/feeds-feedburner-com-williamlong/
-Gmail%E5%BC%80%E6%94%BEMail-Fetcher%E5%8A%9F%E8%83%BD.htm]
+[http://blog.podlook.com/blog/feeds-feedburner-com-williamlong/Gmail%E5%BC%80%E6%94%BEMail-Fetcher%E5%8A%9F%E8%83%BD.htm]
 
-2．你可能不知道的关于Gmail的8件事，[http://www.kenengba.com/post/408.html]
+2．你可能不知道的关于Gmail的8件事:
+
+[http://www.kenengba.com/post/408.html]
 
 3．[http://www.gseeker.com/50226711/gmailcie_39078.php]
 
