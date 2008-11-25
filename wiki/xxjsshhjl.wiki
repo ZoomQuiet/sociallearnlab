@@ -26,9 +26,9 @@
 1、指导教师注册好看簿。
 2、指导注册gmail.com。
 3、加入教育大发现。
-4、阅读《Google服务应用手册》http://code.google.com/p/sociallearnlab/wiki/GSH。
+4、阅读《Google服务应用手册》 http://code.google.com/p/sociallearnlab/wiki/GSH。
 ====二、实施阶段====
-主要以google的产品为主，阅读《Google服务应用手册》http://code.google.com/p/sociallearnlab/wiki/GSH， 《社区手册》http://code.google.com/p/sociallearnlab/wiki/SllHandbook。《网络学习手册》 http://code.google.com/p/sociallearnlab/wiki/SLHB。
+主要以google的产品为主，阅读《Google服务应用手册》http://code.google.com/p/sociallearnlab/wiki/GSH， 《社区手册》 http://code.google.com/p/sociallearnlab/wiki/SllHandbook。《网络学习手册》  http://code.google.com/p/sociallearnlab/wiki/SLHB。
 
 1、写wiki
 
