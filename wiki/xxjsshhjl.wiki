@@ -1,5 +1,5 @@
-#labels “小学教师社会化交流实践”教育研究方案,李明山
-#“小学教师社会化交流实践”教育研究方案
+#summary "小学教师社会化交流实践"教育研究方案
+#labels 社会化交流实践,李明山,教育研究方案
 
 ===项目的背景：=== 
 本镇一部分教师在李明山的影响下，逐步了解了社会化交流。但是，如何指导新手参与社会化交流，如何指导新手使用社会化网络工具，值得我们去思考。
@@ -66,3 +66,6 @@
 
 5、体验在线文档（如，设计网上调查表）
      
+== Discuss ==
+http://xmindshare.s3.amazonaws.com/preview/sn-start-for-tech-bhefa-1227623116309.jpg
+ * ZoomQuiet 思考:http://share.xmind.net/zoomquiet/sn-start-for-tech/
