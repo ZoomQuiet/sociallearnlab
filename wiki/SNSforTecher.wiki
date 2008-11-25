@@ -2,7 +2,9 @@
 #labels 社会化交流实践,李明山,教育研究方案,小学教师
 
 ===项目的背景：=== 
+
 本镇一部分教师在李明山的影响下，逐步了解了社会化交流。但是，如何指导新手参与社会化交流，如何指导新手使用社会化网络工具，值得我们去思考。
+
 ===项目成员===
 李明山  
 
@@ -56,7 +58,10 @@
 
 ====二、实施阶段====
 
-主要以google的产品为主，阅读《Google服务应用手册》http://code.google.com/p/sociallearnlab/wiki/GSH  《社区手册》 http://code.google.com/p/sociallearnlab/wiki/SllHandbook 《网络学习手册》  http://code.google.com/p/sociallearnlab/wiki/SLHB 
+主要以google的产品为主，阅读
+《Google服务应用手册》http://code.google.com/p/sociallearnlab/wiki/GSH  
+《社区手册》 http://code.google.com/p/sociallearnlab/wiki/SllHandbook 
+《网络学习手册》  http://code.google.com/p/sociallearnlab/wiki/SLHB 
 
 1、写wiki  http://www.haokanbu.com/event/244/
 
