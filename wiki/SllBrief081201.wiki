@@ -30,6 +30,8 @@ http://code.google.com/p/sociallearnlab/wiki/EduAnn2018Stuff
 
 irc会议：
 针对社委会 http://code.google.com/p/sociallearnlab/wiki/SllIrc081120
+EduAnn2018工作委员会第一次会议.
+http://code.google.com/p/sociallearnlab/wiki/EduAnnIrc081120
 
 好看教研项目：
 
@@ -37,7 +39,12 @@ irc会议：
 http://code.google.com/p/sociallearnlab/wiki/itchaokanbulms0023
 
 临时仲裁委员会及社区工作委员会成立时间、地点、成员及其职责
+社区任务跟踪页面
+http://code.google.com/p/sociallearnlab/wiki/SLLCalendar
 社区委员会管理规则：http://code.google.com/p/sociallearnlab/wiki/SLLS
 
 
-
+教育大发现·社区小手册
+http://code.google.com/p/sociallearnlab/wiki/SllHandbook
+SLL教育辞典
+http://code.google.com/p/sociallearnlab/wiki/SllEduDict
