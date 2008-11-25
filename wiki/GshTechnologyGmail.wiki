@@ -5,8 +5,10 @@
 GshZh02Googlegmail
 
 产品标识：
- * 英文版标识：
- * 中文版标识：
+ * Gmail英文版标识：
+http://lh5.ggpht.com/_z3hdxmd1L3I/SSu3L-CGUzI/AAAAAAAAD74/F6sxmYkgQoI/gmail0.PNG
+ * Gtalk英文版标识：
+http://lh5.ggpht.com/_z3hdxmd1L3I/SSu3LwAaDWI/AAAAAAAAD8A/hF6HQig9daU/gtalk0.PNG
 ==1 问题情境==
 
 === 1.1 情境一 ===
@@ -16,9 +18,14 @@ GshZh02Googlegmail
 === 1.3 情境N ===
 
 ==2 什么是GoogleGmail==
+朋友听说过Gmail，Gmail 是一种基于搜索的免费 Webmail 服务，它将传统电子邮件的卓越功能同 Google 的搜索技术结合在了一起。Gmail 大大简化了邮件查找过程，您再也不需要在收件箱中乱翻邮件了。这是一种全新的阅读和跟踪邮件的方法。而且这一工具是免费的。
+
 
 ===2.1 ===
+简单的说它就是电子邮件，目前，Gmail能够为用户提供6.5G以上的大容量，而且容量不断增加中。首先，您到http://mail.google.com注册一个Gmail邮箱，您就可以开始享用它啦！
 ===2.2 ===
+
+
 
 ==3 如何使用GoogleGmail==
 
@@ -26,9 +33,54 @@ GshZh02Googlegmail
 
 ===3.1 GoogleGmail 界面===
 
-===3.2 ===
+很多朋友用了都知道Gmail很不错，速度快、容量大、界面简洁等等。众所周知，Gmail采用邀请注册制度。这样做的好处是明显的，让用户自动帮助宣传，提高Gmail的知名度。除此之外，它与Gtalk(Google推出的即时聊天工具)间相互整合应用，也是Gmail的一大特色。Gmail的界面如下图所示。
 
-===3.3 ===
+http://lh5.ggpht.com/_z3hdxmd1L3I/SSu0Koo7WfI/AAAAAAAAD6M/n3mtPI4yBmU/gmail1.PNG
+
+===3.2 Gmail的视图方式 ===
+
+Gmail的老版本有三种视图方式，如上图红色标出的部分，他们分别是：“带有聊天功能的标准视图”、“不带聊天功能的标准视图”、“基本HTML视图”。在界面的最下方可以实现三种视图界面的转换。每种视图方式各有特点：“带有聊天功能的标准视图”能够实现Gmail与Gtalk的绑定，Gmail能实现存储Gtalk的聊天记录，Gtalk界面显示在Gmail中；“不带聊天功能的标准视图”主要用于Gmail发送各种电子邮件，版面相对比较简介；“基本HTML视图”能够实现把邮箱显示成网页的形式，能够实现往邮中带有图片，当然不是通过“附件”的形式啦！能够将页面正常显示在所有浏览器中，便于用户浏览邮件。
+
+===3.3 Gmail的常规设置 ===
+
+主要设置包括：邮箱显示的语言、每页显示多少个会话、是否选择键盘快捷键、发送邮件时显示照片（图片），邮件是否显示摘录。比较特别的是能够在邮件末尾显示签名，包括邮件使用者的名字、你的IM即时通讯方式、网站、博客等，可以做到帮你宣传，也增进你与朋友的相互了解。
+http://lh4.ggpht.com/_z3hdxmd1L3I/SSu0LadHCkI/AAAAAAAAD6U/Hx3xMxF5y_s/s512/gmail2.PNG
+
+
+===3.4 Gmail的帐户设置 ==
+
+Gmail的帐户设置主要实现一个主要的功能——Mail Fetcher：绑定几个邮件帐号。Mail Fetcher是个令人震撼的功能，允许通过POP3的方式将其他信箱的电子邮件接收到Gmail中，每个网民大概都有3、4个邮件帐号，这个功能会将这些邮件都集中到Gmail中，使得人民对Gmail的依赖度越来越大。而目前Google支持每个Gmail帐户增加5个POP3帐号。
+
+使用的方法也很简单，进入设置/帐户后，如下图所示。
+
+http://lh5.ggpht.com/_z3hdxmd1L3I/SSu0LWAM9qI/AAAAAAAAD6c/ruFiMdrauT4/gmail3.PNG
+
+点击“添加其他邮件帐户”之后，出现下面的“添加邮件帐户”界面，输入你的另外一个或几个邮箱地址。
+
+http://lh5.ggpht.com/_z3hdxmd1L3I/SSu0LWAM9qI/AAAAAAAAD6c/ruFiMdrauT4/gmail3.PNG
+
+接着，出现下图所示的对话框，要求输入POP3的用户名，密码，POP3服务器地址，选择是否保留到服务器，是否加密连接，打什么标签，是否将邮件直接存档，之后就可以添加成功。
+
+http://lh6.ggpht.com/_z3hdxmd1L3I/SSu0L73nALI/AAAAAAAAD6s/-yM-J3i0ZhQ/gmail5.PNG
+
+
+===3.5 Gmail的标签设置和过滤器设置 ===
+
+Gmail的标签设置主要是实现对邮件的分类，添加不同的标签便于管理邮件。对重要邮件添加标签。标签能够胜任文件夹的一切工作，同时提供了另一优势：可以将一个以上的标签添加到一个会话。顺便说一下，星标可以来查看所有带星标的邮件，可以说的重点邮件。标签和星标配合使用，您也可以轻松地创建、修改和删除所有标签。
+
+过滤器设置主要实现对某些垃圾邮件或骚扰邮件的过滤功能。这里就不详述，请大家自己尝试使用。
+
+===3.6 Gmail的聊天设置===
+
+聊天设置主要是针对Gtalk在Gmail中的一些设置，比如：聊天记录是否保存在Gmail中，“快捷联系人”规模、位置，自动添加所提示的联系人，声音设置等。
+http://lh3.ggpht.com/_z3hdxmd1L3I/SSu0kBSLw-I/AAAAAAAAD68/SdKgmnaB_xw/gmail7.PNG
+
+===3.6 Gmail的网络剪辑===
+
+网络剪辑主要包括Google赞助商链接、Gmail提示与自定义内容等。位于收件箱和的正上方，为您显示新闻标题、Gmail提示、博客、任何RSS（简易联合供稿）和Atom馈送、相关赞助商链接及更多信息。向其用户发送更新的新闻标题。无需离开Gmail即可从您喜欢的网站获得更新信息。
+
+http://lh4.ggpht.com/_z3hdxmd1L3I/SSu0kXPnYdI/AAAAAAAAD7E/ZSCdOEYVMYQ/gmail8.PNG
+
 
 ==4 扩展应用==
 
