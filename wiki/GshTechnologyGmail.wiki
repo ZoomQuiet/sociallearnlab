@@ -117,7 +117,13 @@ Gmail是搜索除了能使用类似"in:inbox”的搜索范围语句之外，"+"
 
 非常酷的功能。可能Google Reader里快捷键使用的频率较高，Gmail里没有多少人使用快捷键。但事实上Gmail也是支持快捷键的，但先要到设置里启用。具体的快捷键列表可参看这里，和GR里一样，如果你忘记了某个快捷键可键入“？”（Ctrl+/）。
 
+英文：
+
 http://lh5.ggpht.com/_z3hdxmd1L3I/SSu-gpnr_XI/AAAAAAAAD8I/TcjHiIB4o14/s720/gmail9.png
+
+中文：
+
+http://lh3.ggpht.com/_cRwAOQJbfUI/SSvHZ-rk_gI/AAAAAAAACFg/83naf4IxUIA/gmailq.jpg
 
 ===4.6 Gmail被盗申诉===
 
