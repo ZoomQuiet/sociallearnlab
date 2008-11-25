@@ -18,33 +18,62 @@
   * 简报发行
   * “选种刊”注释
 
-GSH项目进展：http://code.google.com/p/sociallearnlab/wiki/GshZh0Index
-
-拟立项项目：
-网络学习手册：http://code.google.com/p/sociallearnlab/wiki/SLHB
-
-EduAnn2018 2018年中国教育宣言
-http://code.google.com/p/sociallearnlab/wiki/EduAnn2018
-018年中国教育宣言 讨论
-http://code.google.com/p/sociallearnlab/wiki/EduAnn2018Stuff
-
-irc会议：
-针对社委会 http://code.google.com/p/sociallearnlab/wiki/SllIrc081120
-EduAnn2018工作委员会第一次会议.
-http://code.google.com/p/sociallearnlab/wiki/EduAnnIrc081120
+==*项目情况*==
 
 好看教研项目：
 
 李明山老师基于好看薄平台的活动课程设计
+
 http://code.google.com/p/sociallearnlab/wiki/itchaokanbulms0023
 
+GSH项目进展
+
+http://code.google.com/p/sociallearnlab/wiki/GshZh0Index
+
+拟立项项目：
+
+网络学习手册：http://code.google.com/p/sociallearnlab/wiki/SLHB
+
+EduAnn2018项目 
+
+2018年中国教育宣言
+
+http://code.google.com/p/sociallearnlab/wiki/EduAnn2018
+
+2018年中国教育宣言 讨论
+
+http://code.google.com/p/sociallearnlab/wiki/EduAnn2018Stuff
+
+==*irc会议*==
+
+针对社委会 
+
+http://code.google.com/p/sociallearnlab/wiki/SllIrc081120
+
+EduAnn2018工作委员会第一次会议.
+
+http://code.google.com/p/sociallearnlab/wiki/EduAnnIrc081120
+
+==*社区管理*==
+
 临时仲裁委员会及社区工作委员会成立时间、地点、成员及其职责
+
 社区任务跟踪页面
+
 http://code.google.com/p/sociallearnlab/wiki/SLLCalendar
+
 社区委员会管理规则：http://code.google.com/p/sociallearnlab/wiki/SLLS
 
+==*社区介绍*==
 
 教育大发现·社区小手册
+
 http://code.google.com/p/sociallearnlab/wiki/SllHandbook
+
 SLL教育辞典
+
 http://code.google.com/p/sociallearnlab/wiki/SllEduDict
+
+==*社区讨论及提议*==
+
+社会性网络学习的普及推广——张晋梅老师案例
