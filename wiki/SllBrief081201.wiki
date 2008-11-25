@@ -1,0 +1,35 @@
+#summary 教育大发现社区简报（第4期）
+#labels Featured,Phase-Design,SllBrief
+
+= 教育大发现 • 社区简报 =
+
+    第4期 冬藏刊
+       [PDF版]
+
+  * 社区名字 
+  * 目标宗旨
+  * 社区团队
+  * 社区地图
+  * 社区项目
+  * 社区管理
+  * 十一月进展
+  * 十二月规划
+  * 新友加入
+  * 简报发行
+  * “选种刊”注释
+
+GSH项目进展：http://code.google.com/p/sociallearnlab/wiki/GshZh0Index
+拟立项项目：
+
+irc会议：
+针对社委会 http://code.google.com/p/sociallearnlab/wiki/SllIrc081120
+
+好看教研项目：
+
+李明山老师基于好看薄平台的活动课程设计
+http://code.google.com/p/sociallearnlab/wiki/itchaokanbulms0023
+
+社区委员会管理规则：http://code.google.com/p/sociallearnlab/wiki/SLLS
+网络学习手册：http://code.google.com/p/sociallearnlab/wiki/SLHB
+
+
