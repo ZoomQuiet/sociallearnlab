@@ -18,12 +18,12 @@ http://lh5.ggpht.com/_z3hdxmd1L3I/SSu3LwAaDWI/AAAAAAAAD8A/hF6HQig9daU/gtalk0.PNG
 === 1.3 情境N ===
 
 ==2 什么是GoogleGmail==
-朋友听说过Gmail，Gmail 是一种基于搜索的免费 Webmail 服务，它将传统电子邮件的卓越功能同 Google 的搜索技术结合在了一起。Gmail 大大简化了邮件查找过程，您再也不需要在收件箱中乱翻邮件了。这是一种全新的阅读和跟踪邮件的方法。而且这一工具是免费的。
 
+朋友听说过Gmail，Gmail 是一种基于搜索的免费 Webmail 服务，它将传统电子邮件的卓越功能同 Google 的搜索技术结合在了一起。Gmail 大大简化了邮件查找过程，您再也不需要在收件箱中乱翻邮件了。这是一种全新的阅读和跟踪邮件的方法。而且这一工具是免费的。
 
 ===2.1 ===
 简单的说它就是电子邮件，目前，Gmail能够为用户提供6.5G以上的大容量，而且容量不断增加中。首先，您到http://mail.google.com注册一个Gmail邮箱，您就可以开始享用它啦！
-===2.2 ===
+
 
 
 
