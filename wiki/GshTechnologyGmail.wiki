@@ -81,14 +81,63 @@ http://lh3.ggpht.com/_z3hdxmd1L3I/SSu0kBSLw-I/AAAAAAAAD68/SdKgmnaB_xw/gmail7.PNG
 
 http://lh4.ggpht.com/_z3hdxmd1L3I/SSu0kXPnYdI/AAAAAAAAD7E/ZSCdOEYVMYQ/gmail8.PNG
 
+===3.7 通讯录自动添加地址===
+
+所有发送到你邮件和你发送出去的邮件的地址，Gmail都能够自动记录在您的通讯录里面，这项功能比其它邮箱要方便些。
+
+
 
 ==4 扩展应用==
 
-===4.1 ===
+可能你每天使用的只是简单的Gmail收发邮件，或者内嵌的Gtalk聊天，再或者有时使用一下搜索功能。除了可以用插件实现一些原本没有的功能外，Gmail本身也有部分功能你可能没有发掘，或很少使用，不能说是Gmail的秘密，只能说是你可能不知道的关于Gmail的8件事。这些功能有的是有趣的，有的是很有用的。
 
-===4.2 ===
+===4.1 Https加密方式登录===
+
+没错，Gmail是支持Https方式加密浏览的，在登录时使用https://mail.google.com进行登录或在登录后手动在地址栏的http后面加s亦可。
+
+　　不管怎么说，使用https方式总让人更有安全感。当直接登录失败时，不妨加s重试（因为可能有时候由于某些“和谐”原因，所有含有google的url都被重置）。
+
+===4.2 Gmail支持Atom输出===
+
+Gmail是支持Feed输出的，输出的内容为邮件摘要。你可以使用订阅器对这个feed进行订阅，这样你就可以在阅读器里查看是否有新邮件了。
+Gmail的Feed输出地址是https://帐号:密码@mail.google.com/mail/feed/atom
+建议不要使用在线订阅器进行订阅，最好使用本地订阅器订阅（Google工具栏亦可），以防密码被盗。
+
+===4.3 Gmail搜索支持通用搜索符===
+
+Gmail是搜索除了能使用类似"in:inbox”的搜索范围语句之外，"+"（加号）,"-"（减号）,"|"（或号）,""""（引号），也是可以使用的，和普通的网页搜索基本一样。
+
+===4.4 将Gmail当作语音信箱===
+
+如果你同时是个Gtalk使用者，你可以在软件版Gtalk上和某个离线的联系人进行语音，你所说的内容会被保存在对方的Gmail里。
+
+===4.5 快捷键===
+
+可能Google Reader里快捷键使用的频率较高，Gmail里没有多少人使用快捷键。但事实上Gmail也是支持快捷键的，但先要到设置里启用。具体的快捷键列表可参看这里，和GR里一样，如果你忘记了某个快捷键可键入“？”（Ctrl+/）。
+
+===4.6 Gmail被盗申诉===
+
+QQ被盗后可以到腾讯申诉取回，同样Gmail也有相似的服务。当你发现Gmail或Google帐户被盗后，可以打开https://services.google.com/inquiry/gmail_security1，选择相应的项目后你会被要求提供关于你Gmail的信息，包括最常联系的人的邮箱、你所创建的标签名称、邀请人邮箱（如果你是被邀请注册的）、最后登录日期、Gmail申请日期等等。
+
+所以平时注意记录下相关的信息，以免被盗时无计可施。
+
+===4.7 邮箱末尾加“+任何内容”===
+
+和在任意位置加点有点相似，你可以在邮箱末尾加上一个加号，后面再加上一些字符，比如someone+tianya@gmail.com，Gmail同样会将邮件发到someone@gmail.com。
+
+后面这两个功能有什么用呢？是便于搜索和创建过滤规则的。Gmail有一项非常优异的功能是创建高级过滤规则，除了可以从发件人地址进行过滤外，还可以从收件人地址进行过滤。
+
+比如我在天涯论坛注册的邮箱是someone+tianya@gmail.com，那么我可以设置这样一个过滤规则：凡是收件人为someone+tianya@gmail.com的邮件都标记为“天涯”。这样所有来自天涯论坛的邮件都会自动加上“天涯”标签。
+
+在搜索是也可以搜索收件人地址来找到所有来自“天涯论坛”的邮件。 
+
 
 ==5 资源索引==
+
+1．Gmail开放Mail Fetcher功能http://blog.podlook.com/blog/feeds-feedburner-com-williamlong/
+Gmail%E5%BC%80%E6%94%BEMail-Fetcher%E5%8A%9F%E8%83%BD.htm
+2．你可能不知道的关于Gmail的8件事，http://www.kenengba.com/post/408.html
+3．http://www.gseeker.com/50226711/gmailcie_39078.php
 
  
 ----
