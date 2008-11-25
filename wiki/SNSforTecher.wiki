@@ -58,7 +58,7 @@
 
 主要以google的产品为主，阅读《Google服务应用手册》http://code.google.com/p/sociallearnlab/wiki/GSH  《社区手册》 http://code.google.com/p/sociallearnlab/wiki/SllHandbook 《网络学习手册》  http://code.google.com/p/sociallearnlab/wiki/SLHB 
 
-1、写wiki  http://www.haokanbu.com/tag/wiki/
+1、写wiki  http://www.haokanbu.com/event/244/
 
 2、写博客（好看簿）
 
