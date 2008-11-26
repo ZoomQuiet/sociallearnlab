@@ -4,7 +4,7 @@
 = 教育大发现 • 社区简报 =
 
     第4期 冬藏刊
-       [PDF版]
+    [PDF版]
 
   * 卷首语 
   * 目标宗旨  ^固定的介绍性内容^
@@ -36,6 +36,14 @@ http://code.google.com/p/sociallearnlab/wiki/GshZh0Index
 
 http://code.google.com/p/sociallearnlab/wiki/SNSforTecher
 
+EdubuntuChina(开源服务于教育）
+
+http://sites.google.com/site/edubuntuchina/Home
+
+
+
+
+
 EduAnn2018项目 
 
 2018年中国教育宣言
@@ -56,6 +64,8 @@ EduAnn2018工作委员会第一次会议.
 
 http://code.google.com/p/sociallearnlab/wiki/EduAnnIrc081120
 
+EduAnn2018工作委员会第一次会议
+
 ==*社区管理*==
 
 临时仲裁委员会及社区工作委员会成立时间、地点、成员及其职责
@@ -75,6 +85,16 @@ http://code.google.com/p/sociallearnlab/wiki/SllHandbook
 SLL教育辞典
 
 http://code.google.com/p/sociallearnlab/wiki/SllEduDict
+
+==*知识管理*==
+
+[SLL-mem:1955] 关于优化邮件列表讨论内容的思考
+
+sll豆瓣读书小组
+
+http://www.douban.com/group/SocialLearnLab/
+
+
 
 ==*社区讨论及提议*==
 
