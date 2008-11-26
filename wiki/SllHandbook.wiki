@@ -1,7 +1,9 @@
 #summary 教育大发现·社区小手册
-#labels Sll
+#labels Sll,Featured
 
 = 教育大发现·社区小手册 = 
+
+（2008年11月15日版）
 
 [http://tinyurl.com/5dymoa 打印版下载]
 
