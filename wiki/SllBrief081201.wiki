@@ -4,6 +4,7 @@
 = 教育大发现 • 社区简报 =
 
     第4期 冬藏刊
+    
     [PDF版]
 
   * 卷首语 
@@ -44,7 +45,7 @@ http://sites.google.com/site/edubuntuchina/Home
 
 
 
-EduAnn2018项目 
+EduAnn2018项目 (过程性总结）
 
 2018年中国教育宣言
 
@@ -53,6 +54,9 @@ http://code.google.com/p/sociallearnlab/wiki/EduAnn2018
 2018年中国教育宣言 讨论
 
 http://code.google.com/p/sociallearnlab/wiki/EduAnn2018Stuff
+
+http://twitter.com/EduAnn2018
+
 
 ==*irc会议*==
 
@@ -68,7 +72,15 @@ EduAnn2018工作委员会第一次会议
 
 ==*社区管理*==
 
+[SLL-mem:1666] 2018教育宣言启用专用邮件列表地址
+
+http://groups.google.com/group/eduann2018
+
+列表订阅管理加强
+
 临时仲裁委员会及社区工作委员会成立时间、地点、成员及其职责
+
+[SLL-mem:1679] SLL临时仲裁委员会成立
 
 社区任务跟踪页面
 
@@ -99,3 +111,7 @@ http://www.douban.com/group/SocialLearnLab/
 ==*社区讨论及提议*==
 
 社会性网络学习的普及推广——张晋梅老师案例
+
+建议好看簿更换巨幅广告置顶的广告方式
+
+http://www.haokanbu.com/group/1/topic/2262/
