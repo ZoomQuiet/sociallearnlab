@@ -1,0 +1,60 @@
+#summary EduAnn2018工作委员会第二次会议.
+#labels EduAnn2018,SLL,EduAnnIrc
+
+= 参考第一次会议结果 =
+EduAnn2018工作委员会第一次会议,EduAnnIrc081120 
+
+会议结果
+
+议题1：确定工作目标：EduAnn2018宣言发布的版本， 里程碑时间。
+
+    * ﻿第一阶段：从今天开始，﻿1周之后，到11月28日，我们把基于宣言前两个阶段的工作，整理出一份宣言bate版公布； 
+
+    * ﻿第二阶段：﻿逐条精细化表述条目，然后再发布一个带词汇界定解释的宣言bate版。这个阶段使用两周时间完成，12月12日。 
+
+    * ﻿第三阶段就是﻿进一步核实完善之后的发布版。 一周时间，12月20日。 
+
+议题2：第一周任务详细安排：
+
+第一周的任务就是基于以往工作进行整理总结：
+
+    * （1）录音整理 ，实际一共四段录音 两天完成，21（周五） 22（周六） 完成录音整理。 
+
+    * （2）然后根据录音以及以往网络上讨论，把相关内容分类到相关的表决的7/11条中 两天，23（周日） 24（周一）完成内容归并。 
+
+    * （3）再用一天，把其中存在问题，大家再讨论一下 ，25（周二）号 
+
+（4）最后稍微润色文字核查错别字，整理发布 26（周三）号
+
+    附：﻿网络上大家对会议决议出的11条的个人理解，和录音整理相关归类，可以同时做 
+
+议题3：今后每周三晚上9：00，委员会准时召开工作会议，总结本周进度，策划下期安排 
+
+
+= 第一次会议之后实施情况 =
+
+目前已经完成的是：
+
+详细链接：
+
+2018教育宣言 part1 引子，流程介绍，参会者自我介绍，参会者观点发言，
+
+http://www.sociallearnlab.org/wiki/index.php/EduAnnAudioPart1
+
+2018教育宣言 part2 分组总结发言，投票，总结
+
+http://www.sociallearnlab.org/wiki/index.php/EduAnnAudioPart2
+
+
+EduAnn2018总的链接在这里
+http://www.sociallearnlab.org/wiki/index.php/EduAnn2018
+
+= 第二次会议结果 =
+
+
+= 第二次会议记录 =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
