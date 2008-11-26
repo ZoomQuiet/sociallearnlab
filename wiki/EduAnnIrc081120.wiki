@@ -2,7 +2,9 @@
 #labels EduAnn2018,SLL,EduAnnIrc
 
 = 参考 =
-http://www.zoomquiet.org/share/mm/think3-3.png
+http://xmindshare.s3.amazonaws.com/preview/33-session-ekvdm-1227670990921.jpg
+ * [http://www.zoomquiet.org/share/mm/think3-3.png FreeMind版本]
+ * [http://share.xmind.net/zoomquiet/33-session/ xMind版本]
 
 = 记要 =
 1.  时间：  11月20日（周四）晚上 7:30,
