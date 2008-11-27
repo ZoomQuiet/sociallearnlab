@@ -3,8 +3,10 @@
 [GSH]首页
 = 第七章 Google Documents =
 产品标识：
- * 英文版标识：[http://picasaweb.google.com/lh/photo/DDFPPXf3UO-7KN1uoh54Kw]
- * 中文版标识：[http://picasaweb.google.com/lh/photo/DDFPPXf3UO-7KN1uoh54Kw]
+ * 英文版标识：
+[http://picasaweb.google.com/lh/photo/DDFPPXf3UO-7KN1uoh54Kw]
+ * 中文版标识：
+[http://picasaweb.google.com/lh/photo/DDFPPXf3UO-7KN1uoh54Kw]
 ==1 问题情境==
 
 === 1.1 情境一 ===
