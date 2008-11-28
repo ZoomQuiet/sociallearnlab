@@ -49,12 +49,15 @@ http://www.cnbloggercon.org/blog/
 
 ==== 圆桌会议现场记录：====
 
- *[http://www.woodpecker.org.cn/share/classes/classes2008/081115-cbc08-sll/081116-EduAnn2018-1.ogg 2018教育宣言part1：引子，流程介绍，参会者自我介绍，参会者观点发言] 
- *分组讨论
+ [http://www.woodpecker.org.cn/share/classes/classes2008/081115-cbc08-sll/081116-EduAnn2018-1.ogg 2018教育宣言part1：引子，流程介绍，参会者自我介绍，参会者观点发言] 
+
+分组讨论::
   *[http://code.google.com/p/sociallearnlab/wiki/EduAnnG1?ts=1227903135&updated=EduAnnG1 A组讨论整理]（整理中…）
   *[http://code.google.com/p/sociallearnlab/wiki/EduAnnG2?ts=1227902484&updated=EduAnnG2 B组讨论整理]
- *[http://www.woodpecker.org.cn/share/classes/classes2008/081115-cbc08-sll/081116-EduAnn2018-2.ogg 2018教育宣言part2: 分组总结发言，投票，总结]
- *两组讨论的合并及投票结果::
+
+[http://www.woodpecker.org.cn/share/classes/classes2008/081115-cbc08-sll/081116-EduAnn2018-2.ogg 2018教育宣言part2: 分组总结发言，投票，总结]
+
+两组讨论的合并及投票结果::
   * s1：在开放的上网条件下，利用社区的建设，培养独立的学习能力。（28票）
   * s6：鼓励学校开放教育资源，更加平均地分配教育资源，解决农村教育资源的问题，鼓励CC共享。（24票）
   * s11：建立以能力、素质为导向的考评标准，吸引全社会参与制定该标准。（24票）
@@ -66,7 +69,8 @@ http://www.cnbloggercon.org/blog/
   * s3：促进政府投资，通过家庭、社区，提高全民信息素质。（16票）
   * s9：开放学校的管理，增加民主决策。（16票）
   * s7：利用更多的职前职后体系，提高教师专业能力和社会地位。（9票） 
- *分析::
+
+分析::
   [http://www.zoomquiet.org/share/mm/eduann2018-analyze/081120-EduAnn2018-analyze.xmin 081120-EduAnn2018-analyze.xmin]^xMind设计底稿^
  http://www.zoomquiet.org/share/mm/eduann2018-analyze/081120-EduAnn2018-analyze.png
 
