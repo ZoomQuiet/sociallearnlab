@@ -74,7 +74,7 @@ http://www.cnbloggercon.org/blog/
 
 分析::
   [http://www.zoomquiet.org/share/mm/eduann2018-analyze/081120-EduAnn2018-analyze.xmin 081120-EduAnn2018-analyze.xmin]^xMind设计底稿^
- http://www.zoomquiet.org/share/mm/eduann2018-analyze/081120-EduAnn2018-analyze.png
+  [http://www.zoomquiet.org/share/mm/eduann2018-analyze/081120-EduAnn2018-analyze.png ZoomQuiet的思维导图]
 
 === 宣言第三阶段整理 ===
 
@@ -108,7 +108,7 @@ http://code.google.com/p/sociallearnlab/wiki/EduAnnIrc081120
 
     * （1）录音整理 ，实际一共四段录音 两天完成，21（周五） 22（周六） 完成录音整理。 
  
-录音概念图： [http://www.mindpin.com/pinmaps/5485 录音概念图]
+录音概念图： [http://www.mindpin.com/pinmaps/5485 某成员？的思维导图]
 
     * （2）然后根据录音以及以往网络上讨论，把相关内容分类到相关的表决的7/11条中 两天，23（周日） 24（周一）完成内容归并。 
 
@@ -153,7 +153,7 @@ http://code.google.com/p/sociallearnlab/wiki/EduAnnIrc081120
 
 == 现场讨论 ==
 
-http://www.mindpin.com/pinmaps/5485.png
+[http://www.mindpin.com/pinmaps/5485.png 某成员？的思维导图]
 
 http://code.google.com/p/sociallearnlab/wiki/EduAnnIrc081120
 
