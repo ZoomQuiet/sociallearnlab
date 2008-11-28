@@ -71,7 +71,7 @@ http://www.cnbloggercon.org/blog/
   #  [http://code.google.com/p/sociallearnlab/wiki/EduAnnG1?ts=1227903135&updated=EduAnnG1 A组讨论整理]
   #  [http://code.google.com/p/sociallearnlab/wiki/EduAnnG2?ts=1227902484&updated=EduAnnG2 B组讨论整理]
 
- 投票::
+ 两组讨论的合并及投票结果::
   * s1：在开放的上网条件下，利用社区的建设，培养独立的学习能力。（28票）
   * s6：鼓励学校开放教育资源，更加平均地分配教育资源，解决农村教育资源的问题，鼓励CC共享。（24票）
   * s11：建立以能力、素质为导向的考评标准，吸引全社会参与制定该标准。（24票）
