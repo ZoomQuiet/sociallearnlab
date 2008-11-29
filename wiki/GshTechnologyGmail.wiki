@@ -160,22 +160,25 @@ gmail快捷键大全：[https://mail.google.com/support/bin/answer.py?hl=cn&answ
     
 [http://haokanbu.s3.amazonaws.com/picture/external/a33391fec4cf4631bccd03f915c74c53.png]
 
-    label1-创建标签
+label1-创建标签
 
 标签是给每个邮件加上一个个人设置的属性标识，用来识别分类邮件。
 
 创建方法：在gmail右上方点击设置，进入标签一项，在最下方的“创建新标签”中填写完新标签然后点击创建就ok了
 
 [http://haokanbu.s3.amazonaws.com/picture/external/3ebbb58e5e9c4d70b8e12145427391ef.png]
-    applylabel-创建好标签后，就可以在邮件中通过动作来实现为邮件添加标签
+
+applylabel-创建好标签后，就可以在邮件中通过动作来实现为邮件添加标签
     
 [http://haokanbu.s3.amazonaws.com/picture/external/800df0b4959a4d559d36adb0ea66b4e4.png]
-    filter1-创建过滤器
+
+filter1-创建过滤器
 
 过滤器可以把一些邮件进行过滤，方便统一管理
     
-[http://haokanbu.s3.amazonaws.com/picture/external/b745327de97a43e586f012d031c37619.png[/img][/url]
-    filter2-举一个例子。我通过数据库自动备份插件让数据库信息每日自动从邮箱xxx@xxx.com发送到我的gmail邮箱中。这样我就需要每天都要去把这些数据库邮件标记已读，并归档。每日手动操作是很容易厌倦的，但是通过过滤器就可以解决问题。
+[http://haokanbu.s3.amazonaws.com/picture/external/b745327de97a43e586f012d031c37619.png]
+
+filter2-举一个例子。我通过数据库自动备份插件让数据库信息每日自动从邮箱xxx@xxx.com发送到我的gmail邮箱中。这样我就需要每天都要去把这些数据库邮件标记已读，并归档。每日手动操作是很容易厌倦的，但是通过过滤器就可以解决问题。
 
 创建过滤器，在发件人中填写xxx@xxx.com，点击下一步
 
@@ -211,7 +214,8 @@ google搜索功能很强大，gmail也不例外。
 详细搜索大全：[http://www.googletm.com/labels/Gmail.html]
     
 [http://haokanbu.s3.amazonaws.com/picture/external/168d46624e464b7bb2aa13d4b97c1167.png]
-    languagesetting-开启gmail lab
+
+languagesetting-开启gmail lab
 
 gmail lab相当于gmail的实验室，这里会推出很多实用、有趣的新功能供用户使用。但是，它目前在gmail中文版面中无法开启，只有把版面切换到英文后才能使用，当然，在英文界面中开启lab后切换回中文界面同样会保存这些功能，所以，你如果习惯使用中文界面却又为这些lab功能心动，只要切换到英文下，打开设置好lab相关功能，然后再换回中文界面就可以了。
 
@@ -273,18 +277,20 @@ has:purple-question (or l:^ss_cp)
     
 [http://haokanbu.s3.amazonaws.com/picture/external/8fa4e6fd8db744cbb2acdb14d6aae9a4.png]
 
-    labelcolors-彩色标签，可以让标签变成彩色，更加醒目
+labelcolors-彩色标签，可以让标签变成彩色，更加醒目
     
 [http://haokanbu.s3.amazonaws.com/picture/external/f8a7facdece54ed09fd79762554a4a9c.png]
 
-    label2-开启彩色标签后会在gmail侧边栏出现这样一个标签窗口，点击每个标签右侧的小方块，就可以弹出多种颜色供你选择。
+label2-开启彩色标签后会在gmail侧边栏出现这样一个标签窗口，点击每个标签右侧的小方块，就可以弹出多种颜色供你选择。
 这对于订阅了不少邮件列表而又使用标签区分的朋友特别有用
     
 [http://haokanbu.s3.amazonaws.com/picture/external/320be3d64bab4549b405058b968fbf1e.png]
-    color-彩色标签标识效果
+
+color-彩色标签标识效果
     
 [http://haokanbu.s3.amazonaws.com/picture/external/405975bce8214665adec6b6deeda031c.png]
-    quicklink1-quick links 快速链接
+
+quicklink1-quick links 快速链接
 
 比如我经常需要查找关于“好看教研”标签并加过星的邮件，首先，在搜索栏中输入“label:好看教研 is:starred”，并检索，于是，gmail就转入了相应页面，这时就可以点击Quick Links中的Add Quick Link（如下图），这样就把这个页面链接添加到Quick Links侧边栏中了
     
@@ -304,11 +310,11 @@ calendardocs-添加google calendar和google docs
     
 [http://haokanbu.s3.amazonaws.com/picture/external/6f6ba0da3a2a42c8928baffea4747ae1.png]
 
-    calendardocs2-google calendar和google docs之后会在gmail侧边栏显示
+calendardocs2-google calendar和google docs之后会在gmail侧边栏显示
     
 [http://haokanbu.s3.amazonaws.com/picture/external/2b9c1b91850b4c85a880f03b224b277e.png]
 
-    gadget-启用互联网中的gadgets
+gadget-启用互联网中的gadgets
 
 这是个很神奇的扩展，可以把互联网上的很多小工具添加进gmail中去。就像igoogle中添加的那些小工具一样（不仅仅是igoogle小工具，其他网站的gadgets也可以用）[http://www.haokanbu.com/story/14185/]
 
@@ -317,15 +323,15 @@ calendardocs-添加google calendar和google docs
     
 [http://haokanbu.s3.amazonaws.com/picture/external/d2d23f2c27e244ebaf69e8b2969439d9.png]
 
-    rightside-调整gmail侧边栏布局，改变gtalk聊天窗口和标签（label）窗口的位置
+rightside-调整gmail侧边栏布局，改变gtalk聊天窗口和标签（label）窗口的位置
     
 [http://haokanbu.s3.amazonaws.com/picture/external/c8bf7cea4f13430289bf6bf709e87af5.png]
 
-    navbardraganddrop-启用了Navbar drag and drop 就可以通过拖放移动侧边栏的小窗口来实现自定义gmail侧边栏工具合理布局
+navbardraganddrop-启用了Navbar drag and drop 就可以通过拖放移动侧边栏的小窗口来实现自定义gmail侧边栏工具合理布局
     
 [http://haokanbu.s3.amazonaws.com/picture/external/476b939810bb41399a250a69c117c3ff.png]
 
-    battergmail1-如果你使用的是firefox浏览器，那么，可以去安装gmail扩展插件：
+battergmail1-如果你使用的是firefox浏览器，那么，可以去安装gmail扩展插件：
 
 这里我推荐下面两个插件：
 
@@ -346,7 +352,8 @@ attachment icons 会让含有附件的邮件名称后方显示一个小的附件
 效果如下图
    
 [http://haokanbu.s3.amazonaws.com/picture/external/70e2020be25d4cf6948620517dbf6775.png]
-    Screenshot-better gmail2使用部分效果
+
+Screenshot-better gmail2使用部分效果
 
 
 最后推荐一些我收藏的关于gmail使用的资源：
