@@ -27,7 +27,7 @@
 
 ==*项目情况*==
 
-===好看教研项目===
+=== 好看教研项目 ===
 
 十一月末，“好看教研”对前期的工作开始进行总结和反思，围绕跨校活动的优势、支持的条件，主题的选择展开了讨论。
 
@@ -55,8 +55,7 @@ GSH项目情况跟踪表：
 
 http://code.google.com/p/sociallearnlab/wiki/GshZh0Index
 
-
-===*EduAnn2018项目*=== (*过程性总结*）
+===EduAnn2018项目===
 
 EduAnn2018命名投票结果：
 
@@ -115,7 +114,7 @@ http://code.google.com/p/sociallearnlab/wiki/SLLCalendar
 ==*简报发行*==
  * 利用GoogleCode进行每期简报管理；
  * 发行管理:采用专用GoogleGroup论坛进行投递人员管理。
-http://groups.google.com/group/sllbrief
+    http://groups.google.com/group/sllbrief
  * 撰写流程:重要事情随时记录，月末逐步生成简报。
 
 ==*“选种刊”注释*==
@@ -139,7 +138,7 @@ http://groups.google.com/group/sllbrief
  * 0.7 forest ~ 森林
  * ...
 
-==*其它*==
+==*社区其它*==
 
 教育大发现·社区小手册
 
@@ -149,11 +148,7 @@ SLL教育辞典
 
 http://code.google.com/p/sociallearnlab/wiki/SllEduDict
 
-==*知识管理*==
-
-[SLL-mem:1955] 关于优化邮件列表讨论内容的思考
-
-sll豆瓣读书小组
+sll豆瓣读书小组成立
 
 http://www.douban.com/group/SocialLearnLab/
 
