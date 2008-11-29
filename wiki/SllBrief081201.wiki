@@ -18,11 +18,11 @@
   * “选种刊”注释
 
 ==*卷首语*==
-对于教育大发现社区来说，这一月注定是不平凡的。因着有了广州的中文网志年会，因着有了年会中教育宣言的发起和倡议。同时，也因着这些契机，困绕社区发展中的一些问题得到了初步的解决。比如：社区宗旨和目标定位；社区管理和议事规则；项目管理流程等等。为了这些不能忘却的记忆，让我们来一一记录并珍藏。
+对于教育大发现社区来说，这一月注定是不平凡的。因着有了广州的中文网志年会，因着有了年会中教育宣言的发起和倡议。同时，也因着这些契机，困绕社区发展中的一些问题得到了初步的解决。比如：社区宗旨和目标定位；社区管理和议事规则；项目管理流程等等。社区需要发展，我们的要走的路还很长……为了这些不能忘却的记忆，让我们来一一记录并珍藏。
 
 ==*项目情况*==
 
-好看教研项目：
+===好看教研项目===
 
 月末，“好看教研”对前期的工作开始进行总结和反思，围绕跨校活动的优势、支持的条件，主题的选择展开了讨论。
 
@@ -42,30 +42,14 @@ http://code.google.com/p/sociallearnlab/wiki/itchaokanbulms0023
 
 http://code.google.com/p/sociallearnlab/wiki/SNSforTecher
 
-GSH项目进展
-
+===GSH项目进展===
 
 
 GSH项目情况跟踪表：
 
 http://code.google.com/p/sociallearnlab/wiki/GshZh0Index
 
-拟立项项目：
-
-网络学习手册：
-
-http://code.google.com/p/sociallearnlab/wiki/SLHB
-
-小学教师社会化交流实践”教育研究方案
-
-http://code.google.com/p/sociallearnlab/wiki/SNSforTecher
-
-EdubuntuChina(开源服务于教育）
-
-http://sites.google.com/site/edubuntuchina/Home
-
-
-EduAnn2018项目 (*过程性总结*）
+===EduAnn2018项目=== (*过程性总结*）
 
 EduAnn2018命名投票结果：
 
@@ -86,6 +70,20 @@ http://code.google.com/p/sociallearnlab/wiki/EduAnn2018
 
 http://code.google.com/p/sociallearnlab/wiki/EduAnn2018Stuff
 
+
+===拟立项项目===
+
+网络学习手册：
+
+http://code.google.com/p/sociallearnlab/wiki/SLHB
+
+小学教师社会化交流实践”教育研究方案
+
+http://code.google.com/p/sociallearnlab/wiki/SNSforTecher
+
+EdubuntuChina(开源服务于教育）
+
+http://sites.google.com/site/edubuntuchina/Home
 
 
 ==*irc会议*==
