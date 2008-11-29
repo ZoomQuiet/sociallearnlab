@@ -12,23 +12,28 @@
   * 新友加入
   * 项目情况
   * 社区管理
-  * 十一月进展
   * 十二月规划
   * 简报发行
   * “选种刊”注释
 
 ==*卷首语*==
-对于教育大发现社区来说，这一月注定是不平凡的。因着有了广州的中文网志年会，因着有了年会中教育宣言的发起和倡议。同时，也因着这些契机，困绕社区发展中的一些问题得到了初步的解决。比如：社区宗旨和目标定位；社区管理和议事规则；项目管理流程等等。社区需要发展，我们的要走的路还很长……为了这些不能忘却的记忆，让我们来一一记录并珍藏。
+对于教育大发现社区来说，这一月注定是不平凡的。因着有了广州的中文网志年会，又因着有了年会中教育宣言的发起和倡议。同时，也因着这些契机，困绕社区的一些问题得到了初步的解决。比如：社区宗旨和目标定位；社区管理和议事规则；项目管理流程等等。社区需要发展，我们要走的路还很长……为了这些不能忘却的记忆，让我们来一一记录并珍藏。
+
+==*目标宗旨*==
+修正起草中
+
+==*新友加入*==
+论坛管理人员请加此部分
 
 ==*项目情况*==
 
 ===好看教研项目===
 
-月末，“好看教研”对前期的工作开始进行总结和反思，围绕跨校活动的优势、支持的条件，主题的选择展开了讨论。
+十一月末，“好看教研”对前期的工作开始进行总结和反思，围绕跨校活动的优势、支持的条件，主题的选择展开了讨论。
 
 http://tinyurl.com/5guwc8
 
-好看教研项目吸引了大量的一线教师和学生参与，李明山老师就是其中的一位。他的自我追求与学习热情非常让人钦佩！他为边远地区学校教育的鼓与呼也非常让人感动。
+好看教研项目吸引了大量的一线教师和学生参与，李明山老师就是其中的一位。他的自我追求与学习热情让人钦佩！他为边远地区学校教育的鼓与呼也非常让人感动。
 
 李明山老师好看簿首页
 
@@ -42,12 +47,14 @@ http://code.google.com/p/sociallearnlab/wiki/itchaokanbulms0023
 
 http://code.google.com/p/sociallearnlab/wiki/SNSforTecher
 
-===GSH项目进展===
+===GSH项目===
 
+目前为止，GSH项目技术部分认领章节的初稿已基本完成，故事情景部分也正在补充和完善。需要注意的是后期工作的开展和规划。另外，根据Li David的提议，GSH项目如果能够得到Google公司支持，将会对项目有很好的推进作用。
 
 GSH项目情况跟踪表：
 
 http://code.google.com/p/sociallearnlab/wiki/GshZh0Index
+
 
 ===EduAnn2018项目=== (*过程性总结*）
 
@@ -61,17 +68,17 @@ http://groups.google.com/group/eduann2018
 
 http://sociallearnlab.org/wiki/index.php/EduAnn2018
 
+2018年中国教育宣言讨论
+
+http://code.google.com/p/sociallearnlab/wiki/EduAnn2018Stuff
 
 2018年中国教育宣言
 
 http://code.google.com/p/sociallearnlab/wiki/EduAnn2018
 
-2018年中国教育宣言 讨论
 
-http://code.google.com/p/sociallearnlab/wiki/EduAnn2018Stuff
-
-
-===拟立项项目===
+===拟立项目===
+社区目前拟立的项目主要有网络学习手册、小学教师社会化交流实践”教育研究方案、EdubuntuChina(开源服务于教育）三项。
 
 网络学习手册：
 
@@ -86,37 +93,30 @@ EdubuntuChina(开源服务于教育）
 http://sites.google.com/site/edubuntuchina/Home
 
 
-==*irc会议*==
-
-针对社委会 
-
-http://code.google.com/p/sociallearnlab/wiki/SllIrc081120
-
-EduAnn2018工作委员会第一次会议.
-
-http://code.google.com/p/sociallearnlab/wiki/EduAnnIrc081120
-
-EduAnn2018工作委员会第一次会议
-
 ==*社区管理*==
 
-[SLL-mem:1666] 2018教育宣言启用专用邮件列表地址
+为防止论坛讨论无关帖子的进入和噪声，社区对列表订阅管理进行了加强。网志年会期间社区成立了临时仲裁委员会，其后，社区工作委员会也相继成立。（时间、地点、成员及其职责）
 
-http://groups.google.com/group/eduann2018
+SLL临时仲裁委员会成立
 
-列表订阅管理加强
+http://tinyurl.com/673zpc
 
-临时仲裁委员会及社区工作委员会成立时间、地点、成员及其职责
+社区委员会管理规则：(起草中）
 
-[SLL-mem:1679] SLL临时仲裁委员会成立
+http://code.google.com/p/sociallearnlab/wiki/SLLS
 
 社区任务跟踪页面
 
 http://code.google.com/p/sociallearnlab/wiki/SLLCalendar
 
-社区委员会管理规则：http://code.google.com/p/sociallearnlab/wiki/SLLS
+==*十二月规划*==
+教育宣言定稿并正式对外发布；几个拟立项目的审议和立项。“好看教研”的下一步工作；GSH项目初稿的审定和二稿的规划。
 
-==*社区介绍*==
+==*简报发行*==
+
+==*“选种刊”注释*==
+
+==*其它*==
 
 教育大发现·社区小手册
 
@@ -134,7 +134,17 @@ sll豆瓣读书小组
 
 http://www.douban.com/group/SocialLearnLab/
 
+==*irc会议*==
 
+针对社委会 
+
+http://code.google.com/p/sociallearnlab/wiki/SllIrc081120
+
+EduAnn2018工作委员会第一次会议.
+
+http://code.google.com/p/sociallearnlab/wiki/EduAnnIrc081120
+
+EduAnn2018工作委员会第一次会议
 
 ==*社区讨论及提议*==
 
