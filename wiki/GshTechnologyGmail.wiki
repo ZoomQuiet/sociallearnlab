@@ -153,11 +153,14 @@ QQ被盗后可以到腾讯申诉取回，同样Gmail也有相似的服务。当�
 
 其中很重要的一个方法是将1～4混合使用，这样就有无限可能
 
+*使用快捷键*
+
 使用快捷键：思维导图中是我常用的几个快捷键，特别推荐“m”键，也就是静音，如果你订阅了邮件列表，但是对邮件列表中的某一主题贴没有兴趣，就可以用m键将这个主题贴关闭，今后不再接受此主题贴信息，详情查看：[https://mail.google.com/support/bin/answer.py?answer=47787]
 
 tips：如果您忘了某个快捷键，只需要按下“？”，就可以打开快捷键提示窗口
 gmail快捷键大全：[https://mail.google.com/support/bin/answer.py?hl=cn&answer=6594]
-    
+
+*创建标签*
 
 [http://haokanbu.s3.amazonaws.com/picture/external/a33391fec4cf4631bccd03f915c74c53.png]
 
@@ -174,6 +177,7 @@ label1-创建标签
 
 applylabel-创建好标签后，就可以在邮件中通过动作来实现为邮件添加标签
 
+*创建过滤器*
     
 [http://haokanbu.s3.amazonaws.com/picture/external/800df0b4959a4d559d36adb0ea66b4e4.png]
 
@@ -197,8 +201,9 @@ filter2-举一个例子。我通过数据库自动备份插件让数据库信息
 filter3-选中“标记为已读”，“跳过收件箱”，还可以应用标签，比如加上alexyu backup的标签，这样ok了。从此，每天的数据库信息邮件会自动归档到“所有邮件”中，同时也会加上“alexyu backup”的标签。而我只需在标签栏点击此标签，就会跳到所有具有该标签的页面。
 
 这个功能对订阅了邮件列表信息的朋友特别有用。只要在过滤器“收件人”中填写邮件列表邮箱，并应用相关标签，就可以让来自该邮件列表的邮件都标注上一个统一标识，方便识别管理。
- 
-   
+
+*搜索*
+
 [http://haokanbu.s3.amazonaws.com/picture/external/617feacedd0748b2a0244805d8eb525a.png]
 
 
@@ -224,6 +229,8 @@ google搜索功能很强大，gmail也不例外。
 
 详细搜索大全：[http://www.googletm.com/labels/Gmail.html]
 
+
+*开启gmail lab*
   
 [http://haokanbu.s3.amazonaws.com/picture/external/168d46624e464b7bb2aa13d4b97c1167.png]
 
@@ -320,16 +327,16 @@ color-彩色标签标识效果
 quicklink1-quick links 快速链接
 
 比如我经常需要查找关于“好看教研”标签并加过星的邮件，首先，在搜索栏中输入“label:好看教研 is:starred”，并检索，于是，gmail就转入了相应页面，这时就可以点击Quick Links中的Add Quick Link（如下图），这样就把这个页面链接添加到Quick Links侧边栏中了
-   
- 
+
+
 [http://haokanbu.s3.amazonaws.com/picture/external/4132e1f2c0fe42599ad10f704d310338.png]
-  
+
 
 quicklink2-quick links
-    
 
-[http://haokanbu.s3.amazonaws.com/picture/external/6800315a583c476fa51dd1dcc4a193be.png]
     
+[http://haokanbu.s3.amazonaws.com/picture/external/6800315a583c476fa51dd1dcc4a193be.png]
+
 
 quoteselectedtext-quote selected text
 
@@ -370,9 +377,9 @@ rightside-调整gmail侧边栏布局，改变gtalk聊天窗口和标签（label�
 
 navbardraganddrop-启用了Navbar drag and drop 就可以通过拖放移动侧边栏的小窗口来实现自定义gmail侧边栏工具合理布局
 
+*firefox浏览器下的gmail扩展插件*
 
 [http://haokanbu.s3.amazonaws.com/picture/external/476b939810bb41399a250a69c117c3ff.png]
-
 
 battergmail1-如果你使用的是firefox浏览器，那么，可以去安装gmail扩展插件：
 
