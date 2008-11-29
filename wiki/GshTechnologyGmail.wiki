@@ -345,13 +345,11 @@ calendardocs2-google calendar和google docs之后会在gmail侧边栏显示
 
 [http://haokanbu.s3.amazonaws.com/picture/external/6f6ba0da3a2a42c8928baffea4747ae1.png]
 
-
-[http://haokanbu.s3.amazonaws.com/picture/external/2b9c1b91850b4c85a880f03b224b277e.png]
-
-
 *gadget*-启用互联网中的gadgets
 
 这是个很神奇的扩展，可以把互联网上的很多小工具添加进gmail中去。就像igoogle中添加的那些小工具一样（不仅仅是igoogle小工具，其他网站的gadgets也可以用）[http://www.haokanbu.com/story/14185/]
+
+[http://haokanbu.s3.amazonaws.com/picture/external/2b9c1b91850b4c85a880f03b224b277e.png]
 
 
 *邮箱各模块的合理布局*也是很有必要的，lab中也提供了这样的功能，如下图：
