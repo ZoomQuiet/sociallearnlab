@@ -56,11 +56,11 @@ GSH项目情况跟踪表：
 http://code.google.com/p/sociallearnlab/wiki/GshZh0Index
 
 
-===EduAnn2018项目=== (*过程性总结*）
+===*EduAnn2018项目*=== (*过程性总结*）
 
 EduAnn2018命名投票结果：
 
-关注和参与EduAnn2018途径：
+关注和参与EduAnn2018的途径：
 
 http://twitter.com/EduAnn2018
 
@@ -77,7 +77,7 @@ http://code.google.com/p/sociallearnlab/wiki/EduAnn2018Stuff
 http://code.google.com/p/sociallearnlab/wiki/EduAnn2018
 
 
-===拟立项目===
+===*拟立项目*===
 社区目前拟立的项目主要有网络学习手册、小学教师社会化交流实践”教育研究方案、EdubuntuChina(开源服务于教育）三项。
 
 网络学习手册：
@@ -113,8 +113,31 @@ http://code.google.com/p/sociallearnlab/wiki/SLLCalendar
 教育宣言定稿并正式对外发布；几个拟立项目的审议和立项。“好看教研”的下一步工作；GSH项目初稿的审定和二稿的规划。
 
 ==*简报发行*==
+ * 利用GoogleCode进行每期简报管理；
+ * 发行管理:采用专用GoogleGroup论坛进行投递人员管理。
+http://groups.google.com/group/sllbrief
+ * 撰写流程:重要事情随时记录，月末逐步生成简报。
 
 ==*“选种刊”注释*==
+使用十年树木,百年树人的谚语概念,将不同阶段的社区活动,都和植物进行隐喻:
+
+ * 0.0 seed ~ 种子
+
+  ** SllBrief080901 ~ 选种刊 _seed choice_ ^撰写ing^
+  **  ~ 净种刊 _seed clean_  ^筹备ing^
+  **  ~ 育种刊 _seed grow_   ^筹备ing^
+  **  ~ 冬藏刊  _seed winter store_  ^筹备ing^
+  ** ~ 泡种刊 _seed vesic_  ^筹备ing^
+  ** ~ 栽种刊  _seed fall_    ^筹备ing^
+
+ * 0.1 bud ~ 芽
+ * 0.2 grass ~ 草
+ * 0.3 bush ~ 灌木
+ * 0.4 arboret ~ 小树
+ * 0.5 tree ~ 树
+ * 0.6 woods ~ 树林
+ * 0.7 forest ~ 森林
+ * ...
 
 ==*其它*==
 
