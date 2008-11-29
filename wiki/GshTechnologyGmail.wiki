@@ -178,7 +178,7 @@ label1-创建标签
 applylabel-创建好标签后，就可以在邮件中通过动作来实现为邮件添加标签
 
 *创建过滤器*
-    
+
 [http://haokanbu.s3.amazonaws.com/picture/external/800df0b4959a4d559d36adb0ea66b4e4.png]
 
 
@@ -231,7 +231,7 @@ google搜索功能很强大，gmail也不例外。
 
 
 *开启gmail lab*
-  
+
 [http://haokanbu.s3.amazonaws.com/picture/external/168d46624e464b7bb2aa13d4b97c1167.png]
 
 
@@ -239,7 +239,7 @@ languagesetting-开启gmail lab
 
 gmail lab相当于gmail的实验室，这里会推出很多实用、有趣的新功能供用户使用。但是，它目前在gmail中文版面中无法开启，只有把版面切换到英文后才能使用，当然，在英文界面中开启lab后切换回中文界面同样会保存这些功能，所以，你如果习惯使用中文界面却又为这些lab功能心动，只要切换到英文下，打开设置好lab相关功能，然后再换回中文界面就可以了。
 
-语言切换方法：
+*语言切换方法：*
 
 在设置－常规－gmail显示的语言中选择us english，保存设置即可
 
@@ -253,7 +253,7 @@ lab1-转换到英文界面后，你会发现在邮箱设置/setting的左边多�
 [http://haokanbu.s3.amazonaws.com/picture/external/28d9769e40c544e7ad08ca54aeb7ddb9.png]
 
 
-superstars-superstars，超级星标，启用后可以将原有的单一五星标识扩展为多种多样的标识
+*superstars*-超级星标，启用后可以将原有的单一五星标识扩展为多种多样的标识
 
 选择“Enable”并点击页面下方的“save changes”保存将其开启
 
@@ -305,7 +305,7 @@ has:purple-question (or l:^ss_cp)
 [http://haokanbu.s3.amazonaws.com/picture/external/8fa4e6fd8db744cbb2acdb14d6aae9a4.png]
 
 
-labelcolors-彩色标签，可以让标签变成彩色，更加醒目
+*labelcolors*-彩色标签，可以让标签变成彩色，更加醒目
 
 
 [http://haokanbu.s3.amazonaws.com/picture/external/f8a7facdece54ed09fd79762554a4a9c.png]
@@ -320,11 +320,10 @@ label2-开启彩色标签后会在gmail侧边栏出现这样一个标签窗口�
 
 color-彩色标签标识效果
 
+*quick links*-快速链接
 
 [http://haokanbu.s3.amazonaws.com/picture/external/405975bce8214665adec6b6deeda031c.png]
 
-
-quicklink1-quick links 快速链接
 
 比如我经常需要查找关于“好看教研”标签并加过星的邮件，首先，在搜索栏中输入“label:好看教研 is:starred”，并检索，于是，gmail就转入了相应页面，这时就可以点击Quick Links中的Add Quick Link（如下图），这样就把这个页面链接添加到Quick Links侧边栏中了
 
@@ -332,50 +331,42 @@ quicklink1-quick links 快速链接
 [http://haokanbu.s3.amazonaws.com/picture/external/4132e1f2c0fe42599ad10f704d310338.png]
 
 
-quicklink2-quick links
-
-    
-[http://haokanbu.s3.amazonaws.com/picture/external/6800315a583c476fa51dd1dcc4a193be.png]
-
-
-quoteselectedtext-quote selected text
+*quote selected text*
 
 作用是在回复邮件的时候将选择中的文字作为回复邮件的引用内容，这对于保持邮件列表上下文信息的连贯性是非常有帮助的
 
+[http://haokanbu.s3.amazonaws.com/picture/external/6800315a583c476fa51dd1dcc4a193be.png]
+
+*calendardocs*-添加google calendar和google docs
 
 [http://haokanbu.s3.amazonaws.com/picture/external/3259380599154a77abdf9005a0437c6a.png]
 
-  
-calendardocs-添加google calendar和google docs
-
+calendardocs2-google calendar和google docs之后会在gmail侧边栏显示
 
 [http://haokanbu.s3.amazonaws.com/picture/external/6f6ba0da3a2a42c8928baffea4747ae1.png]
-
-
-calendardocs2-google calendar和google docs之后会在gmail侧边栏显示
 
 
 [http://haokanbu.s3.amazonaws.com/picture/external/2b9c1b91850b4c85a880f03b224b277e.png]
 
 
-gadget-启用互联网中的gadgets
+*gadget*-启用互联网中的gadgets
 
 这是个很神奇的扩展，可以把互联网上的很多小工具添加进gmail中去。就像igoogle中添加的那些小工具一样（不仅仅是igoogle小工具，其他网站的gadgets也可以用）[http://www.haokanbu.com/story/14185/]
 
 
-邮箱各模块的合理布局也是很有必要的，lab中也提供了这样的功能，如下图：
+*邮箱各模块的合理布局*也是很有必要的，lab中也提供了这样的功能，如下图：
 
 
 [http://haokanbu.s3.amazonaws.com/picture/external/d2d23f2c27e244ebaf69e8b2969439d9.png]
 
 
-rightside-调整gmail侧边栏布局，改变gtalk聊天窗口和标签（label）窗口的位置
+*rightside*-调整gmail侧边栏布局，改变gtalk聊天窗口和标签（label）窗口的位置
 
 
 [http://haokanbu.s3.amazonaws.com/picture/external/c8bf7cea4f13430289bf6bf709e87af5.png]
 
 
-navbardraganddrop-启用了Navbar drag and drop 就可以通过拖放移动侧边栏的小窗口来实现自定义gmail侧边栏工具合理布局
+*navbardraganddrop*-启用了Navbar drag and drop 就可以通过拖放移动侧边栏的小窗口来实现自定义gmail侧边栏工具合理布局
 
 *firefox浏览器下的gmail扩展插件*
 
