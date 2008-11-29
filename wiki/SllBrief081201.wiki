@@ -43,6 +43,8 @@ http://code.google.com/p/sociallearnlab/wiki/SNSforTecher
 
 GSH项目进展
 
+
+
 GSH项目情况跟踪表：
 
 http://code.google.com/p/sociallearnlab/wiki/GshZh0Index
@@ -64,6 +66,17 @@ http://sites.google.com/site/edubuntuchina/Home
 
 EduAnn2018项目 (*过程性总结*）
 
+EduAnn2018命名投票结果：
+
+关注和参与EduAnn2018途径：
+
+http://twitter.com/EduAnn2018
+
+http://groups.google.com/group/eduann2018
+
+http://sociallearnlab.org/wiki/index.php/EduAnn2018
+
+
 2018年中国教育宣言
 
 http://code.google.com/p/sociallearnlab/wiki/EduAnn2018
@@ -72,7 +85,6 @@ http://code.google.com/p/sociallearnlab/wiki/EduAnn2018
 
 http://code.google.com/p/sociallearnlab/wiki/EduAnn2018Stuff
 
-http://twitter.com/EduAnn2018
 
 
 ==*irc会议*==
