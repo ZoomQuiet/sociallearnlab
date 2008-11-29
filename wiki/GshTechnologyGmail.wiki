@@ -158,7 +158,9 @@ QQ被盗后可以到腾讯申诉取回，同样Gmail也有相似的服务。当�
 tips：如果您忘了某个快捷键，只需要按下“？”，就可以打开快捷键提示窗口
 gmail快捷键大全：[https://mail.google.com/support/bin/answer.py?hl=cn&answer=6594]
     
+
 [http://haokanbu.s3.amazonaws.com/picture/external/a33391fec4cf4631bccd03f915c74c53.png]
+
 
 label1-创建标签
 
@@ -166,17 +168,23 @@ label1-创建标签
 
 创建方法：在gmail右上方点击设置，进入标签一项，在最下方的“创建新标签”中填写完新标签然后点击创建就ok了
 
+
 [http://haokanbu.s3.amazonaws.com/picture/external/3ebbb58e5e9c4d70b8e12145427391ef.png]
 
+
 applylabel-创建好标签后，就可以在邮件中通过动作来实现为邮件添加标签
+
     
 [http://haokanbu.s3.amazonaws.com/picture/external/800df0b4959a4d559d36adb0ea66b4e4.png]
+
 
 filter1-创建过滤器
 
 过滤器可以把一些邮件进行过滤，方便统一管理
-    
+
+
 [http://haokanbu.s3.amazonaws.com/picture/external/b745327de97a43e586f012d031c37619.png]
+
 
 filter2-举一个例子。我通过数据库自动备份插件让数据库信息每日自动从邮箱xxx@xxx.com发送到我的gmail邮箱中。这样我就需要每天都要去把这些数据库邮件标记已读，并归档。每日手动操作是很容易厌倦的，但是通过过滤器就可以解决问题。
 
@@ -184,12 +192,15 @@ filter2-举一个例子。我通过数据库自动备份插件让数据库信息
 
     
 [http://haokanbu.s3.amazonaws.com/picture/external/7d15baff50f24199a161b04e0c885768.png]
-    
+ 
+   
 filter3-选中“标记为已读”，“跳过收件箱”，还可以应用标签，比如加上alexyu backup的标签，这样ok了。从此，每天的数据库信息邮件会自动归档到“所有邮件”中，同时也会加上“alexyu backup”的标签。而我只需在标签栏点击此标签，就会跳到所有具有该标签的页面。
 
 这个功能对订阅了邮件列表信息的朋友特别有用。只要在过滤器“收件人”中填写邮件列表邮箱，并应用相关标签，就可以让来自该邮件列表的邮件都标注上一个统一标识，方便识别管理。
-    
+ 
+   
 [http://haokanbu.s3.amazonaws.com/picture/external/617feacedd0748b2a0244805d8eb525a.png]
+
 
 search-search搜索
 
@@ -212,8 +223,10 @@ google搜索功能很强大，gmail也不例外。
 含有xx标签的邮件：label：xx
 
 详细搜索大全：[http://www.googletm.com/labels/Gmail.html]
-    
+
+  
 [http://haokanbu.s3.amazonaws.com/picture/external/168d46624e464b7bb2aa13d4b97c1167.png]
+
 
 languagesetting-开启gmail lab
 
@@ -222,19 +235,25 @@ gmail lab相当于gmail的实验室，这里会推出很多实用、有趣的新
 语言切换方法：
 
 在设置－常规－gmail显示的语言中选择us english，保存设置即可
-    
+
+
 [http://haokanbu.s3.amazonaws.com/picture/external/7fb35d354dd24309b1553529f5c20be0.png]
-    
+
+
 lab1-转换到英文界面后，你会发现在邮箱设置/setting的左边多了一个绿色的化学试剂瓶标识，这就是gmail lab了，点击打开，这里会有很多功能，介绍下目前我使用的
-    
+
+
 [http://haokanbu.s3.amazonaws.com/picture/external/28d9769e40c544e7ad08ca54aeb7ddb9.png]
+
 
 superstars-superstars，超级星标，启用后可以将原有的单一五星标识扩展为多种多样的标识
 
 选择“Enable”并点击页面下方的“save changes”保存将其开启
-    
+
+
 [http://haokanbu.s3.amazonaws.com/picture/external/0b0c8ce906bd4d3196457027fa0919f3.png]
-    
+
+
 superstarSettings-启用superstars后在setting－general－superstars中详细配置，直接把你需要添加的新标识从Not in use拖放至in use即可
 
 如果你想查找加注某一星标的邮件，用下面的关键词搜索吧：
@@ -274,45 +293,63 @@ has:green-check (or l:^ss_cg)
 
 has:purple-question (or l:^ss_cp)
 紫色问号
-    
+
+
 [http://haokanbu.s3.amazonaws.com/picture/external/8fa4e6fd8db744cbb2acdb14d6aae9a4.png]
 
+
 labelcolors-彩色标签，可以让标签变成彩色，更加醒目
-    
+
+
 [http://haokanbu.s3.amazonaws.com/picture/external/f8a7facdece54ed09fd79762554a4a9c.png]
+
 
 label2-开启彩色标签后会在gmail侧边栏出现这样一个标签窗口，点击每个标签右侧的小方块，就可以弹出多种颜色供你选择。
 这对于订阅了不少邮件列表而又使用标签区分的朋友特别有用
-    
+
+
 [http://haokanbu.s3.amazonaws.com/picture/external/320be3d64bab4549b405058b968fbf1e.png]
 
+
 color-彩色标签标识效果
-    
+
+
 [http://haokanbu.s3.amazonaws.com/picture/external/405975bce8214665adec6b6deeda031c.png]
+
 
 quicklink1-quick links 快速链接
 
 比如我经常需要查找关于“好看教研”标签并加过星的邮件，首先，在搜索栏中输入“label:好看教研 is:starred”，并检索，于是，gmail就转入了相应页面，这时就可以点击Quick Links中的Add Quick Link（如下图），这样就把这个页面链接添加到Quick Links侧边栏中了
-    
+   
+ 
 [http://haokanbu.s3.amazonaws.com/picture/external/4132e1f2c0fe42599ad10f704d310338.png]
   
+
 quicklink2-quick links
     
+
 [http://haokanbu.s3.amazonaws.com/picture/external/6800315a583c476fa51dd1dcc4a193be.png]
     
+
 quoteselectedtext-quote selected text
 
 作用是在回复邮件的时候将选择中的文字作为回复邮件的引用内容，这对于保持邮件列表上下文信息的连贯性是非常有帮助的
-    
+
+
 [http://haokanbu.s3.amazonaws.com/picture/external/3259380599154a77abdf9005a0437c6a.png]
-    
+
+  
 calendardocs-添加google calendar和google docs
-    
+
+
 [http://haokanbu.s3.amazonaws.com/picture/external/6f6ba0da3a2a42c8928baffea4747ae1.png]
 
+
 calendardocs2-google calendar和google docs之后会在gmail侧边栏显示
-    
+
+
 [http://haokanbu.s3.amazonaws.com/picture/external/2b9c1b91850b4c85a880f03b224b277e.png]
+
 
 gadget-启用互联网中的gadgets
 
@@ -320,16 +357,22 @@ gadget-启用互联网中的gadgets
 
 
 邮箱各模块的合理布局也是很有必要的，lab中也提供了这样的功能，如下图：
-    
+
+
 [http://haokanbu.s3.amazonaws.com/picture/external/d2d23f2c27e244ebaf69e8b2969439d9.png]
 
+
 rightside-调整gmail侧边栏布局，改变gtalk聊天窗口和标签（label）窗口的位置
-    
+
+
 [http://haokanbu.s3.amazonaws.com/picture/external/c8bf7cea4f13430289bf6bf709e87af5.png]
 
+
 navbardraganddrop-启用了Navbar drag and drop 就可以通过拖放移动侧边栏的小窗口来实现自定义gmail侧边栏工具合理布局
-    
+
+
 [http://haokanbu.s3.amazonaws.com/picture/external/476b939810bb41399a250a69c117c3ff.png]
+
 
 battergmail1-如果你使用的是firefox浏览器，那么，可以去安装gmail扩展插件：
 
@@ -340,9 +383,11 @@ better gmai   https://addons.mozilla.org/en-US/firefox/addon/4866
 better gmail2   https://addons.mozilla.org/en-US/firefox/addon/6076
 
 以我现在使用的better gmail 2 为例
-    
+
+
 [http://haokanbu.s3.amazonaws.com/picture/external/c4c1c2a86d9640fb86072f11be956185.png]
-    
+
+
 battergmail2-messages中
 
 add row highlights一项可以让鼠标所指的那一个邮件高亮显示，而且已读和未读的邮件背景高亮颜色是不一样的
@@ -350,8 +395,10 @@ add row highlights一项可以让鼠标所指的那一个邮件高亮显示，�
 attachment icons 会让含有附件的邮件名称后方显示一个小的附件图标
 
 效果如下图
-   
+
+
 [http://haokanbu.s3.amazonaws.com/picture/external/70e2020be25d4cf6948620517dbf6775.png]
+
 
 Screenshot-better gmail2使用部分效果
 
