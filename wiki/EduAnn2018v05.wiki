@@ -2,9 +2,8 @@
 #labels EduAnn2018v0.5,EduAnn2018,SLL
 （EduAnn2018v0.5）
 
-[http://code.google.com/p/sociallearnlab/wiki/EduAnn2018 2018中国教育广州宣言（EduAnn2018v0.5-备份版）]
- 
-[http://sociallearnlab.org/wiki/index.php/EduAnn2018 2018中国教育广州宣言（EduAnn2018v0.5-编辑共笔版）]
+*[http://code.google.com/p/sociallearnlab/wiki/EduAnn2018 2018中国教育广州宣言（备份版）]
+*[http://sociallearnlab.org/wiki/index.php/EduAnn2018 2018中国教育广州宣言（编辑共笔版）]
 
 == *宣言正文* ==
 
