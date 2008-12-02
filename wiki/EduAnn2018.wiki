@@ -123,7 +123,8 @@ http://code.google.com/p/sociallearnlab/wiki/EduAnnIrc081120
 
 
 == 宣言会议版 ==
-EduAnn2018v0.5
+
+EduAnn2018v05
 
 == 宣言(发布版) ==
 撰写ing,,,
