@@ -1,10 +1,10 @@
-﻿#summary 2018年中国教育宣言
+﻿#summary 2018中国教育广州宣言
 #labels EduAnn2018,SLL
 
  * 已熟悉本板块工作的成员，可直接浏览：[http://code.google.com/p/sociallearnlab/wiki/EA2018OpenTaskList?ts=1227352251&updated=EA2018OpenTaskList 当前任务列表]
 
 
-= 面向2018年的中国教育宣言 =
+= 2018中国教育广州宣言  =
 
  相关参考::
  * [http://docs.google.com/Doc?id=ah9t65dns696_135dvrqxpdv&hl=zh_CN Google共笔整理]
@@ -14,7 +14,7 @@
 
 == 背景 ==
 {{{
-面向2018年的中国教育宣言 。
+2018中国教育广州宣言。
 }}}
  * 圆桌会议历时3个小时，即，2008年11月16日上午9:30am--12:30am
  * 毛向辉(Issac Mao)先生是这个圆桌会议的主持。
