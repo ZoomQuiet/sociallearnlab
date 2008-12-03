@@ -1,6 +1,9 @@
 #summary EduAnnIrc081203
 #labels EduAnnIrc081203,EduAnn2018,SLL
 
+= 会议背景 =
+工作背景  其实也是总结上周完成的任务  1.上一周我们对宣言名称进行投票 通过历时24x3小时网络投票方式，宣言的名字已经产生如题：2018中国教育广州宣言。  2.大家分工完成了圆桌会议的录音整理并将录音中有关投票选出的11条的解释和讨论内容归类在这11条下  这些体现在0.5版 http://sociallearnlab.org/wiki/index.php/EduAnn2018v05  中附录信息??
+
 = 会议要点 =
 
 http://groups.google.com/group/eduann2018/browse_thread/thread/cd5ab20636fa43cf
