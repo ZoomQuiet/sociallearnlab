@@ -1,0 +1,16 @@
+#summary EduAnnIrc081203
+#labels EduAnnIrc081203,EduAnn2018,SLL
+
+= Introduction =
+
+Add your content here.
+
+= 参考链接 =
+
+EduAnn2018工作委员会第一次会议.
+
+http://code.google.com/p/sociallearnlab/wiki/EduAnnIrc081120
+
+EduAnn2018工作委员会第二次会议.
+
+http://code.google.com/p/sociallearnlab/wiki/EduAnnIrc081126 
