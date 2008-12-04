@@ -18,6 +18,11 @@ SLL社区宗旨是实践、研究、传播社会化连接学习。社会化连�
 SLL实践社区宗旨的基本方法，以项目为基本实践单位。
 
 
+文献参阅：
+社区项目实践流程与方式，SllProjectFlows，
+http://code.google.com/p/sociallearnlab/wiki/SllProjectFlows
+
+
 关联页面：
 
 社委会成立会议，SllIrc081120，
