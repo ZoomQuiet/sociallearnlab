@@ -1,6 +1,12 @@
-#summary Sll发展现状 目标 宗旨
+#summary SLL社区宗旨
 #labels Featured,Phase-Design
 
+
+教育大发现社区，英文SocialLearnLab，简称SLL。
+
+社区首页地址是：
+
+http://sociallearnlab.org/
 
 以下对SLL发展目标的定位的认识，作为讨论稿。每个人的认识都有其局限性，希望通过进一步讨论，来增进认识、达成社区发展共识，并能阶段性的调整和发展我们的共识。
 
@@ -43,4 +49,3 @@ SLL实际是处于发芽阶段，还只是部分芽尖露出泥土的发芽阶�
 = SLL宗旨：=
 
 从能做的实践做起，运用集体智慧，实践新方法，传播新方法。
-
