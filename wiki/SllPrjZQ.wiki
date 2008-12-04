@@ -1,6 +1,7 @@
 #summary 项目过程改进ZoomQuiet版实践教程
-#labels SLL,ZoomQuiet
+#labels SLLS,ZoomQuiet,SllProjFlows
 
+SEE::[wiki:SllProjectFlows SLL项目流程]
 = 介绍 =
 
 作为社区高级顾问，ZoomQuiet（仨儿）为社区发展提供了很多宝贵经验和建议，这里，我们将其汇总，供大家参考、学习
@@ -410,6 +411,7 @@ SLL 一直说是社会化教育改良研究社区,
 2. 解决指标 ~ 不应该期望一次性解决所有问题,那么,问题领域各个阶段是怎么设想的?每个阶段完成什么样的增补才可以接受?可以继续运行?
 ,,,
 
+
 定义明确问题,问题就已经解决了一半了,,,
 
 == 团队建设 ==
@@ -507,3 +509,5 @@ http://code.google.com/p/sociallearnlab/wiki/HowtoBuildBookOnLine
 不要自卑,自重为先;只要有益,都会听取?
 既是终言,就此放下.持着执着,放不下矣!
 就此放下,自去作事.待有成果,再来印证;-)
+
+

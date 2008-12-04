@@ -1,6 +1,7 @@
 #summary SLL社区项目
-#labels SLL,SLLS,SllProjectFlows,project
+#labels SLLS,SllProjFlows,support
 
+SEE::[wiki:SllPrjZQ Zoomq的项目管理建议]
 = 项目 =
 
 项目通常是指一个具体工程。
