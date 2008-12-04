@@ -1074,6 +1074,89 @@ Just do it!
 ,,,,
 
 
+== 邮件的规范化使用 ==
+
+
+*什么是邮件列表*
+
+http://wiki.woodpecker.org.cn/moin/HowtoMailist
+
+其中有个幻灯资料: 邮件列表的规范和礼节
+http://www.woodpecker.org.cn:9081/classes/050730-CPUG/usMaillist/
+
+
+*建议和体验:*
+
+0. 工作邮件规范化建议:
+ http://wiki.woodpecker.org.cn/moin/HowtoMailist
+ 
+请参考，为了兼顾所有人的邮件客户端，以及推动大家不断的优化邮件管理习惯:
+
+0-1 将所有链接单独一行
+
+0-2 使用合适的标签
+
+0-3 每封邮件都说明清楚 4W1H
+
+历史推荐:
+
+强烈建议小的讨论到IRC里或Code Issues进行 - SocialLearnLab-Members:"教育大发现"核心成员列表 | Google 网上论坛
+http://tinyurl.com/579g8h
+
+关于"教育大发现"社区功能架构的一点建议 - SocialLearnLab-Members:"教育大发现"核心成员列表 | Google 网上论坛
+http://tinyurl.com/5wzbza
+
+作为社区沟通邮箱，请不要设定自动回复，
+自动回复没有任何意义，而且成为他人邮箱的噪音,,,
+
+～～～～
+
+> 点击
+
+> http://groups.google.com/group/sociallearnlab-members/web/%E7%A4%BE%E5%8C%BA%E7%BD%91%E9%A1%B5%E5%8F%8A%E5%8A%9F%E8%83%BD%E8%AE%BE%E8%AE%A1%E9%97%AE%E9%A2%98%E5%8F%8A%E5%BB%BA%E8%AE%AE?hl=zh-CN
+
+> - 如果链接不起作用，请复制该链接并将其粘贴到您浏览器的地址栏中。
+
+
+建议：
+
+0. 不要使用中文URL
+
+1. 长URL 使用工具进行精简使用: http://tinyurl.com/5tw3j6
+
+2. 需要大家都修订的,使用 维基 最好 ;)
+
+～～～～
+
+建议哪，列表邮件前缀，简化一下，否则，在未读列表中，非常占空间，根本看不到邮件本身的标题了...
+
+sociallearnlab-member
+
+~= [SLL-mem]
+
+作为正式工程，都应该有Unix 缩写名的，
+比如说 OpenBookProject 就一直使用 OBP 作为缩写，
+https://groups.google.com/group/openbookproject?lnk=li
+
+http://code.google.com/p/openbookproject/
+
+这也是团队的内部约定和专用词，也是文化建议之一....
+
+～～～～
+
+good! 开始推动了..
+不过，列表的设置 没有按照习惯方式进行哪
+
+前缀配置成 [SLL-mem:%d]
+
+这样就可以看到列表邮件的增长了...
+比如说 [SLL-mem:1024] 就是指总第1024 封邮件...
+
+
+
+
+
+
 
 
 
