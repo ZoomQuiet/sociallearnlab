@@ -355,3 +355,96 @@ http://code.google.com/p/sociallearnlab/wiki/SllPrjZQ
 
 (8:59:37 PM) Zoom: @alwxyu 辛苦哪，俺看了一下，基本针对：社区建设／过程改进／资源技巧／知识
 管理 四个方面 后两个应该另外收集和 Project 没有关系的
+
+(8:59:48 PM) alexyu: 我想还是重点有仨来讲解解析吧  因为这些都还是素材而已 仨添加了一幅图
+
+(9:00:22 PM) Zoom: @alex 工作邮件是过程改进相关的；
+
+(9:00:31 PM) alexyu: ＠仨 因为考虑到这些东西对社区的发展挺有用的 所以就全放上去了 还需要再做整理 
+
+(9:00:39 PM) Zoom: ＠all 今天会议相关的观点，集中在增补的图谱中了，
+
+(9:02:11 PM) xiulizhuang: @LiAndy http://code.google.com/p/sociallearnlab/wiki/SllPjIrc20081204
+
+(9:02:18 PM) alexyu: 项目分支的“简单做”是什么意思呢  
+
+(9:02:25 PM) alexyu: 图谱中 
+
+(9:03:02 PM) alexyu: 仨可否解答一下﻿图谱中﻿项目分支的“简单做”是什么意思呢   
+
+(9:03:13 PM) LiAndy: thanks
+
+(9:03:50 PM) Zoom: @all 简单做就是简化项目标准流程的作法
+
+(9:04:18 PM) alexyu: ＠zoom thanx
+
+(9:04:34 PM) alexyu: 大家有什么疑问吗？
+
+(9:05:26 PM) alexyu: 李明山老师现在也在设计一个新的项目 李老师在这个过程中有哪些问题呢 ？
+
+(9:05:48 PM) Zoom: @all 俺这都是参考，关键是大家自个儿的直觉，
+
+(9:05:51 PM) xiansf: @余波：你刚整理出来的资料，还没有来得及看，没法提问题
+
+(9:06:20 PM) alexyu: ＠all 很抱歉 这份资料也是我刚刚才整理好的 内容太多了 动手有点晚 
+
+(9:06:23 PM) xiulizhuang: 没有什么疑问，回头我再把仨儿讲一些要点，整合到立项流程中
+
+(9:06:44 PM) alexyu: 好的 
+
+(9:07:17 PM) xiulizhuang: 图非常清楚
+
+(9:07:24 PM) alexyu: 时间也差不多了 
+
+(9:07:28 PM) xiulizhuang: 我们要的就是行动出来
+
+(9:07:47 PM) xiulizhuang: 谢谢仨儿,图弄得非常好
+
+(9:07:57 PM) alexyu: 当前最需要的是去做项目 不然这些内容都没有多少意义 
+
+(9:08:10 PM) xiansf: 我们要动，但不能盲目地行动！
+
+(9:09:06 PM) LiAndy: xiulizhuang：题外话，千万不要把（我的）IP地址也一起复制到google code中
+去，计算机黑客方面的知识是很让人意外的。切忌！
+
+(9:09:10 PM) xiansf: 边往前走，也要边回头看。
+
+(9:09:35 PM) alexyu: 可以把今天会上的问题放在邮件列表中讨论 
+
+(9:09:41 PM) xiulizhuang: 好的，LiAndy
+
+(9:10:19 PM) xiulizhuang: @xiansf,你有不同想法，你自己把它表达清楚，放到核心论坛中，大家讨论
+
+(9:10:42 PM) alexyu: 恩，让大家一起过来讨论就好了 
+
+(9:10:43 PM) xiulizhuang: 在行动中优化行动
+
+(9:11:21 PM) xiulizhuang: 况且，我们也没有做什么离谱的事儿，而且有仨儿在做行动过程指导
+
+(9:11:41 PM) xiulizhuang: 大家认真学习仨儿的资料
+
+(9:11:57 PM) Zoom: @all 是也乎，顶多浪费些大家的业余时间，
+
+(9:12:26 PM) alexyu: 说一下  整理的这些资料有很多是仨对社区发展提出的建议 
+
+(9:12:29 PM) xiulizhuang: 我还想到要做一份SLL教程，放一些在社区发展过程，专业人员提出的对社区发展的建议意见的材料，这样更有利于达成共识
+
+(9:12:31 PM) Zoom: 不过比较严重的是通过网络了解到SLL.org 的其它人可能见到老是跳票，失去了耐心，社区的形象在初期也受到影响，
+
+(9:12:42 PM) alexyu: 大家可以再来阅读下
+
+(9:13:24 PM) xiulizhuang: 好的，我们今天先到这里，大家还要讨论什么吗
+
+(9:13:32 PM) alexyu: 没有问题了 
+
+(9:13:42 PM) wuchangcheng1: 没有啦
+
+(9:13:59 PM) LiAndy: 今天是V0.5~1.0的阶段？
+
+(9:14:07 PM) xiulizhuang: 那就散会，我再根据仨儿的图，还有大家的建议，整理一下项目流程
+
+(9:14:18 PM) alexyu: ok
+
+(9:14:31 PM) Zoom: done;-)
+
+(9:14:41 PM) xiulizhuang: @LiAndy,对，但是今天没有讨论宣言的问题 。
