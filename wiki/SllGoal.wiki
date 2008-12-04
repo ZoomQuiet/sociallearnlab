@@ -19,6 +19,10 @@ SLL实践社区宗旨的基本方法，以项目为基本实践单位。
 
 
 文献参阅：
+
+社区名称，SllName
+http://code.google.com/p/sociallearnlab/wiki/SllName
+
 社区项目实践流程与方式，SllProjectFlows，
 http://code.google.com/p/sociallearnlab/wiki/SllProjectFlows
 
