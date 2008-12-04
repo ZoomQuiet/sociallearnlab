@@ -1,5 +1,5 @@
 #summary SLL社区项目
-#labels SLLS,SllProjFlows,support
+#labels SLLS,SllProjFlows,SllPrjZQ
 
 SEE::[SllPrjZQ Zoomq的项目管理建议]
 
