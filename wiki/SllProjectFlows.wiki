@@ -20,36 +20,25 @@ http://code.google.com/p/sociallearnlab/
 
  * 0.2 项目界定讨论，经过项目意向讨论之后，明确了项目目标，进一步讨论项目可能的实施路径过程方法，需要的支持人员，可能的参与人员等。 
 
-*1.项目立项*
+*1.项目立项实施*
 
- * 1.1 在SLL工程网站上（http://code.google.com/p/sociallearnlab/ ），撰写正式项目立项计划书，并在社区其它相应网页处更新新立项项目的链接地址。同时在SLL核心成员邮件列表，共享项目立项书链接。
+ * 1.1 在SLL工程网站上（http://code.google.com/p/sociallearnlab/ ），撰写正式项目立项计划书，并在社区其它相应网页处更新新立项项目的链接地址。同时在SLL社区不同邮件列表，共享项目立项书链接。
 
+ * 1.2 项目实施方法，仨儿版实践教程，
+http://code.google.com/p/sociallearnlab/wiki/SllPrjZQ
 
-发至社区论坛讨论。这样的好处，一是你自己理清思路，能够较好地把握住自己究竟想要做什么。二是通过与核心团队成员共享交流你的项目草案，你可以汇集一些参谋建议；三是保持社区核心队员之间信息通畅。
-  * 0.2 讨论完善通过后在[http://www.sociallearnlab.org 社区主页]以日志和项目专门页面的形式发布项目.具体方法：登陆[http://www.sociallearnlab.org 社区主页]，在后台新建页面，作为已有“项目”页的二级页面。在页面中对你发起的项目进行介绍，包括项目负责人、项目核心参与者、其他人员如何参与项目的说明。一般来说项目发起者担任项目负责人。项目负责人一定要承担起项目任务的设计以及项目任务实施的推进，以保证项目实施落到实处。
-参考:
-项目日志: http://sociallearnlab.org/?p=288
-项目专门页面: http://sociallearnlab.org/?page_id=236
+ * 1.3 项目实施方法问题与方法不断交流整理沉淀，一个是在相关邮件列表中进行问题与经验交流传播，二是做项目日志。模仿“仨儿版实践教程”方法，自己沉淀一份。
 
-1.项目管理:
+ * 1.4 项目实施过程中，始终重复：将过程进展与项目目标进行对比，不断调整项目优化过程，可能会要调整项目目标，可能会要调整项目后继过程。总的来说，不要死搬教条，发现问题，明晰问题，解决问题，沉淀经验，传播经验。
 
-项目性质不同，具体实施平台，亦有可能不同。但是有些实施管理流程模式，可以相互借鉴：
+*2.项目总结*
 
-  * 1.1 为每个项目建立论坛（可以在GoogleGroup中新建），为项目实施交流学习之用。
+ * 2.1 从多个不同角度，对项目进行文档化总结。并在社区项目页中进行共享与传播。 
 
-  * 1.2 项目使用[http://code.google.com/p/sociallearnlab/ Google Code]和[http://sociallearnlab.everydo.com Everydo]管理，项目负责人需要定期总结项目实施进度与问题，在核心队员社区中进行分享。也可以通过多种方式，包括通过 https://groups.google.com/group/sociallearnlab 招募更多的支持者参与项目。
-
-  * 1.3 项目实施日志记录。使用[http://code.google.com/p/sociallearnlab/w/list googlecode wiki]完成。命名规则，项目英文名+Log.
-详细参考：[http://code.google.com/p/sociallearnlab/wiki/ItcHaokanbuLog Itc-Haokanbu 项目实施记录]
-
-
-2.其它补充
-
-2.1 项目发起管理案例参考
-
-可以参考项目[http://sociallearnlab.org/?page_id=236 “基于好看簿之信息技术课程教学改革研究”]
-
-2.2 平台使用说明及规范
-  * [http://code.google.com/p/sociallearnlab/wiki/UsageEverydo Everydo使用说明]
+  
+*平台工具使用说明及规范*
+  * [http://code.google.com/p/sociallearnlab/wiki/UsageIRC UsageIRC IRC快速使用指南]
   * [UsageGooglecode 快速使用Googlecode]
   * [http://code.google.com/p/sociallearnlab/wiki/UsageDocName 文件命名规范]
+  * [http://code.google.com/p/sociallearnlab/wiki/IssueTags IssueTags提案标签详解]
+  * [http://code.google.com/p/sociallearnlab/wiki/UsageEverydo Everydo使用说明]
