@@ -25,4 +25,8 @@ http://groups.google.com/group/sociallearnlab-members/browse_thread/thread/5230f
 
 1.确定社区项目发起实施的支持流程文档
 
+http://code.google.com/p/sociallearnlab/wiki/SllProjectFlows
+
 2.相关管理经验方法分享
+
+http://code.google.com/p/sociallearnlab/wiki/SllPrjZQ
