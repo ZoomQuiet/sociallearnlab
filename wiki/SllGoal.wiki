@@ -1,6 +1,8 @@
 #summary SLL社区宗旨
 #labels SLL,SLLS,社委会
 
+SEE::[SllProjectFlows SLL社区项目发起与实施流程] [SllPrjZQ Zoomq的项目管理建议]  
+
 教育大发现社区，英文 SocialLearnLab，简称SLL。
 
 SLL社区首页地址是：
