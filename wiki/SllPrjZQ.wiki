@@ -1,7 +1,7 @@
 #summary 项目过程改进 ZoomQuiet版 实践参考
 #labels SLLS,ZoomQuiet,SllProjFlows
 
-SEE::[wiki:SllProjectFlows SLL项目流程]
+SEE::[SllProjectFlows SLL项目流程]
 = 介绍 =
 
 作为社区高级顾问，ZoomQuiet（仨儿）为社区发展提供了很多宝贵经验和建议，这里，我们将其汇总，供大家参考、学习
@@ -705,17 +705,13 @@ Simple is bttter!
 0. Pisaca 图片集,分享编辑权利
 
 1. 图片命名规范 比如说:
-
+{{{
 图 Charpt-No.png
-
 |  |      |  +-- 统一使用PNG格式提供
-
 |  |      +-- 章节附图序号
-
 |  +-- 章节序号
-
 +-- 统一标识字
-
+}}}
 e.g
 
 图 CDay-4-2.png 意为 CDay -4 日故事 第2附图
