@@ -1,7 +1,7 @@
 #summary 项目过程改进 ZoomQuiet版 实践参考
 #labels SLLS,ZoomQuiet,SllProjFlows
 
-SEE::[wiki:SllProjectFlows SLL项目流程]
+SEE::[SllProjectFlows SLL项目流程]
 = 介绍 =
 
 作为社区高级顾问，ZoomQuiet（仨儿）为社区发展提供了很多宝贵经验和建议，这里，我们将其汇总，供大家参考、学习
