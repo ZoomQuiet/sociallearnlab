@@ -1,7 +1,7 @@
 #summary SLL社区项目
 #labels SLLS,SllProjFlows,SllPrjZQ
 
-SEE::[SllPrjZQ Zoomq的项目管理建议]
+SEE::[SllPrjZQ Zoomq的项目管理建议]  [SllGoal SLL社区宗旨]
 
 http://xmindshare.s3.amazonaws.com/preview/sll-community-project-with-the-implementation-of-the-process-hphnf-1228404623344.jpg
 
