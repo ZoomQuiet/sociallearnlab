@@ -2,6 +2,10 @@
 #labels SLLS,SllProjFlows,support
 
 SEE::[SllPrjZQ Zoomq的项目管理建议]
+
+http://share.xmind.net/xiulizhuang/sll-community-project-with-the-implementation-of-the-process/
+
+
 = 项目 =
 
 项目通常是指一个具体工程，有负责人、有目标、有完成期限、有资源配置。
