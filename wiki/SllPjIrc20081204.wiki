@@ -1,14 +1,28 @@
 #summary One-sentence summary of this page.
 #labels SllPjIrc,SLL,SLLS
 
-= Introduction =
+= 参考 =
 
-Add your content here.
+{规则} 新项目发起流程 ，
+http://groups.google.com/group/sociallearnlab-members/browse_thread/thread/3156da72c88b2f5b/e48f7eea39d481cc#e48f7eea39d481cc
+
+如何认识SLL的以项目来带动社区发展 , 
+http://groups.google.com/group/sociallearnlab-members/browse_thread/thread/20634b1de11544d8#
+
+社区项目信息索引 ，
+http://groups.google.com/group/sociallearnlab-members/browse_thread/thread/5230fa9d60cb70a1#
+
+= 与会人员 =
+
+社委会成员
+
+社区项目负责人
+
+以及其他感兴趣人员
 
 
-= Details =
+= 会议主题 =
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+1.确定社区项目发起实施的支持流程文档
+
+2.相关管理经验方法分享
