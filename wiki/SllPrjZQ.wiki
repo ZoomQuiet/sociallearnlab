@@ -1,7 +1,7 @@
 #summary 项目过程改进 ZoomQuiet版 实践参考
 #labels SLLS,ZoomQuiet,SllProjFlows
 
-SEE::[SllProjectFlows SLL项目流程]
+SEE::[wiki:SllProjectFlows SLL项目流程]
 = 介绍 =
 
 作为社区高级顾问，ZoomQuiet（仨儿）为社区发展提供了很多宝贵经验和建议，这里，我们将其汇总，供大家参考、学习
@@ -40,8 +40,8 @@ http://xmindshare.s3.amazonaws.com/preview/sll-proj-zqsuggest-gdkjm-122839138690
 = 社区建设方面 =
 
 
-== 社区发展 == 
-*如何有效社区沟通*
+== 1.社区发展 == 
+*1.1如何有效社区沟通*
 
 (以下是在不同时期的建议,用“～～～～”隔开)
 
@@ -150,7 +150,7 @@ IRC 这种实时沟通渠道,对大家的时间要求非常高,而且到点如�
 
 
 
-*团队建设：立旨，组队*
+*1.2团队建设：立旨，组队*
 
 (以下是在不同时期的建议,用“～～～～”隔开)
 
@@ -365,7 +365,7 @@ SLL 一直说是社会化教育改良研究社区,
 
 
 
-*社区的持续发展*
+*1.3社区的持续发展*
 
 > ==>象我们这样的社区，如果有资金融入的化，如何科学管理资金以促进社区的持续发展呢？有没有人比较了解的？
 
@@ -395,7 +395,7 @@ SLL 一直说是社会化教育改良研究社区,
 以上!请参考,,,
 
 
-*社区资源整理*
+*1.4社区资源整理*
 
 核心成员列表一直有订阅要求的!
 但是发现:
@@ -409,7 +409,7 @@ SLL 一直说是社会化教育改良研究社区,
 常常一个小问题,讨论几周,到最后大家都忘记想要确认什么了,,,
 
 
-*还有问题解决的智慧积累*
+*1.5问题解决的智慧积累*
 
 就俺来看, 以上问题的解决,得先有条件准备:
 
@@ -423,9 +423,9 @@ SLL 一直说是社会化教育改良研究社区,
 
 定义明确问题,问题就已经解决了一半了,,,
 
-== 团队建设 ==
+== 2.团队建设 ==
 
-*新人带动*
+*2.1新人带动*
 
 （不同时间的建议，用“～～～～”隔开）
 
@@ -468,7 +468,7 @@ that means "step by step into SLL" 这种快速掺合手册!(新手参与)
 具体的,就是得有一个热情的团队,在第一时间对问题进行肯定或是引导,,,
 
 
-*团队凝聚力*
+*2.2团队凝聚力*
 
 （不同时间的建议，用“～～～～”隔开）
 
@@ -514,9 +514,9 @@ http://code.google.com/p/sociallearnlab/wiki/HowtoBuildBookOnLine
 ～～～～
 
 
-== 项目管理 == 
+== 3项目管理 == 
 
-*项目交流平台*
+*3.1项目交流平台*
 
 不建议进行每个项目专门设立交流平台:
 
@@ -527,7 +527,7 @@ http://code.google.com/p/sociallearnlab/wiki/HowtoBuildBookOnLine
 2. 建议统一发布平台／维基平台，通过分类和标签，进行项目的划分...
 
 
-*基于网络的分布式協作工程工具使用路径*
+*3.2基于网络的分布式協作工程工具使用路径*
 
 嘿嘿嘿,从俺 M$ 时代"我自豪,我用D版!" 的软件大品尝,
 到后来的唯绿色软件,
@@ -553,7 +553,7 @@ http://code.google.com/p/openbookproject/wiki/HowToBuildBookOnline
 这是任何类型的团队要成功的核心基准点!
 
 
-*项目管理书籍推荐*
+*3.3项目管理书籍推荐*
 
 >>想读本项目管理方面的书，大家有什么好推荐？
 
@@ -576,7 +576,7 @@ http://www.douban.com/subject/1444736
 2. 销售排名牛的！
 
 
-*在线图书工程经验分享*
+*3.4在线图书工程经验分享*
 
 如何组织在线图书工程 http://code.google.com/p/sociallearnlab/wiki/HowtoBuildBookOnLine
 
@@ -589,7 +589,7 @@ Issue 提案流程概述 http://code.google.com/p/sociallearnlab/wiki/IssueFlow
 Open Book Project 开放图书计划 http://code.google.com/p/openbookproject/
 
 
-*Chandler项目经验分享*
+*3.5Chandler项目经验分享*
 
 详细 https://groups.google.com/group/sociallearnlab-members/browse_thread/thread/1a55e1d7dcadba8b
 
@@ -616,7 +616,7 @@ Open Book Project 开放图书计划 http://code.google.com/p/openbookproject/
 
 
 
-*为GSH图书项目提供的建议*
+*3.6为GSH图书项目提供的建议*
 
 （不同时间的建议用“～～～～”隔开）
 
@@ -708,7 +708,7 @@ e.g
 3. 在经过一定时期的积累后,可以将 wiki 中相关文件,复制到 trunk/branches 中,进行图书整体的出版调整...
 
 
-*对于教育宣言项目的建议*
+*3.7对于教育宣言项目的建议*
 
 > 1.  时间：  今天晚上（周四 11月20日）7:30,
 ,,,
@@ -762,10 +762,10 @@ http://wiki.woodpecker.org.cn/moin/WkMailRule
 
 
 
-== 知识管理 ==
+== 4.知识管理 ==
 
 
-*社区知识管理问题*
+*4.1社区知识管理问题*
 
 （不同时间的建议用“～～～～”隔开）
 
@@ -848,7 +848,7 @@ suggest:
 + 应该有修订版本历史,简要记述,本图谱经历了哪些版本的修订,修订人,时间,主要修订,,,
 
 
-*www.sociallearnlab.org/wiki和 Google code wiki 的区别*
+*4.2www.sociallearnlab.org/wiki和 Google code wiki 的区别*
 
 Wiki导览 + 从入门到精通MoinMoin
 http://www.woodpecker.org.cn/share/doc/SKSIG/DriveIntoMoinPub
@@ -867,7 +867,7 @@ OBP 维基的核心是 开放图书工程相关的所有知识,
 另外,俺建议,在组织所有维基页面时,有个基本准则,就是任何一个维基页面从首页进行点击访问时,不应该超过3次点击!
 
 
-*优秀习惯*
+*4.3优秀习惯*
 
 收获后，分享，将引发更大规模的收获 .. ;)
 
@@ -924,7 +924,7 @@ http://wiki.woodpecker.org.cn/moin/WeKnow/DemandOrderRep
 外地的成员，就依赖这些异步知识储备来同步认识了
 
 
-*对xiuli老师写博客的建议*
+*4.4对xiuli老师写博客的建议*
 
 >> > 我有时候用写日志形式，来不断整理资料，整理思路，但是心里都有想要解决的问题。
 因为很多时候不动手写是不知道自个儿是否真正知道的,,,,
@@ -1077,10 +1077,10 @@ Just do it!
 ,,,,
 
 
-== 邮件的规范化使用 ==
+== 5.邮件的规范化使用 ==
 
 
-*什么是邮件列表*
+*5.1什么是邮件列表*
 
 http://wiki.woodpecker.org.cn/moin/HowtoMailist
 
@@ -1088,7 +1088,7 @@ http://wiki.woodpecker.org.cn/moin/HowtoMailist
 http://www.woodpecker.org.cn:9081/classes/050730-CPUG/usMaillist/
 
 
-*建议和体验:*
+*5.2建议和体验:*
 
 0. 工作邮件规范化建议:
  http://wiki.woodpecker.org.cn/moin/HowtoMailist
@@ -1154,8 +1154,6 @@ good! 开始推动了..
 
 这样就可以看到列表邮件的增长了...
 比如说 [SLL-mem:1024] 就是指总第1024 封邮件...
-
-
 
 
 
