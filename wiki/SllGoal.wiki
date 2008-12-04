@@ -19,4 +19,12 @@ SLL实践社区宗旨的基本方法，以项目为基本实践单位。
 
 
 关联页面：
-SLLCalendar  SLLS
+
+社委会成立会议，SllIrc081120，
+http://code.google.com/p/sociallearnlab/wiki/SllIrc081120
+
+SLLCalendar， 
+http://code.google.com/p/sociallearnlab/wiki/SLLCalendar
+ 
+SLLS，
+http://code.google.com/p/sociallearnlab/wiki/SLLS
