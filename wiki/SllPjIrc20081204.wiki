@@ -30,3 +30,111 @@ http://code.google.com/p/sociallearnlab/wiki/SllProjectFlows
 2.相关管理经验方法分享
 
 http://code.google.com/p/sociallearnlab/wiki/SllPrjZQ
+
+= 会议记录 =
+
+(8:00:03 PM) xiansf: 大家先开始，我等5分钟过来
+
+(8:01:05 PM) xiulizhuang: 会议网址http://code.google.com/p/sociallearnlab/wiki/SllPjIrc20081204
+
+(8:02:03 PM) xiulizhuang: 好想还缺几个人
+
+(8:02:15 PM) xiulizhuang: 仨儿在路上，应该马上到
+
+(8:02:27 PM) xiulizhuang: 万清 ？
+
+(8:03:30 PM) xiansf: 好了
+
+(8:04:00 PM) xiulizhuang: 余波，你联系一下万清吧
+
+(8:04:24 PM) alexyu: 好的 
+
+(8:04:28 PM) xiulizhuang: 稍等两分钟
+
+(8:05:43 PM) xiulizhuang: 上官良雅，请假
+
+(8:05:51 PM) xiulizhuang: 汤富源，没有联系上
+
+(8:07:20 PM) xiansf: 这个会议可能稍微有点仓促，大家不知道有没有来得及看相关资料。
+
+(8:07:27 PM) wendycxms left the room (quit: "Leaving.").
+
+(8:08:26 PM) xiulizhuang: 会议主题：
+
+(8:08:26 PM) xiulizhuang: 1.确定社区项目发起实施的支持流程文档 http://code.google.com
+/p/sociallearnlab/wiki/SllProjectFlows 
+
+(8:08:26 PM) xiulizhuang: 2.相关管理经验方法分享 http://code.google.com/p/sociallearnlab/wiki/SllPrjZQ 
+
+(8:08:49 PM) xiulizhuang: 我们先看一下第1个问题
+
+(8:08:56 PM) xiulizhuang: 上面有链接
+
+(8:09:08 PM) xiulizhuang: 可以在上面直接修改,也可以提出其中的问题
+
+(8:09:52 PM) xiulizhuang: 仨儿他一会儿会赶过来,第2部分由余波来引导大家阅读,由仨儿答疑吧
+
+(8:10:00 PM) xiulizhuang: 会议大概进程是这样的
+
+(8:10:10 PM) xiulizhuang: 同样时间还是控制在40分钟
+
+(8:11:55 PM) xiulizhuang: SLL社区是基于项目来运作和发展
+
+(8:12:15 PM) xiulizhuang: 项目从教育的角度,就是给社区成员提供做中学的环境
+
+(8:12:35 PM) xiulizhuang: 项目工程方法是SLL社区的基本工作方法。
+
+(8:12:35 PM) xiulizhuang: 社区所有项目汇集于社区工程首页， http://code.google.com
+/p/sociallearnlab/ 
+
+(8:12:35 PM) xiulizhuang: 社区每个项目约定，链接社区Logo，链接社区工程首页，并以文字方式声明项目是由教育大发现社区发起。 
+
+(8:14:08 PM) xiulizhuang: 大家对以上,有没有什么觉得需要修正的地方
+
+(8:14:38 PM) xiulizhuang: 这实际是对社区项目的理解
+
+(8:14:48 PM) xiulizhuang: 也是对社区发展方法的理解
+
+(8:15:17 PM) xiulizhuang: 第一步,就是立项前的讨论
+
+(8:15:21 PM) xiansf: 我没有意见
+
+(8:15:53 PM) xiulizhuang: 实际上是讨论两个点: 项目目标, 项目资源条件实施过程方法等
+
+(8:16:53 PM) xiulizhuang: 项目目标讨论,主要是明晰项目究竟是做什么,因为一开始不一定想得特别
+清楚究竟要做什么
+
+(8:17:03 PM) xiulizhuang: 但是通过讨论,可以明晰目标
+
+(8:17:23 PM) xiulizhuang: 例如李老师现在发起的项目,项目目标就需要进一步讨论
+
+(8:18:12 PM) xiulizhuang: 目标讨论完,就是进一步界定项目,界定项目实际就是仨儿回帖的内容,
+
+(8:18:12 PM) xiulizhuang: 项目必须有确定的执行人选,并且至少包含一名对项目成败负责的项目组
+长;
+
+(8:18:12 PM) xiulizhuang: - 项目必须有确定的交付日期,不接受需要长达二年以上时间的项目;
+
+(8:18:12 PM) xiulizhuang: - 项目必须有确定的交付工件,并且每个交付工件都应该有确实可行的检验
+方法;
+
+(8:18:12 PM) xiulizhuang: - 项目必须有确定的资源配合,每种资源的数量/规模/使用时限等等都应有
+详细的说明;
+
+(8:18:12 PM) xiulizhuang: - 项目必须有明确的变更流程,确保当项目的目标/资源/时限等等发生重大变动时,可以及时有效的将变更落实并传达给所有相关的人,,,
+
+(8:18:43 PM) xiulizhuang: 当然,他这里讲得很比较严格的
+
+(8:19:50 PM) xiulizhuang: 如果前面的项目目标,项目界定的实施准备,讨论清楚之后,在讨论的过程中,会产生一个结果,就是这个项目具不具有可行性
+
+(8:20:15 PM) xiulizhuang: 对于有可行性的项目,就无需专门审核,就可以发起
+
+(8:20:51 PM) xiulizhuang: 也就是到社区工程页中建立项目首页并撰写出项目立项计划
+
+(8:21:11 PM) xiulizhuang: 社区项目立项大概就是这样的
+
+(8:21:21 PM) Zoom [n=Zoomq@61.145.235.10] entered the room.
+
+(8:21:25 PM) xiulizhuang: 大家觉得这样做是否可行
+
+(8:21:31 PM) wuchangcheng1: 我不太理解，交付工件是什么意思，就是我们常说的项目成果吗？
