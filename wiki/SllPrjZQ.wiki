@@ -1,4 +1,4 @@
-#summary 仨对社区发展，项目管理等的建议
+#summary 项目过程改进ZoomQuiet版实践教程
 #labels SLL
 
 = Introduction =
