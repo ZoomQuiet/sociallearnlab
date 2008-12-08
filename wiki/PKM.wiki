@@ -1,6 +1,13 @@
 #summary 个人知识管理工具与方法（大学生版） 课程教学 庄秀丽 PKM.
 #labels PKM,大学生,庄秀丽
 
+= PKM2008 =
+
+*学生活动*
+
+活动：家乡的文人墨迹，
+http://www.haokanbu.com/event/2290/
+
 = Introduction =
 
 第1周，课程概述，
