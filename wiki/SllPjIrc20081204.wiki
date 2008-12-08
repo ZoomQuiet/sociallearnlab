@@ -1,5 +1,5 @@
+#summary 项目流程IRC会议.
 #labels SllPjIrc,SLL,SLLS
-# 项目流程IRC会议.
 = 参考 =
 
 {规则} 新项目发起流程 ，
