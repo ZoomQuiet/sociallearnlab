@@ -1,4 +1,4 @@
-#summary EduAnnIrc081203
+#summary EduAnnIrc081203 EduAnn2018工作委员会第三次会议.
 #labels EduAnnIrc081203,EduAnn2018,SLL
 
 = 会议背景 =
