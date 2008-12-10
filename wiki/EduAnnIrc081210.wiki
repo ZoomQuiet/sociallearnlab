@@ -13,6 +13,144 @@
 
 
 = 会议实录 =
+(7:31:51 PM) liangyasg left the room.
+
+(7:46:22 PM) liangyasg [n=Solomon@59.61.20.129] entered the room.
+
+(7:46:39 PM) liangyasg left the room.
+
+(7:51:52 PM) liangyasg [n=Solomon@59.61.20.129] entered the room.
+
+(7:56:15 PM) xiansf [n=Administ@221.221.151.191] entered the room.
+
+(7:59:41 PM) alexyu: 快开始了 
+
+(8:02:35 PM) xiulizhuang: 会议链接参考这里http://code.google.com/p/sociallearnlab/wiki/EduAnnIrc081210
+
+(8:04:12 PM) xiulizhuang: 集思广益两个问题： （1）会议版定版落实操作的问题； （2）11条投票解读的落实问题； 
+
+(8:06:38 PM) xiulizhuang: 我们开始吧
+
+(8:06:59 PM) alexyu: ok
+
+(8:07:14 PM) xiulizhuang: 这一周推进工作基本没有什么进展
+
+(8:07:31 PM) xiulizhuang: 所以，我们来重点讨论一下如何落实的具体方法问题
+
+(8:07:39 PM) xiulizhuang: 针对以下两个问题：
+
+(8:07:49 PM) xiulizhuang:  （1）会议版定版落实操作的问题； （2）11条投票解读的落实问题；
+
+(8:08:41 PM) xiulizhuang: 先说第一个问题吧
+
+(8:08:55 PM) xiulizhuang: （1）会议版定版落实操作的问题；
+
+(8:08:56 PM) liangyasg:  什么是会议版呢？
+
+(8:09:05 PM) xiulizhuang: 这个版本还需要了解一下
+
+(8:09:54 PM) xiulizhuang: 会议版 http://sociallearnlab.org/wiki/index.php/EduAnn2018v05
+
+(8:10:35 PM) liangyasg: 明白了
+
+(8:10:50 PM) xiulizhuang: 这版本还需要稍微调整一下，主要就是让大家读起来稍微流畅一点
+
+(8:11:39 PM) xiulizhuang: 这一周我因为一些其它事情，没有顾得上修改
+
+(8:12:06 PM) xiulizhuang: 大家有什么好的具体方法来帮助推进这个工作的落实呢
+
+(8:12:47 PM) xiulizhuang: 这就是要讨论的第一个问题，大家提点建议，怎么把这个工作落实到位
+
+(8:14:44 PM) xiulizhuang: 大家看看有没有什么操作上的建议
+
+(8:14:47 PM) xiulizhuang: 抓紧时间
+
+(8:15:14 PM) alexyu: 可能这部分的工作主要还需要靠我们几个来完成  我们尽快微调，指望论坛中的其他朋友来一起打补丁可能不太现实
+
+(8:15:26 PM) liangyasg: 把这部分文字内容分解，分块处理,润色
+
+(8:16:06 PM) alexyu: 我们分工定下里程碑来做 
+
+(8:16:22 PM) alexyu: 大家的意见？
+
+(8:16:40 PM) liangyasg: 好啊。我们分工吧
+
+(8:16:59 PM) xiulizhuang: 嗯，确实，我们要分头做
+
+(8:17:40 PM) xiulizhuang: 具体怎么分呢
+
+(8:18:20 PM) xiansf: 说说现在会议版的问题在哪儿，针对这些问题，怎么改，然后再说分工的事，
+
+(8:18:32 PM) xiulizhuang: 可能工作量还是集中在附录部分
+
+(8:18:49 PM) xiansf: 要不，任务都不清楚，怎么分工？
+
+(8:19:13 PM) alexyu: 如何找到问题呢？ 
+
+(8:19:53 PM) xiulizhuang: 问题：就是根据已有的内容，做微调，使阅读起来，更通俗易懂，流畅一
+点
+
+(8:20:06 PM) xiulizhuang: 主要就是这个问题
+
+(8:20:13 PM) xiulizhuang: 我做正文部分
+
+(8:21:17 PM) liangyasg: 我们想要达到的目标是什么？流畅的还原到真实讨论现场？还是需要增加一
+些相关的诠释？
+
+(8:21:25 PM) xiansf1 [n=Administ@123.112.112.216] entered the room.
+
+(8:21:43 PM) xiulizhuang: 附录，每一条我们在进一步整理的时候，是否需要保留原来说话人是谁，
+还是把每一条内容整合整理，以易读
+
+(8:22:25 PM) xiulizhuang: @liangyasg,目标是还原现场，但是要易于阅读
+
+(8:22:42 PM) alexyu: 如果仅仅凭借录音 可能不容易找到说话人
+
+(8:22:47 PM) xiulizhuang: @liangyasg,不需要增加诠释
+
+(8:22:52 PM) alexyu: 尤其是再讨论分组中
+
+(8:23:24 PM) xiulizhuang: 那我们就把人先去掉，根据意思加以整理就可以
+
+(8:23:42 PM) xiulizhuang: 以后实录作为进一步附录就可以
+
+(8:24:07 PM) xiulizhuang: 这个11条的整理，怎么分工呢
+
+(8:25:19 PM) xiulizhuang: 大家有什么建议
+
+(8:26:41 PM) xiulizhuang: 主要是这部分：条文解释（根据现场讨论录音整理） 
+
+(8:27:21 PM) liangyasg: 为什么会有正文与十一条的分别呢？正文不也是那七条吗？都是那些讨论的条目。
+
+(8:27:51 PM) liangyasg: 还是正文有其他附加内容？
+
+(8:28:28 PM) xiulizhuang: 正文就是11条，加上前面一点文字引入
+
+(8:28:43 PM) xiulizhuang: 我们先保留11条吧
+
+(8:28:53 PM) xiansf2 [n=Administ@123.112.125.34] entered the room.
+
+(8:29:09 PM) xiansf2: 先说说11条怎么整理，要不然怎么分工？
+
+(8:30:28 PM) xiulizhuang: 整理的方法，前面已经提到了
+
+(8:30:59 PM) xiulizhuang: 就是把人员信息先隐去，直接根据说的内容，加以整理
+
+(8:31:34 PM) xiansf2: 我的pidgin好像出了问题，断断续续，看不到
+
+(8:31:50 PM) xiansf2: 那根没整理一样，
+
+(8:31:52 PM) xiulizhuang: 大家根据自己熟悉的内容，领取条目吧
+
+(8:32:13 PM) liangyasg: 会议版是一个独立的版本呢？还是作为参考资料？如果是独立版本的话，投票被淘汰的几个条目就不应该出现在其中了，正文就应该是7条
+
+(8:32:23 PM) xiulizhuang: @xiansf,你如果有什么好建议，就直接提出来
+
+(8:32:46 PM) xiulizhuang: 会议版是一个阶段版本
+
+(8:32:54 PM) xiulizhuang: 就是还原会议内容
+
+(8:33:24 PM) xiulizhuang: 会议投票7条，也是一个暂时的规则
 
 
 
