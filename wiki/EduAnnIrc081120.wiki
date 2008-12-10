@@ -1,5 +1,5 @@
 #summary EduAnn2018工作委员会第一次会议.
-#labels EduAnn2018,SLL,EduAnnIrc
+#labels EduAnn2018,SLL,EduAnnIrc,irc
 
 = 参考 =
 http://xmindshare.s3.amazonaws.com/preview/33-session-ekvdm-1227670990921.jpg
