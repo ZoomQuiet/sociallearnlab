@@ -20,6 +20,11 @@ http://code.google.com/p/sociallearnlab/wiki/EduAnnIrc081126
 EduAnn2018工作委员会第一次会议.
 http://code.google.com/p/sociallearnlab/wiki/EduAnnIrc081120
 
+= 参会人员 =
+主持人：庄秀丽
+
+参会：上官良雅，石峰，李明山，汤富源，余波
+
 = 会议结果 =
 *（1）会议版定版落实操作的问题*
 
@@ -63,6 +68,7 @@ http://code.google.com/p/sociallearnlab/wiki/EduAnnIrc081120
 
 
 = 会议实录 =
+
 (7:31:51 PM) liangyasg left the room.
 
 (7:46:22 PM) liangyasg [n=Solomon@59.61.20.129] entered the room.
