@@ -9,7 +9,55 @@
 
 （2）11条投票解读的落实问题；
 
+
+= 参考 =
+EduAnn2018工作委员会第三次会议.
+http://code.google.com/p/sociallearnlab/wiki/EduAnnIrc081203
+
+EduAnn2018工作委员会第二次会议.
+http://code.google.com/p/sociallearnlab/wiki/EduAnnIrc081126
+
+EduAnn2018工作委员会第一次会议.
+http://code.google.com/p/sociallearnlab/wiki/EduAnnIrc081120
+
 = 会议结果 =
+*（1）会议版定版落实操作的问题*
+
+会议版：[http://sociallearnlab.org/wiki/index.php/EduAnn2018v05]
+
+当前会议版宣言需要改进的问题：根据已有的内容，做微调，使阅读起来，更通俗易懂，流畅一点
+
+达到目标：在还原现场的原则下，让各个条目通俗易懂，便于阅读
+
+整理的规则：
+
+（1）去掉具体说话的人
+
+（2）根据意思整理就可以，有几层意思，就分几点 
+
+（3）语句连贯
+
+完成时间：我们每做完一个条目就在论坛发布出来一个，大家协作校对，尽量往前赶(在下周例会前完成)
+
+委员会成员分工协作完成，具体分配：
+
+正文部分：庄老师
+
+附录部分：（S代表条目编号）
+
+庄老师：S7  S10   S3
+
+良雅：S6  S2
+
+余波：S4  S5
+
+汤老师：S1  S8
+
+吴向东老师：S11
+
+石峰：S9
+
+
 
 
 = 会议实录 =
@@ -252,20 +300,3 @@
 (8:54:19 PM) xiulizhuang: 我们先这样吧
 
 (8:54:38 PM) xiulizhuang: 下一个问题，我们留着下一次再讨论推进吧
-
-= 参考 =
-EduAnn2018工作委员会第三次会议.
-http://code.google.com/p/sociallearnlab/wiki/EduAnnIrc081203
-
-EduAnn2018工作委员会第二次会议.
-http://code.google.com/p/sociallearnlab/wiki/EduAnnIrc081126
-
-EduAnn2018工作委员会第一次会议.
-http://code.google.com/p/sociallearnlab/wiki/EduAnnIrc081120
-
-
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
