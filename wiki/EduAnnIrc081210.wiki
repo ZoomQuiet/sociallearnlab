@@ -1,17 +1,24 @@
-#summary EduAnn2018工作委员会第三次会议.
+#summary EduAnn2018工作委员会第四次会议.
 #labels EduAnnIrc,EduAnn2018
 
 = 会议中心议题 =
 
-会议版定版落实操作的问题；
+集思广益：
 
-11条投票解读的落实问题；
+（1）会议版定版落实操作的问题；
 
-= 任务 =
+（2）11条投票解读的落实问题；
+
+= 会议结果 =
+
+
+= 会议实录 =
 
 
 
 = 参考 =
+EduAnn2018工作委员会第三次会议.
+http://code.google.com/p/sociallearnlab/wiki/EduAnnIrc081203
 
 EduAnn2018工作委员会第二次会议.
 http://code.google.com/p/sociallearnlab/wiki/EduAnnIrc081126
