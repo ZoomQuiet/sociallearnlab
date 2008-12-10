@@ -1,5 +1,5 @@
 #summary EduAnn2018工作委员会第二次会议.
-#labels EduAnn2018,SLL,EduAnnIrc
+#labels EduAnn2018,SLL,EduAnnIrc,irc
 
 = 参考第一次会议结果 =
 EduAnn2018工作委员会第一次会议,EduAnnIrc081120 
