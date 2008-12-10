@@ -1,5 +1,5 @@
 #summary EduAnn2018工作委员会第四次会议.
-#labels EduAnnIrc,EduAnn2018
+#labels EduAnnIrc,EduAnn2018,irc
 
 = 会议中心议题 =
 
