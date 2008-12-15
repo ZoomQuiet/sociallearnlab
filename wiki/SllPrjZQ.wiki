@@ -1336,31 +1336,33 @@ SVN 版本管理是来自CVS 等等更早的系统策略的,
 [http://www.freebsd.org/doc/en_US.ISO8859-1/articles/releng/release-proc.html]
 
 所以,code.google 提供的 SVN 目录内含的版本策略是:
-
+{{{
 / 仓库根
  +-- wiki 工程维基
  +-- tag  标签版本
  +-- trunk 主干分支
  +-- branches 版本分支
-
+}}}
 其中 tagu和branches 和从CVS 时代继承下来的习惯,但是在SVN中,俺建议:
 
 [http://wiki.woodpecker.org.cn/moin/OssSvnRule]
+{{{
 / 仓库根
  +-- wiki     工程维基
  +-- tasks    任务分支收集
  +-- tangle   试验代码收集
  +-- trunk    主干分支
  +-- branches 发布版本分支收集
-
+}}}
 这样SVN 的目录使用就根据不同的代码,或是文本性质进行了明确的分类:
+{{{
 +-- tasks    收集各种和主工程无关的辅助,支持性质任务代码
 +-- tangle   对应开辟各种成员目录,收集平时的积累,成熟后就可以合并到 trunk 主干代码中
 +-- trunk    主干分支, 所有最新的成果组织在期中
 +-- branches 发布版本分支收集, 收集阶段性成果,并进行针对版本的追踪维护,比如说:
  +-- Ss4student_0.1_tadpole   v0.1 蝌蚪 版 图书稿和样例
  +-- Ss4student_0.2_frog      v0.2 青蛙 版 图书稿和样例
-
+}}}
 == 3.针对BBS和“不靠谱”软件 ==
 
 社区研究之BBS的死亡鉴定
@@ -1637,8 +1639,6 @@ s ~ 标注星号, 就可以追加自定的不同含义的星号
 Happy Hacking,
 
 Happy Mailing,,,
-
-
 
 
 
