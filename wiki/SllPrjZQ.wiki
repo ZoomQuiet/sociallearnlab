@@ -1497,11 +1497,11 @@ http://code.google.com/p/openbookproject/wiki/ZoomQuiet
 ～～～～
 
 咔咔咔,这也是 code.google 在 Guido 加入后给出的完美解决方案:
-
+{{{
 [https://sociallearnlab.googlecode.com/svn/wiki/]
  + <-> [http://code.google.com/p/sociallearnlab/w/list]
  + <-> 用户本地 svn 工作复本
-
+}}}
 关系如上,对于code.google的维基 和 通过SVN 检入 wiki 目录, 是完全一样的,没有任何差别,
 
 SVN 仓库, 对这两种表现都是个版本仓库,
@@ -1639,8 +1639,6 @@ s ~ 标注星号, 就可以追加自定的不同含义的星号
 Happy Hacking,
 
 Happy Mailing,,,
-
-
 
 
 
