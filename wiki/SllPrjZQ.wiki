@@ -1457,12 +1457,12 @@ Issue 提案流程概述
 [http://code.google.com/p/sociallearnlab/source/detail?r=525]
 
 由此,一个具体任务的 创建/指派/完成/关闭 的整体过程的所有信息形成了完整的封闭循环!
-
+{{{
 Issue->认领->SVN检入解决
  ^            |
  |            |
  +--注释说明---+
-
+}}}
 *其他*
 
 其实 code.google 提供的维基,就已经是非常吻合最小原则的有自动化版本协同的发布系统了;
@@ -1637,8 +1637,6 @@ s ~ 标注星号, 就可以追加自定的不同含义的星号
 Happy Hacking,
 
 Happy Mailing,,,
-
-
 
 
 
