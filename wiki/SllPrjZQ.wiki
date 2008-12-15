@@ -1485,12 +1485,12 @@ http://code.google.com/p/openbookproject/wiki/ZoomQuiet
 [http://wiki.woodpecker.org.cn/moin/AllAboutText]
 
 有歌曰:
-
+{{{
 文本文件好
 工具遍地跑
 程序两三行
 全部改好了
-
+}}}
 文本文件好 - Blog on 27th Floor
 [http://blog.cathayan.org/item/920]
 
@@ -1517,13 +1517,13 @@ SVN 仓库, 对这两种表现都是个版本仓库,
 在所有图书维基页面发布之前,先在 trunk 中创建组织好文档,维基发布出来后,就可以进行公众评阅了!
 
 俺建议文件命名规范:
-
+{{{
 ZhGshAccountHowto.wiki
 |  |  |           +-- wiki 后缀的纯 utf-8 文本文件,可以直接复制到 wiki 目录自动发布的
 |  |  +-- 章节E文名,使用WikiName 格式
 |  +-- 图书工程缩写
 +-- 语言地域缩写 Zh|En|Tw|Fr ...
-
+}}}
 == 6.wiki ==
 
 wiki，所想即所得
@@ -1548,15 +1548,12 @@ LeTaX/SGML/HTML/XML/XHTML/DocBook ....
 
 都是标签语言,是反人性的,中断阅读体验的语言,
 相比结构化文本虽然对格式控制更加丰富,但是真的很难学习和习惯的...
-
+{{{
 文本格式可读性:Office文档(不可读) > 标签文本 > 结构化文本
-
 学习容易程度性:Office文档(不可学习) > 标签文本 > 结构化文本
-
 输出表现丰富性:标签文本 > Office文档 > 结构化文本
-
 跨平台兼容性:  结构化文本> 标签文本 > Office文档
-
+}}}
 == 7.思维分享工具 ==
 
 俺N懒的!而且 DreamWare 是要钱的!
@@ -1598,12 +1595,13 @@ LeTaX/SGML/HTML/XML/XHTML/DocBook ....
 比如说,俺的示例发布:
 [http://www.zoomquiet.org/share/mm/kcpycamp/]
 就是成功的,涉及的文件
+{{{
 ./
 |-- CmapToolsTrademark.gif
 |-- index.html
 |-- index.jpg
 `-- project.idx
-
+}}}
 0 directories, 4 files
 
 == 8.邮件管理软件 ==
@@ -1639,8 +1637,6 @@ s ~ 标注星号, 就可以追加自定的不同含义的星号
 Happy Hacking,
 
 Happy Mailing,,,
-
-
 
 
 
