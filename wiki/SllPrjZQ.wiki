@@ -66,6 +66,12 @@ http://xmindshare.s3.amazonaws.com/preview/sll-proj-zqsuggest-gdkjm-122839138690
 
 5.1什么是邮件列表   5.2建议和体验
 
+网络资源使用方面：
+
+总体思路
+
+1.字体，文件格式  2.版本管理  3.针对BBS和“不靠谱”软件  4.linux 5.code.google  6.wiki  7.思维分享工具  8.邮件管理软件
+
 = 社区建设方面 =
 
 
@@ -1179,6 +1185,468 @@ good! 开始推动了..
 
 这样就可以看到列表邮件的增长了...
 比如说 [SLL-mem:1024] 就是指总第1024 封邮件...
+
+
+= 网络资源使用: =
+
+== 总体思路 ==
+
+嘿嘿嘿,从俺 M$ 时代"我自豪,我用D版!" 的软件大品尝,
+到后来的唯绿色软件,
+到现在的唯自由软件,整个软件/技术学习体验看,
+就是:"Use it! need not learning!"
+用之! 不学!
+
+只用应该用的,不学现在不用的....
+
+绝对不为学习而学习,而是使用现成的工具来创造...
+
+所以,对于基于网络的分布式協作工程,俺给出的学习,或是工具使用路径:
+[http://code.google.com/p/openbookproject/wiki/HowToBuildBookOnline]
+
+0. 沟通: 列表->IRC
+
+1. 表达: 维基/reST/t2t/...
+
+2. 管理: SVN -> Issue -> EveryDo/BaseCamp/...
+
+齐了!
+
+重要的是:"所有人,知道所有事儿!" 而且要及时,无误的!
+
+这是任何类型的团队要成功的核心基准点!
+
+～～～～
+
+这也是有技巧的哪,
+任何事儿,得通过恰当的渠道令所有人舒服的获得;
+类似列表这种异步信息沟通,如果不是所有人一直积累浏览邮件,将形成各种"惊奇",,,特别是列表的使用礼节没有都习惯时;
+IRC 这种实时沟通渠道,对大家的时间要求非常高,而且到点如果手头有事儿的,也不可能很好的接受讨论信息,,,
+
+所以,就俺的体验,一定要将各种渠道合理配合使用:
+
+0. 维基作为唯一的正式决议通告方式,每个方面的决议使用独立的页面进行收集,整理,形成全球唯一的URL 标识的信息节点;
+ (以免决议形成不同版本,形成噪音)
+
+1. 列表作为有证据记载的讨论中心,大家可以在不同的时间分别相互理解和发表意见,最终形成决议,正式发布到维基中
+
+2. IRC/MSN/好看/主页/日历,,,,,各种灵活的信息发布渠道,作为提醒渠道,将决议维基URL 不断的通告给所有人
+
+这样,社区事务的正式发布/变更讨论/通告传播 就有机结合起来了,,,
+
+～～～～
+
+案例：
+
+这个从一开始就进行了分享,这个 OBP 方程已经存在N久了:
+
+维基: [http://wiki.woodpecker.org.cn/moin/OBP]
+
+工程: [http://code.google.com/p/openbookproject/]
+
+项目: [http://obp.everydo.com/] 用户:guest 口令:guest
+
+列表: [https://groups.google.com/group/openbookproject]
+
+经验: [http://code.google.com/p/openbookproject/wiki/HowToBuildBookOnline]
+
+IRC:[http://code.google.com/p/openbookproject/wiki/UsageIrc]
+
+ 现在主要使用 zeuux 自个儿的IRC服务: [http://code.google.com/p/openbookproject/wiki/ZeuuxIrc]
+
+ #zeuux-press
+
+没有Blog;没有BBS;没有QQ群...
+但是保证了一切沟通都有记录可以追查,所有修订都有版本可以追踪...
+
+
+== 1.字体，文件格式 ==
+
+现在看来:
+
+0. 背景太大!打开有等候,建议使用gif 小图片作背景,而且背景不应该影响文字的阅读!
+
+ 建议使用 社区的 甲骨文 人 作背景就好
+
+1. 概念图中千万不要出现大量的相同文字!
+
+ 如果 包括 是个总体动词的话,就应该复用,,,
+
+2. 字体问题:
+
+   字体建议
+       * 文字使用圆体 比如说:Vera Sans YuanTi Mono
+       * 数字字母使用: Monaco
+       * 保证数字和字母，以及中文标点和代码标点有巨大的差异
+             o  特别是 0 vs Oo; I vs l
+
+曾经有人进行了多方对比:
+[http://www.2maomao.com/blog/best-programmer-fonts/]
+
+中文的字体对比:
+[http://www.osxcn.com/ubuntu/heiti-contrast.html]
+
+作为教育社区,真的应该从最小处作起,使用靠谱的自由/明晰字体 宣扬版权意识,以便未来我们提纯出来的社会化教育方案也进行法律保护下的正确推广,
+不能让小人们任意窜改大家的探索成果说是自个儿的然后毒害学生们,,,,
+
+～～～～
+
+建议，不要使用 HTML 格式邮件！
+就明确的将录音文件下载URL 单独一行给出就好，
+而且应该给出体积，时长等等基础信息，以便下载时参考，，，
+现在俺这儿下载时，就是不知道一共有多大，应该等待多少时间,,,
+而且，最好不要给 wav 的原始文件，也不要使用 mp3 这种版权格式的压缩，建议使用 .ogg 自由音乐格式,,,
+
+== 2.版本管理： ==
+
+对于任何協作团队来讲，核心要命的支持管理就是"版本管理"
+
+> >简单可行最好，如果需求工具太多，怕大家应付不过来。
+
+是也乎,SVN 这个版本管理工具是任何对自个儿知识负责的人都应该学习和使用的,
+这样才能够进入有版本管理的知识管理境界,
+
+SVN + Trac 以及知识管理～一次培训的资料:
+[http://www.zoomquiet.org/share/s5/0707-SVNnTrac/]
+
+SVN, 可以方便统一的作到:
+
+0. 将所有成员的工作，通过中央仓库的形式进行同步和安全的分发
+
+1. 将成员所有交付成果，进行了版本管理，可以安全回溯到历史任何一个时间点
+
+2. 对文本的冲突，进行了自动化的提醒，可以精确的汇报出差异，类似:
+[http://wiki.woodpecker.org.cn/moin/TrustedGroup?action=diff&rev2=146&rev1=145]
+或是: [http://tinyurl.com/5axbxs]
+
+原始链接:
+[http://trac.edgewall.org/changeset?new=7440%40trunk%2Ftrac%2Fwiki%2Fdefault-pages%2FTracModPython&old=7422%40trunk%2Ftrac%2Fwiki%2Fdefault-pages%2FTracModPython]
+
+3. 可以通过分支的管理，对工程发行版本，进行并行维护...
+
+总之对于团队工作的项目管理:
+需求／变更／版本／发布 管理是有机结合在一起的，统称配置管理，
+没有 CM ~ configure manage 配置管理，工程的进度，就无从控制，
+
+～～～～
+
+SVN 版本仓库,可以想象成一个中央存储,智能化的将所有人的成果合理合法的保存下来,所有人的工作,以SVN仓库为准,进行版本更替;
+SVN 版本管理是来自CVS 等等更早的系统策略的,
+比较经典的 FreeBSD 版本发布策略:
+[http://www.freebsd.org/doc/en_US.ISO8859-1/articles/releng/release-proc.html]
+
+所以,code.google 提供的 SVN 目录内含的版本策略是:
+
+/ 仓库根
+ +-- wiki 工程维基
+ +-- tag  标签版本
+ +-- trunk 主干分支
+ +-- branches 版本分支
+
+其中 tagu和branches 和从CVS 时代继承下来的习惯,但是在SVN中,俺建议:
+
+[http://wiki.woodpecker.org.cn/moin/OssSvnRule]
+/ 仓库根
+ +-- wiki     工程维基
+ +-- tasks    任务分支收集
+ +-- tangle   试验代码收集
+ +-- trunk    主干分支
+ +-- branches 发布版本分支收集
+
+这样SVN 的目录使用就根据不同的代码,或是文本性质进行了明确的分类:
++-- tasks    收集各种和主工程无关的辅助,支持性质任务代码
++-- tangle   对应开辟各种成员目录,收集平时的积累,成熟后就可以合并到 trunk 主干代码中
++-- trunk    主干分支, 所有最新的成果组织在期中
++-- branches 发布版本分支收集, 收集阶段性成果,并进行针对版本的追踪维护,比如说:
+ +-- Ss4student_0.1_tadpole   v0.1 蝌蚪 版 图书稿和样例
+ +-- Ss4student_0.2_frog      v0.2 青蛙 版 图书稿和样例
+
+== 3.针对BBS和“不靠谱”软件 ==
+
+社区研究之BBS的死亡鉴定
+http://blog.donews.com/yokanta/archive/2006/06/05/902554.aspx
+
+类似BBS 的重注意力，不重内容的沟通平台对于教育的推进和知识的积累只能起到破坏性的反作用！
+对于实时交流，俺建议使用 IRC 聊天室，
+配合插件可以自动记录到维基中...
+
+任何改革，最困难的改变固有习惯，
+与其在吸引来后，才一点点改变，
+不如从开始就不要使用对知识管理无意义的BBS 等形式....
+
+是也乎,这是个最最最基础FAQ:
+凡是靠谱软件,一切都给予用户权力来配置的!
+只要是有地方不让用户来自行配置的,都是没有自信的,有小秘密的 unkaopulity 软件!
+好软件,就是最吻合自个儿习惯的软件!
+
+== 4.linux ==
+
+> 对小学生普及LInux,太朝前了吧.
+> 毕竟Linux的操作性还比不上Windows.
+这是谁的对比统计结论?!
+
+> 估计小学生不容易接受.
+小看小学生?
+新加坡早就全部使用 GNU/Linux 了,也没有见哪个学生吼难用哪,,,
+
+在没有Windows 的时代,也没有学生反应无法接受Unix 哪?
+
+一般讲,小孩子,没有偏见,是可以接受任何新事物的,只有心中有太多执念的大人才是难以接受任何超出自个儿体验的东西,,,,
+
+== 5.code.google == 
+
+*简介：*
+
+配合有 SVN 版本管理后台的，
+自动渲染发布环境，
+通过WIKI 进行索引，通过SVN 进行协同发布，
+通过列表进行沟通，
+通过Issue 进行问题追踪...
+
+*配置：*
+
+[http://code.google.com/p/sociallearnlab/]
+没有在 wiki 目录中有反应,所以,只能人工编辑,
+俺重构了一下,
+建议,这个工程首页,应该作为一个根索引页,作为所有其它页面的总入口,
+
+另外,俺建议,在组织所有维基页面时,有个基本准则,就是任何一个维基页面从首页进行点击访问时,不应该超过3次点击!
+
+接下来，应该将 code.google 和列表联动，
+在工程的 admin. 标签中 Activity Notifications 一节有描述:
+codesite-noreply@google.com
+是工程的自动通告邮箱，将其加入到列表订阅中，配置成只 web 查阅，但是允许发送邮件，
+就可以在 code.google 中设定，
+将所有SVN 检入活动或是Issue 的提交情况，自动汇报给列表了....
+
+*Issue追踪系统*
+
+可惜，code.google 作为一个完备的项目管理环境，大家用的并不完全，Issue 是一个非常简洁好用的追踪系统，
+可以进行任务分配/问题追踪/缺陷记录/需求设计,,,, 配合维基 更加可以完善的记录项目的进度,,,
+
+> 我想肯定有一部分人，跟我一样，没有弄清楚Googelcode中Issue如何用。
+
+感谢 xiuli 勇敢品尝螃蠏！
+
+不过，从很久之前，以下两个专项说明页面，就是在工程首页的了:
+Issue 提案流程概述
+[http://code.google.com/p/sociallearnlab/wiki/IssueFlow]
+
+ Issue 提案标签详解
+ [http://code.google.com/p/sociallearnlab/wiki/IssueTags]
+
+请大家查阅后，对比 xiuli 老师的操作，自个儿也尝试一下，
+开始将大任务分解成可追踪的小任务，开始追踪/流通/分配吧,,,,
+
+发现 Issue 的个性, 不是维基语法,对 URL 不进行自动解析,
+但是对 Issue 相关的行动都有对应的自动解析了, 从我们创建 Issue 开始到完成任务:
+
+0. 创建提案后, [http://code.google.com/p/sociallearnlab/issues/detail?id=5]
+最后的 id= 的数字就是全球唯一的任务编号,,
+
+1. 在Issue 中 任何地方使用 " Issue 5 " 这种格式的字串,就可以自动解析成提案的链接!
+
+2. 在我们为此任务进行SVN 检入时的注释中就可以使用! 这样在 SVN 的Changeset 中,就可以自动解析出任务的链接:
+
+ 例如: [http://code.google.com/p/sociallearnlab/source/detail?r=525]
+
+ Changeset 列表在:[http://code.google.com/p/sociallearnlab/source/list]
+
+3. 最后我们回到 Issue 页面,可以使用 " r525 " 格式的字串来说明SVN的操作, 一样这将自动解析成链接,指向
+
+[http://code.google.com/p/sociallearnlab/source/detail?r=525]
+
+由此,一个具体任务的 创建/指派/完成/关闭 的整体过程的所有信息形成了完整的封闭循环!
+
+Issue->认领->SVN检入解决
+ ^            |
+ |            |
+ +--注释说明---+
+
+*其他*
+
+其实 code.google 提供的维基,就已经是非常吻合最小原则的有自动化版本协同的发布系统了;
+因为 code.google 的维基和SVN 是联动的
+[http://openbookproject.googlecode.com/svn/wiki/]
+通过 SVN 对 维基的中的文本进行修订就可以直接获得 web 方面的修订!
+
+e.g
+
+[http://code.google.com/p/openbookproject/source/detail?r=1382]
+的SVN 提交,就自然的修订了:
+http://code.google.com/p/openbookproject/wiki/ZoomQuiet
+
+而且已经有一些项目直接使用 这个简单维基进行了图书的撰写:
+[http://code.google.com/p/zhpy/wiki/ByteOfZhpy]
+
+使用结构化文档的好处就在于内容和形式分离,可以通过工具,自动化的进行多种形式的发布!
+[http://wiki.woodpecker.org.cn/moin/AllAboutText]
+
+有歌曰:
+
+文本文件好
+工具遍地跑
+程序两三行
+全部改好了
+
+文本文件好 - Blog on 27th Floor
+[http://blog.cathayan.org/item/920]
+
+～～～～
+
+咔咔咔,这也是 code.google 在 Guido 加入后给出的完美解决方案:
+
+[https://sociallearnlab.googlecode.com/svn/wiki/]
+ + <-> [http://code.google.com/p/sociallearnlab/w/list]
+ + <-> 用户本地 svn 工作复本
+
+关系如上,对于code.google的维基 和 通过SVN 检入 wiki 目录, 是完全一样的,没有任何差别,
+
+SVN 仓库, 对这两种表现都是个版本仓库,
+
+不过,一个是在线编辑,一个是离线编辑;
+
+在线的必须有网络,而且只能使用网页的输入框,
+
+离线的,可以在任何地方放心的进行编辑,而且可以使用自个儿喜欢的编辑器进行!
+
+再次建议!!!
+
+在所有图书维基页面发布之前,先在 trunk 中创建组织好文档,维基发布出来后,就可以进行公众评阅了!
+
+俺建议文件命名规范:
+
+ZhGshAccountHowto.wiki
+|  |  |           +-- wiki 后缀的纯 utf-8 文本文件,可以直接复制到 wiki 目录自动发布的
+|  |  +-- 章节E文名,使用WikiName 格式
+|  +-- 图书工程缩写
++-- 语言地域缩写 Zh|En|Tw|Fr ...
+
+== 6.wiki ==
+
+wiki，所想即所得
+
+> 我很赞成仨儿的说法，在Wiki上写书，很不方便，以前我也有过这样的想法，就是在Ubuntu Wiki里，很多朋友告诉我，用Wiki来写书，很不现实。
+
+这点,俺无法认同:
+[http://wiki.woodpecker.org.cn/moin/WyTiWyG]
+其实大家习惯的在 WYSIWYG 的 word 中写作时,很有部分时间根本不是在撰写内容,而是在不断的变换各种角色来使用软件,
+而不是利用软件来協助写作!
+
+维基是 WYTIWYG ~ 所想即所得,维基仅仅要求很少的文本约定来标定特殊内容,以及文章的结构,
+其它没有任何强制性的要求,
+我们可以真正的关注文章本身,而不是文章最终的输出樣子!!!
+
+在网络中已经有大量的各种图书,是直接通过维基进行协同完成了的,不应该用旧的编辑习惯来异化维基体验...
+
+
+使用 Office 软件,扼杀了一切良好的協同配合,大家变成了熟练格式工人,而不是思考者!
+
+LeTaX/SGML/HTML/XML/XHTML/DocBook ....
+
+都是标签语言,是反人性的,中断阅读体验的语言,
+相比结构化文本虽然对格式控制更加丰富,但是真的很难学习和习惯的...
+
+文本格式可读性:Office文档(不可读) > 标签文本 > 结构化文本
+
+学习容易程度性:Office文档(不可学习) > 标签文本 > 结构化文本
+
+输出表现丰富性:标签文本 > Office文档 > 结构化文本
+
+跨平台兼容性:  结构化文本> 标签文本 > Office文档
+
+== 7.思维分享工具 ==
+
+俺N懒的!而且 DreamWare 是要钱的!
+
+俺是使用 FreeMind 内置的输出成 HTML 的功能,自动输出的,不用任何多余编辑!
+
+不过,俺建议使用 CampTools
+[http://cmap.ihmc.us/]
+
+效果更加好,而且,可以进行分布的思维图分享!是真正的有SNS 功能的思维分享工具!
+
+～～～～
+
+注意到 xiuli 开始大量使用 xMind 来组织思绪了!
+同时 xMind 利用 S3 进行了云空间分享;
+而且专业版本是支持多图谱间的关联,包含,连接的!
+
+
+所以,倡议:
+
+0. 大家在相关自我介绍或是内部通讯录中公布自个儿的 xMind 帐号,以便相互关联
+
+1. 社区订购 xMind 专业版本的使用吧,分享注册码,开展基于网络的思维联接?!
+ - 这方面本来 Camptools 也是支持的,但是没有 xMind 这么方便,,,
+
+～～～～
+
+老师非常积极非常认真的在寻求解决,不过,俺从中看到的:
+
+0. 没有使用列表沟通,试图一对一邮件沟通,以期得到重视~ 这不是开放的作法,其实清风,或是其它 SLL-mem 成员,就有可能就有相关经验呢?
+
+1. 使用中文文件名进行发布,这是一切 web 应用最头痛的作法
+
+2. 从附件看来,吴老师,对于 网页的理想比较单纯,没有看过HTML 的源代码吧,所以,无法理解俺的提示:
+ "作到和本地发布时,相同的文件引用"
+
+3. 不提供 camptools 的设计原件,也没有检入到 code.google 工程的tasks 相应目录中,那么俺就无法确认检出方式是否有问题?
+
+比如说,俺的示例发布:
+[http://www.zoomquiet.org/share/mm/kcpycamp/]
+就是成功的,涉及的文件
+./
+|-- CmapToolsTrademark.gif
+|-- index.html
+|-- index.jpg
+`-- project.idx
+
+0 directories, 4 files
+
+== 8.邮件管理软件 ==
+
+俺从 Foxmail->the bat! 到现在的 雷鸟,邮件管理量是越来越大的,
+现在看来只有 Thunderbird 是跨平台最合用的桌面管理软件了,
+Gmail 必竟是外国服务,可能被封,想长治久安的管理自个儿的邮件,开始进化吧,
+管理邮件平台!思想!
+
+～～～～
+
+>>现在知道仨为什么可以每天处理500+邮件了，靠谱的邮件端gmai+快捷键＋所想即所得＋…… 
+
+嗯嗯嗯,还得加上:
+
+0. 明确的知道自个儿想通过邮件达到什么目的,邮件不是网页,不是随便回复的,,,
+
+1. 有长期坚持和使用的一套固定的 标签,这样才可以快速分类和重新搜索出来
+
+2. 及时使用和体验 Gmail 的新功能,所有新功能都是重度邮件用户反馈给 Gmail 获得的,,,
+  所以,俺配置的是 E文/USA 地区,这样可以及时获得新功能的自动升级,
+[http://xbeta.info/gmail-labs.htm]
+类似这种实验功能也可以快速体验,嵌入到管理行为中,进行再加速,
+
+比如说:
+
+使用了 超级星标（Superstar） 功能后,
+俺在任何地方,只要使用
+s ~ 标注星号, 就可以追加自定的不同含义的星号
+连续不断的 按 s
+将在俺如附件定为的 星/继续/感叹/对号/问号/空 的序列循环标记,,,
+
+Happy Hacking,
+
+Happy Mailing,,,
+
+
+
+
+
+
+
+
+
+
 
 
 
