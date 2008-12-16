@@ -1,0 +1,186 @@
+#summary SLL.org社区增进 ZoomQuiet版 实践参考
+#labels SLLS,ZoomQuiet,SllProj,suggest
+
+SEE::[SllProjectFlows SLL项目流程]/*[SllPrjZQ 仨儿之建议集]*
+= 社区项目管理 =
+*如何有效的推进社区的各种项目?*
+ * 注意,俺推荐使用*Item* 而*不是Project* 来称呼 *项目*
+ * 因为:多数所谓项目,根本达不到 Project 的规模,仅仅是内部的小型配合而已,所以,,,端正态度从小事儿作起吧,,,
+ * 何况,大计划必定要分解成可控可感触的小行动才可行的,,,
+
+== 总则 ==
+*统一,规范,有序!*
+ * 任何项目成员都明确目标和自个儿应该作的事儿后,项目才在行进!
+
+== 管理 ==
+不建议进行每个项目专门设立交流平台:
+{{{
+0. 参与的人不会多，肯定有一人多项目的情况，设立多个平台，有配置X和参与管理成本
+1. 在统一的关注教育改革主题中进行的多个项目一定有可以相互借鉴之处，交流平台分离不利于及时分享成果
+2. 建议统一发布平台／维基平台，通过分类和标签，进行项目的划分...
+}}}
+
+=== 项目空间 ===
+
+*工具使用态度:*
+ * 嘿嘿嘿,从俺 M$ 时代"我自豪,我用D版!" 的软件大品尝,
+ * 到后来的唯绿色软件,
+ * 到现在的唯自由软件,整个软件/技术学习体验看,
+{{{
+就是:"Use it! need not learning!"
+用之! 不学!
+
+只用应该用的,不学现在不用的....
+绝对不为学习而学习,而是使用现成的工具来创造...
+}}}
+ * 所以,对于基于网络的分布式協作工程,俺给出的学习,或是工具使用路径:
+ * *http://code.google.com/p/openbookproject/wiki/HowToBuildBookOnline*
+{{{
+0. 沟通: 列表->IRC
+1. 表达: 维基/reST/t2t/...
+2. 管理: SVN -> Issue -> EveryDo/BaseCamp/...
+}}}
+齐了!
+
+重要的是:*"所有人,知道所有事儿!"* 而且要及时,无误的!
+这是任何类型的团队要成功的核心基准点!
+
+=== 管理理论 ===
+`>>想读本项目管理方面的书，大家有什么好推荐？`
+
+如果是软件项目管理的话，俺推荐:
+ # [http://www.douban.com/subject/1102259 人月神话] (豆瓣)  关注问题的本质
+ # [http://www.douban.com/subject/1444736 平衡敏捷与规范] (豆瓣) 对比了各种管理流派,,,
+ # *[http://www.infoq.com/cn/minibooks/scrum-xp-from-the-trenches InfoQ: 硝烟中的Scrum和XP]* 给出了实用的敏捷团队通行思路!
+
+俺找书的原则:
+{{{
+0. 外国的
+1. 薄的！
+2. 销售排名牛的！
+}}}
+
+
+=== 在线图书工程 ===
+ * 如何组织在线图书工程 http://code.google.com/p/sociallearnlab/wiki/HowtoBuildBookOnLine
+  * 图书维基文件命名规范 http://code.google.com/p/sociallearnlab/wiki/UsageDocName
+  * Issue 提案标签详解 http://code.google.com/p/sociallearnlab/wiki/IssueTags
+  * Issue 提案流程概述 http://code.google.com/p/sociallearnlab/wiki/IssueFlow
+ * Open Book Project 开放图书计划 http://code.google.com/p/openbookproject/
+
+
+*Chandler项目经验分享*:
+ * 详细 https://groups.google.com/group/sociallearnlab-members/browse_thread/thread/1a55e1d7dcadba8b
+ * 非常庆幸这是一次非常愉快和成功的体验!也感谢及时分享给我们,建议:
+{{{
+0. 完整的回忆总结一下经验和教训,都记录到 code.google 的维基中
+1. 然后发布出来,正式的,有URL 来源的!
+2. 指定专人,长期留守,收集八方反馈,进一步完善汉化工程规范
+3. 分享给 Ubuntu.org.cn/i18N 等等专门社区,对于汉化工程的经验,相互参考,进一步完善;
+4. 设立友好的投述渠道,接受汉化作品用户们的意见!
+}}}
+这样,将一次成功的汉化版本的价值挖掘到极致!才有更多更好的故事和体验产生!
+ 
+{{{
+原力来自共同期待,热情源于礼貌沟通!
+愉快在于小成就感,成就则是快速完成!
+}}}
+如果一个好项目,但是迟迟无法完成大家期许的目标,热情将耗尽,团队也就不存在了,,,
+
+
+=== 有关GSH ===
+*为GSH图书项目提供的建议*
+
+（不同时间的建议用“～～～～”隔开）
+
+{{{
+>> 可能我们要更详细的吧，大家有些什么想法都说下。才做这个，第一块内容，我们
+>> 要做得下细点。最好是边做的时候，边把做法记录下来：所遇的问题，解决的方法
+>> 等，以便让其他们成员参考。
+>
+> =>这个提议特别好. 这就需要约定一个记录整理的地方.用什么来记录,如何大家来整理.
+}}}
+
+条目化就好，可以仿照 各种 CookBook 的体例，以下是俺主持的图书中的建议:
+ * http://wiki.woodpecker.org.cn/moin/ObpLovelyPython/PCS
+
+另外，提前将章节设定好，也便于分别认领，同时进行撰写...
+ * e.g.
+  * http://wiki.woodpecker.org.cn/moin/ObpLovelyPyEditorRule/TreeOfBook
+
+这方面其实在很早发布的 相关教程中有详细说明:
+ * [http://www.zoomquiet.org/share/s5/0707-SVNnTrac/ 基于SVN的敏捷项目环境]
+
+启动 code.google 为核心的开放式图书工程后,其实是有一些规约的,比如说:
+ * [http://code.google.com/p/openbookproject/wiki/IssueTags Issue标签规范]
+ * [http://code.google.com/p/openbookproject/wiki/IssueFlow Issue協同流程]
+
+～～～～
+
+如果使用 code.google 进行图书写作的话:
+{{{
+/wiki 目录就可以看作图书的 beta 版本的发布目录
+/trunk 等等其它目录，就可以作为版本策略中相应的存放目录，
+}}}
+
+
+=== code.google 的综合使用 ===
+具体的看大家决定怎么利用 code.google 的资源！
+
+ # 图片的问题，原先 code.google 是支持图片的自我引用的，后来禁止了，不过可以考虑使用 Pisaca 等等相应的图片服务进行发布和引用
+ # 预览问题...这不应该是问题,维基的共笔就是不关注表现形式的 WYTIWYG, 在熟悉了简单的维基语法后,根本不用预览的哪...
+ # 如果有自个儿的主机的话,那俺就建议,不使用 code.google 提供的维基解析,而使用 t2t ~ text2tags
+  * http://wiki.woodpecker.org.cn/moin/txt2tags
+  * 格式来写作,当成正式的代码,依照我们的发布策略收集在  trunk 中,
+  * 在另外的主机空间中定期自动检出 t2t 文本,渲染成 html 进行每日构建,
+  * 而大家在本地,可以随时通过 t2t 命令,将.t2t 文本转换成 html 来查看效果,这样,就完全的支持了分布式写作
+
+～～～～
+
+至于图书组织和维基写作,真的是什么简单怎么来就好的!
+{{{
+Simple is bttter!
+}}}
+使用 code.google 进行图书工程的组织,只有一点不便,那就是图片的组织了,
+不过,大家使用 Pisaca 的话,默认有 10G 免费图片空间可以自由使用的哪!!!!
+约定好:
+ # Pisaca 图片集,分享编辑权利
+ # 图片命名规范 比如说:
+{{{
+图 Charpt-No.png
+|  |      |  +-- 统一使用PNG格式提供
+|  |      +-- 章节附图序号
+|  +-- 章节序号
++-- 统一标识字
+}}}
+e.g
+ * 图 CDay-4-2.png 意为 CDay -4 日故事 第2附图
+ * 就可以共享空间进行图片组织,在维基中就简单使用 URL 完事儿...
+
+`俺的理解是这样的，大家现在的关键任务是快速将图书的内容组织起来？！那么俺的建议是:`
+ # 直接在 code.google 提供的维基中进行撰写，只要约定好各个章节的命名
+  * http://code.google.com/p/sociallearnlab/wiki/UsageDocumentname
+ # 对于SVN，其中的wiki 目录就已经自动和维基解析工具结合可以作为自动发布了
+ # 通过web或是SVN 的渠道,快速根据章节设计,配合 Pisaca 等等图片服务,快速组织图书,且可以实时看到结果
+ # 在经过一定时期的积累后,可以将 wiki 中相关文件,复制到 trunk/branches 中,进行图书整体的出版调整...
+
+
+=== 解决问题的基本原则 ==
+
+就俺来看, 以上问题的解决,得先有条件准备:
+{{{
+0. 问题范畴 ~ 具体的阻碍点在哪儿? 心理?传达?技术?
+1. 现有资源 ~ 社区已经掌握的 发布渠道/成员信息/组织结构 等等方面的现状? 
+  达到哪些?可以继续完善哪些? 哪些无法快速补足?
+2. 解决指标 ~ 不应该期望一次性解决所有问题,
+  那么,问题领域各个阶段是怎么设想的?每个阶段完成什么样的增补才可以接受?可以继续运行?
+,,,
+}}}
+
+定义明确问题,问题就已经解决了一半了,,,
+
+= Discuss =
+`还有什么想法?持续聚集哪,,,`
+
+
+
