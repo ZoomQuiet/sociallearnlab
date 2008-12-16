@@ -29,6 +29,7 @@ _不断添加中……_
    * [ZqSayCommunityGrown 社区如何持续发展?进行团队建设?]
   # 如何管理社区资源
    * [ZqSayMindMapping 思维图谱]
+   * [ZqSayCommunityRes 社区资源整理/发现/管理]
   # 如何有效社区沟通
    * [ZqSayCommunityCommunicate 如何有效社区沟通]
   # 邮件的规范化使用
