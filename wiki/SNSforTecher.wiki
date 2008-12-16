@@ -12,7 +12,7 @@
 
 （位于好看簿上的小组）教育大发现SLL小组:[http://www.haokanbu.com/group/140/]
 
-----
+---
 
 ===项目的背景：=== 
 
@@ -145,7 +145,7 @@ _[http://www.haokanbu.com/user/83424/ 李明山（项目的主要负责人)]_
     
 ====四、进行第二轮工作====
 
-----  
+---
   
 == Discuss ==
 http://xmindshare.s3.amazonaws.com/preview/sn-start-for-tech-bhefa-1227623116309.jpg
