@@ -1,0 +1,56 @@
+#summary SLL.org社区增进 ZoomQuiet版 实践参考
+#labels SLLS,ZoomQuiet,SllProj,suggest
+
+SEE::[SllProjectFlows SLL项目流程]/*[SllPrjZQ 仨儿之建议集]*
+= 思维图谱 =
+*Main Mapping,,,思维导图/图谱 放飞我们的思绪*
+
+
+== 社区图谱~camptools ==
+
+俺是使用 FreeMind 内置的输出成 HTML 的功能,自动输出的,不用任何多余编辑!
+ * 不过,俺建议使用 [http://cmap.ihmc.us/ CmapTools]
+效果更加好,而且,可以进行分布的思维图分享!是真正的有SNS 功能的思维分享工具!
+
+`老师非常积极非常认真的在寻求解决,不过,俺从中看到的:`
+ # 没有使用列表沟通,试图一对一邮件沟通,以期得到重视~ 这不是开放的作法,其实清风,或是其它 SLL-mem 成员,就有可能就有相关经验呢?
+ # 使用中文文件名进行发布,这是一切 web 应用最头痛的作法
+ # 从附件看来,吴老师,对于 网页的理想比较单纯,没有看过HTML 的源代码吧,所以,无法理解俺的提示:
+  *  "作到和本地发布时,相同的文件引用"
+ # 不提供 camptools 的设计原件,也没有检入到 code.google 工程的tasks 相应目录中,那么俺就无法确认检出方式是否有问题?
+
+比如说,俺的示例发布:
+ * http://www.zoomquiet.org/share/mm/kcpycamp/
+就是成功的,涉及的文件
+{{{
+./
+|-- CmapToolsTrademark.gif
+|-- index.html
+|-- index.jpg
+`-- project.idx
+}}}
+`0 directories, 4 files`
+
+
+== XMind ==
+
+注意到 xiuli 开始大量使用 xMind 来组织思绪了!
+同时 xMind 利用 S3 进行了云空间分享;
+而且专业版本是支持多图谱间的关联,包含,连接的!
+
+所以,倡议:
+{{{
+0. 大家在相关自我介绍或是内部通讯录中公布自个儿的 xMind 帐号,以便相互关联
+1. 社区订购 xMind 专业版本的使用吧,分享注册码,开展基于网络的思维联接?!
+ - 这方面本来 Camptools 也是支持的,但是没有 xMind 这么方便,,,
+}}}
+
+～～～～
+
+
+
+= Discuss =
+`还有什么想法?持续聚集哪,,,`
+
+
+

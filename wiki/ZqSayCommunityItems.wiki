@@ -11,6 +11,19 @@ SEE::[SllProjectFlows SLL项目流程]/*[SllPrjZQ 仨儿之建议集]*
 == 总则 ==
 *统一,规范,有序!*
  * 任何项目成员都明确目标和自个儿应该作的事儿后,项目才在行进!
+=== 解决问题的基本原则 ===
+
+就俺来看, 以上问题的解决,得先有条件准备:
+{{{
+0. 问题范畴 ~ 具体的阻碍点在哪儿? 心理?传达?技术?
+1. 现有资源 ~ 社区已经掌握的 发布渠道/成员信息/组织结构 等等方面的现状? 
+  达到哪些?可以继续完善哪些? 哪些无法快速补足?
+2. 解决指标 ~ 不应该期望一次性解决所有问题,
+  那么,问题领域各个阶段是怎么设想的?每个阶段完成什么样的增补才可以接受?可以继续运行?
+,,,
+}}}
+
+定义明确问题,问题就已经解决了一半了,,,
 
 == 管理 ==
 不建议进行每个项目专门设立交流平台:
@@ -68,6 +81,36 @@ SEE::[SllProjectFlows SLL项目流程]/*[SllPrjZQ 仨儿之建议集]*
   * Issue 提案流程概述 http://code.google.com/p/sociallearnlab/wiki/IssueFlow
  * Open Book Project 开放图书计划 http://code.google.com/p/openbookproject/
 
+这也是有技巧的哪:
+ * 任何事儿,得通过恰当的渠道令所有人舒服的获得;
+ * 类似列表这种异步信息沟通,如果不是所有人一直积累浏览邮件,将形成各种"惊奇",,,特别是列表的使用礼节没有都习惯时;
+ * IRC 这种实时沟通渠道,对大家的时间要求非常高,而且到点如果手头有事儿的,也不可能很好的接受讨论信息,,,
+
+所以,就俺的体验,一定要将各种渠道合理配合使用:
+ # 维基作为唯一的正式决议通告方式,每个方面的决议使用独立的页面进行收集,整理,形成全球唯一的URL 标识的信息节点;
+  * (以免决议形成不同版本,形成噪音)
+ # 列表作为有证据记载的讨论中心,大家可以在不同的时间分别相互理解和发表意见,最终形成决议,正式发布到维基中
+ # IRC/MSN/好看/主页/日历,,,,,各种灵活的信息发布渠道,作为提醒渠道,将决议维基URL 不断的通告给所有人
+
+这样,社区事务的正式发布/变更讨论/通告传播 就有机结合起来了,,,
+
+
+*O.B.P*:
+这个从一开始就进行了分享,这个 OBP 方程已经存在N久了:
+ * 维基: [http://wiki.woodpecker.org.cn/moin/OBP]
+ * 工程: [http://code.google.com/p/openbookproject/]
+ * 项目: [http://obp.everydo.com/] 用户:guest 口令:guest
+ * 列表: [https://groups.google.com/group/openbookproject]
+ * 经验: [http://code.google.com/p/openbookproject/wiki/HowToBuildBookOnline]
+ * IRC:[http://code.google.com/p/openbookproject/wiki/UsageIrc]
+  * 现在主要使用 zeuux 自个儿的IRC服务: [http://code.google.com/p/openbookproject/wiki/ZeuuxIrc]
+{{{
+ #zeuux-press
+}}}
+ * 没有Blog;没有BBS;没有QQ群...
+  * 但是保证了一切沟通都有记录可以追查,所有修订都有版本可以追踪...
+
+------
 
 *Chandler项目经验分享*:
  * 详细 https://groups.google.com/group/sociallearnlab-members/browse_thread/thread/1a55e1d7dcadba8b
@@ -165,19 +208,6 @@ e.g
  # 在经过一定时期的积累后,可以将 wiki 中相关文件,复制到 trunk/branches 中,进行图书整体的出版调整...
 
 
-=== 解决问题的基本原则 ==
-
-就俺来看, 以上问题的解决,得先有条件准备:
-{{{
-0. 问题范畴 ~ 具体的阻碍点在哪儿? 心理?传达?技术?
-1. 现有资源 ~ 社区已经掌握的 发布渠道/成员信息/组织结构 等等方面的现状? 
-  达到哪些?可以继续完善哪些? 哪些无法快速补足?
-2. 解决指标 ~ 不应该期望一次性解决所有问题,
-  那么,问题领域各个阶段是怎么设想的?每个阶段完成什么样的增补才可以接受?可以继续运行?
-,,,
-}}}
-
-定义明确问题,问题就已经解决了一半了,,,
 
 = Discuss =
 `还有什么想法?持续聚集哪,,,`
