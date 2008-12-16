@@ -21,7 +21,7 @@ SEE::[SllProjectFlows SLL项目流程]/*[SllPrjZQ 仨儿之建议集]*
  * 这个能写出靠谱文章的人,又有些什么研究领域?
  * 又有什么靠谱的文章?代码?社区?
  * 又有些什么关注的朋友? 朋友们的分享?朋友的朋友的研究领域?
-物以类聚,人以群分,好人周围必定是靠谱的人,立即从现场挖掘下去! 将可以抓取到的好文章都先 ScrapBook 下来,
+物以类聚,人以群分,好人周围必定是靠谱的人,立即从现场挖掘下去! 将可以抓取到的好文章都先 [https://addons.mozilla.org/zh-CN/firefox/addon/427 ScrapBook :: Firefox 附加组件] 下来,
  * 以后慢慢回顾,再分类,再聚合,组织出自个儿的,,,,
  * 这也是俺的 weknow 的核心假设,,,
   * http://wiki.woodpecker.org.cn/moin/WeKnow/DemandOrderRep
