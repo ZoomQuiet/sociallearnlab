@@ -12,7 +12,7 @@
 
 （位于好看簿上的小组）教育大发现SLL小组:[http://www.haokanbu.com/group/140/]
 
-
+----
 
 ===项目的背景：=== 
 
@@ -23,7 +23,7 @@
 
  * 帮助甘肃省张掖市甘浚镇星光小学的老师，运用参与社会化网络连接的交流。
      ** 建立本校小学老师网络协作平台（如：https://sites.google.com/?tab=m3  虚拟教研http://code.google.com/p/snsforteacher/
-     **　加入教育大发现普通成员邮件列表、论坛探讨教学问题。
+     ** 加入教育大发现普通成员邮件列表、论坛探讨教学问题。
  * 提高参与者社会化交流的水平。
  * 以西部一所农村学校所有老师参与社会化交流为案例试点，在有校长组织支持背景下，老师通过网络进行社会化连接学习实践，谋求专业发展问题与对
 策。
@@ -138,7 +138,7 @@ _[http://www.haokanbu.com/user/83424/ 李明山（项目的主要负责人)]_
 ====三、总结第一阶段工作（2010年2月——2010年3月）====
     
 ====四、进行第二轮工作====
-     
+ ----    
 == Discuss ==
 http://xmindshare.s3.amazonaws.com/preview/sn-start-for-tech-bhefa-1227623116309.jpg
  * ZoomQuiet 思考:http://share.xmind.net/zoomquiet/sn-start-for-tech/
