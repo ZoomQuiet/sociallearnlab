@@ -110,9 +110,16 @@ SEE::[SllProjectFlows SLL项目流程]/*[SllPrjZQ 仨儿之建议集]*
  * 没有Blog;没有BBS;没有QQ群...
   * 但是保证了一切沟通都有记录可以追查,所有修订都有版本可以追踪...
 
-------
 
-*Chandler项目经验分享*:
+==== 翻译工程体验 ====
+问题:[http://b-oo-k.net/blog/blog.php/2006/38 改稿改到掛] | [http://b-oo-k.net/blog/ 老貓學出版：圖書出版業, 編輯知識, 產業分析]
+对策:
+ # [http://b-oo-k.net/blog/blog.php/2006/34 保證可以找到好譯者的發譯指南]
+ # [http://b-oo-k.net/blog/blog.php/2004/36 編輯與譯者的關係]
+  # [http://b-oo-k.net/blog/blog.php/2006/37 編譯同盟]
+
+
+==== Chandler项目经验分享 ====
  * 详细 https://groups.google.com/group/sociallearnlab-members/browse_thread/thread/1a55e1d7dcadba8b
  * 非常庆幸这是一次非常愉快和成功的体验!也感谢及时分享给我们,建议:
 {{{
