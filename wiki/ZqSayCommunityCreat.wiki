@@ -29,6 +29,7 @@ SEE::[SllProjectFlows SLL项目流程]/*[SllPrjZQ 仨儿之建议集]*
    # 分解任务是明确的有级别/范畴/限期定义的
    # 每个人知道自个儿的界限,,,
 
+出自:_[https://groups.google.com/group/sociallearnlab-members/browse_thread/thread/4f101e8fb8cd0a8c/6b7807670b73cc22?lnk=gst&q=+%E7%A4%BE%E5%8C%BA%E4%B8%AD%E6%9C%89%E5%93%AA%E4%BA%9B%E5%BA%94%E8%AF%A5%E5%81%9A%E7%9A%84%E4%BA%8B%E6%83%85%3F+%E4%BB%A5%E5%8F%8A%E5%A6%82%E4%BD%95%E5%8E%BB%E5%81%9A%3F#6b7807670b73cc22 社区中有哪些应该做的事情? 以及如何去做?]_ ^- SocialLearnLab-Members:“教育大发现”核心成员列表 | Google 网上论坛^
 === 组织设计 ===
 
 可以参考录音，([http://www.woodpecker.org.cn/share/classes/classes2008/081115-cbc08-sll/081115-sll-moon-discuss.ogg 081115-sll-moon-discuss.ogg])俺提出的:
@@ -177,6 +178,4 @@ SLL 的创始人们,对于 SLL.org 半年来的发展和变化,
 
 = Discuss =
 `还有什么想法?持续聚集哪,,,`
-
-
 
