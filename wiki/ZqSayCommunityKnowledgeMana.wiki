@@ -21,6 +21,8 @@ SEE::[SllProjectFlows SLL项目流程]/*[SllPrjZQ 仨儿之建议集]*
 }}}
 来临时进入关注,,
 
+出自:_[https://groups.google.com/group/sociallearnlab-members/browse_thread/thread/ba0b7b7969e11bbe/f453b4113fe41230?lnk=gst&q=%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86+%E5%BC%80%E6%94%BE%E9%A1%B9%E7%9B%AE%E7%BB%84%E7%9A%84%E6%96%87%E6%A1%A3#f453b4113fe41230 知识管理开放项目组的文档]_ ^- SocialLearnLab-Members:“教育大发现”核心成员列表 | Google 网上论坛^
+
 `简单的说，知识管理是由两个方面組成的:`
 {{{
 0. 知识本身的整理和发布
@@ -34,6 +36,8 @@ SEE::[SllProjectFlows SLL项目流程]/*[SllPrjZQ 仨儿之建议集]*
 4. 根据具体知识使用情况,不断改进,,,
 }}}
 即,先得有知识仓库基础,然后,在此基础上,设计大家利用仓库进行知识积累和使用的行为,并持续优化下去,,,,
+
+出自:_[https://groups.google.com/group/sociallearnlab-members/browse_thread/thread/9fce14b5e181bc35/dcb0dd913fde9034?lnk=gst&q=%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86%E6%98%AF%E7%94%B1%E4%B8%A4%E4%B8%AA%E6%96%B9%E9%9D%A2%E7%B5%84%E6%88%90%E7%9A%84#dcb0dd913fde9034 社区发展中的知识管理建设]_ ^- SocialLearnLab-Members:“教育大发现”核心成员列表 | Google 网上论坛^
 
 ～～～～
 
@@ -54,6 +58,8 @@ FAQ 解释/定义各种专用名词:
  * 通识教育? 新思想新项目孵化? ,,,, 
  * 否则,大家都是相互猜,或是反复的进行同样的 Google 搜索学习,,,,
 
+出自:_[https://groups.google.com/group/sociallearnlab-members/browse_thread/thread/4eaad2d0fc6764f0/0bb4989177c98364?lnk=gst&q=%E7%9B%B8%E5%85%B3%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF%E8%A1%A5%E9%A1%BA%E5%BA%8F%E5%92%8C%E5%85%A5%E5%8F%A3#0bb4989177c98364 Say-you-Say-me社区核心成员相互问候欢迎贴]_ ^- SocialLearnLab-Members:“教育大发现”核心成员列表 | Google 网上论坛^ 
+
 ～～～～
 
 `> 这个IRC中的内容,能放在WIKI中吗?仨儿,我已经放啦，有没有什么不当的地方呢。WIKI上好看是完全公开的。`
@@ -64,6 +70,8 @@ FAQ 解释/定义各种专用名词:
 建议，专门维基页面比如说 IrcDiscuss 进行按照日期的收集通告....
 }}}
 
+出自:_[https://groups.google.com/group/sociallearnlab-members/browse_thread/thread/f82b036e4c7fb89b/a28008d439dd9ab6?lnk=gst&q=%E5%BC%80%E6%94%BE%E7%BB%84%E7%BB%87%E7%9A%84%E4%B8%80%E5%88%87%EF%BC%8C%E9%83%BD%E5%BA%94%E8%AF%A5%E5%85%AC%E5%BC%80%E7%9A%84#a28008d439dd9ab6 SLL20080821]_ ^- SocialLearnLab-Members:“教育大发现”核心成员列表 | Google 网上论坛^ 
+
 ～～～～
 
 === 社区字典 ===
@@ -73,6 +81,8 @@ FAQ 解释/定义各种专用名词:
 建议，立即创立 辞典，进行收集和发布！
 }}}
 
+出自:_[https://groups.google.com/group/sociallearnlab-members/browse_thread/thread/22b0755e9779d2dc/e8176ca6a3963588?lnk=gst&q=%E9%9A%8F%E7%9D%80%E7%A4%BE%E5%8C%BA%E7%9A%84%E5%8F%91%E5%B1%95%EF%BC%8C%E5%90%84%E7%A7%8D%E4%B8%93%E7%94%A8%E8%AF%8D%E4%B9%9F%E5%A4%9A%E4%BA%86%E8%B5%B7%E6%9D%A5%EF%BC%8C#e8176ca6a3963588 大家说说，我们怎么来做第一期社区简报]_ ^- SocialLearnLab-Members:“教育大发现”核心成员列表 | Google 网上论坛^ 
+
 ～～～～
 
 `>> 大家好，终于在仨儿的耐心帮助下，我们的社区网站地图产生了，从首页链接也可以，访问地址也可以`
@@ -80,6 +90,8 @@ FAQ 解释/定义各种专用名词:
 {{{
 + 应该有修订版本历史,简要记述,本图谱经历了哪些版本的修订,修订人,时间,主要修订,,,
 }}}
+
+出自:_[https://groups.google.com/group/sociallearnlab-members/browse_thread/thread/685ed72e714ba2af/f48159b53a6e8860?lnk=gst&q=%E5%BA%94%E8%AF%A5%E6%9C%89%E4%BF%AE%E8%AE%A2%E7%89%88%E6%9C%AC%E5%8E%86%E5%8F%B2%2C%E7%AE%80%E8%A6%81%E8%AE%B0%E8%BF%B0#f48159b53a6e8860 关于CAMPtools网站图谱显示问题]_ ^- SocialLearnLab-Members:“教育大发现”核心成员列表 | Google 网上论坛^ 
 
 == www.sociallearnlab.org/wiki和 Google code wiki 的区别 ==
 
@@ -101,6 +113,8 @@ OBP 维基的核心是 开放图书工程相关的所有知识,
 }}}
 ~ ZoomQuiet
 
+出自:_[https://groups.google.com/group/sociallearnlab-members/browse_thread/thread/f077f2c27486beb2/6b631001b5344f64?lnk=gst&q=%E5%95%84%E6%9C%A8%E9%B8%9F%E7%BB%B4%E5%9F%BA%E7%9A%84%E6%A0%B8%E5%BF%83%E6%98%AFPython+%E7%9B%B8%E5%85%B3%E7%9A%84%E6%89%80%E6%9C%89%E7%9F%A5%E8%AF%86%2C#6b631001b5344f64 关于“教育大发现”社区功能架构的一点建议]_ ^- SocialLearnLab-Members:“教育大发现”核心成员列表 | Google 网上论坛^ 
+
 == 针对BBS和“不靠谱”软件 ==
 
 社区研究之BBS的死亡鉴定
@@ -109,6 +123,9 @@ OBP 维基的核心是 开放图书工程相关的所有知识,
 类似BBS 的重注意力，不重内容的沟通平台对于教育的推进和知识的积累只能起到破坏性的反作用！
  * 对于实时交流，俺建议使用 IRC 聊天室，
  * 配合插件可以自动记录到维基中...*[http://wiki.woodpecker.org.cn/moin/IrcLogBotHowto IRCBOT配置指南]*
+ 
+出自:_[https://groups.google.com/group/sociallearnlab-members/browse_thread/thread/c44010eda198754a/7cffbbc17fd394b3?lnk=gst&q=%E7%A4%BE%E5%8C%BA%E7%A0%94%E7%A9%B6%E4%B9%8BBBS%E7%9A%84%E6%AD%BB%E4%BA%A1%E9%89%B4%E5%AE%9A#7cffbbc17fd394b3 社区BBS意见征求]_ ^- SocialLearnLab-Members:“教育大发现”核心成员列表 | Google 网上论坛^ 
+
 {{{
 任何改革，最困难的改变固有习惯，
 与其在吸引来后，才一点点改变，
@@ -120,7 +137,7 @@ OBP 维基的核心是 开放图书工程相关的所有知识,
 好软件,就是最吻合自个儿习惯的软件!
 }}}
 
+出自:_[https://groups.google.com/group/sociallearnlab-members/browse_thread/thread/f077f2c27486beb2/4fe44dba213a8402?lnk=gst&q=%E4%BB%BB%E4%BD%95%E6%94%B9%E9%9D%A9%EF%BC%8C%E6%9C%80%E5%9B%B0%E9%9A%BE%E7%9A%84%E6%94%B9%E5%8F%98%E5%9B%BA%E6%9C%89%E4%B9%A0%E6%83%AF%EF%BC%8C#4fe44dba213a8402 关于“教育大发现”社区功能架构的一点建议]_ ^- SocialLearnLab-Members:“教育大发现”核心成员列表 | Google 网上论坛^ 
+
 = Discuss =
 `还有什么想法?持续聚集哪,,,`
-
-
