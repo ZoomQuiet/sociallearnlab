@@ -33,7 +33,7 @@ SEE::[SllProjectFlows SLL项目流程]/*[SllPrjZQ 仨儿之建议集]*
 }}}
 `0 directories, 4 files`
 
-出自:_[https://groups.google.com/group/sociallearnlab-members/browse_thread/thread/685ed72e714ba2af/4cd3366685b7d2af?lnk=gst&q=%E5%85%B3%E4%BA%8ECAMPtools%E7%BD%91%E7%AB%99%E5%9B%BE%E8%B0%B1%E6%98%BE%E7%A4%BA%E9%97%AE%E9%A2%98#4cd3366685b7d2a 关于“教育大发现”社区功能架构的一点建议]_ ^- SocialLearnLab-Members:“教育大发现”核心成员列表 | Google 网上论坛^
+出自:_[https://groups.google.com/group/sociallearnlab-members/browse_thread/thread/685ed72e714ba2af/4cd3366685b7d2af?lnk=gst&q=%E5%85%B3%E4%BA%8ECAMPtools%E7%BD%91%E7%AB%99%E5%9B%BE%E8%B0%B1%E6%98%BE%E7%A4%BA%E9%97%AE%E9%A2%98#4cd3366685b7d2a 关于CAMPtools网站图谱显示问题]_ ^- SocialLearnLab-Members:“教育大发现”核心成员列表 | Google 网上论坛^
 
 
 == XMind ==
@@ -59,4 +59,3 @@ SEE::[SllProjectFlows SLL项目流程]/*[SllPrjZQ 仨儿之建议集]*
 
 = Discuss =
 `还有什么想法?持续聚集哪,,,`
-
