@@ -65,7 +65,7 @@ SLL 当前的状态是：
 
 建议,真正理解和自觉使用!
 
-出自:_[https://groups.google.com/group/sociallearnlab-members/browse_thread/thread/d61666cd86685581/240524035a646aee?lnk=gst&q=[KM]%E6%B2%9F%E9%80%9A%E4%BD%93%E9%AA%8C%E5%92%8C%E5%BB%BA%E8%AE%AE#240524035a646aee 沟通体验和建议]_ ^- SocialLearnLab-Members:“教育大发现”核心成员列表 | Google 网上论坛^
+出自:_[https://groups.google.com/group/sociallearnlab-members/browse_thread/thread/d61666cd86685581/240524035a646aee?lnk=gst&q=%E6%B2%9F%E9%80%9A%E4%BD%93%E9%AA%8C%E5%92%8C%E5%BB%BA%E8%AE%AE#240524035a646aeee 沟通体验和建议]_ ^- SocialLearnLab-Members:“教育大发现”核心成员列表 | Google 网上论坛^
 
 
 == 通则 ==
@@ -94,7 +94,7 @@ SLL 当前的状态是：
 }}}
 *沟通亦复如此!*
 
-出自:_[https://groups.google.com/group/sociallearnlab-members/browse_thread/thread/d61666cd86685581/240524035a646aee?lnk=gst&q=[KM]%E6%B2%9F%E9%80%9A%E4%BD%93%E9%AA%8C%E5%92%8C%E5%BB%BA%E8%AE%AE#240524035a646aee 沟通体验和建议]_ ^- SocialLearnLab-Members:“教育大发现”核心成员列表 | Google 网上论坛^
+出自:_[https://groups.google.com/group/sociallearnlab-members/browse_thread/thread/d61666cd86685581/240524035a646aee?lnk=gst&q=%E6%B2%9F%E9%80%9A%E4%BD%93%E9%AA%8C%E5%92%8C%E5%BB%BA%E8%AE%AE#240524035a646aee 沟通体验和建议]_ ^- SocialLearnLab-Members:“教育大发现”核心成员列表 | Google 网上论坛^
 === 沟通渠道的选择 ===
 这也是有技巧的哪:
 {{{
@@ -126,5 +126,3 @@ SLL 当前的状态是：
 
 = Discuss =
 `还有什么想法?持续聚集哪,,,`
-
-
