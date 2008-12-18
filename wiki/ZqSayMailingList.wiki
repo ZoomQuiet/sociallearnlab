@@ -22,6 +22,8 @@ SEE::[SllProjectFlows SLL项目流程]/*[SllPrjZQ 仨儿之建议集]*
  * 现在是多个列表没有差异,同一邮件被任何转发给所有列表,线索混乱,讨论反复,
  * 常常一个小问题,讨论几周,到最后大家都忘记想要确认什么了,,,
 
+出自:_[https://groups.google.com/group/sociallearnlab-members/browse_thread/thread/ce5f3d6eb912897b/15bd0f49a2b3bae7?lnk=gst&q=%E5%88%97%E8%A1%A8%E8%AE%A2+%E9%98%85%E7%AE%A1%E7%90%86%E5%8A%A0%E5%BC%BA++#15bd0f49a2b3bae7 列表订阅管理加强]_ ^- SocialLearnLab-Members:“教育大发现”核心成员列表 | Google 网上论坛^
+
 === 邮件管理软件 ===
 
 俺从 Foxmail->the bat! 到现在的 雷鸟,邮件管理量是越来越大的,
@@ -56,6 +58,9 @@ s ~ 标注星号, 就可以追加自定的不同含义的星号
 
 `Happy Hacking,Happy Mailing,,,`
 
+出自:_[
+https://groups.google.com/group/sociallearnlab-members/browse_thread/thread/e4c114187246fba8/ab9388443009c7f2?lnk=gst&q=%E6%98%8E%E7%A1%AE%E7%9A%84%E7%9F%A5%E9%81%93%E8%87%AA%E4%B8%AA%E5%84%BF%E6%83%B3%E9%80%9A%E8%BF%87%E9%82%AE%E4%BB%B6%E8%BE%BE%E5%88%B0%E4%BB%80%E4%B9%88%E7%9B%AE%E7%9A%84%2C%E9%82%AE%E4%BB%B6%E4%B8%8D%E6%98%AF%E7%BD%91%E9%A1%B5%2C%E4%B8%8D%E6%98%AF%E9%9A%8F%E4%BE%BF%E5%9B%9E%E5%A4%8D%E7%9A%84%2C%2C%2C#ab9388443009c7f2 大家都来体验Gmail and Gtalk，写下你的试用感受！]_ ^- SocialLearnLab-Members:“教育大发现”核心成员列表 | Google 网上论坛^
+
 
 == 使用 ==
 
@@ -68,6 +73,7 @@ s ~ 标注星号, 就可以追加自定的不同含义的星号
 0-3 每封邮件都说明清楚 4W1H
 }}}
 
+出自:_[https://groups.google.com/group/sociallearnlab-members/browse_thread/thread/22294ffa93f47202/96164ccf69e61683?lnk=gst&q=%E5%B0%86%E6%89%80%E6%9C%89%E9%93%BE%E6%8E%A5%E5%8D%95%E7%8B%AC%E4%B8%80%E8%A1%8C#96164ccf69e61683 新修改的简报大家再看看，要怎么改]_ ^- SocialLearnLab-Members:“教育大发现”核心成员列表 | Google 网上论坛^
 
 核心成员列表::
  # 强烈建议小的讨论到IRC里或Code Issues进行 - SocialLearnLab-Members:"教育大发现"核心成员列表 | Google 网上论坛
@@ -78,6 +84,7 @@ s ~ 标注星号, 就可以追加自定的不同含义的星号
 作为社区沟通邮箱，请不要设定自动回复，
 自动回复没有任何意义，而且成为他人邮箱的噪音,,,
 
+出自:_[https://groups.google.com/group/sociallearnlab-members/browse_thread/thread/ca3046e7c61fef47/0a36b93dc616c1ee?lnk=gst&q=%E5%BC%BA%E7%83%88%E5%BB%BA%E8%AE%AE%E5%B0%8F%E7%9A%84%E8%AE%A8%E8%AE%BA%E5%88%B0IRC%E9%87%8C%E6%88%96Code+Issues%E8%BF%9B%E8%A1%8C#0a36b93dc616c1ee 强烈建议小的讨论到IRC里或Code Issues进行]_ ^- SocialLearnLab-Members:“教育大发现”核心成员列表 | Google 网上论坛^
 
 === 链接技巧 ===
 `> 点击 http://groups.google.com/group/sociallearnlab-members/web/%E7%A4%BE%E5%8C%BA%E7%BD%91%E9%A1%B5%E5%8F%8A%E5%8A%9F%E8%83%BD%E8%AE%BE%E8%AE%A1%E9%97%AE%E9%A2%98%E5%8F%8A%E5%BB%BA%E8%AE%AE?hl=zh-CN`
@@ -89,6 +96,8 @@ s ~ 标注星号, 就可以追加自定的不同含义的星号
 1. 长URL 使用工具进行精简使用: http://tinyurl.com/5tw3j6
 2. 需要大家都修订的,使用 维基 最好 ;)
 }}}
+
+出自:_[https://groups.google.com/group/sociallearnlab-members/browse_thread/thread/9665fba84af135c1/0327fdca816dccf0?lnk=gst&q=%E9%95%BFURL+%E4%BD%BF%E7%94%A8%E5%B7%A5%E5%85%B7%E8%BF%9B%E8%A1%8C%E7%B2%BE%E7%AE%80%E4%BD%BF%E7%94%A8%3A+#0327fdca816dccf0 查看此网页“社区网页及功能设计问题及建议”]_ ^- SocialLearnLab-Members:“教育大发现”核心成员列表 | Google 网上论坛^
 
 
 === GoogleGroup:邮件前缀 ===
@@ -105,6 +114,9 @@ sociallearnlab-member
 
 这也是团队的内部约定和专用词，也是文化建议之一....
 
+出自:_[https://groups.google.com/group/sociallearnlab-members/browse_thread/thread/33e97b88f58d48f1/370aec15a861c8ed?lnk=gst&q=%E9%83%BD%E5%BA%94%E8%AF%A5%E6%9C%89Unix+%E7%BC%A9%E5%86%99%E5%90%8D%E7%9A%84#370aec15a861c8ed 重要：大家登录教育大发现首页的用户名及密码]_ ^- SocialLearnLab-Members:“教育大发现”核心成员列表 | Google 网上论坛^
+
+
  * 不过，列表的设置 没有按照习惯方式进行哪
 {{{
 前缀配置成 [SLL-mem:%d]
@@ -113,7 +125,8 @@ sociallearnlab-member
 比如说 [SLL-mem:1024] 就是指总第1024 封邮件...
 }}}
 
+出自:_[https://groups.google.com/group/sociallearnlab-members/browse_thread/thread/1822555bffd3980a/986c8a45b15b892c?lnk=gst&q=%E5%B0%B1%E6%98%AF%E6%8C%87%E6%80%BB%E7%AC%AC1024+%E5%B0%81%E9%82%AE%E4%BB%B6...#986c8a45b15b892c “核心成员”加盟参考说明]_ ^- SocialLearnLab-Members:“教育大发现”核心成员列表 | Google 网上论坛^
+
+
 = Discuss =
 `还有什么想法?持续聚集哪,,,`
-
-
