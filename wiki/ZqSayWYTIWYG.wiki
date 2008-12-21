@@ -40,6 +40,9 @@ SEE::[SllProjectFlows SLL项目流程]/*[SllPrjZQ 仨儿之建议集]*
 作为教育社区,真的应该从最小处作起,使用靠谱的自由/明晰字体 宣扬版权意识,以便未来我们提纯出来的社会化教育方案也进行法律保护下的正确推广,
 不能让小人们任意窜改大家的探索成果说是自个儿的然后毒害学生们,,,,
 
+
+出自:_[https://groups.google.com/group/sociallearnlab-members/browse_thread/thread/685ed72e714ba2af/f48159b53a6e8860?lnk=gst&q=0.+%E8%83%8C%E6%99%AF%E5%A4%AA%E5%A4%A7!%E6%89%93%E5%BC%80%E6%9C%89%E7%AD%89%E5%80%99%2C%E5%BB%BA%E8%AE%AE%E4%BD%BF%E7%94%A8gif+%E5%B0%8F%E5%9B%BE%E7%89%87%E4%BD%9C%E8%83%8C%E6%99%AF%2C%E8%80%8C%E4%B8%94%E8%83%8C%E6%99%AF%E4%B8%8D%E5%BA%94%E8%AF%A5%E5%BD%B1%E5%93%8D%E6%96%87%E5%AD%97%E7%9A%84%E9%98%85%E8%AF%BB!+#f48159b53a6e8860 Fwd:关于CAMPtools网站图谱显示问题]_ ^- SocialLearnLab-Members:“教育大发现”核心成员列表 | Google 网上论坛^
+
 ～～～～
 
 建议，不要使用 HTML 格式邮件！
@@ -47,6 +50,8 @@ SEE::[SllProjectFlows SLL项目流程]/*[SllPrjZQ 仨儿之建议集]*
 而且应该给出体积，时长等等基础信息，以便下载时参考，，，
 现在俺这儿下载时，就是不知道一共有多大，应该等待多少时间,,,
 而且，最好不要给 wav 的原始文件，也不要使用 mp3 这种版权格式的压缩，建议使用 .ogg 自由音乐格式,,,
+
+出自:_[https://groups.google.com/group/sociallearnlab-members/browse_thread/thread/c3e8bf8997968efa/907e718b4eeb0a78?lnk=gst&q=%E8%80%8C%E4%B8%94%E5%BA%94%E8%AF%A5%E7%BB%99%E5%87%BA%E4%BD%93%E7%A7%AF%EF%BC%8C%E6%97%B6%E9%95%BF%E7%AD%89%E7%AD%89%E5%9F%BA%E7%A1%80%E4%BF%A1%E6%81%AF%EF%BC%8C%E4%BB%A5%E4%BE%BF%E4%B8%8B%E8%BD%BD%E6%97%B6%E5%8F%82%E8%80%83%EF%BC%8C%EF%BC%8C%EF%BC%8C#907e718b4eeb0a78 分享：网志年会教育大发现社区录音]_ ^- SocialLearnLab-Members:“教育大发现”核心成员列表 | Google 网上论坛^
 
 
 
@@ -95,10 +100,9 @@ LeTaX/SGML/HTML/XML/XHTML/DocBook ....
 跨平台兼容性:  结构化文本> 标签文本 > Office文档
 }}}
 
+出自:_[https://groups.google.com/group/sociallearnlab-members/browse_thread/thread/f077f2c27486beb2/ecd844f3db7e7d56?lnk=gst&q=%E8%BF%99%E7%82%B9%2C%E4%BF%BA%E6%97%A0%E6%B3%95%E8%AE%A4%E5%90%8C%3A#ecd844f3db7e7d56 关于“教育大发现”社区功能架构的一点建议]_ ^- SocialLearnLab-Members:“教育大发现”核心成员列表 | Google 网上论坛^
 
-
+   
 = Discuss =
 `还有什么想法?持续聚集哪,,,`
-
-
 
