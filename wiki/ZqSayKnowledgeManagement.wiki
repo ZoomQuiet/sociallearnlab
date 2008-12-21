@@ -26,6 +26,9 @@ SEE::[SllProjectFlows SLL项目流程]/*[SllPrjZQ 仨儿之建议集]*
  * 这也是俺的 weknow 的核心假设,,,
   * http://wiki.woodpecker.org.cn/moin/WeKnow/DemandOrderRep
 
+
+出自:_[https://groups.google.com/group/sociallearnlab-members/browse_thread/thread/3bcdeda75b31b294/07e7d94a7cb62214?lnk=gst&q=%E8%BF%99%E4%B8%AA%E8%83%BD%E5%86%99%E5%87%BA%E9%9D%A0%E8%B0%B1%E6%96%87%E7%AB%A0%E7%9A%84%E4%BA%BA%2C%E5%8F%88%E6%9C%89%E4%BA%9B%E4%BB%80%E4%B9%88%E7%A0%94%E7%A9%B6%E9%A2%86%E5%9F%9F%3F+#07e7d94a7cb62214 使用Thunderbird离线管理Google月历]_ ^- SocialLearnLab-Members:“教育大发现”核心成员列表 | Google 网上论坛^
+
 === 发表是最好的记忆 ===
 {{{
 习惯而已，任何所得，立即记录 ；）
@@ -40,16 +43,21 @@ SEE::[SllProjectFlows SLL项目流程]/*[SllPrjZQ 仨儿之建议集]*
 表现出了治学严谨,分类自然,处处为读者着想的学者风范,
 这是俺在 SLL 主站看不到的,,,,
 }}}
+出自:_[https://groups.google.com/group/sociallearnlab-members/browse_thread/thread/6c5eb2453b00ea4a/9dd954d4da2c9511?lnk=gst&q=%E5%8F%91%E8%A1%A8%E6%98%AF%E6%9C%80%E5%A5%BD%E7%9A%84%E8%AE%B0%E5%BF%86#9dd954d4da2c9511 好看教研（ItcHaokanbu）项目管理经验分享]_ ^- SocialLearnLab-Members:“教育大发现”核心成员列表 | Google 网上论坛^
+
 ～～～～
 {{{
 不用感謝俺，
   俺分享靠谱经验，有人愿意尝试，
   俺就可以收获进一步反馈，可以完善经验，俺得感谢大家哪...
 }}}
+出自:_[https://groups.google.com/group/sociallearnlab-members/browse_thread/thread/f077f2c27486beb2/a3fa7a7290b2d340?lnk=gst&q=%E4%BF%BA%E5%B0%B1%E5%8F%AF%E4%BB%A5%E6%94%B6%E8%8E%B7%E8%BF%9B%E4%B8%80%E6%AD%A5%E5%8F%8D%E9%A6%88#a3fa7a7290b2d340 关于“教育大发现”社区功能架构的一点建议]_ ^- SocialLearnLab-Members:“教育大发现”核心成员列表 | Google 网上论坛^
+
 ～～～～
 
 `> 简单可行最好，如果需求工具太多，怕大家应付不过来。`
  * 是也乎,SVN 这个版本管理工具是任何对自个儿知识负责的人都应该学习和使用的,这样才能够进入有版本管理的知识管理境界,
+出自:_[https://groups.google.com/group/sociallearnlab-members/browse_thread/thread/f077f2c27486beb2/8a0155d2a70216b6?lnk=gst&q=%E5%AF%B9%E8%87%AA%E4%B8%AA%E5%84%BF%E7%9F%A5%E8%AF%86%E8%B4%9F%E8%B4%A3%E7%9A%84%E4%BA%BA%E9%83%BD%E5%BA%94%E8%AF%A5%E5%AD%A6%E4%B9%A0%E5%92%8C%E4%BD%BF%E7%94%A8%E7%9A%84#8a0155d2a70216b6 关于“教育大发现”社区功能架构的一点建议]_ ^- SocialLearnLab-Members:“教育大发现”核心成员列表 | Google 网上论坛^
 
 ～～～～
 {{{
@@ -62,6 +70,7 @@ SEE::[SllProjectFlows SLL项目流程]/*[SllPrjZQ 仨儿之建议集]*
 所以,所有改进, 先将自个儿改到位了,
   也就真明白相关细节和好处了,这也才可以达到足以推广的程度,,,
 }}}
+出自:_[https://groups.google.com/group/sociallearnlab-members/browse_thread/thread/9fce14b5e181bc35/2d0ee7498e7e9e26?lnk=gst&q=%E5%85%88%E8%AE%A9%E8%87%AA%E4%B8%AA%E5%84%BF%E7%88%BD%E8%B5%B7%E6%9D%A5!#2d0ee7498e7e9e26 关于“教育大发现”社区功能架构的一点建议]_ ^- SocialLearnLab-Members:“教育大发现”核心成员列表 | Google 网上论坛^
 
 ～～～～
 
@@ -70,7 +79,7 @@ SEE::[SllProjectFlows SLL项目流程]/*[SllPrjZQ 仨儿之建议集]*
 一个都不能少！
 外地的成员，就依赖这些异步知识储备来同步认识了
 }}}
-
+出自:_[https://groups.google.com/group/sociallearnlab-members/browse_thread/thread/ac8fcf6b942e611c/a95da9f2336f5da8?lnk=gst&q=%E5%BD%95%E9%9F%B3%EF%BC%81%E5%BD%95%E5%83%8F%EF%BC%81%E7%85%A7%E7%89%87%EF%BC%81%E6%96%87%E5%AD%97%EF%BC%81#a95da9f2336f5da8 与社区顾问陈堃小聚]_ ^- SocialLearnLab-Members:“教育大发现”核心成员列表 | Google 网上论坛^
 === Blog 写作 ===
 `对xiuli老师写博客的建议`
 
@@ -230,7 +239,8 @@ Just do it!
 ,,,,
 }}}
 
+出自:_[https://groups.google.com/group/sociallearnlab-members/browse_thread/thread/6c5eb2453b00ea4a/9dd954d4da2c9511?lnk=gst&q=%E5%9B%A0%E4%B8%BA%E5%BE%88%E5%A4%9A%E6%97%B6%E5%80%99%E4%B8%8D%E5%8A%A8%E6%89%8B%E5%86%99%E6%98%AF%E4%B8%8D%E7%9F%A5%E9%81%93%E8%87%AA%E4%B8%AA%E5%84%BF%E6%98%AF%E5%90%A6%E7%9C%9F%E6%AD%A3%E7%9F%A5%E9%81%93%E7%9A%84#9dd954d4da2c9511 好看教研（ItcHaokanbu）项目管理经验分享]_ ^- SocialLearnLab-Members:“教育大发现”核心成员列表 | Google 网上论坛^
+
+
 = Discuss =
 `还有什么想法?持续聚集哪,,,`
-
-
