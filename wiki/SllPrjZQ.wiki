@@ -1,4 +1,4 @@
-#summary 项目过程改进 ZoomQuiet版 实践参考
+#summary 社区过程改进 实践参考 ZoomQuiet版
 #labels SLLS,ZoomQuiet,SllProjFlows
 
 SEE::[SllProjectFlows SLL项目流程]
@@ -76,8 +76,6 @@ http://xmindshare.s3.amazonaws.com/preview/sll-proj-zqsuggest-gdkjm-122839138690
 
 
 = Discuss =
-
-
 
 
 
