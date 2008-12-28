@@ -1,5 +1,5 @@
 #summary 080903IRC会议记录——GSH项目
-#labels Phase-Design,Phase-Support
+#labels GSH,GSHIrc,IRC
 
 = 介绍 =
 
