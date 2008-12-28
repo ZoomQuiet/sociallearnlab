@@ -88,6 +88,8 @@ GSH技术组编写设计：http://code.google.com/p/sociallearnlab/wiki/GshTechn
  * 郑彬彬 
  * 汤富源 
  * 傅佩缮 
+ * 胡智宏
+
 
 == 六、参考资源 ==
  * 1、Google官方Blog ：http://googleblog.blogspot.com/
