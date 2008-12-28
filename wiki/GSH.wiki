@@ -5,6 +5,10 @@
 相关IRC会议讨论:
  # GshIrc080903 ~
  # GshIrc081008 ~
+
+《Google服务应用手册》项目实施记录：http://code.google.com/p/sociallearnlab/wiki/GshLog
+
+项目简报：[GshBrief081001]    
 == 一、背景与需求 ==
 在互联网迅速发展的今天，我们的学习和生活越来越离不开网络。尤其是在Web2.0的迅速发展之下，很多公司纷纷推出各种在线社会性软件，帮助全球各地的朋友更快捷、更高效、更便利的分享资源、互联信息、合作学习、交流思想、认知世界。
 
@@ -25,10 +29,16 @@
 
 === 1.编写方式 ===
 《Google服务应用手册》图书编写“教育大发现”社区的一个项目，每一位有兴趣的朋友发挥您的才华,贡献您的力量，作为图书共同创作参与者，加入图书的编写，协同完­成图书。
+
 编写空间：本页[GSH] 讨论组：https://groups.google.com/group/google360
+
+目前编写暂时分为Google服务技术操作部分和这些服务在教学中的具体应用方法部分
 === 2.基本原则 ===
 首先，兴趣第一，有兴趣，我们才会有激情地投入工作。您可以根据您的特点和兴趣，选择参与您想编写的章节，欢迎您的参与，本书编写遵守CC协议。
-== 四、技术组正文 ==
+== 四、GSH技术使用版 ==
+GSH技术组编写设计：http://code.google.com/p/sociallearnlab/wiki/GshTechnologyTeam
+
+章节目录：
 
  # GshZh0Index ~ 前言 + 综述（背景，Google 服务目前发展，新时代有新的要求，Google 教育与学习，为什么有这样的变化和要求）
  # GshZh01Preface
@@ -48,18 +58,35 @@
  # GshTechnologyIntegrate
  # GshTechnologySources
 
-== 五、团队 ==
+
+== 五、《Google服务应用手册》教师故事版 ==
+教师故事版编写设计： http://code.google.com/p/sociallearnlab/wiki/GshStoryDesign
+
+== 六、团队 ==
 参与即是学习，让我们用社会性的方式来参与体验学习推动web2.0学习，有兴趣参与图书编写的朋友请联系我们，
 我们的社区网站：教育大发现（socialle­arnlab）http://sociallearnlab.org ，联系方式：
 
-
   o 吴长城：chengcheng1098@gmail.com
-
 
   o 余波：y.blj018@gmail.com
 
-
   o 庄秀丽：xiuli.zhuang@gmail.com
+
+当前主要参与者：
+（不分先后）
+ * 仨儿
+ * 石峰
+ * 吴长城
+ * 余波
+ * 上官良雅
+ * 王万清
+ * 李新宇
+ * 郑彬彬
+ * 庄秀丽 
+ * 魏国福 
+ * 郑彬彬 
+ * 汤富源 
+ * 傅佩缮 
 
 == 六、参考资源 ==
  * 1、Google官方Blog ：http://googleblog.blogspot.com/
