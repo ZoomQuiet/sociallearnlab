@@ -1,5 +1,5 @@
-#summary EduAnnIrc081203 EduAnn2018工作委员会第三次会议.
-#labels EduAnnIrc081203,EduAnn2018,SLL,irc
+#summary EduAnn2018工作委员会第三次会议.
+#labels EduAnnIrc,EduAnn2018,SLL,irc
 
 = 会议背景 =
 
