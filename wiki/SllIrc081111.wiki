@@ -1,5 +1,5 @@
-#labels SllIrc
-#中文网志年会前夕 SLLIrc网络会议记录 .
+#summary 中文网志年会前夕 SLLIrc网络会议记录 .
+#labels SllIrc,IRC
 
 == 研讨流程 ==
 
