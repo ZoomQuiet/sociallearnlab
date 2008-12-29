@@ -1,5 +1,5 @@
 #summary 教育大发现社区irc会议 针对社区委员会
-#labels SllIrc,SLL,SLLS
+#labels SllIrc,SLL,SLLS,irc
 
 
 = Introduction =
