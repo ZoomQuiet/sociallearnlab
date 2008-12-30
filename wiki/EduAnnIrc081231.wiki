@@ -1,0 +1,26 @@
+#summary EduAnn2018工作委员会第六次会议.
+#labels SLL,EduAnn2018,EduAnnIrc,IRC
+
+= Introduction =
+
+时间：2008.12.31  
+晚上8：00
+
+中心议题：宣言会议版定稿、发布
+http://sociallearnlab.org/wiki/index.php/EduAnn2018v05
+
+= 参考 =
+EduAnn2018工作委员会第五次会议.
+http://code.google.com/p/sociallearnlab/wiki/EduAnnIrc081217
+
+EduAnn2018工作委员会第四次会议.
+http://code.google.com/p/sociallearnlab/wiki/EduAnnIrc081210
+
+EduAnn2018工作委员会第三次会议.
+http://code.google.com/p/sociallearnlab/wiki/EduAnnIrc081203
+
+EduAnn2018工作委员会第二次会议.
+http://code.google.com/p/sociallearnlab/wiki/EduAnnIrc081126
+
+EduAnn2018工作委员会第一次会议.
+http://code.google.com/p/sociallearnlab/wiki/EduAnnIrc081120
