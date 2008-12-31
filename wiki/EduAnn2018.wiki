@@ -110,7 +110,8 @@ EduAnn2018工作委员会第一次会议. http://code.google.com/p/sociallearnla
 EduAnn2018v05
 
 == 宣言(发布版) ==
-撰写ing,,,
+会议版1.0发布版
+EduAnn2018v1
 
 === 序文 ===
 撰写ing,,,
