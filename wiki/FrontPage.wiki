@@ -12,23 +12,40 @@
  * [SllJoinHowto] ~ 加入 SLL 社区概述
   * SllQuickInto ~ 快速进入 SLL 团队协同 ^教程^
  * [SllResource] ~ SLL 资源
- * [SllDict] ~ SLL 辞典
+  * [SllDict] ~ SLL 辞典
+  * *[UsageIRC IRC]*
+   * 社区会议:
+    * 2008: [SllIrc080821 08.21],[SllIrc080911 09.11],[SllIrc081111 11.11],[SllIrc081120 11.20],,,
+   * 图书讨论:
+    * GSH :[GshIrc080903 09.03],[GshIrc081008 10.08],,,
+    * [ItcHaokanbu ITC]: ,,,
 
 == 组织 ==
  * [SllGroup] ~ SLL团队
   * [SllRole] ~ SLL 角色
- * [SllFlows]~ SLL 工作流程
+  * *[SLLS] ~ SLL 社委会*
+   * 会议:
+    * 2008: [EduAnnIrc081120 11.20]
+   * 实践: _*[SllPrjZQ 仨儿之建议集]*_
  * [SllRules] ~ SLL 规章
+ * [SllFlows]~ SLL 工作流程
+  * *SllBrief ~ SLL简报*:
+   * 2008: [SllBrief080901 九月]; [SllBrief081001 十月]; [SllBrief081101 十一月]; 
+   * 2009: ,,,
 
-----
-*SllBrief ~ SLL简报*:
- * 2008: [SllBrief080901 九月]; [SllBrief081001 十月]; [SllBrief081101 十一月]; 
-
-== 科研项目 ==
+== 教研项目 ==
 
 基于好看簿之社会化教学活动设计研究（ITC－Haokanbu）
   * *[ItcHaokanbu]* ~ 好看教研 ITC－Haokanbu 项目入口
 
+== 社会项目 ==
+*EduAnn2018 ~ 2018 宣言*
+ * [http://www.cnbloggercon.org/blog/ CBC2008 广州]组织教育圆桌会议,引发:
+  * [http://groups.google.com/group/Edu2/browse_thread/thread/59bc377a0c28ab6e 关于“2018年中国教育宣言”的一些商榷]
+  * [https://groups.google.com/group/sociallearnlab-members/browse_thread/thread/2d1d7ad043c1d2e3 面向2018年的中国教育宣言（集思广益）]
+
+*[SNSforTecher 小学教师社会化交流实践]*~教育研究方案
+ * [http://xgxx.haokanbu.com 李明山 - lms0023]（项目的主要负责人)
 
 == 图书项目 ==
 像社会性软件、WEB2.0方式，应当成为每一位力求改变自己寻求发展的学习者，一种成长的方式，终身学习的方式。这是历史发展的必然。为了传播和推进这样一种让人获得新生力量，变革的学习工具，变革的学习方式，我们以教育领域人群（但不局限于）为主要对象，在尝试编写第一套图书。编写前请看：
@@ -56,7 +73,8 @@
   * *[PCSID]* ~ Practical Cases of Social Instructional Design 
  # 社会性参与式网络中的学与教实践
   * *[EiSNS]* ~ Education in SNS net
- 
+ # 网络学习手册
+  * *[SLHB]* ~ SocialLearn HandBook
 
 == 项目组织管理方式 ==
 ----
@@ -76,6 +94,4 @@
  * [http://code.google.com/p/sociallearnlab/wiki/UsageIRC IRC使用说明]^即时沟通工具^
  * [http://code.google.com/p/sociallearnlab/wiki/UsageEverydo Everydo使用说明]^项目管理工具^
  * appending...
-
-
 
