@@ -1,5 +1,5 @@
 #summary EduAnn2018工作委员会第七次会议
-#labels EduAnnIrc,EduAnn2018
+#labels EduAnnIrc,EduAnn2018,irc
 
 = 会议主题 =
 
@@ -714,4 +714,3 @@ http://code.google.com/p/sociallearnlab/wiki/EduAnn2018v1
 (8:56:55 PM) wuchangcheng: 周六晚上8点，大家有事情吗
 
 (8:56:55 PM) JohnTian: 我还好
-
