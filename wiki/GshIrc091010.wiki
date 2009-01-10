@@ -31,14 +31,25 @@ GSH项目目前的情况：
 我们上一阶段写作完成的章节：
 
    1. GshTechnologyGmail
+
    2. GshTechnologyNotebook
+
    3. GshTechnologyPicasa
+
    4. GshTechnologyGroups
+
    5. GshTechnologyIgoogle
+
    6. GshTechnologyDocuments
+
    7. GshTechnologyBook
+
    8. GshTechnologyCalendar
+
    9. GshTechnologyReader
+
   10. GshTechnologyEarth
+
   11. GshTechnologyMap
+
   12. GshTechnologyApps 
