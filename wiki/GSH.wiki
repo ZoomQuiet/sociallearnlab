@@ -5,6 +5,7 @@
 相关IRC会议讨论:
  # GshIrc080903 ~
  # GshIrc081008 ~
+ # GshIrc090110 ~
 
 《Google服务应用手册》项目实施记录：http://code.google.com/p/sociallearnlab/wiki/GshLog
 
