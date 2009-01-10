@@ -1,0 +1,44 @@
+#summary 091010IRC会议记录——GSH项目
+#labels GSH,irc,GshIr
+
+= 介绍 =
+
+时间：2009.1.10  晚8：00
+
+主题：
+
+1.GSH项目下一步推动实施方法讨论
+
+2.具体实施策略，人员分工，里程碑
+
+已有的设计方案：
+
+
+
+
+= 参考 =
+
+[http://groups.google.com/group/sociallearnlab-members/browse_thread/thread/f32280525a3a5306/8974a549d1fd50de?lnk=gst&q=%E5%85%B3%E4%BA%8EGSH%E9%A1%B9%E7%9B%AE%E7%9A%84%E6%8E%A8%E8%BF%9B#8974a549d1fd50de 关于GSH项目的推进]_ ^- SocialLearnLab-Members:“教育大发现”核心成员列表 | Google 网上论坛^
+
+GSH项目目前的情况：
+
+经过大家的共同努力，我们已经创作了不少内容，也收集了很多相关资源素材，但是也存在不少问题：
+比如一直停滞在技术版本创作，
+比如对这些内容推广不够，
+比如技术版写作中对技术的讲解层次不一，有些是面向新手的，有些则是比较适合有一定技术基础的人去学习，还有些没有特别清晰的定位，可读性不强，
+比如内容缺乏特色等等等等
+
+我们上一阶段写作完成的章节：
+
+   1. GshTechnologyGmail
+   2. GshTechnologyNotebook
+   3. GshTechnologyPicasa
+   4. GshTechnologyGroups
+   5. GshTechnologyIgoogle
+   6. GshTechnologyDocuments
+   7. GshTechnologyBook
+   8. GshTechnologyCalendar
+   9. GshTechnologyReader
+  10. GshTechnologyEarth
+  11. GshTechnologyMap
+  12. GshTechnologyApps 
