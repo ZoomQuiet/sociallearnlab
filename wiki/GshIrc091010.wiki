@@ -65,6 +65,9 @@ Googledocument
 
 [http://groups.google.com/group/sociallearnlab-members/browse_thread/thread/f32280525a3a5306/8974a549d1fd50de?lnk=gst&q=%E5%85%B3%E4%BA%8EGSH%E9%A1%B9%E7%9B%AE%E7%9A%84%E6%8E%A8%E8%BF%9B#8974a549d1fd50de 关于GSH项目的推进]_ ^- SocialLearnLab-Members:“教育大发现”核心成员列表 | Google 网上论坛^
 
+[http://groups.google.com/group/sociallearnlab/browse_thread/thread/c6e6d04609f8343d/44b5f7a7bf244bc2#44b5f7a7bf244bc2 分享、讨论有关Gmail和GoogleGroup的使用]_ ^- SocialLearnLab:“教育大发现”邮件列表 | Google 网上论坛^
+
+
 我们上一阶段写作完成的章节：
 
  # GshTechnologyGmail
