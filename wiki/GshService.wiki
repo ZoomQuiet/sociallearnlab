@@ -1,4 +1,4 @@
-#summary GSH项目教师版工具分组组合设计方案
+#summary GSH教师版工具分组组合设计方案
 #labels GSH
 
 = Introduction =
