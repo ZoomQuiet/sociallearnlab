@@ -1,10 +1,11 @@
-#summary One-sentence summary of this page.
+#summary GSH项目教师版工具分组组合设计方案
 #labels GSH
 
 = Introduction =
-大家一起动手来设计
-详细参考：[GshIrc091010]
 
+why：[GshIrc091010]
+
+大家一起动手来设计
 
 = 你的方案 =
 
