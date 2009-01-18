@@ -102,8 +102,10 @@
 我们相信，教师参与项目，既尝试着变革自己的学习方式，也将对学生培养新的学习方式产生积极的影响。 
 
 快速入口：
-课题管理论坛： http://groups.google.com/group/itc-haokanbu
-好看簿课题小组：http://www.haokanbu.com/group/130/
+
+课题管理论坛： [http://groups.google.com/group/itc-haokanbu http://groups.google.com/group/itc-haokanbu]
+
+好看簿课题小组：[http://www.haokanbu.com/group/130/ http://www.haokanbu.com/group/130/]
 
 ==== II 图书项目：GSH编写 ====
 
@@ -114,8 +116,10 @@ GSH全称是“Google服务应用手册（Google Services Handbook）”，这�
 目前这个项目的重点，可能要从Google仍在不断增加各种社会化应用的编写中，转到对核心应用的推广上来，并在推广的过程中，和大家进一步来延伸和体验Google的其他社会化应用。 
 
 快速入口：
-编写平台：http://code.google.com/p/sociallearnlab/wiki/GSH
-编写研讨论坛：https://groups.google.com/group/sociallearnlab
+
+编写平台：[http://code.google.com/p/sociallearnlab/wiki/GSH http://code.google.com/p/sociallearnlab/wiki/GSH]
+
+编写研讨论坛：[https://groups.google.com/group/sociallearnlab https://groups.google.com/group/sociallearnlab]
 
 ==== III 社会项目：2018教育宣言的讨论 ====
 
@@ -123,9 +127,11 @@ GSH全称是“Google服务应用手册（Google Services Handbook）”，这�
 
 也欢迎大家进一步关注宣言的动态及我们社区的实践。 
 
-http://code.google.com/p/sociallearnlab/wiki/EduAnn2018 （备份版）
-http://sociallearnlab.org/wiki/index.php/EduAnn2018（编辑共笔版）
-项目研讨邮件列表：http://groups.google.com/group/eduann2018
+[http://code.google.com/p/sociallearnlab/wiki/EduAnn2018 http://code.google.com/p/sociallearnlab/wiki/EduAnn2018 （备份版）]
+
+[http://sociallearnlab.org/wiki/index.php/EduAnn2018http://sociallearnlab.org/wiki/index.php/EduAnn2018（编辑共笔版）]
+
+项目研讨邮件列表：[http://groups.google.com/group/eduann2018 http://groups.google.com/group/eduann2018]
 
 
 ==== IV项目4：EdubuntuChina ====
@@ -138,28 +144,34 @@ http://sociallearnlab.org/wiki/index.php/EduAnn2018（编辑共笔版）
 
 快速入口：
 
-项目入口：http://sites.google.com/site/edubuntuchina/
-编写研讨论坛：https://groups.google.com/group/sociallearnlab
+项目入口：[http://sites.google.com/site/edubuntuchina/ http://sites.google.com/site/edubuntuchina/]
+
+编写研讨论坛：[tps://groups.google.com/group/sociallearnlab https://groups.google.com/group/sociallearnlab]
 
  
 ==== V ：小学教师社会化交流实践（简称：SNSforTeacher，SNS4T） ====
 
-项目简介：本项目通过指导新手（社会性网络应用经验较为欠缺的小学教师）参与社会化交流，提高参与者的社会化网络工具应用水平，积累一些社会化交流的经
-验。 对小学教师参与社会化交流的感性经验和认识进行提炼和概括，形成相应的理性认识。
+项目简介：本项目通过指导新手（社会性网络应用经验较为欠缺的小学教师）参与社会化交流，提高参与者的社会化网络工具应用水平，积累一些社会化交流的经验。 对小学教师参与社会化交流的感性经验和认识进行提炼和概括，形成相应的理性认识。
 
 快速入口：
-项目首页入口地址：http://code.google.com/p/sociallearnlab/wiki/SNSforTecher
-研讨论坛：https://groups.google.com/group/sociallearnlab
-进展情况：请关注项目页面http://code.google.com/p/sociallearnlab/wiki/SNSforTecher
+
+项目首页入口地址：[http://code.google.com/p/sociallearnlab/wiki/SNSforTecher http://code.google.com/p/sociallearnlab/wiki/SNSforTecher]
+
+研讨论坛：[https://groups.google.com/group/sociallearnlab https://groups.google.com/group/sociallearnlab]
+
+进展情况：请关注项目页面[http://code.google.com/p/sociallearnlab/wiki/SNSforTecher]
  
 ==== VI 项目：网络学习手册 （简称：SLHB） ====
 
 项目简介：《网络学习手册》是一本通用手册，这个手册比较适合成人学习者，包括大学生、研究生或者在职教师。手册中主要从两个角度来阐述网络学习。一个是从学习者如何主动寻求社区融入社区的角度，来阐述网络学习的方法要点。一个是从如何利用集体智慧主动创造的管理角度，来阐述网络学习的方法要点。
 
 快速入口：
-项目首页入口地址：http://code.google.com/p/sociallearnlab/wiki/SLHB
-研讨论坛：https://groups.google.com/group/sociallearnlab
-进展情况：请关注项目页面http://code.google.com/p/sociallearnlab/wiki/SLHB
+
+项目首页入口地址：[http://code.google.com/p/sociallearnlab/wiki/SLHB]
+
+研讨论坛：[https://groups.google.com/group/sociallearnlab]
+
+进展情况：请关注项目页面[http://code.google.com/p/sociallearnlab/wiki/SLHB]
 
 == 四. 展望 ==
 
