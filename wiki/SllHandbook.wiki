@@ -1,4 +1,4 @@
-﻿#summary 教育大发现·社区小手册
+﻿﻿#summary 教育大发现·社区小手册
 #labels Sll,Featured
 
 = 教育大发现·社区小手册 = 
@@ -91,9 +91,6 @@
 
 陈堃(QienKuen)；      李尊龙(lizunlong)等。 
 
-
-
-
 == 三. 现状 ==
 
 ==== 教研项目：好看教研 ====
@@ -143,8 +140,29 @@ GSH全称是“Google服务应用手册（Google Services Handbook）”，这�
 
 欢迎大家加入“教育大发现”的行列！
 
+== 六. 社区资源 ==
 
-==== 附，庄老师的社区理想书： ====
+ * 中文网站：http://sociallearnlab.org/ 
+ * 英文网站:http://sociallearnlab.org/en 
+ * 教育大发现论坛:http://groups.google.com/group/sociallearnlab 
+ * 好看簿:http://www.haokanbu.com/group/88/ 
+ * WIKI：http://sociallearnlab.org/wiki
+ * 《Google服务应用》图书编写论坛:https://groups.google.com/group/google360
+ * 《社会性软件工具应用手册 (大学生版)》图书编写论坛:https://groups.google.com/group/socialsoftwarehandbook-workgroup
+
+== 七. 技术工具 ==
+
+ * [http://code.google.com/p/sociallearnlab/wiki/UsageGooglecode GoogleCode使用]
+ * [http://code.google.com/p/sociallearnlab/wiki/UsageIRC IRC使用说明] ^即时沟通工具^
+ * [http://code.google.com/p/sociallearnlab/wiki/ZqSayMailingList 高效使用邮件列表]
+ * [http://code.google.com/p/sociallearnlab/wiki/GSH Google服务应用手册] ^熟悉部份工具，让你更快速参与到社区项目^
+ 
+== 八. 更进一步... ==
+
+ * [http://code.google.com/p/sociallearnlab/wiki/SllPrjZQ 仨之建议集] ^社区顾问仨儿的建议收集^
+ 
+
+==== 附，庄秀丽老师的社区理想书： ====
 
 === 理 想 书 ===
 
