@@ -1,4 +1,4 @@
-﻿﻿#summary 教育大发现·社区小手册
+﻿#summary 教育大发现·社区小手册
 #labels Sll,Featured
 
 = 教育大发现·社区小手册 = 
