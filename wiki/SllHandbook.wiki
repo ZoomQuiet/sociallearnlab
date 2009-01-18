@@ -149,6 +149,7 @@ GSH全称是“Google服务应用手册（Google Services Handbook）”，这�
  * WIKI：http://sociallearnlab.org/wiki
  * 《Google服务应用》图书编写论坛:https://groups.google.com/group/google360
  * 《社会性软件工具应用手册 (大学生版)》图书编写论坛:https://groups.google.com/group/socialsoftwarehandbook-workgroup
+ * [http://www.douban.com/group/SocialLearnLab/ 豆瓣：http://www.douban.com/group/SocialLearnLab/]
 
 == 七. 技术工具 ==
 
