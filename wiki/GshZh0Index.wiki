@@ -14,11 +14,11 @@
 || GshTechnologyPicasa || 初稿完成 || Solomon|| ||
 || GshTechnologyGroups || 初稿完成 || || ||
 || GshTechnologyIgoogle || 初稿完成 || wwq0327 || ||
-|| GshTechnologyDocuments || || || ||
+|| GshTechnologyDocuments || 初稿完成 || || ||
 || GshTechnologyBook || 初稿完成 || wwq0327 || ||
 || GshTechnologyCalendar || 初稿完成 || || ||
 || GshTechnologyReader || 初稿完成 || wwq0327 || ||
-|| GshTechnologyEarth || || || ||
+|| GshTechnologyEarth || 初稿完成 || || ||
 || GshTechnologyMap || 初稿完成 || Solomon|| ||
 || GshTechnologyApps || 初稿完成 || || ||
 || GshTechnologyOthers || || || ||
