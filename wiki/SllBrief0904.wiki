@@ -7,13 +7,19 @@
 
 本期目录
 
-* 项目进展
-* 连接与活动
-* GG精华贴
-* SLL读书
-* SLL书签
-* SLL人物
-* 加入SLL
+ * 项目进展
+
+ * 连接与活动
+
+ * GG精华贴
+
+ * SLL读书
+
+ * SLL书签
+
+ * SLL人物
+
+ * 加入SLL
 
 
 == 项目进展： ==
@@ -73,7 +79,7 @@ Twitter and SocialLearnlab on TweetGroup
 自荐邮件列表（GoogleGroup/YahooGroup/其它）
 
 
-参与活动
+=== 参与活动 === 
 
 救助烧伤孩子张雅婷
 
@@ -88,10 +94,10 @@ Twitter and SocialLearnlab on TweetGroup
 北师大教育学院"名家讲坛"第1期-黄济教授：30年教育领域之变化
 
 
-GG精华贴 - SLL's Googlegroup小组
+== GG精华贴 - SLL's Googlegroup小组 ==
 
 
-互动与问答
+=== 互动与问答 ===  
 
 {求助}如何对某一领域的文献进行数据挖掘
 
@@ -112,7 +118,7 @@ GG精华贴 - SLL's Googlegroup小组
 MIT LOGO 在国内实践推进现状？
 
 
-技术与资源
+=== 技术与资源 ===  
 
 twitter是什么？
 
@@ -135,7 +141,7 @@ Gbridge.com - Lets you sync folders, share files, chat and VNC …
 富平学校发布2008 企业公益案例精选集
 
 
-实践与展望
+=== 实践与展望 === 
 
 Flat World：开源教科书
 
@@ -160,7 +166,7 @@ Voicethread教育家社区
 
 2020教育前景展望与研究
 
-讲座与沙龙
+=== 讲座与沙龙 === 
 
 在华南师范大学给的讲座-侯爽：国际开放教育 (我第一个中文的讲座) / 听侯爽聊OER
 
@@ -171,7 +177,7 @@ Voicethread教育家社区
 华南农大时代沙龙第26讲-白南生教授：金融风暴下的城市与农民
 
 
-声音
+=== 声音 === 
 
 肖峰：他为何变成了小混混
 
@@ -187,7 +193,7 @@ Isaac:微爱心与微捐赠
 信息技术学科教师团结起来
 
 
-SLL读书 - SLL's Douban小组
+== SLL读书 - SLL's Douban小组 ==
 
 罗伯特议事规则(第10版)
 
@@ -204,7 +210,7 @@ SLL读书 - SLL's Douban小组
 四环游戏小组的故事——面向流动儿童的非正规学前教育的探索
 
 
-SLL书签 - SLL's Diigo小组
+== SLL书签 - SLL's Diigo小组 ==
 
 要注意使用MediaWiki的模板功能 - 培善博录 - 博客大巴
 
@@ -269,7 +275,7 @@ Google News Timeline
 
 ……
 
-SLL人物 - SLL's 好看簿小组
+== SLL人物 - SLL's 好看簿小组 ==
 
 本期人物推荐甘肃张掖星光小学的两位老师——李明山老师、老玉米校长，以及其他许多我们还不太熟悉的朋友。李明山老师和老玉米校长等共同发起了一个"小学教师社会化交流实践"教育研究项目。小雅婷同学意外烧伤以后，他们一直在为救助小雅婷而努力，也希望更多的朋友能共同参与“拯救生命行动”。
 
