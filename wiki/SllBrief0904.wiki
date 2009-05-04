@@ -1,0 +1,277 @@
+#summary 教育大发现社区09年4月简报
+#labels SllBrief
+
+[http://sociallearnlab.org/uploads/SLLBrief200904.pdf pdf版本下载]
+
+= 教育大发现·社区简报（2009年4月份） =
+
+本期目录
+
+* 项目进展
+* 连接与活动
+* GG精华贴
+* SLL读书
+* SLL书签
+* SLL人物
+* 加入SLL
+
+
+== 项目进展： ==
+
+与普渡（Purdue）大学“Web2.0工具——教与学新的可能性”合作项目小结：
+Web 2.0 Tools - New Possibilities for Teaching and Learning
+
+INSITE WIKI 走上第一步
+
+INSITE WIKI 走上第三步
+
+INSITE WIKI 学习参与情况调研问卷设计
+ 
+INSITE WIKI 学习参与情况调研问卷 
+
+INSITE WIKI 学习参与情况调研的数据讨论 
+
+
+=== CnSLWiki教学项目启动： ===
+
+CnSLWiki教学项目，广泛征集参与者
+
+=== 自生长学习社区-淄博项目启动： ===
+
+淄博信息技术学科教研组成立 
+
+自生长学习社区淄博方案（SGLCZB）前期调查设计
+
+关于举办义务教育段信息技术学科教学专家报告会的通知 
+
+淄博市义务教育段信息技术学科教学专家报告会随想 
+
+SGLCZB20090429一些重要链接地址 
+
+自生长学习社区-张掖星光小学项目准备：
+
+准备立项一个课题：博客在农村小学教育中的应用研究
+
+
+== 连接与活动 - SLL's Blog ==
+
+
+=== 社区连接 ===
+
+Twitter and SocialLearnlab on TweetGroup
+
+连接活动：CnEducatoronTwitter (Twitter中国教育用户) 
+
+好看簿教育用户(EducatoronHaokanbu)
+
+2.0中文服务平台-社区-公益项目推荐列表
+
+欢迎加入SLL社区2.0小组
+
+请填写您的基本信息 （by 教育大发现社区）
+
+自荐邮件列表（GoogleGroup/YahooGroup/其它）
+
+
+参与活动
+
+救助烧伤孩子张雅婷
+
+幼儿教育政策研讨会
+
+2009数学化系统仿真与教育科技研讨会
+
+学生电影 - 一些清华学生组织的一个“影像放映计划”和首映活动
+
+北大教育论坛：Liberal Arts Education in the United States，History, Rhetoric, and Reality（Peter A. J. Englert教授）
+
+北师大教育学院"名家讲坛"第1期-黄济教授：30年教育领域之变化
+
+
+GG精华贴 - SLL's Googlegroup小组
+
+
+互动与问答
+
+{求助}如何对某一领域的文献进行数据挖掘
+
+{求助}有没有什么软件可以管理电脑里的所有文档，并且给这些文件写tag(标签)
+
+{讨论}基于web2.0的Edublogs 到底比web1.0有多大改观？
+
+好看簿好看不？ 
+
+有没有对博物馆特别热衷的朋友？
+
+学校要建新的资源平台，大家给推荐个程序！
+
+请SLL现有和软件开发、程序员等相关朋友留言
+
+讨论创用CC, 开放式协议, 重复利用/整合
+
+MIT LOGO 在国内实践推进现状？
+
+
+技术与资源
+
+twitter是什么？
+
+利用Google进行专题信息检索的方法和技巧
+
+10项最佳在线免费学习工具
+
+书籍制作发行DIY
+
+推荐一些GoogleGroup邮件列表
+
+Gbridge.com - Lets you sync folders, share files, chat and VNC …
+
+[新技术讨论] Yahoo Pipes
+
+分享质性分析软件，超级棒！
+
+几个与知识管理相关的小故事
+
+富平学校发布2008 企业公益案例精选集
+
+
+实践与展望
+
+Flat World：开源教科书
+
+超级图书馆计划
+
+北大打造“随身图书馆”
+教育技术资源搜索与索引
+
+欢迎朋友们光临课题管理平台 
+
+使用 Google 自定义搜索来优化我的搜索引擎！
+
+关于wordpress.com在教育教学中的应用
+
+ERN - Information Cycle, Social Networks, New Media, Future of Education…
+
+Voicethread教育家社区
+
+学术会议信息提交与发布网站
+
+远程教育，web2.0促进教学等方面学术会议信息
+
+2020教育前景展望与研究
+
+讲座与沙龙
+
+在华南师范大学给的讲座-侯爽：国际开放教育 (我第一个中文的讲座) / 听侯爽聊OER
+
+北大教育论坛：Liberal Arts Education in the United States，History, Rhetoric, and Reality（Peter A. J. Englert教授）
+
+北师大教育学院"名家讲坛"第1期-黄济教授：30年教育领域之变化
+
+华南农大时代沙龙第26讲-白南生教授：金融风暴下的城市与农民
+
+
+声音
+
+肖峰：他为何变成了小混混
+
+Isaac:微爱心与微捐赠
+分享与家长的交流
+
+我眼中的教师应该是这样的
+
+如果我是一名初中数学老师 
+
+大学生职业发展高峰论坛
+
+信息技术学科教师团结起来
+
+
+SLL读书 - SLL's Douban小组
+
+罗伯特议事规则(第10版)
+
+贾想1996-2008
+
+自杀作为中国问题
+
+设计，无处不在
+
+幽默二十讲/大家西学
+
+举全村之力
+
+四环游戏小组的故事——面向流动儿童的非正规学前教育的探索
+
+
+SLL书签 - SLL's Diigo小组
+
+要注意使用MediaWiki的模板功能 - 培善博录 - 博客大巴
+
+写给十八岁们和他们的家长_潘石屹_新浪博客
+
+描绘当前的互联网转变 - 译言翻译
+
+Webware 100 2009 - CNET
+
+谷歌开始研发公共数据搜索 - 译言翻译
+
+模糊的五四神话 - FT中文网 - FTChinese.com
+
+一个美国小学教室（3）美国某小学的老师"办公环境"（多图）-杜可名-搜狐博客
+
+一个美国小学教室（2）：像家一样-杜可名-搜狐博客
+
+一个美国小学的教室 （1）半面墙和"好学生"-杜可名-搜狐博客
+
+满和小福-搜狐博客
+
+中国教育数学学会mathematica专栏
+
+三大战略建言大学生就业_教育部门户网站_MOE.GOV.CN
+
+淄博维基
+
+Voicethread for Educators - Voicethread for Educators
+
+Twitter Handbook for Teachers
+
+嘀神--让你自动更新你所有的社交网站状态！
+
+Geedr.com - Geek Reader, 面向 Geek 的精选网络读物
+
+市场从不失灵 - 薛兆丰：新制度主义时代
+
+Distance Learning Courses and Adult Education - The Open University
+
+白岩松耶鲁演讲：我的故事以及背后的中国梦(2009.04.18) 新闻1+1 CCTV.com
+
+Welcome to Idealist.org
+TED | Joining TED | TEDx (beta)
+
+Call for Papers - Largest listing of call for papers in all areas of sp...
+
+WikiCFP : A Place to Organize and Share Call For Papers
+
+Wolfram Research: Mathematica，技术和科学的软件
+
+数学 - 维基百科，自由的百科全书
+
+Mathematica - 维基百科，自由的百科全书
+
+WOLF STRAYING's Blog - Windows Live
+
+Google News Timeline
+
+世界数字图书馆主页
+
+微风和野狼周游世界手记/Zephyr and Alex's World Tour Journal
+
+……
+
+SLL人物 - SLL's 好看簿小组
+
+本期人物推荐甘肃张掖星光小学的两位老师——李明山老师、老玉米校长，以及其他许多我们还不太熟悉的朋友。李明山老师和老玉米校长等共同发起了一个"小学教师社会化交流实践"教育研究项目。小雅婷同学意外烧伤以后，他们一直在为救助小雅婷而努力，也希望更多的朋友能共同参与“拯救生命行动”。
+
+
+欢迎加入SLL
