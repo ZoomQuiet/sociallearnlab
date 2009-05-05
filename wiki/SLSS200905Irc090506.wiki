@@ -1,0 +1,19 @@
+#summary 社会化学习软件平台200905版图书写作项目irc会议记录
+#labels irc,SLSS200905
+
+= 介绍 =
+
+
+
+= 会议结果 =
+
+
+
+= 会议详细记录 =
+
+
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
