@@ -3,6 +3,7 @@
 
 = 介绍 =
 
+社会化学习软件平台200905版图书写作项目  http://sociallearnlab.org/wiki/index.php/SLSS200905
 
 
 = 会议结果 =
