@@ -20,7 +20,7 @@
 
 = 项目进展 =
 
-  * 20090503 发起《社会化学习软件平台200905版》图书编写项目、
+  * 20090503 发起《社会化学习软件平台200905版》图书编写项目  http://tinyurl.com/czlcrl
   * 20090506 项目会议 http://code.google.com/p/sociallearnlab/wiki/SLSS200905Irc090506
 
 
