@@ -16,10 +16,10 @@ A.点击帐户(Accounts)－管理(Manage)，在面板最下方点击“添加(Ad
 
 B.以Pidgin(Gaim) 2.5.5 windows中文版为例 
 
-http://picasaweb.google.com/lh/photo/tR_YGg9oGMwCr08q2KqgEg?feat=directlink
+[http://picasaweb.google.com/lh/photo/tR_YGg9oGMwCr08q2KqgEg?feat=directlink]
 选择简体中文安装
 
-http://picasaweb.google.com/lh/photo/F8cVYXjN-sUR7TiOrSHhPw?feat=directlink
+[http://picasaweb.google.com/lh/photo/F8cVYXjN-sUR7TiOrSHhPw?feat=directlink]
 按照提示完成安装后，点击add按钮
 
 3、添加聊天：
