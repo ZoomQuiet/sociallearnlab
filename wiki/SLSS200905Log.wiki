@@ -1,0 +1,24 @@
+#summary 《社会化学习软件平台200905版》图书编写项目项目日志
+#labels SLSS200905,log,项目日志
+
+= 项目介绍=
+
+项目介绍：根据新手进入社会化学习环境的需要，教育大发现社区为新手入门，组织编写社会化学习软件平台快速入门手册，帮助新手快速了解使用社会性软件，快速熟悉环境，顺应环境的发展。这个过程，同时也是教育大发现社区自身实践的提炼和积累。虽然过去我们编写过诸如GSH服务手册技术版等等技术使用教程，但是在和一些新手朋友交流时发现，他们在阅读这些内容时依然有很多困难，我们需要创作或者把已有的内容再加工处理，让这些内容更加通俗易懂，更加适合新手人群。
+
+这个项目，主要是针对实践中使用这些软件出现的典型关键问题，来组织编写内容，旨在帮助教育用户的新手入门上路，而不是面面俱到介绍这些软件。
+
+项目页面及编写平台：http://sociallearnlab.org/wiki/index.php/SLSS200905
+
+
+= 项目进展 =
+
+  * 20090503 发起《社会化学习软件平台200905版》图书编写项目、
+  * 20090506 项目会议 http://code.google.com/p/sociallearnlab/wiki/SLSS200905Irc090506
+
+
+
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
