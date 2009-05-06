@@ -1,9 +1,9 @@
-#summary 社会化学习软件平台200905版图书写作项目irc会议记录
+#summary 自生长社区技术进阶手册200905版图书写作项目irc会议记录
 #labels irc,SLSS200905,SGLCTManual,SGLCMManual
 
 = 介绍 =
 
-社会化学习软件平台200905版图书写作项目  http://sociallearnlab.org/wiki/index.php/SLSS200905
+自生长社区技术进阶手册写作项目  http://sociallearnlab.org/wiki/index.php/SLSS200905
 
 *时间：*5.6日晚8点
 
