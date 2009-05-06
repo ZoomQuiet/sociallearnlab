@@ -16,11 +16,14 @@ A.点击帐户(Accounts)－管理(Manage)，在面板最下方点击“添加(Ad
 
 B.以Pidgin(Gaim) 2.5.5 windows中文版为例 
 
-[http://picasaweb.google.com/lh/photo/tR_YGg9oGMwCr08q2KqgEg?feat=directlink]
+http://picasaweb.google.com/lh/photo/tR_YGg9oGMwCr08q2KqgEg?feat=embedwebsite"><img src="http://lh5.ggpht.com/_Zy5Ia9J9stc/SgD1RDvkiAI/AAAAAAAAGQM/ze33wk026w0/s144/language.png
 选择简体中文安装
 
-[http://picasaweb.google.com/lh/photo/F8cVYXjN-sUR7TiOrSHhPw?feat=directlink]
+http://picasaweb.google.com/lh/photo/F8cVYXjN-sUR7TiOrSHhPw?feat=embedwebsite"><img src="http://lh6.ggpht.com/_Zy5Ia9J9stc/SgD1RGh1fqI/AAAAAAAAGQE/Rcvp7uFrc0c/s144/add.png
 按照提示完成安装后，点击add按钮
+
+http://picasaweb.google.com/lh/photo/K_hjHW6EwKDtwDdmceZ5Qw?feat=embedwebsite"><img src="http://lh5.ggpht.com/_Zy5Ia9J9stc/SgD1RSAPlxI/AAAAAAAAGQU/ovcbNoPCjfI/s144/%E6%B7%BB%E5%8A%A0%E5%B8%90%E6%88%B7.png
+添加irc帐户
 
 3、添加聊天：
 
