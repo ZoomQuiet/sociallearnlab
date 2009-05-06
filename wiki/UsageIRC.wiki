@@ -11,9 +11,16 @@
 
 2、安装完成后添加帐户：
 
-点击帐户(Accounts)－管理(Manage)，在面板最下方点击“添加(Add)”，协议选IRC，服务器(Server)填：irc.freenode.net，再填上用户名，密码等。这个密码不一定必须填，但为了别人不至于用你的名字进入频道，你还是可以设置一个。如图所示：
-
+A.点击帐户(Accounts)－管理(Manage)，在面板最下方点击“添加(Add)”，协议选IRC，服务器(Server)填：irc.freenode.net，再填上用户名，密码等。这个密码不一定必须填，但为了别人不至于用你的名字进入频道，你还是可以设置一个。如图所示：
 [http://lh3.ggpht.com/wwq0327/SKzCFOIarwI/AAAAAAAAAJw/M5Hjvj-ETvs/image.png?imgmax=512]
+
+B.以Pidgin(Gaim) 2.5.5 windows中文版为例 
+
+http://picasaweb.google.com/lh/photo/tR_YGg9oGMwCr08q2KqgEg?feat=directlink
+选择简体中文安装
+
+http://picasaweb.google.com/lh/photo/F8cVYXjN-sUR7TiOrSHhPw?feat=directlink
+按照提示完成安装后，点击add按钮
 
 3、添加聊天：
 
