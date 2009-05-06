@@ -7,6 +7,8 @@
 
 1、[http://www.pidgin.im/download/ Pidgin]下载安装(Ubuntu用户自带Pidgin)
 
+中文版下载安装  http://cnpidgin.cn/download.html
+
 2、安装完成后添加帐户：
 
 点击帐户(Accounts)－管理(Manage)，在面板最下方点击“添加(Add)”，协议选IRC，服务器(Server)填：irc.freenode.net，再填上用户名，密码等。这个密码不一定必须填，但为了别人不至于用你的名字进入频道，你还是可以设置一个。如图所示：
