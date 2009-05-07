@@ -13,6 +13,8 @@ Tag：SGLCTManual200905 ，SGLCTManual
 
 这个项目，主要是针对实践中使用这些软件出现的典型关键问题，来组织编写内容，旨在帮助教育用户的新手入门上路，而不是面面俱到介绍这些软件。
 
+项目编写页面：http://sociallearnlab.org/wiki/index.php/SGLCTManual200905
+
 具体内容及参与人员：
 
  * gmail小组: 余波 (组长)     翟老师       陶丹
