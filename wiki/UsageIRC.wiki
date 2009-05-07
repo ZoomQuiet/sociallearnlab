@@ -13,6 +13,13 @@
 
 *方法2
 
+教育大发现社区irc快速通道：
+http://widget.mibbit.com/?settings=613f68d3adebdf195e3074eba65a14f1&server=irc.freenode.net&channel=%23sll&autoConnect=true
+
+点击后填写一个昵称就可以进入会议室，无需注册安装
+
+*方法3
+
 在MS Windows和Linux环境下都推荐大家使用Pidgin。
 
 1、[http://www.pidgin.im/download/ Pidgin]下载安装(Ubuntu用户自带Pidgin)
