@@ -1,5 +1,5 @@
-#summary 首页备份20090104版
-                          http://sociallearnlab.org/pic/logo-b-blue.png
+#summary 首页备份20090507版
+                                                   http://sociallearnlab.org/pic/logo-b-blue.png
                           =教育大发现图书、科研项目平台=
                        * SocialLearnLab* 缩写: *SLL*
 == 关于 ==
@@ -76,6 +76,8 @@
   * *[EiSNS]* ~ Education in SNS net
  # 网络学习手册
   * *[SLHB]* ~ SocialLearn HandBook
+ # 自生长社区技术进阶手册(SGLCTManual200905) 进行中2009.5.6~2009.5.20
+  * *[SGLCTManual200905]* ~ SGLCTManual200905
 
 == 项目组织管理方式 ==
 ----
@@ -95,3 +97,4 @@
  * [http://code.google.com/p/sociallearnlab/wiki/UsageIRC IRC使用说明]^即时沟通工具^
  * [http://code.google.com/p/sociallearnlab/wiki/UsageEverydo Everydo使用说明]^项目管理工具^
  * appending...
+
