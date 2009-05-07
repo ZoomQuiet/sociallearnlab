@@ -1,5 +1,9 @@
 #summary 《社会化学习软件平台200905版》图书编写项目项目日志
-#labels SLSS200905,log,项目日志
+#labels SLSS200905,log,项目日志,SGLCTManual200905,SGLCTManual
+
+项目日志新链接转到：
+
+http://code.google.com/p/sociallearnlab/wiki/SGLCTManual200905Log
 
 = 项目介绍 =
 
