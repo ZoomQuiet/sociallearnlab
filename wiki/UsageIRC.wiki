@@ -3,6 +3,16 @@
 
 为方便教育大发现团队成员即时交流，我建了一个SLL频道，下面说下使用方法。
 
+*方法1
+
+推荐一个比起Pidgin更为简单的方法，无需下载安装客户端，直接在网页中就可以登陆irc聊天
+
+网站：http://www.mibbit.com
+
+教程：http://www.haokanbu.com/story/187386/
+
+*方法2
+
 在MS Windows和Linux环境下都推荐大家使用Pidgin。
 
 1、[http://www.pidgin.im/download/ Pidgin]下载安装(Ubuntu用户自带Pidgin)
