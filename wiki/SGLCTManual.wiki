@@ -1,4 +1,5 @@
 #summary 《自生长社区技术进阶手册(SGLCTManual200905)》项目索引
+#labels SGLCTManual200905,SGLCTManual
 
 = Introduction =
 
@@ -13,14 +14,22 @@ Tag：SGLCTManual200905 ，SGLCTManual
 这个项目，主要是针对实践中使用这些软件出现的典型关键问题，来组织编写内容，旨在帮助教育用户的新手入门上路，而不是面面俱到介绍这些软件。
 
 具体内容：
-*Gmail
-*GoogleGroups
-*Blog  （以blogbus为例 ）
-*haokanbu
-*wiki（以mediawiki为例，http://sociallearnlab.org/wiki ）
-*社会书签diigo
-*twitter
-*鲜果网rss聚合 
+
+* Gmail
+
+* GoogleGroups
+
+* Blog  （以blogbus为例 ）
+
+* haokanbu
+
+* wiki（以mediawiki为例，http://sociallearnlab.org/wiki ）
+
+* 社会书签diigo
+
+* twitter
+
+* 鲜果网rss聚合 
 
 = Details =
 
