@@ -88,6 +88,46 @@ PDF全称Portable DocumentFormat，是Adobe公司开发的电子文件格式。�
 
 
 == 讨论 ==
+
+=== VS 开源 ===
+这方面的资料满坑满谷的哪！！
+
+综合性的:
+ * Richard Stallman和自由软件运动－哲学－哲思自由软件社区
+  * http://www.zeuux.org/philosophy/rms-and-fsm.cn.html
+
+分析对比的:
+ * 开源软件：破灭的商业模式 - 译言翻译
+  * http://www.yeeyan.com/articles/view/55542/19153
+
+ * 自由软件与开源软件之区别 - 袁萌专栏 - CSDNBlog
+  * http://blog.csdn.net/yuanmeng001/archive/2007/07/01/1673075.aspx
+ * 浅谈开源软件与自由软件的目标及区别_操作系统总结_电脑之家PChome.net
+  * http://article.pchome.net/content-369752.html
+
+
+法律核心的:
+ * 特别推荐(这是个多达上百页的介绍幻灯，而且使用 可爱的高桥流风格撰写！
+):
+ * OSSF::自由軟體鑄造場(Open Source Software Foundry) - Document Details | 軟體授權法制與自由軟體授權模式介紹
+  * http://www.openfoundry.org/component/option,com_docman/Itemid,1/gid,754/task,doc_details/
+ * 鏡像下载: http://www.woodpecker.org.cn/share/classes/classes2008/20081022-foss-law-intro.zip
+  * 以Mozilla Firefox1.1以上版本瀏覽器，開啟「20081022-林誠夏-軟體授權法制與自由軟體授權模式介紹」此一子目錄中的takahashi.xul檔。其他支援xul格式的瀏覽器亦可，如Flock - The Social Web Browser-http://www.flock.com/
+
+许可证选择工具：
+ * License Wizard 3.3
+  * http://swan.iis.sinica.edu.tw/LicenseWizard/index.htm
+
+ * 进一步的，最新许可证运用技艺！
+ * OSSF::自由軟體鑄造場(Open Source Software Foundry) - GPL的另類利用方式：「分開散布．責任轉嫁」
+  * http://www.openfoundry.org/index.php?option=com_content&Itemid=353&id=1711&lang=en&task=view
+
+个人收集在:
+http://floss.zoomquirt.org
+->FLOSS-> 思想 或是 FLOSS许可协议
+
+
+=== 杂论 ===
 `> 2008/11/26 zh yujiang <zhyuji...@gmail.com>`
  * > 可能是我还落伍了点，网络有时候不是不怎么可靠的。还是思考如何做好本地的内容吧。
  * > 再说对于一些农村学校，连基本的问题都没能解决，再玩些高深的，可能就更难接受了。
@@ -305,3 +345,5 @@ RMS 是疯子,这是你的判定,还是别人的!?
 Google 平台的未来和M$ 的现在有不同嘛? 
 }}}
  ~ ZoomQuiet
+ 
+ 

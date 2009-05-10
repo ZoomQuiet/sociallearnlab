@@ -13,6 +13,8 @@ The Future of Knowledge Management
  * 作者: Randy Emelo
  * 快译: ZoomQuiet
 
+
+== 以往 ==
 Old knowledge management practices no longer fit today’s fast-paced environment. The future lies in understanding knowledge sources, measuring where and how knowledge flows and reinforcing knowledge with supportive relationships.
 
 Globalization. Technological advancements. Organizational flux. Leaner workforces. All of these factors are impacting knowledge management practices and causing significant changes in the field. The commonplace use of person-to-document techniques is no longer adequate for today’s knowledge workers.
@@ -20,6 +22,8 @@ Globalization. Technological advancements. Organizational flux. Leaner workforce
 As organizations remain in flux, contracting and expanding rapidly, simply accessing data and information is no longer sufficient to help the enterprise flourish and spark innovation. Workers face the growing need to improve processes, products and services, all while doing the jobs of three people because of layoffs. Waiting for knowledge to trickle down from the top is not an option.
 
 The reality of knowledge management today is that people need tacit knowledge and know-how directly from the source. Just reading a document is not enough. People need to interact with the person who has improved his or her service rating, increased sales leads or completed a technology implementation. They want to see firsthand what went right, what went wrong, how success occurred and how they can emulate that success. They need support from the person who has done it before and who can encourage and guide them as they apply the knowledge. Globalization and technology have made it far too easy to feel isolated, and people no longer want to go it alone.
+
+== 未来 ==
 
 The future of knowledge management is about connections. People want relationships. They want to share knowledge with one another, and they want to be connected to their colleagues. A recent survey by Triple Creek Associates asked more than 1,300 Web-based mentoring participants to rate the effectiveness of various training and learning opportunities. Respondents overwhelmingly chose hands-on interpersonal methods of training as the most effective, with 88 percent rating on-the-job training and 80 percent rating mentoring/coaching as highly or mostly effective. E-learning ranked lowest, with only 37 percent of respondents rating it as highly or mostly effective.
 
@@ -37,7 +41,8 @@ To accomplish this, knowledge management must focus on four areas:
 
 Once these four areas are working in harmony with one another and information is free-flowing, knowledge management will become the fluid and adaptable entity it needs to be to effectively address individuals’ multiple and shifting learning needs.
 
-Who Knows What?
+== Who Knows What? ==
+
 Identifying key knowledge resources can be challenging. Layoffs and mergers have shifted the balance and knowledge equilibrium within organizations. People who were once knowledge sources may no longer be there, and what was once a smooth operation is now a frantic scramble to get things done. The stream of information and knowledge has been interrupted, and people are floundering to find footing.
 
 With these realities, organizations need to look deeper than the superficial level of typical knowledge brokers. People who are valuable knowledge resources to their colleagues at a grassroots level do not always make their expertise and service known to leadership. They often do what they do without accolades or acknowledgement from management. In their minds, they may simply be doing their jobs.
@@ -54,7 +59,7 @@ Once organizations identify who their knowledge sources are, they need to identi
 
 Understanding how knowledge is transferred in the organization is critical to moving toward a more democratic and free-flowing pattern of knowledge sharing. If learning leaders do not tap into grassroots resources and allow people to access one another, they will alienate large sections of the workforce and stymie creativity and learning. Giving people the freedom to self-organize and search out the knowledge resource they need at the exact moment they need it will create a more equitable and streamlined practice for sharing knowledge.
 
-How Do We Get It?
+== How Do We Get It? ==
 In today’s hectic 24x7 world, knowledge must flow rapidly and freely from expert sources directly to the people who need it. No one has time to wait around for data. Knowledge is critical, and getting the information needed exactly when you need it is vital to achieving success. To thrive, organizations must create democratic and transparent ways to access knowledge resources in-house that will help their workers find and interact more easily with the knowledge source who is also their colleague. The mantra for knowledge management must be: accessible, ubiquitous and democratic.
 
 The use of technologies that help people create one-to-one and one-to-many knowledge-sharing and learning relationships can facilitate this type of knowledge exchange, leading to a give-and-take of information and ideas between all parties involved. By keeping these interactions in-house, all of the information shared and the ideas created are kept within the company, rather than lost to an outside source. This not only strengthens the organization from an intellectual capital standpoint, but it also strengthens the bonds between co-workers and creates an environment of goodwill and camaraderie.
@@ -75,3 +80,5 @@ The future of knowledge management lies in the growing use of social networks an
 
 Identifying information blockades, finding people who are hidden resources and opening up the flow of information between colleagues are the pressing matters for learning professionals in the coming years. To address these concerns, people must be enabled and encouraged to connect with each other in collaborative learning relationships that are tailored to their various and unique learning needs, and they must be given opportunities to succeed. Only then will we have accessible, ubiquitous and democratic knowledge management.
 Randy Emelo is president and CEO of Triple Creek Associates. He has authored articles, newsletters and research papers on topics related to mentoring, collaboration, innovation and creativity, management practices and leadership development. He can be reached at editor@clomedia.com.
+
+
