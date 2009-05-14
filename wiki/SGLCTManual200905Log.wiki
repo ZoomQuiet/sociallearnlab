@@ -43,6 +43,8 @@ http://tinyurl.com/cu6582
 
 * 20090511 Gmail小组在SLL，淄博，西部阳光等多个论坛发布部分写作内容，开始在推广中吸取内容审查和反馈   [SGLCTManual][Gmail小组]Gmail小组编写讨论  http://tinyurl.com/cj7qvw
 
+* 20090514 大部分小组完成初稿写作，图书编写进入反馈修改阶段。为了更好推动项目运行，项目开始征集写作中出现的问题，并将围绕主要问题展开irc会议讨论  [IRC]《自生长社区技术进阶手册》项目IRC会议议题征集  http://tinyurl.com/qxnb7d
+
 
 Add your content here.  Format your content with:
   * Text in *bold* or _italic_
