@@ -1,0 +1,34 @@
+#summary alexyu个人知识管理
+#labels PKM,SLL_GG,alexyu
+
+= Introduction =
+
+记录整理SLL论坛中自己关注的内容。其他内容也要整理，但是从SLL_GG开始，如果这个方法可以坚持，就延伸到其它订阅论坛，以及书签，GR等等，工程浩大，一步一步来
+
+*想法来源：
+
+1.如何整理论坛知识，整理论坛内容？
+
+群体共同聚合再创知识，但是，这要求先做个人聚合，聚合个人关注的信息，并尽力使之成为可对群体能力提升的知识
+
+2.如何可以让自己从论坛订阅中获取更大的进步，并优化个人学习网络？
+
+进一步对论坛内容外化，输出。保持输入输出平衡
+
+*整理方法：
+
+已有的习惯：对于关注内容予以星标，tag处理。ok，继续发扬
+
+需要做的：
+
+1.内容及时整理到wiki，加上关键人物，时间，url标识
+
+2.建立个人在论坛的专贴，将整理内容定期发布在论坛中，每周或每双周？
+
+
+= Details =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
