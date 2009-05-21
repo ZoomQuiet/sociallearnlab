@@ -46,7 +46,7 @@ http://www.sociallearnlab.org/blog
 可以按主题,或者把自己的提问与分享发帖,单独建立一个WikiPage页,(这是一种值得倡导的行为)
 }}}
 
-~[http://sociallearnlab.org/wiki/index.php/User:Xiuli xiuli] 090521
+ ~ [http://sociallearnlab.org/wiki/index.php/User:Xiuli xiuli] 090521
 
 
 {{{
@@ -60,6 +60,6 @@ https://groups.google.com/group/sociallearnlab/browse_thread/thread/7f9d2f08819c
 5.对于日程管理，可以用google calendar ，remember the milk ,他们都有很好的提醒机制
 再简单一点，可以使用gmail lab 中的 tasks 功能
 }}}
-~alexyu 090521
+ ~ alexyu 090521
 
 出自:_[https://groups.google.com/group/sociallearnlab/browse_thread/thread/5136984b9ec7cc8e# 各位老师是怎么管理个人资料的?]_ ^- SocialLearnLab:“教育大发现”邮件列表 | Google 网上论坛^
