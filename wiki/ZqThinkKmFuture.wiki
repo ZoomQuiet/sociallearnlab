@@ -17,11 +17,20 @@ The Future of Knowledge Management
 
 
 == 以往 ==
+旧KM实施将很快无法适应当前总在快速变化的环境！
+特别是在知识资源和管理流程,以及支持系统间的关系理解方面.
+
 Old knowledge management practices no longer fit today’s fast-paced environment. The future lies in understanding knowledge sources, measuring where and how knowledge flows and reinforcing knowledge with supportive relationships.
+
+全球化,高科技,组织化,学习者界面... 所有试图提升KM价值的领域,都在使用已经无法满足当前知识工作需求的 人-文档 技术!
 
 Globalization. Technological advancements. Organizational flux. Leaner workforces. All of these factors are impacting knowledge management practices and causing significant changes in the field. The commonplace use of person-to-document techniques is no longer adequate for today’s knowledge workers.
 
+就组织而言急需进一步的过程/产品/服务来提升知识管理过程,以期不断简化对数据和信息的理解;
+
 As organizations remain in flux, contracting and expanding rapidly, simply accessing data and information is no longer sufficient to help the enterprise flourish and spark innovation. Workers face the growing need to improve processes, products and services, all while doing the jobs of three people because of layoffs. Waiting for knowledge to trickle down from the top is not an option.
+
+
 
 The reality of knowledge management today is that people need tacit knowledge and know-how directly from the source. Just reading a document is not enough. People need to interact with the person who has improved his or her service rating, increased sales leads or completed a technology implementation. They want to see firsthand what went right, what went wrong, how success occurred and how they can emulate that success. They need support from the person who has done it before and who can encourage and guide them as they apply the knowledge. Globalization and technology have made it far too easy to feel isolated, and people no longer want to go it alone.
 
