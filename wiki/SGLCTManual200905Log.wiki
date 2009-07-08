@@ -61,11 +61,11 @@ http://tinyurl.com/cu6582
 
 * 20090707 发布{技术手册定稿}{WIKI}章节修改讨论 https://groups.google.com/group/sociallearnlab/browse_thread/thread/cc7145422f4ae606#
 
-* 20090707 发布{技术手册定稿}{Diigo}章节修改讨论  https://groups.google.com/group/sociallearnlab/browse_thread/thread/7b7eb63ca71439b2/cac6dccc472fec3e#cac6dccc472fec3e
+* 20090707 发布{技术手册定稿}{Diigo}章节修改讨论  https://groups.google.com/group/sociallearnlab/browse_thread/thread/7b7eb63ca71439b2
 
-* 20090707 发布{技术手册定稿}{Twitter}章节修改讨论  https://groups.google.com/group/sociallearnlab/browse_thread/thread/924ac5e1a400a7ed/82cad3edffb4fadb#82cad3edffb4fadb
+* 20090707 发布{技术手册定稿}{Twitter}章节修改讨论  https://groups.google.com/group/sociallearnlab/browse_thread/thread/924ac5e1a400a7ed
 
-* 20090707 发布{技术手册定稿}{GoogleReader}章节修改讨论  https://groups.google.com/group/sociallearnlab/browse_thread/thread/f87d756d9168d6ec/50c258acc14f5ae0#50c258acc14f5ae0
+* 20090707 发布{技术手册定稿}{GoogleReader}章节修改讨论  https://groups.google.com/group/sociallearnlab/browse_thread/thread/f87d756d9168d6ec
 
 Add your content here.  Format your content with:
   * Text in *bold* or _italic_
