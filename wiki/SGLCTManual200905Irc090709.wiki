@@ -9,7 +9,7 @@ Gmail章节修改论坛讨论帖 https://groups.google.com/group/sociallearnlab/
 
 {技术手册定稿}项目实施方案 https://groups.google.com/group/sociallearnlab/browse_thread/thread/3371929e813ba225#
 
-IRC会议时间：每晚8点IRC会议，时长：1~1.5小时
+IRC会议时间：090709晚8点IRC会议，时长：1~1.5小时
 
 IRC会议地点及技术使用：http://code.google.com/p/sociallearnlab/wiki/UsageIRC
 
