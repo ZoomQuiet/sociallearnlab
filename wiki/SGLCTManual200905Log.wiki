@@ -67,6 +67,8 @@ http://tinyurl.com/cu6582
 
 * 20090707 发布{技术手册定稿}{GoogleReader}章节修改讨论  https://groups.google.com/group/sociallearnlab/browse_thread/thread/f87d756d9168d6ec
 
+* 20090709《村落学习——技术环境手册》Gmail章节定稿讨论IRC会议 http://code.google.com/p/sociallearnlab/wiki/SGLCTManual200905Irc090709
+
 Add your content here.  Format your content with:
   * Text in *bold* or _italic_
   * Headings, paragraphs, and lists
