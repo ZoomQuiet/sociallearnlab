@@ -28,27 +28,6 @@ http://code.google.com/p/sociallearnlab/wiki/ZqSayCommunityCommunicate
 =会议记录=
 
 
-
-(7:55:04 PM) lukezhang: 大家用skype
-
-(7:55:39 PM) lukezhang: 各自可以把自己的skype 帐号贴出来 我的是lukezhg
-
-(7:56:00 PM) alexyu: @zhaitao 你先用着irc文字 
-
-(7:56:25 PM) lukezhang: 有组最大用户数是5人，所以可以分2个到3个小组
-
-(7:56:55 PM) alexyu: 大家都有skype吗？
-
-(7:56:57 PM) lukezhang: 讨论中重要的内容还是记录在这里 IRC
-
-(7:57:57 PM) xiansf: 我以前用Skype不太稳定，最近很少用，
-
-(8:00:43 PM) zhaitao2090: 我的是zhaitao2009
-
-(8:01:37 PM) lukezhang: 大家把自己及的gmail也发一下
-
-(8:03:18 PM) lukezhang: 现在时间到了，由于长城上不来IRC,我建一个gtalk群聊
-
 (8:03:25 PM) alexyu: 我们准备开始了 由张春雷来主持会议
 
 (8:03:53 PM) lukezhang: 如果能够安装skype的，还是可以抽空安装一下
@@ -352,7 +331,3 @@ http://code.google.com/p/sociallearnlab/wiki/ZqSayCommunityCommunicate
 (9:31:20 PM) alexyu: 最好是放在论坛 会议的时候放在论坛也是很好的选择 这样相当于是把会议对外直播
 
 (9:31:37 PM) alexyu: 没有进入irc的人也可以参与时时讨论
-
-(9:32:13 PM) lukezhang [n=Administ@219.142.99.29] entered the room.
-
-(9:33:23 PM) lukezhang: 谁来保存一下这次的会议记录，我和余波都没有保存成
