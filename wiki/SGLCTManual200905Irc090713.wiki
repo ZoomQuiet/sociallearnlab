@@ -1,17 +1,31 @@
 #labels IRC,SGLCTManual
 #《村落学习——技术环境手册》blog章节修订讨论.
 
-= Introduction =
+= 介绍 =
 
-Add your content here.
+blog章节地址 http://sociallearnlab.org/wiki/index.php/SGLCTManualBlog200905
+
+blog章节修改论坛讨论帖 https://groups.google.com/group/sociallearnlab/browse_thread/thread/768fd944a0f80be3#
 
 
-= Details =
+==会议议题==
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+重新确定的blog章节结构，重写这一章
+
+
+==会议时间==
+
+090713 晚8点~9点 
+
+
+附：
+
+IRC会议地点及技术使用：http://code.google.com/p/sociallearnlab/wiki/UsageIRC
+
+会议组织方法参考（会议33制）
+
+http://code.google.com/p/sociallearnlab/wiki/ZqSayCommunityCommunicate 
+
 
 
 = 会议记录 =
