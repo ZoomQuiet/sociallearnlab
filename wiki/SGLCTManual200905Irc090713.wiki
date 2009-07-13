@@ -1,5 +1,5 @@
+#summary 《村落学习——技术环境手册》blog章节修订讨论.
 #labels IRC,SGLCTManual
-#《村落学习——技术环境手册》blog章节修订讨论.
 
 = 介绍 =
 
