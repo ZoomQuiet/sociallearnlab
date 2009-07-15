@@ -1,12 +1,25 @@
 #summary 《村落学习——技术环境手册》twitter章节修订讨论.
 #labels SGLCTManual,irc,SGLCTManual200905
 
-= Introduction =
+= twitter章节定稿会议 =
 
 7月15日 Twitter 负责人：bnuleo(talk)
 
 章节修改讨论及修订进度汇报 https://groups.google.com/group/sociallearnlab/browse_thread/thread/924ac5e1a400a7ed 
 
+
+==会议时间==
+
+090715 晚8点~9点 
+
+
+附：
+
+IRC会议地点及技术使用：http://code.google.com/p/sociallearnlab/wiki/UsageIRC
+
+会议组织方法参考（会议33制）
+
+http://code.google.com/p/sociallearnlab/wiki/ZqSayCommunityCommunicate 
 
 = 会议记录 =
 
