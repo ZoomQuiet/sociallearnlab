@@ -1,9 +1,11 @@
-#summary 《村落学习——技术环境手册》blog章节修订讨论.
+#summary 《村落学习——技术环境手册》twitter章节修订讨论.
 #labels SGLCTManual,irc,SGLCTManual200905
 
 = Introduction =
 
-Add your content here.
+7月15日 Twitter 负责人：bnuleo(talk)
+
+章节修改讨论及修订进度汇报 https://groups.google.com/group/sociallearnlab/browse_thread/thread/924ac5e1a400a7ed 
 
 
 = 会议记录 =
