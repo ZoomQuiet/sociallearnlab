@@ -1,0 +1,14 @@
+#summary 《村落学习——技术环境手册》blog章节修订讨论.
+#labels SGLCTManual,irc,SGLCTManual200905
+
+= Introduction =
+
+Add your content here.
+
+
+= 会议记录 =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
