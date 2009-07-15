@@ -69,6 +69,18 @@ http://tinyurl.com/cu6582
 
 * 20090709《村落学习——技术环境手册》Gmail章节定稿讨论IRC会议 http://code.google.com/p/sociallearnlab/wiki/SGLCTManual200905Irc090709
 
+*20090709 发起{技术手册定稿}手册阅读体验改进及电子版发行主题贴 https://groups.google.com/group/sociallearnlab/browse_thread/thread/f27cee5ec510f566 
+
+*20090711 《村落学习——技术环境手册》GoogleGroups章节定稿讨论 http://code.google.com/p/sociallearnlab/wiki/SGLCTManual200905Irc090711
+
+*20090713 《村落学习——技术环境手册》blog章节修订讨论 http://code.google.com/p/sociallearnlab/wiki/SGLCTManual200905Irc090713
+
+*20090715 《村落学习——技术环境手册》twitter章节修订讨论.http://code.google.com/p/sociallearnlab/wiki/SGLCTManual200905Irc090715
+
+*20090715 发布章节导航修改说明与手册阅读体验改进及电子版发行主题贴 https://groups.google.com/group/sociallearnlab/browse_thread/thread/f27cee5ec510f566/afbc874611aa71f9#afbc874611aa71f9
+
+
+
 Add your content here.  Format your content with:
   * Text in *bold* or _italic_
   * Headings, paragraphs, and lists
