@@ -1,0 +1,15 @@
+#summary SGLCTManualIrc090717 wiki章节讨论.
+#labels SGLCTManualIrc
+
+= 主要议题 =
+收集大家对本章的修改反馈信息。
+
+Add your content here.
+
+
+= 会议日志 =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
