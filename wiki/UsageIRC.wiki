@@ -3,7 +3,13 @@
 
 为方便教育大发现团队成员即时交流，我建了一个SLL频道，下面说下使用方法。
 
-*方法1
+*方法1（推荐）
+
+登录 http://webchat.freenode.net/
+
+在nickname中填写昵称，Channels中填写 #sll ，然后点击connect就可以了
+
+*方法2（目前被停用 090719）
 
 推荐一个比起Pidgin更为简单的方法，无需下载安装客户端，直接在网页中就可以登陆irc聊天
 
@@ -11,14 +17,14 @@
 
 教程：http://www.haokanbu.com/story/187386/
 
-*方法2
+*方法3（目前被停用 090719）
 
 教育大发现社区irc快速通道：
 http://widget.mibbit.com/?settings=613f68d3adebdf195e3074eba65a14f1&server=irc.freenode.net&channel=%23sll&autoConnect=true
 
 点击后填写一个昵称就可以进入会议室，无需注册安装
 
-*方法3
+*方法4（推荐）
 
 在MS Windows和Linux环境下都推荐大家使用Pidgin。
 
