@@ -7,7 +7,7 @@
 
 登录 http://webchat.freenode.net/
 
-在nickname中填写昵称，Channels中填写 #sll ，然后点击connect就可以了
+在nickname中填写昵称，Channels中填写 #sll 或者 sll ，然后点击connect就可以了
 
 *方法2（目前被停用 090719）
 
