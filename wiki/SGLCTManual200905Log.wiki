@@ -79,7 +79,9 @@ http://tinyurl.com/cu6582
 
 *20090715 发布章节导航修改说明与手册阅读体验改进及电子版发行主题贴 https://groups.google.com/group/sociallearnlab/browse_thread/thread/f27cee5ec510f566/afbc874611aa71f9#afbc874611aa71f9
 
+*20090717 《村落学习——技术环境手册》wiki章节修订讨论  http://code.google.com/p/sociallearnlab/wiki/SGLCTManualIrc090717
 
+*20090719 《村落学习——技术环境手册》Gmail章节完成定稿，等待庄老师和王莹进一步审查
 
 Add your content here.  Format your content with:
   * Text in *bold* or _italic_
