@@ -9,6 +9,8 @@
 
 在nickname中填写昵称，Channels中填写 #sll 或者 sll ，然后点击connect就可以了
 
+快速通道：或者直接点击 http://webchat.freenode.net/?channels=sll  然后在nickname中填写昵称，完成后点击connect就可以了
+
 *方法2（目前被停用 090719）
 
 推荐一个比起Pidgin更为简单的方法，无需下载安装客户端，直接在网页中就可以登陆irc聊天
