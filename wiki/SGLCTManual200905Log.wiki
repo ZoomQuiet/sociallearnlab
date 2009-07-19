@@ -83,6 +83,8 @@ http://tinyurl.com/cu6582
 
 *20090719 《村落学习——技术环境手册》Gmail章节完成定稿，等待庄老师和王莹进一步审查
 
+*20090719 《村落学习——技术环境手册》twitter章节修订讨论 http://code.google.com/p/sociallearnlab/wiki/SGLCTManual200905Irc090719
+
 Add your content here.  Format your content with:
   * Text in *bold* or _italic_
   * Headings, paragraphs, and lists
