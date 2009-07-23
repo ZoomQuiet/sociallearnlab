@@ -1,4 +1,4 @@
-#summary SGLCTManual200905Irc090721.
+#summary 《村落学习——技术环境手册》haokanbu章节定稿讨论
 #labels SGLCTManual,SGLC
 
 = 会议实录 =
@@ -364,4 +364,3 @@
 (9:17:00 PM) zhaitao2090: 好的
 
 (9:17:06 PM) xiulizhuang: 好的，晚安
-
