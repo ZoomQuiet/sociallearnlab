@@ -1,0 +1,9 @@
+#summary 《村落学习——技术环境手册》GoogleReader章节定稿讨论
+#labels irc,SGLCTManual200905,SGLCTManual
+
+= Introduction =
+
+Add your content here.
+
+
+= 会议记录 =
