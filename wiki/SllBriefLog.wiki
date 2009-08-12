@@ -15,7 +15,8 @@
 
 发起讨论： http://tinyurl.com/olywhu           http://tinyurl.com/q2y2hd
 
-简报发布通道三个：
+* 简报发布通道三个：
+
 社区论坛：https://groups.google.com/group/sociallearnlab
 
 社区网站：http://sociallearnlab.org/
