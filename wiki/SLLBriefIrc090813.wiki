@@ -879,3 +879,5 @@ wuchangcheng: http://code.google.com/p/sociallearnlab/wiki/SllPrjZQ
 (9:53:46 PM) wuchangcheng: 会议到这里，结束
 
 (9:54:17 PM) wuchangcheng: 我们说些题外话:看这个，http://code.google.com/p/sociallearnlab/wiki/SllPrjZQ  最核心：有共识和共求，我觉得我们的供求还没有达到，需要进一步细化！再讨论！
+
+xiansf: 建议可以做一个好看故事，来示范，看到一些信息或者有一些什么想法之后，怎么到wiki上和大家共享。 然后让大家在这个故事的基础上，添加各种评论和建议。
