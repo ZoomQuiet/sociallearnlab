@@ -9,5 +9,24 @@
 此项目旨在对社区一段时间的工作进行总结，让外界对社区更加了解，也是对社区资源的汇集。这个过程，同时也是教育大发现社区自身实践的提炼和积累，是对团队知识管理的应用。
 
 == 项目关键信息 ==
-项目Wiki平台：
+简报Wiki平台：http://sociallearnlab.org/wiki/index.php/SLLBrief
+
 研讨论坛：https://groups.google.com/group/sociallearnlab
+
+发起讨论： http://tinyurl.com/olywhu           http://tinyurl.com/q2y2hd
+
+简报发布通道三个：
+社区论坛：https://groups.google.com/group/sociallearnlab
+
+社区网站：http://sociallearnlab.org/
+
+社区WIKI：http://sociallearnlab.org/wiki/
+
+社区简报论坛（专用订阅/发布通道）：
+http://groups.google.com/group/sllbrief?hl=zh-CN
+
+= 项目进展 =
+
+* 20090810 发起《SLL社区简报》改版项目 http://tinyurl.com/q2y2hd 
+
+* 20090813 项目会议 
