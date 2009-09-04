@@ -16,6 +16,7 @@
  * [http://erlang.org.cn/ ECUG] [http://code.google.com/p/ecug/wiki/FrontPage 外长]
  * http://sociallearnlab.org/wp-content/themes/vertigo-3column/images/logo.png
  * [http://sociallearnlab.org/?page_id=257 教育大发现 专家组成员] *
+  * [SllPrjZQ 仨儿之建议集]
 
 == i believe ==
 {{{
