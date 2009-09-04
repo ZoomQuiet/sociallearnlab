@@ -6,7 +6,27 @@ SLLBriefIrc 090904 .
 = Introduction =
 
 会议参与人员：
-ZoomQuit
+
+余波（AlexYu），y.blj018@gmail.com 教育技术
+
+Zoomq=Zoom.Quiet=仨儿 金山软件 过程改进经理 哲思社区成员,中文Python 用户组员创始人之一;关注用自由软件创建靠谱环境  http://code.google.com/p/sociallearnlab/wiki/ZoomQuiet
+
+Xiulizhuang，庄秀丽，xiuli.zhuang@gmail.com，好看簿http://www.haokanbu.com/user/496/
+
+郝建华（Haojianhua），社区新手，不过很快就会融入这个大集体的。联系
+方式：haojianhua1984@gmail.com
+
+刘雪锋，许昌学院教师，
+
+汤涛：杭州市下沙中学信息教师 我的联系方式tangtao1318@Gmail.com 
+
+李明山(lms,lms0023), lms0023@gmail.com  http://www.haokanbu.com/user/83424/ 小学老师
+
+翟涛老师（zhaitao2090）:	
+zhaitao2009@gmail.com 淄博市淄川区双沟中学信息技术物理教师 
+
+吴长城，社区老成员，从社区成立之初就在参与，我的联系：chengcheng1098@gmail.com
+
 
 
 = Details =
