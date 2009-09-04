@@ -55,4 +55,4 @@ http://sociallearnlab.org/?p=818
 
 * 20090902 发布社区简报手册（新手如何参与简报） http://tinyurl.com/kr69fe
 
-* 20090904 简报irc会议 SLLBriefIrc090904
+* 20090904 简报irc会议 [SLLBriefIrc090904]
