@@ -82,6 +82,60 @@ SEE::[SllProjectFlows SLL项目流程]/*[SllPrjZQ 仨儿之建议集]*
 外地的成员，就依赖这些异步知识储备来同步认识了
 }}}
 出自:_[https://groups.google.com/group/sociallearnlab-members/browse_thread/thread/ac8fcf6b942e611c/a95da9f2336f5da8?lnk=gst&q=%E5%BD%95%E9%9F%B3%EF%BC%81%E5%BD%95%E5%83%8F%EF%BC%81%E7%85%A7%E7%89%87%EF%BC%81%E6%96%87%E5%AD%97%EF%BC%81#a95da9f2336f5da8 与社区顾问陈堃小聚]_ ^- SocialLearnLab-Members:“教育大发现”核心成员列表 | Google 网上论坛^
+
+
+=== Wiki 使用 ===
+问题:[https://groups.google.com/group/sociallearnlab/browse_thread/thread/b8ef7509146dce8b 求助：wiki 条目的编写] - “教育大发现”（SocialLearnLab） | Google 网上论坛
+{{{
+2009/11/8 yibie <gunshotbox@gmail.com>:
+> 虽然我的wiki初步搭建
+> 但是我对其中wiki条目的写作还有很模糊的地方
+>
+> 不知道ZQ有什么好的提议吗？
+> 我参考了 维基百科 的写作方式，但是觉得那个是适合多人wiki的，个人wiki该怎么写呢？
+（条目应包含的要素，wikiwords该如何设置……）
+}}}
+
+非常经典的疑问，俺将讨论转发到对应的邮件列表了...
+ * (PKM2008 关注个人知识管理;
+ * sociallearnlab 教育大发现关注通过SNS改良高等教育;)
+
+ * 其实感觉不知道怎么使用维基，这不是你的问题，而是教育的问题，
+现在回想起来，大学中最有用的课程应该是 图书馆和信息搜索 这门选修课；
+ * 用维基来组织自个儿的知识／思想，和使用其它平台来作，有着本质的不同：
+  # 维基想用的好,必须先有一个明确的清晰的整个维基核心分类结构,而且必须稳定,永久不変
+  # 其它平台则是"管埋不管杀",可以非常方便轻易的输入和收集,但是没有哪个是关注日后的整理和快速查找和使用/再创造的!
+
+ * 所以,进一步的,感觉不知道怎么使用维基的根本原因是对自个儿不了解,无法对自个儿的知识体系有一个稳定的明确的认识;
+从而无法简洁的判别某一文章应该属于什么分类,日后将怎么使用,又会和什么文章产生关联....
+
+==== 建议: ====
+ * 使用自个儿长期收集书签时的分类原则
+ * 先将分类索引页面建立好,坚持这样一种维基维护行为:
+  # 明确将写文章的分类
+  # 在对应分类中创建文章入口
+  # 完成文章的撰写(或是初稿)
+  # 将文章和其它相关的文章*相互链接起来*
+  # 定期回顾近期文章,进行合理的分类调整和修订
+`并坚持将对应的文章,在一切可能的网络沟通情景中,进行分享!以便获得反馈不断的完备这一文章`
+ * 定期反省自个儿的知识体系:
+  # 最好使用思维图谱工具来自我分析 e.g. http://wiki.woodpecker.org.cn/moin/ZoomQuiet/AllAboutMe
+  # 明确自个儿的学习和积累方向
+  # 明确学习方向的关联知识领域
+
+ * 这样维基的积累和整理将越来越有针对性,对于其它同学来查阅也就越来越有了针对性,
+    这一个人维基的价值也将逐渐累积起来了...
+
+参考::
+ * Wiki导览 + 从入门到精通MoinMoin
+  * http://www.woodpecker.org.cn/share/doc/SKSIG/DriveIntoMoinPub/
+
+
+-- 
+http://zoomquiet.org 人生苦短? Pythonic!
+Free as in Freedom! 哲思社区:http://zeuux.com 
+
+
 === Blog 写作 ===
 `对xiuli老师写博客的建议`
 
