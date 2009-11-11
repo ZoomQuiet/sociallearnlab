@@ -166,7 +166,7 @@ python yacalendar.py yyyy mm[比如说:2009 10 说明想看哪年哪月的]
   * http://sociallearnlab.googlecode.com/svn/tangle/zoom.quiet/easypy/
 执行效果如截屏!
 
-https://groups.google.com/group/sociallearnlab/web/2009-11-11-120930_951x288_scrot.png
+http://sociallearnlab.googlecode.com/files/2009-11-11-120930_951x288_scrot.png
 
 在这种跨平台动态通用脚本语言的支持下，开展关注学生真正思想／素质的提升教学才是可能的;
 
