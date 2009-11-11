@@ -91,6 +91,115 @@ PDF全称Portable DocumentFormat，是Adobe公司开发的电子文件格式。�
 
 == 讨论 ==
 
+=== 教案 ===
+2009/11/8 wangfei <feixiang97@gmail.com>:
+ * [https://groups.google.com/group/sociallearnlab/browse_thread/thread/520eeda011bdd399 王飞用VB制作万年历小时钟] - “教育大发现”（SocialLearnLab） | Google 网上论坛
+{{{
+> 初三年级的学生，内容用1个课时，在机房内上课（有智博教学软件）；
+> 教学目标：
+> 1、初步学会时钟控件的使用方法。
+> 2、掌握外部控件的调用方法
+> 3、掌握时间函数Timer的使用方法
+> 4、学会设置蜂鸣声的方法
+> 教法设计：教师先自己做出这个程序，然后屏幕显示并分析这个程序用到哪些控件，
+    并出示学习目标（5分钟左右）；
+    首先给学生适当时间自己独立尝试制作（15分钟左右），然后小组交流，
+    根据学生做的情况，可以让做的好的同学演示（10分钟），
+    学生结合演示再次制作，小组内互相检查帮助，确保每位同学制作完成，
+    并上传至FTP服务器个人文件夹中（10分钟）。
+}}}
+
+俺是一直搞软件的，曾经就职SINA，现在金山软件...
+ * [http://code.google.com/p/openbookproject/wiki/ZoomQuiet 关注知识管理和过程改进，以及自由软件的推广]
+ * 之所以，先说俺是谁，是想对老师这种教学模式给出专业作业角度的分析和建议;
+
+*首先！[http://code.google.com/p/sociallearnlab/wiki/ZqSayEduFreeSoftware 教育必须使用自由软件] - sociallearnlab - SLL.org社区增进 ZoomQuiet版 实践参考*
+ * 这个不论从教育目的和社区责任以及知识共享等等角度来想都是非常靠谱的;
+
+
+其次，以上列出的不是“教学目标”，而且教学步骤而已，
+ * 从中我看不出这一教案的目标是什么:
+{{{
+- 教会学生使用 智博教学软件?
+- 教会学生使用 VB?
+}}}
+俺建议，应该明确"教学目标",比如说:
+ * 引导学生了解软件的开发过程，破除软件是非常复杂的迷信
+ * 引导学生体验团队协作，理解现实工作中的项目
+
+所以，是否完成这一不常用软件并不重要，重要的是学生是否可以在这一命题中:
+ * 意识到问题的解决基本思路
+ * 新技术的学习策略
+ * 团队协同的重要性
+ * 如何高效的沟通？！
+ * ...
+ * 这些才是现实软件开发中最重要的素质...
+
+*教学用开发语言，俺推荐 Python ,一个轻松的开始可以是:*
+ * [http://www.woodpecker.org.cn/share/doc/abyteofpython_cn/chinese/ 简明 Python 教程]
+ * [http://www.woodpecker.org.cn/share/doc/abyteofpython_cn/ .chm pdf 下载...]
+ 
+也可以是 [http://www.china-pub.com/195771 《可爱的Python (china-pub首发)》]
+    
+ * Python 已经代替 Scheme 成为国外计算机学位的入门语言了，因为她可以非常容易的上手，
+从而关注问题的解决策略，以及团队協作，而不是语言／环境本身的学习！
+ * 比如说，这个万年历，可以简单的用以下 包含注释的 15行代码完成 80% 的功能！
+{{{
+# -*- coding: utf-8 -*-
+"""yacalendar.py
+    - yet another calendar
+"""
+import os,sys,calendar
+
+if __name__ == '__main__':      # this way the module can be
+    if 3 != len(sys.argv):
+        print """ %s usage::
+python yacalendar.py yyyy mm[比如说:2009 10 说明想看哪年哪月的]
+        """
+    else:
+        year = int(sys.argv[1])
+        month = int(sys.argv[2])
+        print calendar.month(year,month)
+}}}
+以上代码已经收集在 SLL 的工程仓库中:
+ * sociallearnlab - r1934: /tangle/zoom.quiet/easypy
+  * http://sociallearnlab.googlecode.com/svn/tangle/zoom.quiet/easypy/
+执行效果如截屏!
+
+https://groups.google.com/group/sociallearnlab/web/2009-11-11-120930_951x288_scrot.png
+
+在这种跨平台动态通用脚本语言的支持下，开展关注学生真正思想／素质的提升教学才是可能的;
+
+俺感觉靠谱的自学过程是:
+{{{
+- 公开讨论"万年历"的需求，要求统一记录下来
+- 公开快速教学 Python 脚本的编写和调试
+- 自由组合成开发小组
+- 引导和观察各个小组的协同活动
+- 适时给出 code.google 等类似的協同工程环境
+- 到期公开逐一运行和评定，看哪个组完成的好，共同分享体验
+}}}
+提醒:
+{{{
+- 这种开发实战式的教学，最忌的就是有标准答案！这样直接扼杀了学生的创造性！
+- 老师不应该强过学生的编程能力，教育的本质要求是教育出更强的一代！
+    老师在这期间只是个开发游戏的组织者和激励者，
+    而不应该是名裁判！
+    在学生有了一定开发经验后，才可能引入为了大规模开发而产生的各种规范／框架／过程...
+}}} 
+参考::
+ * [http://docs.python.org/library/calendar.html 9.2. calendar — General calendar-related functions — Python v2.6.4 documentation]
+ * [http://fayaa.com/code/view/112/ Python版的农历日历Calendar，功能简单 - 代码发芽网]
+
+----
+
+{{{
+http://zoomquiet.org 人生苦短? Pythonic!
+一个人如果力求完善自己,就会看到:
+    为此也必须同时完善他人. 
+    一个人如果不关心别人的完善,自己便不可能完善!
+}}} 
+
 === VS 开源 ===
 这方面的资料满坑满谷的哪！！
 
