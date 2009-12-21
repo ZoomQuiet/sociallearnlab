@@ -15,8 +15,6 @@
 
 = 会议结果 =
 
-<wiki:gadget url="http://www.labpixies.com/campaigns/todo/todo.xml" w="320" height="300" border="0" /> 
-
 
 *淄博项目：*
 
