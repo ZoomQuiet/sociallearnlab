@@ -15,6 +15,9 @@
 
 = 会议结果 =
 
+<wiki:gadget url="http://www.labpixies.com/campaigns/todo/todo.xml" w="320" height="300" border="0" /> 
+
+
 *淄博项目：*
 
 推进方案设计：结合（1）淄博邮件列表内容 （2）以往的问卷，也会做数据录入与分析 （3）做一个问卷进行信息技术教师用网行为的调查  三点来深入研究如何设计方案 。慈同学和庄老师重点负责
