@@ -1,5 +1,5 @@
+#summary 核心服务团队会议
 #labels SLLIrc,Irc
-#SLLIrc20091219
 
 = 核心服务团队 =
 会议组织者：余波 
