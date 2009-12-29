@@ -1,7 +1,10 @@
 #labels SLLBriefIrc,Irc,SLLBrief
 #SLL社区简报工作会议.
 
-= Introduction =
+= 会议小结 =
+
+
+= 会议实录 =
 
 Conversation with #sll
 
