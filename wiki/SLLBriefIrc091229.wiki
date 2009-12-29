@@ -115,7 +115,7 @@ Conversation with #sll
 
 (6:57:25 PM) changcheng: 新内容放到下期，没有发布出去，是在发布后，谁又加进去了内容，也就是没有传播
 
-(6:57:56 PM) zoomq [n=zoomq@113.106.106.130] entered the room.
+(6:57:56 PM) zoomq  entered the room.
 
 (6:57:56 PM) mode (+v zoomq ) by ChanServ
 
