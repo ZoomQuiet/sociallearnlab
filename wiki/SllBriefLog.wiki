@@ -60,3 +60,5 @@ http://sociallearnlab.org/?p=818
 * 20090914 发布社区简报200909（上）总第九期  http://sociallearnlab.org/?p=885
 
 * 20090920 吴长城对社区简报参与手册（新手如何参与简报）进行了改进和简化 http://tinyurl.com/kr69fe
+
+* 20091229 简报IRC会议SLLBriefIrc091229  
