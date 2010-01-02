@@ -1,5 +1,10 @@
+#summary 简报工作会议
 #labels SLLBriefIrc,Irc,SLLBrief
-#SLL社区简报工作会议.
+
+SLLBriefIrc 091229 
+
+<wiki:toc/>
+
 
 = 会议概述 =
 会议组织：吴长城
