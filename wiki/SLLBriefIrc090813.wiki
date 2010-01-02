@@ -1,5 +1,10 @@
+#summary 简报工作会议
 #labels SLLBrief,IRC
-#社区简报IRC会议090813.
+
+SLLBriefIrc 090813.
+
+<wiki:toc/>
+
 
 = 讨论议题 =
 1.社区简报（SllBrief）介绍
