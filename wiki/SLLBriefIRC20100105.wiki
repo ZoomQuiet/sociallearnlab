@@ -2,7 +2,10 @@
 #labels SLLBrief,IRC
 
 = 社区简报发布规则IRC会议 SLLBriefIRC20100105 =
-
+== 讨论主题 ==
+教育大发现社区简报校对、PDF格式、简报流程及规则。
+= 会议参与人员=
+余波，吴长城
 
 吴长城: 
   建议给出简报范本文档，包括wiki文档样本，pdf样本 如果可以，对2009年12月份下期简报做些修改完善，然后做为样本（http://sociallearnlab.org/wiki/index.php/SLLBrief_200912b），包括WIKI文档样本和PDF样本，大家看还需要哪些完善工作？
