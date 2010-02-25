@@ -13,6 +13,41 @@ SEE::[SllProjectFlows SLL项目流程]/*[SllPrjZQ 仨儿之建议集]*
 收获后，分享，将引发更大规模的收获 .. ;)
 }}}
 
+== 从无知到有知 ==
+来自: 4G spaces http://blog.youxu.info/2010/02/03/informed-ignoranc/
+
+**很有共鸣!**
+ * KUP Thinking abt.KM - XMind - Social Brainstorming and Mind Mapping
+  * http://www.xmind.net/share/zoomquiet/coup-thinking-abt-km/
+
+学习的层级,最早是从 秀丽老师处得到感知的...
+{{{
+->不知己不知
+    ->不知己知
+        ->知己知
+            ->知己不知
+}}}
+的确就象当前说的是从一种"无知"到另外一种高层次"无知"
+ * 收录在 可爱的Python 一书中:
+  * http://wiki.woodpecker.org.cn/moin/ObpLovelyPython/0Days
+
+俺在学习管理的探索中发觉,知道其实也是分两种的:
+{{{
+- 以为自个儿知道
+ - "不知己知"层级
+ - 大致的快速学习过相关技术,并没有多少实践,但是比单纯的知道已经高了一个层级
+ - 但是其实,是不知道自个儿知道的知识在领域知识中的分布,以及其它关联知识的关系
+ - 面对具体问题时,就很"赌"了
+ - 这是一个体验到知识增长的同时,又对解决问题依然没有什么把握的痛并快乐的过程
+
+- 明确自个儿知道什么
+ - "知己知"层级
+ - 就是通过实践,或是深入的对领域知识的探索,掌握了方面知识的整体了解
+ - 明确自个儿已经知道的部分在面对什么问题时可以有足够的支撑,作出明智的决策
+ - 这又是对"不知己知"层级 不断的自我否定和完善的过程
+ - 痛苦的过程
+}}}
+
 === 资料收集的习惯 ===
 
 另外,分享个资料收集的小习惯:
@@ -83,7 +118,7 @@ SEE::[SllProjectFlows SLL项目流程]/*[SllPrjZQ 仨儿之建议集]*
 }}}
 出自:_[https://groups.google.com/group/sociallearnlab-members/browse_thread/thread/ac8fcf6b942e611c/a95da9f2336f5da8?lnk=gst&q=%E5%BD%95%E9%9F%B3%EF%BC%81%E5%BD%95%E5%83%8F%EF%BC%81%E7%85%A7%E7%89%87%EF%BC%81%E6%96%87%E5%AD%97%EF%BC%81#a95da9f2336f5da8 与社区顾问陈堃小聚]_ ^- SocialLearnLab-Members:“教育大发现”核心成员列表 | Google 网上论坛^
 
-
+<wiki:toc max_depth="4" />
 === Wiki 使用 ===
 问题:[https://groups.google.com/group/sociallearnlab/browse_thread/thread/b8ef7509146dce8b 求助：wiki 条目的编写] - “教育大发现”（SocialLearnLab） | Google 网上论坛
 {{{
@@ -136,6 +171,7 @@ http://zoomquiet.org 人生苦短? Pythonic!
 Free as in Freedom! 哲思社区:http://zeuux.com 
 
 
+<wiki:toc max_depth="4" />
 === Blog 写作 ===
 `对xiuli老师写博客的建议`
 
@@ -298,6 +334,8 @@ Just do it!
 出自:_[https://groups.google.com/group/sociallearnlab-members/browse_thread/thread/6c5eb2453b00ea4a/9dd954d4da2c9511?lnk=gst&q=%E5%9B%A0%E4%B8%BA%E5%BE%88%E5%A4%9A%E6%97%B6%E5%80%99%E4%B8%8D%E5%8A%A8%E6%89%8B%E5%86%99%E6%98%AF%E4%B8%8D%E7%9F%A5%E9%81%93%E8%87%AA%E4%B8%AA%E5%84%BF%E6%98%AF%E5%90%A6%E7%9C%9F%E6%AD%A3%E7%9F%A5%E9%81%93%E7%9A%84#9dd954d4da2c9511 好看教研（ItcHaokanbu）项目管理经验分享]_ ^- SocialLearnLab-Members:“教育大发现”核心成员列表 | Google 网上论坛^
 
 
+<wiki:toc max_depth="4" />
+
 = Discuss =
 `还有什么想法?持续聚集哪,,,`
 
@@ -331,6 +369,8 @@ SEE::
 }}}
  * 使用好工具,随手将搜索痕迹保留下来
   * ;-) ScrapBook 就非常好用,可以抓取意外的好知识片段,先保存在本地,解决眼前问题后另外慢慢学习...
+
+<wiki:toc max_depth="4" />
 
 == 回复:Yibie的知识管理流程与工具选择 ==
 {{{
@@ -475,5 +515,5 @@ http://www.zoomquiet.org/share/s5/080730-cpc-SVN-Trac-KM/km/km-map-0.7.png
 > 订阅地址：http://feed.feedsky.com/GTDlife
 }}}
 
-
+<wiki:toc max_depth="4" />
 
