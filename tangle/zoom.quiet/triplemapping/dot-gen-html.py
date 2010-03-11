@@ -11,7 +11,7 @@ reverions::
     __revision__= "$Rev$"
     __url__     = "$URL$"
 '''
-VERSION = "dot-gen-html v9.04.13"
+VERSION = "dot-gen-html v10.3.11"
 
 import os,sys,time
 import popen2
