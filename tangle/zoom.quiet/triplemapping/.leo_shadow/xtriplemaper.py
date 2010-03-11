@@ -15,7 +15,6 @@ reverions::
 '''
 VERSION = "moinmaper.py v9.04.17"
 
-
 #@<<define>>
 #@+node:zoomq.20090409122718.3:<<define>>
 import os,sys

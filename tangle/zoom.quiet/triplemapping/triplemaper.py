@@ -6,13 +6,12 @@ usage:
     $ python triplemaper.py 100310-all-sample.txt
 
 reverions::
-    __author__  = "$Author: zoomq $"
-    __date__    = "$Date: 2009-12-04 09:00:41 +0800 (五, 2009-12-04) $"
-    __revision__= "$Rev: 11788 $"
-    __url__     = "$URL: http://svn.rdev.kingsoft.net/matter/tangle/zoom.quiet/hackminds.leo $"
+    __author__  = "$Author$"
+    __date__    = "$Date$"
+    __revision__= "$Rev$"
+    __url__     = "$URL$"
 '''
 VERSION = "moinmaper.py v9.04.17"
-
 
 import os,sys
 import time,datetime

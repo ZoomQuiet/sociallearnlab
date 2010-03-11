@@ -5,13 +5,17 @@
     v0.7 090312 for KUP.rdev dot mapping gen html
 usage:
     $ python dot-gen-html.py py-k-idx.dot "py.kingsoft.net 数据地图" index.html
+reverions::
+    __author__  = "$Author$"
+    __date__    = "$Date$"
+    __revision__= "$Rev$"
+    __url__     = "$URL$"
 '''
-
+VERSION = "dot-gen-html v9.04.13"
 
 import os,sys,time
 import popen2
 
-VERSION = "dot-gen-html v9.04.13"
 GENTIME = time.strftime("%Y-%m-%d %H:%M:%S",time.localtime())
 TPL = "res/index.tpl"
 DODOT = "dot %s.dot -Tpng -o %s.png -Tcmapx -o %s.map"
