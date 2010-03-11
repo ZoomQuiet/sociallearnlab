@@ -1,0 +1,76 @@
+digraph mainmap {
+/*图片生成命令:: need:: apt-get install graphviz-cairo
+$ dot test.dot -Tpng -o test.png -Tcmapx -o test.map
+        style=filled,fillcolor=lightyellow,
+        shape=plaintext,        
+        ranksep=1.2,size="12,32"
+        overlap=false,splines=true,
+*/
+    graph [label="学生三元定义分析图谱 {by triplemaper.py v10.3.11 @100311 17:52:40}",
+        labelloc="b",labeljust="r",
+        fontsize=12.0,
+        fontname="VeraSansYuanTi-Regular.ttf",
+        ratio=compress,
+        rankdir=LR,
+        ranksep=0.2,
+        ];
+    node[fontsize=10.5,color=gray70,
+        target="new",shape=plaintext,
+        style=filled,fillcolor=lightyellow,
+        height=0.1,
+        ];
+    /*dir=both,plaintext		arrowType=vee,
+        */
+    edge [fontsize=8.0,fontcolor=gray15,
+        color=gray40,
+        arrowsize=0.5,arrowhead=vee,arrowtail=none,
+        len=2.1,
+        ];
+    /*关系
+        len=1.7,
+    KUP->PEM    [arrowhead=normal,style="setlinewidth(4)"]; 
+    */    
+有些学生 [label="有些学生",URL="#"];
+学生类型 [label="学生类型",URL="#"];
+知道而且喜欢发言 [label="知道而且喜欢发言",URL="#"];
+包括 [label="包括",URL="#"];
+活跃 [label="活跃",URL="#"];
+表达 [label="表达",URL="#"];
+不知道也不敢说 [label="不知道也不敢说",URL="#"];
+是 [label="是",URL="#"];
+就是 [label="就是",URL="#"];
+个别学生 [label="个别学生",URL="#"];
+会 [label="会",URL="#"];
+知道但不愿意说 [label="知道但不愿意说",URL="#"];
+如 [label="如",URL="#"];
+﻿学生类型 [label="﻿学生类型",URL="#"];
+不一定知道但是敢说的 [label="不一定知道但是敢说的",URL="#"];
+
+
+    /*页面
+    Td    [label="Toad\n未来特性管理视图",shape=component,URL=""];
+    */
+
+有些学生->就是 [label="1",style="setlinewidth(2)",color="#777678"];
+学生类型->如 [label="1",style="setlinewidth(2)",color="#777678"];
+学生类型->包括 [label="4",style="setlinewidth(5)",color="#114015"];
+知道而且喜欢发言->是 [label="2",style="setlinewidth(3)",color="#556457"];
+包括->不知道也不敢说 [label="1",style="setlinewidth(2)",color="#777678"];
+包括->知道而且喜欢发言 [label="1",style="setlinewidth(2)",color="#777678"];
+包括->个别学生 [label="1",style="setlinewidth(2)",color="#777678"];
+包括->知道但不愿意说 [label="1",style="setlinewidth(2)",color="#777678"];
+包括->不一定知道但是敢说的 [label="1",style="setlinewidth(2)",color="#777678"];
+活跃->课堂气氛 [label="2",style="setlinewidth(3)",color="#556457"];
+表达->很到位 [label="1",style="setlinewidth(2)",color="#777678"];
+不知道也不敢说->活跃 [label="1",style="setlinewidth(2)",color="#777678"];
+是->少数 [label="2",style="setlinewidth(3)",color="#556457"];
+就是->敢说 [label="1",style="setlinewidth(2)",color="#777678"];
+个别学生->表达 [label="1",style="setlinewidth(2)",color="#777678"];
+会->容易被教师忽略 [label="1",style="setlinewidth(2)",color="#777678"];
+知道但不愿意说->会 [label="1",style="setlinewidth(2)",color="#777678"];
+如->有些学生 [label="1",style="setlinewidth(2)",color="#777678"];
+﻿学生类型->包括 [label="1",style="setlinewidth(2)",color="#777678"];
+不一定知道但是敢说的->活跃 [label="1",style="setlinewidth(2)",color="#777678"];
+
+
+}

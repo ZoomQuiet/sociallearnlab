@@ -1,1 +1,1 @@
-%s->%s [style="setlinewidth(%s)",color="#%s"];
+%s->%s [label="%s",style="setlinewidth(%s)",color="#%s"];

@@ -6,11 +6,11 @@ $ dot test.dot -Tpng -o test.png -Tcmapx -o test.map
         ranksep=1.2,size="12,32"
         overlap=false,splines=true,
 */
-    graph [label="%(dotmapname)s地图 {by Zoom.Quiet}",
-        labelloc="t",labeljust="l",
+    graph [label="%(dotmapname)s",
+        labelloc="b",labeljust="r",
         fontsize=12.0,
         fontname="VeraSansYuanTi-Regular.ttf",
-        ratio=compress,size="10,34",
+        ratio=compress,
         rankdir=LR,
         ranksep=0.2,
         ];
@@ -19,26 +19,23 @@ $ dot test.dot -Tpng -o test.png -Tcmapx -o test.map
         style=filled,fillcolor=lightyellow,
         height=0.1,
         ];
-    /*dir=both,plaintext
-		arrowType=vee,
+    /*dir=both,plaintext		arrowType=vee,
         */
-    edge [fontsize=8.0,
-        fontcolor=gray15,
+    edge [fontsize=8.0,fontcolor=gray15,
         color=gray40,
-		arrowhead=normal,
-		arrowtail=none,
+        arrowsize=0.5,arrowhead=vee,arrowtail=none,
         len=2.1,
         ];
     /*关系
         len=1.7,
     KUP->PEM    [arrowhead=normal,style="setlinewidth(4)"]; 
     */    
-%(dotdigraph)s
+%(dotnodes)s
 
     /*页面
     Td    [label="Toad\n未来特性管理视图",shape=component,URL=""];
     */
 
-%(dotpages)s
+%(dotrelats)s
 
 }

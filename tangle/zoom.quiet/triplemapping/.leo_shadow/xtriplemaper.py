@@ -13,33 +13,31 @@ reverions::
     __revision__= "$Rev: 1974 $"
     __url__     = "$URL: https://sociallearnlab.googlecode.com/svn/tangle/zoom.quiet/triplemapping/triplemaper.py $"
 '''
-VERSION = "moinmaper.py v9.04.17"
+VERSION = "triplemaper.py v10.3.11"
 
 #@<<define>>
 #@+node:zoomq.20090409122718.3:<<define>>
 import os,sys
 import time,datetime
+import base64
+from cfg import MM
+
 
 NOW = "%s"%(time.strftime("%y%m%d",time.localtime()))
 NOWTIME = "%s"%(time.strftime("%y%m%d %H:%M:%S",time.localtime()))
-LOG_FILENAME = '_log/mapping-%s.log'%NOW
-
-#import logging
-#import logging.config
-'''
-logging.basicConfig(level=logging.DEBUG,
-                   format='[%(asctime)s]%(levelname)-8s"%(message)s"',
-                    datefmt='%Y-%m-%d %a %H:%M:%S',
-                    filename='logs/yksitemap-%s.log'%daylog,
-                    filemode='a+')
-'''
+LOG_FILENAME = '_logs/mapping-%s.log'%NOW
 #@-node:zoomq.20090409122718.3:<<define>>
 #@nl
 
 #@+others
 #@+node:zoomq.20090409202326.3:initlog
 def initlog():
-    '''base Limodou blog easy creat logger obj.
+    '''base Limodou blog easy creat logger obj.can logging as:
+        logger.debug("debug message")
+        logger.info("info message")
+        logger.warn("warn message")
+        logger.error("error message")
+        logger.critical("critical message")
     '''
     import logging
     logger = logging.getLogger()
@@ -56,254 +54,136 @@ class mapper:
     """
     #@	@+others
     #@+node:zoomq.20090409142411.20:__init__
-    def __init__(self,pagenamefile):
+    def __init__(self,relatdatafile):
         """ini all
-        logger.debug("debug message")
-        logger.info("info message")
-        logger.warn("warn message")
-        logger.error("error message")
-        logger.critical("critical message")
         """
+        self.cfg = MM
         self.logger = initlog()
-        self.logdo = 0
-        self.MM = MM
-        self.data = pagenamefile
-        self.mapli = []
-        self.mapdots = []
-        self.gendots = []
-        self.dotnodes = ""
-        #print open(pagenamefile).read()
-        self.xmltree = []
-        self.xmlnodes = ""
+        self.logdo = 0  #处理数据行数
+        self.data = relatdatafile
         #@    @+others
         #@+node:zoomq.20090409142411.21:abtFile
         self.pathlog = "_logs/"
         self.pathtpl = "_tpls/"
 
-        self.tplmain = "moinmaper.tpl"
-        self.tplitem = "moinpage.tpl"
-        self.tpldot = "moindot.tpl"
-        self.tpldotitem = open("%s/%s"%(self.pathtpl,self.tplitem)).read()
+        self.tplmain = "dotmain.tpl"
+        self.tplrelat = "dotrelat.tpl"
+        self.tplnode = "dotnode.tpl"
+        self.tpldotmain = open("%s/%s"%(self.pathtpl,self.tplmain)).read()
 
-        self.tmpdotpages = "dotpages.tmp"
-        open(self.tmpdotpages,"w").write("")
-
-        self.expdot = "moinmaper.dot"
+        self.expdot = "triplemaper.dot"
         #@-node:zoomq.20090409142411.21:abtFile
-        #@+node:zoomq.20090414113944.1:xmlfiles
-        self.tplxml = "moinxml.tpl"
-        self.expxml = "index.xml"
-
-        self.xmlroot = lE.Element("node")
-        self.xmlroot.set("ID","ID_0")
-        self.xmlroot.set("TEXT",XML['ROOTXT'])
-        self.xmlroot.set("ALT","{%s @%s}"%(VERSION,NOWTIME))
-        self.xmlroot.set("PATH","NULL")
-        self.xmlroot.set("LINK","#")
-        #@-node:zoomq.20090414113944.1:xmlfiles
         #@-others
-
+        self.mapdict = {}
+        self.mapall()
 
         #print self.MM
 
     #@-node:zoomq.20090409142411.20:__init__
-    #@+node:zoomq.20090415093541.1:_parentfix
-    def _parentfix(self,crtnode,path,deep,fpli,urli):
-        '''fixed all deep parent nodes
-        '''
-        base64code = base64.b64encode(path).replace("=","")
-        url = "/".join(urli[:deep])
-        root = self.xmlroot
-        print path,"\n",XML['XPATH']%path
-        #print "join(fpli::%s"%"/".join(fpli[:deep-1])
-        if "" == "/".join(fpli[:deep-1]):
-            crtnode = root
-        else:
-            xpath = XML['XPATH']%"/".join(fpli[:deep-1])
-            if XML["XPROOT"] == xpath:
-                crtnode = root
-                #@            <<new node>>
-                #@+node:zoomq.20090414204327.3:<<new node>>
-                node = lE.SubElement(crtnode, "node")
-                node.set("ID","ID_%s"%base64code)
-                #node.set("TEXT",path)
-                label=self._getitle(fpath)
-                node.set("TEXT",label[0].decode('utf8'))
-                if "" !=label[1]:node.set("STATE",label[1].decode('utf8'))
-
-                node.set("PATH",path)
-                node.set("LINK","%s/%s"%(MM['URL'],url))
-
-                #@-node:zoomq.20090414204327.3:<<new node>>
-                #@nl
-            else:
-                xparent = lE.XPath(xpath)
-                print "try xparent::\n\t%s"%xpath
-                print xparent(root)
-                if [] == xparent(root):
-                    crtnode = self._parentfix(crtnode,path,deep-1,fpli,urli)
-                else:
-                    print "match xparent::\n\t%s"%xpath
-                    crtnode = xparent(root)[0]
-                    #@                <<new node>>
-                    #@+node:zoomq.20090414204327.3:<<new node>>
-                    node = lE.SubElement(crtnode, "node")
-                    node.set("ID","ID_%s"%base64code)
-                    #node.set("TEXT",path)
-                    label=self._getitle(fpath)
-                    node.set("TEXT",label[0].decode('utf8'))
-                    if "" !=label[1]:node.set("STATE",label[1].decode('utf8'))
-
-                    node.set("PATH",path)
-                    node.set("LINK","%s/%s"%(MM['URL'],url))
-
-                    #@-node:zoomq.20090414204327.3:<<new node>>
-                    #@nl
-            #print lE.tostring(xparent(root)[0],pretty_print=True)
-        #print lE.tostring(root,pretty_print=True)
-        return crtnode
-
-    #@-node:zoomq.20090415093541.1:_parentfix
-    #@+node:zoomq.20090409142411.24:mapall
+    #@+node:zoomq.20100311095515.3600:mapall
     def mapall(self):
-        """main action for do all mapping
-        .write(open(self.whatIdx).read() % locals())
+        """主程序图谱节点分析:
+            {节点名:{指向节点名:计数
+                    ,..}
+                ,..}
         """
-        self.urlanalyze();
-        dotmapname = self.MM["MAPNAME"]
-        dotpages = self.dotnodes    #.encode('unicode_escape').decode('string_escape')
-        #open(self.tmpdotpages).read()
-        dotdigraph = "\n".join(self.mapli)
-        #print dotpages
-        #print unicode(self.dotpages,'ascii','cjk_replace').encode('utf8')
-        open(self.expdot,"w").write(open("%s/%s"%(self.pathtpl,self.tplmain)).read() % locals())
-    #@-node:zoomq.20090409142411.24:mapall
-    #@+node:zoomq.20090414113944.21:gen_dotmap
-    def gen_dotmap(self,realPath):
-        """gen dot uage MoinMoin page items
-        - dot node and map gen in diff loop
-        - from raw url get node label  urllib2.urlopen('http://wiki.s.kingsoft.net/moin/AutoTest/AutoTestMembersList?action=raw').readlines()
-        - usage file dir path name through Base64 as dot node
+        rlines = open(self.data).readlines()
+        for line in rlines:
+            self.logdo +=1
+            #print line[:-1]
+            self._push2dict(line[:-1].split())
+        print self.mapdict
+        tv_timstamp = NOWTIME
+        tv_rev = VERSION
+        dotmapname = self.cfg["MAPNAME"] % locals()
+        dotnodes = self.gen_dotnodes()
+        dotrelats = self.gen_dotralet()
+        open(self.expdot,"w").write(self.tpldotmain % locals())
+        #print self.mapdict
+        '''
+        for key in self.mapdict.keys():
+            print key
+            #print self.mapdict[key][0],self.mapdict[key][1]
+        '''
+    #@-node:zoomq.20100311095515.3600:mapall
+    #@+node:zoomq.20090409142411.24:_push2dict()
+    def _push2dict(self,relats):
+        """行内容字典分配:
         """
-        fpath = realPath[:-2]
-        wikiurl = wikiutil.unquoteWikiname(fpath)
-        #print "dirname:%s"%realPath[:-2]
-        #print "unquoteWikiname:%s"%wikiutil.unquoteWikiname(realPath[:-2])
-        #print "quoteWikinameURL:%s"%wikiutil.quoteWikinameURL(realPath[:-2])
-        subs = fpath.split("(2f)")
-        if int(self.MM["DEEP"]) < len(subs):
-            pass
+        if 3<len(relats):
+            # 不处理超过3元的行定义
+            return None
         else:
-            # one by one gen. all mapping
-            #@        <<intermap>>
-            #@+node:zoomq.20090414113944.22:<<intermap>>
-            self.gen_dotitem(fpath)
-            #print subs
-            #lwidth=self.MM["LWIDTH"]-(self.MM["LWSTEP"]*deep) COLORSEED COLORSTEP
-            dotwikiname =  ["(2f)".join(subs[:i+1]) for i in range(len(subs))]
-            for node in dotwikiname:
-                base46node = base64.b64encode(node).replace("=","")
-                if base46node not in self.mapdots:
-                    self.mapdots.append((base46node,node))
+            objnode = relats[0]
+            midnode = relats[1]
+            endnode = relats[2]
+            self._relat2dict(objnode,midnode)
+            self._relat2dict(midnode,endnode)
+            '''
+            for i in range(len(relats)):
+                if relats[i] in self.mapdict.keys():
+                    self.mapdict[relats[i]][0]+=1
                 else:
-                    pass
-
-            dotbase64 = ""
-            dottpl = open("%s/%s"%(self.pathtpl,self.tpldot)).read()
-
-            #@<<try mapping>>
-            #@+node:zoomq.20090414113944.23:<<try mapping>>
-            try:
-                dotbase64 = [base64.b64encode(i).replace("=","") for i in dotwikiname]
-                for i in range(len(dotbase64)):
-                    lwidth=self.MM["LWIDTH"]-(self.MM["LWSTEP"]*i)
-                    if lwidth<=0:
-                        lwidth=0.1
-                    color = self.MM["COLORSEED"]-(self.MM["COLORSTEP"]*i)
-                    if lwidth<=0:
-                        color=self.MM["COLORSEED"]
-
-                    if i+1 >= len(dotbase64):
-                        break
+                    if (i+1) == len(relats):
+                        self.mapdict[relats[i]]=[1,None]
                     else:
-                        intermap = dottpl%(dotbase64[i],dotbase64[i+1],lwidth,color)
-                        #print intermap
-                        if intermap not in self.mapli:
-                            self.mapli.append(intermap)
-            except UnicodeEncodeError:
-                self.logger.debug("UnicodeEncodeError : %s"%realPath)
-            except:
-                self.logger.warn("others code bad ")
-            #@-node:zoomq.20090414113944.23:<<try mapping>>
-            #@nl
+                        self.mapdict[relats[i]]=[1,relats[i+1]]
+            '''
+        return self.mapdict
+    #@-node:zoomq.20090409142411.24:_push2dict()
+    #@+node:zoomq.20100311095515.4718:_relat2dict()
+    def _relat2dict(self,fromnode,pointnode):
+        """行内容字典元素关系分配:
+        """
+        if fromnode in self.mapdict.keys():
+            if pointnode in self.mapdict[fromnode].keys():
+                self.mapdict[fromnode][pointnode] += 1
+            else:
+                self.mapdict[fromnode][pointnode] = 1
+        else:
+            self.mapdict[fromnode] = {}
+            self.mapdict[fromnode][pointnode] = 1
+    #@-node:zoomq.20100311095515.4718:_relat2dict()
+    #@+node:zoomq.20100311095515.3602:gen_dotralet()
+    def gen_dotralet(self):
+        """生成图谱节点关系
+        """
+        dotrelats = ""
+        for key in self.mapdict.keys():
+            nodename = key
+            dotfrom = nodename #base64.b64encode(nodename).replace("=","")
+            for next in self.mapdict[key].keys():
+                dotnext = next
+                noderank = self.mapdict[key][next]
+                #%s->%s [label="%s",style="setlinewidth(%s)",color="#%s"];
+                dotrelats += open("%s/%s"%(self.pathtpl
+                    ,self.tplrelat)).read()%(dotfrom
+                        ,dotnext
+                        ,noderank
+                        ,self.cfg["LWIDTH"]+noderank*self.cfg["LWSTEP"]
+                        ,self.cfg["COLORSEED"]-noderank*self.cfg["COLORSTEP"]
+                        )
+        print dotrelats
+        return dotrelats
 
 
-
-            #@-node:zoomq.20090414113944.22:<<intermap>>
-            #@nl
-        #self.dotpages += dotnode
-
-
-
-    #@-node:zoomq.20090414113944.21:gen_dotmap
-    #@+node:zoomq.20090410145521.2:gen_dotitem
-    def gen_dotitem(self,fpath):
-        '''ask wiki found the first title as node label
-        dotlabel = self._getitle(rawurl)
-        \return file self.tmpdotpages include all dot node define
-        \return self.gendots as list recoded all node gen. for gen_lostnodes
-        '''
-        #print fpath
-        wikiname = wikiutil.unquoteWikiname(fpath)
-        wikiurl = wikiutil.quoteWikinameURL(wikiname)
-        ##for right export Chinese
-        #print fpath.encode('unicode_escape').decode('string_escape')
-        dotitem = base64.b64encode(fpath).replace("=","")
-
-        self.gendots.append(dotitem)
-        #print dotitem
-        #dotlabel = dotitem[:7]
-        dotlabel = self._getitle(fpath)
-        '''test what mis in _getitle()
-        if "NULL" == dotlabel:
-            print "gen_dotitem:%s"%wikipath
-            return 
-        '''
-        doturl = "%s/%s"%(self.MM["URL"],wikiurl)
-        #wikipath.encode('unicode_escape').decode('string_escape'))
-        #self.logger.debug("all picked : %s"%dotitem)
-        #print self.tpldotitem%locals()
-        self.dotnodes += self.tpldotitem%locals()
-
-
-
-
-    #@-node:zoomq.20090410145521.2:gen_dotitem
-    #@+node:zoomq.20090410145521.12:gen_lostnodes
-    def gen_lostnodes(self):
-        '''gen that not real creat pages in path relation
-        '''
-        #print self.mapdots
-        #print self.gendots
-        lose = []
-        for i in self.mapdots:
-            if i[0] not in self.gendots:
-                lose.append(i)
-        #print lose
-        dotlosed = ""
-        for node in lose:
-            wikipath = wikiutil.unquoteWikiname(node[1])
-            dotitem = node[0]
-            dotlabel = wikipath.encode('unicode_escape').decode('string_escape')
+    #@-node:zoomq.20100311095515.3602:gen_dotralet()
+    #@+node:zoomq.20100311095515.4714:gen_dotnodes()
+    def gen_dotnodes(self):
+        """生成图谱节点
+        """
+        dotnodes = ""
+        for key in self.mapdict.keys():
+            nodename = key
+            #%(dotitem)s [label="%(dotlabel)s",URL="%(doturl)s"];
+            dotitem = nodename  #base46node
+            dotlabel = nodename
             doturl = "#"
-            dotlosed += self.tpldotitem%locals()
-        #print "dotlosed::>%s<::dotlosed"%dotlosed
-        #self.logger.debug("dotlosed::%s"%dotlosed)
-        self.dotnodes += dotlosed
+            dotnodes += open("%s/%s"%(self.pathtpl,self.tplnode)).read()% locals()
+        return dotnodes
 
 
-
-    #@-node:zoomq.20090410145521.12:gen_lostnodes
+    #@-node:zoomq.20100311095515.4714:gen_dotnodes()
     #@-others
 
 #@-node:zoomq.20090409122718.4:class mapper
@@ -319,7 +199,7 @@ $ python triplemaper.py DataFile [like: 00310-all-sample.txt]
     else:
         begin = time.time()
         df = sys.argv[1]
-        mm = mapper(df)
+        tm = mapper(df)
         #mm.mapall()
         #mm.mapxml()
         #mm._treelist(pf)
@@ -327,14 +207,14 @@ $ python triplemaper.py DataFile [like: 00310-all-sample.txt]
 
         info = ">>>runing time=%.2fs<<<"%(end - begin)
         print info
-        mm.logger.info("^_^: %s"%info)
-        info = ">>>chked nodes=%s<<<"%mm.logdo
+        tm.logger.info("^_^: %s"%info)
+        info = ">>>chked nodes=%s<<<"%tm.logdo
         print info
-        mm.logger.info("^_^: %s"%info)
+        tm.logger.info("^_^: %s"%info)
 
-        info = ";-) export MoinMoin pages mapping \n by %s"%VERSION
+        info = ";-) export data .dot mapping \n by %s"%VERSION
         print info
-        mm.logger.info("^_^: %s"%info)
+        tm.logger.info("^_^: %s"%info)
 
 #@-node:zoomq.20090409142411.22:<<__main__>>
 #@nl
