@@ -138,15 +138,135 @@
 <v t="zoomq.20090409202326.2"><vh>@nosent dotnode.tpl</vh></v>
 <v t="zoomq.20090409202326.1"><vh>@nosent dotmain.tpl</vh></v>
 </v>
+<v t="zoomq.20100311095515.4716"><vh>@nosent cfg.py</vh></v>
 <v t="zoomq.20090409122718.2" a="E"
-expanded="zoomq.20090409142411.20,"><vh>@shadow triplemaper.py</vh></v>
-<v t="zoomq.20090413151625.1"><vh>@nosent dot-gen-html.py</vh>
-<v t="zoomq.20090413151625.2"><vh>&lt;&lt;define&gt;&gt;</vh></v>
-<v t="zoomq.20090413151625.5"><vh>&lt;&lt;__main__&gt;&gt;</vh></v>
-<v t="zoomq.20090413151625.4"><vh>gen</vh></v>
-</v>
+expanded="zoomq.20090409122718.4,zoomq.20090409142411.20,"><vh>@shadow triplemaper.py</vh></v>
+<v t="zoomq.20090413151625.1"><vh>@shadow dot-gen-html.py</vh></v>
 <v t="zoomq.20090408143801.4"><vh>support</vh>
 <v t="zoomq.20090408143801.5"><vh>unitest</vh></v>
+</v>
+</v>
+<v t="zoomq.20100311095515.4617" a="E"><vh>moinmaper</vh>
+<v t="zoomq.20100311095515.4618" a="E"><vh>templets</vh>
+<v t="zoomq.20100311095515.4619"><vh>@nosent moinxml.tpl</vh></v>
+<v t="zoomq.20100311095515.4620"><vh>@nosent moindot.tpl</vh></v>
+<v t="zoomq.20100311095515.4621"><vh>@nosent moinpage.tpl</vh></v>
+<v t="zoomq.20100311095515.4622"><vh>@nosent moinmaper.tpl</vh></v>
+</v>
+<v t="zoomq.20100311095515.4623"><vh>@nosent cfg.py</vh></v>
+<v t="zoomq.20100311095515.4624"><vh>@nosent freemind.xsl</vh>
+<v t="zoomq.20100311095515.4625"><vh>&lt;&lt;annotations&gt;&gt;</vh></v>
+<v t="zoomq.20100311095515.4626"><vh>&lt;&lt;xsl:template match="/"&gt;&gt;</vh>
+<v t="zoomq.20100311095515.4627"><vh>&lt;&lt;h1&gt;&gt;</vh></v>
+<v t="zoomq.20100311095515.4628"><vh>&lt;&lt;style&gt;&gt;</vh></v>
+<v t="zoomq.20100311095515.4629"><vh>&lt;&lt;title&gt;&gt;</vh></v>
+</v>
+<v t="zoomq.20100311095515.4630"><vh>&lt;&lt;xsl:template match="node"&gt;&gt;</vh>
+<v t="zoomq.20100311095515.4631"><vh>&lt;&lt;xsl:if test="node"&gt;&gt;</vh></v>
+<v t="zoomq.20100311095515.4632"><vh>&lt;&lt;xsl:for-each select="arrowlink"&gt;&gt;</vh></v>
+<v t="zoomq.20100311095515.4633"><vh>&lt;&lt;xsl:if test="@ID"&gt;&gt;</vh></v>
+<v t="zoomq.20100311095515.4634"><vh>&lt;&lt;xsl:choose LINK&gt;&gt;</vh></v>
+<v t="zoomq.20100311095515.4635"><vh>&lt;&lt;xsl:for-each select="icon"&gt;&gt;</vh></v>
+<v t="zoomq.20100311095515.4636"><vh>&lt;&lt;xsl:choose cloud&gt;&gt;</vh>
+<v t="zoomq.20100311095515.4637"><vh>if child nodes</vh></v>
+</v>
+</v>
+</v>
+<v t="zoomq.20100311095515.4638" a="E"><vh>@nosent moinmaper.py</vh>
+<v t="zoomq.20100311095515.4639"><vh>&lt;&lt;define&gt;&gt;</vh></v>
+<v t="zoomq.20100311095515.4640"><vh>&lt;&lt;__main__&gt;&gt;</vh>
+<v t="zoomq.20100311095515.4641"><vh>try lxml</vh></v>
+<v t="zoomq.20100311095515.4642"><vh>try dotmap</vh></v>
+</v>
+<v t="zoomq.20100311095515.4643"><vh>initlog</vh></v>
+<v t="zoomq.20100311095515.4644" a="E"><vh>class mapper</vh>
+<v t="zoomq.20100311095515.4645" a="E"><vh>__init__</vh>
+<v t="zoomq.20100311095515.4646"><vh>abtFile</vh></v>
+<v t="zoomq.20100311095515.4647"><vh>xmlfiles</vh></v>
+</v>
+<v t="zoomq.20100311095515.4648"><vh>mapxml</vh></v>
+<v t="zoomq.20100311095515.4649"><vh>_lxmltree</vh>
+<v t="zoomq.20100311095515.4650"><vh>mount son</vh>
+<v t="zoomq.20100311095515.4651"><vh>&lt;&lt;try0&gt;&gt;</vh></v>
+<v t="zoomq.20100311095515.4656"><vh>&lt;&lt;new node&gt;&gt;</vh></v>
+</v>
+</v>
+<v t="zoomq.20100311095515.4653"><vh>_mountson</vh>
+<v t="zoomq.20100311095515.4656"></v>
+</v>
+<v t="zoomq.20100311095515.4655"><vh>_parentfix</vh>
+<v t="zoomq.20100311095515.4656"></v>
+</v>
+<v t="zoomq.20100311095515.4657"><vh>mapall</vh></v>
+<v t="zoomq.20100311095515.4658"><vh>urlanalyze</vh></v>
+<v t="zoomq.20100311095515.4659" a="E"><vh>gen_dotmap</vh>
+<v t="zoomq.20100311095515.4660" a="E"><vh>&lt;&lt;intermap&gt;&gt;</vh>
+<v t="zoomq.20100311095515.4661"><vh>&lt;&lt;try mapping&gt;&gt;</vh></v>
+</v>
+</v>
+<v t="zoomq.20100311095515.4662"><vh>gen_dotitem</vh></v>
+<v t="zoomq.20100311095515.4663"><vh>gen_lostnodes</vh></v>
+<v t="zoomq.20100311095515.4664"><vh>_getitle</vh></v>
+</v>
+</v>
+<v t="zoomq.20100311095515.4665"><vh>@nosent dot-gen-html.py</vh>
+<v t="zoomq.20100311095515.4666"><vh>&lt;&lt;define&gt;&gt;</vh></v>
+<v t="zoomq.20100311095515.4667"><vh>&lt;&lt;__main__&gt;&gt;</vh></v>
+<v t="zoomq.20100311095515.4668"><vh>gen</vh></v>
+</v>
+<v t="zoomq.20100311095515.4669"><vh>moinutil</vh>
+<v t="zoomq.20100311095515.4670"><vh>@nosent wikiutil.py</vh>
+<v t="zoomq.20100311095515.4671"><vh>&lt;&lt;define&gt;&gt;</vh></v>
+<v t="zoomq.20100311095515.4672"><vh>&lt;&lt;__main__&gt;&gt;</vh></v>
+<v t="zoomq.20100311095515.4673"><vh>Getting data</vh>
+<v t="zoomq.20100311095515.4674"><vh>decodeWindowsPath</vh></v>
+<v t="zoomq.20100311095515.4675"><vh>decodeUnknownInput</vh></v>
+<v t="zoomq.20100311095515.4676"><vh>decodeUserInput</vh></v>
+<v t="zoomq.20100311095515.4677"><vh>url_quote</vh></v>
+<v t="zoomq.20100311095515.4678"><vh>url_quote_plus</vh></v>
+<v t="zoomq.20100311095515.4679"><vh>url_unquote</vh></v>
+<v t="zoomq.20100311095515.4680"><vh>quoteWikinameURL</vh></v>
+<v t="zoomq.20100311095515.4681"><vh>escape</vh></v>
+</v>
+<v t="zoomq.20100311095515.4682"><vh>Storage</vh>
+<v t="zoomq.20100311095515.4683"><vh>quoteWikinameFS</vh></v>
+<v t="zoomq.20100311095515.4684"><vh>unquoteWikiname</vh></v>
+</v>
+<v t="zoomq.20100311095515.4685"><vh>cjk_replace</vh></v>
+</v>
+<v t="zoomq.20100311095515.4686"><vh>@nosent Page.py</vh>
+<v t="zoomq.20100311095515.4687"><vh>&lt;&lt;define&gt;&gt;</vh></v>
+<v t="zoomq.20100311095515.4688"><vh>&lt;&lt;__main__&gt;&gt;</vh></v>
+<v t="zoomq.20100311095515.4689"><vh>_setRealPageName</vh></v>
+</v>
+<v t="zoomq.20100311095515.4690"><vh>@nosent filesys.py</vh>
+<v t="zoomq.20100311095515.4691"><vh>filesys declarations</vh></v>
+<v t="zoomq.20100311095515.4692"><vh>chmod</vh></v>
+<v t="zoomq.20100311095515.4693"><vh>rename</vh></v>
+<v t="zoomq.20100311095515.4694"><vh>touch</vh></v>
+<v t="zoomq.20100311095515.4695"><vh>access_denied_decorator</vh></v>
+<v t="zoomq.20100311095515.4696"><vh>fuid</vh></v>
+<v t="zoomq.20100311095515.4697"><vh>copystat</vh></v>
+<v t="zoomq.20100311095515.4698"><vh>copytree</vh></v>
+<v t="zoomq.20100311095515.4699"><vh>lock</vh></v>
+<v t="zoomq.20100311095515.4700"><vh>unlock</vh></v>
+<v t="zoomq.20100311095515.4701"><vh>dcdisable</vh></v>
+<v t="zoomq.20100311095515.4702"><vh>dclistdir</vh></v>
+<v t="zoomq.20100311095515.4703"><vh>dcreset</vh></v>
+</v>
+</v>
+<v t="zoomq.20100311095515.4704"><vh>support</vh>
+<v t="zoomq.20100311095515.4705"><vh>unitest</vh></v>
+<v t="zoomq.20100311095515.4706"><vh>crontab</vh>
+<v t="zoomq.20100311095515.4707"><vh>@nosent cron-moin-zq</vh></v>
+<v t="zoomq.20100311095515.4708"><vh>@nosent moinpages.sh</vh>
+<v t="zoomq.20100311095515.4709"><vh>&lt;&lt;define&gt;&gt;</vh></v>
+</v>
+<v t="zoomq.20100311095515.4710"><vh>@nosent cron-kup-zq</vh></v>
+<v t="zoomq.20100311095515.4711"><vh>@nosent syncmoin.sh</vh>
+<v t="zoomq.20100311095515.4712"><vh>&lt;&lt;define&gt;&gt;</vh></v>
+</v>
+</v>
 </v>
 </v>
 </vnodes>
@@ -2449,11 +2569,11 @@ $ dot test.dot -Tpng -o test.png -Tcmapx -o test.map
         ranksep=1.2,size="12,32"
         overlap=false,splines=true,
 */
-    graph [label="%(dotmapname)s地图 {by Zoom.Quiet}",
-        labelloc="t",labeljust="l",
+    graph [label="%(dotmapname)s",
+        labelloc="b",labeljust="r",
         fontsize=12.0,
         fontname="VeraSansYuanTi-Regular.ttf",
-        ratio=compress,size="10,34",
+        ratio=compress,
         rankdir=LR,
         ranksep=0.2,
         ];
@@ -2462,113 +2582,28 @@ $ dot test.dot -Tpng -o test.png -Tcmapx -o test.map
         style=filled,fillcolor=lightyellow,
         height=0.1,
         ];
-    /*dir=both,plaintext
-		arrowType=vee,
+    /*dir=both,plaintext		arrowType=vee,
         */
-    edge [fontsize=8.0,
-        fontcolor=gray15,
+    edge [fontsize=8.0,fontcolor=gray15,
         color=gray40,
-		arrowhead=normal,
-		arrowtail=none,
+        arrowsize=0.5,arrowhead=vee,arrowtail=none,
         len=2.1,
         ];
     /*关系
         len=1.7,
     KUP-&gt;PEM    [arrowhead=normal,style="setlinewidth(4)"]; 
     */    
-%(dotdigraph)s
+%(dotnodes)s
 
     /*页面
     Td    [label="Toad\n未来特性管理视图",shape=component,URL=""];
     */
 
-%(dotpages)s
+%(dotrelats)s
 
 }</t>
 <t tx="zoomq.20090409202326.2">%(dotitem)s [label="%(dotlabel)s",URL="%(doturl)s"];</t>
-<t tx="zoomq.20090413151625.1"># -*- coding: utf-8 -*-
-'''dot-gen-html.py
-    v0.9 090413 append others Graphviz export
-    v0.8 090312 forpy.kingsoft.net 增补网页标题参数
-    v0.7 090312 for KUP.rdev dot mapping gen html
-usage:
-    $ python dot-gen-html.py py-k-idx.dot "py.kingsoft.net 数据地图" index.html
-'''
-
-
-&lt;&lt;define&gt;&gt;
-
-@others
-
-&lt;&lt;__main__&gt;&gt;
-
-
-
-
-
-
-
-
-</t>
-<t tx="zoomq.20090413151625.2">import os,sys,time
-import popen2
-
-VERSION = "dot-gen-html v9.04.13"
-GENTIME = time.strftime("%Y-%m-%d %H:%M:%S",time.localtime())
-TPL = "res/index.tpl"
-DODOT = "dot %s.dot -Tpng -o %s.png -Tcmapx -o %s.map"
-TPLDOT = "%s %s.dot -Tpng -o %s-%s.png -Tcmapx -o %s.map"
-FOOTCSS="css/stickyfooter/footer.css"
-
-</t>
-<t tx="zoomq.20090413151625.4">def gen(dotoolname,dotf,titp,wxpf):
-    """usage dot exp png+img map,auto usage html tpl writ out idenx page!
-    """
-    script = VERSION
-    gentime = GENTIME
-    dotmap = dotf.split(".")[0]
-    #print dotmap
-    mapdot = dotmap
-    dotool = dotoolname
-    #TPLDOT = "%s %s.dot -Tpng -o %s-%s.png -Tcmapx -o %s.map"
-    genmap = TPLDOT%(dotool
-        ,mapdot
-        ,mapdot
-        ,dotool
-        ,mapdot)
-    title = titp
-    print genmap
-    r, w, e = popen2.popen3(genmap)
-    print e.readlines()
-    print r.readlines()
-    r.close()
-    e.close()
-    w.close()
-
-    cmapx = open("%s.map"%dotmap).read()
-    css = open(FOOTCSS).read()
-    open(wxpf,"w").write(open(TPL).read() % locals())
-    print "%s done gen mapping @%s"%(VERSION,GENTIME)
-
-
-</t>
-<t tx="zoomq.20090413151625.5">if __name__ == '__main__':      # this way the module can be
-    if 5 != len(sys.argv):
-        print """ %s usage::
-$ python dot-gen-html 'u.dot' "PageTitle" exPageNam[like index.html) dotool
-        """
-    else:
-        dotf = sys.argv[1]
-        titp = sys.argv[2]
-        expf = sys.argv[3]
-        mapn = dotf.split(".")[0]
-        dotool = sys.argv[4]
-        #print dir()
-        gen(dotool,dotf,titp,expf)
-    #open(exrep,"w").write(open(tpl).read() % locals())
-
-</t>
-<t tx="zoomq.20090413195224.1">%s-&gt;%s [style="setlinewidth(%s)",color="#%s"];</t>
+<t tx="zoomq.20090413195224.1">%s-&gt;%s [label="%s",style="setlinewidth(%s)",color="#%s"];</t>
 <t tx="zoomq.20091104131309.7">
 dot
     层级向量图谱
@@ -2633,6 +2668,1854 @@ fdp
 <t tx="zoomq.20100311095515.3583">- 100310 接收任务
 - 100311 快速完成:
     - :10 环境整理
-    - :15 框架完成</t>
+    - :15 框架完成
+    - :20 分析完成
+    - :30 美化图谱，发现逻辑问题
+    - :40 重构，完成图谱
+    共: 1:55 </t>
+<t tx="zoomq.20100311095515.4617">@path moinmaper</t>
+<t tx="zoomq.20100311095515.4618">@path moinmaper/tpl
+
+</t>
+<t tx="zoomq.20100311095515.4619">&lt;?xml version="1.0" encoding="UTF-8"?&gt;
+        &lt;!-- edited with elementtree (http://effbot.org/zone/element-index.htm) by Zoom.Quiet  --&gt;
+        &lt;?xml-stylesheet type='text/xsl' href='freemind.xsl'?&gt;
+&lt;map version="0.9.0"&gt;
+&lt;!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net --&gt;
+
+%(moinodes)s
+
+&lt;/map&gt;</t>
+<t tx="zoomq.20100311095515.4620">%s-&gt;%s [style="setlinewidth(%s)",color="#%s"];</t>
+<t tx="zoomq.20100311095515.4621">%(dotitem)s [label="%(dotlabel)s",URL="%(doturl)s"];</t>
+<t tx="zoomq.20100311095515.4622">digraph mainmap {
+/*图片生成命令:: need:: apt-get install graphviz-cairo
+$ dot test.dot -Tpng -o test.png -Tcmapx -o test.map
+        style=filled,fillcolor=lightyellow,
+        shape=plaintext,        
+        ranksep=1.2,size="12,32"
+        overlap=false,splines=true,
+*/
+    graph [label="%(dotmapname)s地图 {by Zoom.Quiet}",
+        labelloc="t",labeljust="l",
+        fontsize=12.0,
+        fontname="VeraSansYuanTi-Regular.ttf",
+        ratio=compress,size="10,34",
+        rankdir=LR,
+        ranksep=0.2,
+        ];
+    node[fontsize=10.5,color=gray70,
+        target="new",shape=plaintext,
+        style=filled,fillcolor=lightyellow,
+        height=0.1,
+        ];
+    /*dir=both,plaintext
+		arrowType=vee,
+        */
+    edge [fontsize=8.0,
+        fontcolor=gray15,
+        color=gray40,
+		arrowhead=normal,
+		arrowtail=none,
+        len=2.1,
+        ];
+    /*关系
+        len=1.7,
+    KUP-&gt;PEM    [arrowhead=normal,style="setlinewidth(4)"]; 
+    */    
+%(dotdigraph)s
+
+    /*页面
+    Td    [label="Toad\n未来特性管理视图",shape=component,URL=""];
+    */
+
+%(dotpages)s
+
+
+
+
+}
+
+</t>
+<t tx="zoomq.20100311095515.4623"># -*- coding: utf-8 -*-
+
+MM={'URL':"http://wiki.s.kingsoft.net/moin"
+    ,'RAW':"action=raw"
+    ,"MAPNAME":"AutoTest 维基文章"
+    ,"DEEP":5
+    ,"LWIDTH":1.4
+    ,"LWSTEP":0.2
+    ,"COLORSEED":998899
+    ,"COLORSTEP":221122
+    }
+XML={"ROOT":"~/"
+    ,'ROOTXT':u"aut 维基文章结构地图"
+    ,"XPTXT":"child::node[@TEXT='%s']"
+    ,"XPID":"child::node[@ID='%s']"
+    ,"XPATH":"child::node[@PATH='%s']"
+    ,"XPROOT":"child::node[@PATH='~']"
+    }
+
+
+</t>
+<t tx="zoomq.20100311095515.4624">&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+                version="1.0"&gt;
+
+&lt;&lt;annotations&gt;&gt;
+
+&lt;xsl:output method="html" doctype-public="-//W3C//DTD HTML 4.01 Strict//EN" 
+    doctype-system="http://www.w3.org/TR/html4/strict.dtd"/&gt;
+
+&lt;&lt;xsl:template match="/"&gt;&gt;
+
+&lt;&lt;xsl:template match="node"&gt;&gt;
+
+&lt;/xsl:stylesheet&gt;
+</t>
+<t tx="zoomq.20100311095515.4625">  &lt;!--
+       File:        freemind.xsl
+       Version:     0.1
+       Description: A XSLT stylesheet to transform mindmap files created with FreeMind (http://freemind.sf.net)
+                    into HTML files. The transformation will keep the structure of the files, clouds (with it's colors),
+                    icons, internal and external links and the ability to collapse whole subtrees of the document (with
+                    JavaScript enabled).
+                    The results of the transformation were tested and found to be working in the following browsers:
+                    -Internet Explorer 6
+                    -Mozilla Firefox 0.9 (should be working with nearly any browser using the Geko engine)
+                    -Konqueror
+                    -Opera 7
+                    Other browsers were not tested, but you should have a good chance of gettting things to work
+                    with them.
+       Usage:       Use any XSLT-Processor (development was done using xsltproc under Linux) to apply this stylesheet
+                    to the FreeMind-file. Copy the result and all the PNG-Files inside the script directory
+                    (including the icons-subdir) into a directory of it's own (e.g. on a webserver).
+                    Open the HTML-file with a webbrowser.
+       Author:      Markus Brueckner &lt;freemind-xsl@slash-me.net&gt;
+       License:     BSD license without advertising clause. (see http://www.opensource.org/licenses/bsd-license.php
+                     for further details)
+  --&gt;
+</t>
+<t tx="zoomq.20100311095515.4626">&lt;xsl:template match="/"&gt;
+    &lt;html&gt;
+      &lt;head&gt;
+        &lt;meta name="generator" content="FreeMind-XSL Stylesheet (see: http://freemind-xsl.dev.slash-me.net/ for details)" /&gt;
+        &lt;meta name="editor" content="Leo (see: http://webpages.charter.net/edreamleo/front.html for details)" /&gt;
+        &lt;&lt;title&gt;&gt;
+        &lt;&lt;style&gt;&gt;
+      &lt;/head&gt;
+      &lt;body&gt;
+        &lt;!-- choose the first nodes text again as the headline --&gt;
+        &lt;&lt;h1&gt;&gt;
+
+        &lt;xsl:apply-templates /&gt;
+
+      &lt;/body&gt;
+    &lt;/html&gt;
+&lt;/xsl:template&gt;
+</t>
+<t tx="zoomq.20100311095515.4627">&lt;h1&gt;
+    &lt;xsl:choose&gt;
+    &lt;xsl:when test="/map/node"&gt;
+      &lt;xsl:value-of select="/map/node/@TEXT" /&gt;
+      &lt;sup&gt;
+            &lt;xsl:value-of select="/map/node/@ALT" /&gt;
+        &lt;/sup&gt;
+    &lt;/xsl:when&gt;
+    &lt;xsl:otherwise&gt;
+      FreeMind2HTML Mindmap
+    &lt;/xsl:otherwise&gt;
+    &lt;/xsl:choose&gt;
+&lt;/h1&gt;
+</t>
+<t tx="zoomq.20100311095515.4628">&lt;!-- Stylesheet, generator and some JavaScript for the collapsing of the trees --&gt;
+&lt;link rel="stylesheet" type="text/css" href="res/freemind.css" /&gt;
+&lt;script type="text/javascript"&gt;
+  &lt;![CDATA[
+  &lt;!--
+       function toggle(id)
+       {
+           div_el = document.getElementById(id);
+           img_el = document.getElementById('img'+id);
+           if (div_el.style.display != 'none')
+           {
+              div_el.style.display='none';
+              img_el.src = 'res/show.png';
+           }
+           else
+           {
+              div_el.style.display='block';
+              img_el.src = 'res/hide.png';
+           };
+       };
+   --&gt;
+  ]]&gt;
+&lt;/script&gt;
+</t>
+<t tx="zoomq.20100311095515.4629">&lt;!-- look if there is any node inside the map (there should never be none, but who knows?) 
+     and take its text as the title --&gt;
+&lt;xsl:choose&gt;
+  &lt;xsl:when test="/map/node"&gt;
+    &lt;title&gt;&lt;xsl:value-of select="/map/node/@ALT" /&gt;&lt;/title&gt;
+  &lt;/xsl:when&gt;
+  &lt;xsl:otherwise&gt;
+    &lt;title&gt;FreeMind2HTML Mindmap&lt;/title&gt;
+  &lt;/xsl:otherwise&gt;
+&lt;/xsl:choose&gt;
+</t>
+<t tx="zoomq.20100311095515.4630">&lt;!-- the template to output for each node --&gt;
+&lt;xsl:template match="node"&gt;
+    &lt;div&gt;
+      &lt;!-- generate a unique ID that can be used to reference this node e.g. from the JavaScript --&gt;
+      &lt;xsl:variable name="contentID"&gt;
+          &lt;xsl:value-of select="generate-id()"/&gt;
+      &lt;/xsl:variable&gt;
+
+    &lt;&lt;xsl:choose cloud&gt;&gt;
+    &lt;&lt;xsl:for-each select="icon"&gt;&gt;
+    &lt;&lt;xsl:choose LINK&gt;&gt;
+    &lt;&lt;xsl:if test="@ID"&gt;&gt;
+    &lt;&lt;xsl:for-each select="arrowlink"&gt;&gt;
+    &lt;&lt;xsl:if test="node"&gt;&gt;
+    &lt;/div&gt;
+&lt;/xsl:template&gt;
+</t>
+<t tx="zoomq.20100311095515.4631">&lt;!-- the content div. This div contains all subnodes of this node. It carries the unique ID
+   created in the beginning (which is used to hide this div when necessary). The content node
+   is only created if there are any subnodes --&gt;
+&lt;xsl:if test="node"&gt;        
+&lt;div class="content"&gt;
+    &lt;xsl:attribute name="id"&gt;
+      &lt;xsl:value-of select="$contentID" /&gt;
+    &lt;/xsl:attribute&gt;
+
+    &lt;xsl:apply-templates/&gt;
+&lt;/div&gt;
+&lt;/xsl:if&gt;
+</t>
+<t tx="zoomq.20100311095515.4632">&lt;!-- if there are arrowlinks inside this node (i.e. this node is connected to another node
+   in FreeMind using an arrow), then create a document internal link --&gt;
+&lt;xsl:for-each select="arrowlink"&gt;
+&lt;a&gt;
+  &lt;xsl:attribute name="href"&gt;#FM&lt;xsl:value-of select="@DESTINATION" /&gt;FM&lt;/xsl:attribute&gt;
+  &lt;img src="res/ilink.png" alt="Internal Link" class="ilink" /&gt;
+&lt;/a&gt;
+&lt;/xsl:for-each&gt;
+</t>
+<t tx="zoomq.20100311095515.4633">&lt;!-- check if this node has an ID (for the document internal links) --&gt;
+&lt;xsl:if test="@ID"&gt;
+&lt;!-- note: as FreeMind sometimes prepends the IDs with an underscore which is not valid
+           as the first character in an HTML id, we surround the ID with FM&lt;ID&gt;FM --&gt;
+&lt;a&gt;
+  &lt;xsl:attribute name="id"&gt;FM&lt;xsl:value-of select="@ID"/&gt;FM&lt;/xsl:attribute&gt;
+&lt;/a&gt;
+&lt;/xsl:if&gt;
+</t>
+<t tx="zoomq.20100311095515.4634">&lt;!-- check whether this node has a link-ID (for external URLs) --&gt;
+&lt;xsl:choose&gt;
+&lt;xsl:when test="@LINK"&gt;
+  &lt;a&gt;
+    &lt;xsl:attribute name="href"&gt;
+      &lt;xsl:value-of select="@LINK" /&gt;
+    &lt;/xsl:attribute&gt;
+    &lt;xsl:value-of select="@TEXT" /&gt;
+  &lt;/a&gt;
+    &lt;snap class="sub"&gt;
+        &lt;xsl:value-of select="@STATE" /&gt;
+    &lt;/snap&gt;
+&lt;/xsl:when&gt;
+&lt;xsl:otherwise&gt;
+    &lt;xsl:value-of select="@TEXT" /&gt;
+    &lt;snap class="sub"&gt;
+        &lt;xsl:value-of select="@STATE" /&gt;
+    &lt;/snap&gt;
+&lt;/xsl:otherwise&gt;
+&lt;/xsl:choose&gt;
+</t>
+<t tx="zoomq.20100311095515.4635">&lt;!-- when there are icons for this node then output the according &lt;img&gt;-tags --&gt;
+&lt;xsl:for-each select="icon"&gt;
+&lt;img&gt;
+  &lt;xsl:attribute name="src"&gt;icons/&lt;xsl:value-of select="@BUILTIN" /&gt;.png&lt;/xsl:attribute&gt;
+  &lt;xsl:attribute name="alt"&gt;&lt;xsl:value-of select="@BUILTIN" /&gt;&lt;/xsl:attribute&gt;
+&lt;/img&gt;
+&lt;/xsl:for-each&gt;
+</t>
+<t tx="zoomq.20100311095515.4636">&lt;!-- check whether this node is a cloud... --&gt;
+&lt;xsl:choose&gt;
+    &lt;xsl:when test="cloud"&gt;
+    &lt;!-- ...if yes, check whether it has a special color... --&gt;
+        &lt;xsl:choose&gt;
+            &lt;xsl:when test="cloud/@COLOR"&gt;
+                &lt;xsl:attribute name="class"&gt;cloud&lt;/xsl:attribute&gt;
+                &lt;xsl:attribute name="style"&gt;background-color: &lt;xsl:value-of select="cloud/@COLOR" /&gt;&lt;/xsl:attribute&gt;
+            &lt;/xsl:when&gt;
+
+            &lt;!-- no? Then choose some default color --&gt;
+            &lt;xsl:otherwise&gt;
+                &lt;xsl:attribute name="class"&gt;cloud&lt;/xsl:attribute&gt;
+            &lt;/xsl:otherwise&gt;
+        &lt;/xsl:choose&gt;
+    &lt;/xsl:when&gt;
+    &lt;xsl:otherwise&gt;
+        &lt;xsl:attribute name="class"&gt;node&lt;/xsl:attribute&gt;
+    &lt;/xsl:otherwise&gt;
+&lt;/xsl:choose&gt;
+
+@others
+</t>
+<t tx="zoomq.20100311095515.4637">&lt;!-- check whether this node has any child nodes... --&gt;
+&lt;xsl:choose&gt;
+    &lt;xsl:when test="node"&gt;
+        &lt;!-- ...yes? Then put the "hide" button in front of the text... --&gt;
+        &lt;img src="res/hide.png" class="hideshow" alt="hide"&gt;
+        &lt;xsl:attribute name="onClick"&gt;&lt;![CDATA[toggle("]]&gt;&lt;xsl:value-of select="$contentID" /&gt;&lt;![CDATA[")]]&gt;&lt;/xsl:attribute&gt;
+        &lt;xsl:attribute name="id"&gt;img&lt;xsl:value-of select="$contentID" /&gt;&lt;/xsl:attribute&gt;
+        &lt;/img&gt;
+    &lt;/xsl:when&gt;
+    &lt;xsl:otherwise&gt;
+    &lt;!-- ...no? Then output the empty leaf icon --&gt;
+        &lt;img src="res/leaf.png" class="hideshow" alt="leaf" /&gt;
+    &lt;/xsl:otherwise&gt;
+&lt;/xsl:choose&gt;
+</t>
+<t tx="zoomq.20100311095515.4638"># -*- coding: utf-8 -*-
+'''moinmaper.py
+usage Graphviz dot to gen can click map for AutoTest 's MoinMoin doc
+    - 090413 fixed exp xml+xslt chked
+    - 090416 fixed xpath way
+    - 090413 fixed exp color,linewidth ... more feel error,usage dot
+    - 090412 fixed Chinese error
+    - 090410 creat for base way
+usage:
+    $ python moinmaper.py data/moin-aut-090408.txt
+'''
+&lt;&lt;define&gt;&gt;
+
+@others
+
+&lt;&lt;__main__&gt;&gt;
+
+
+</t>
+<t tx="zoomq.20100311095515.4639">import os,sys
+import urllib,urllib2
+import base64
+import traceback
+import time,datetime
+#import xml.etree.ElementTree as ET
+#import xml.etree.cElementTree as lE
+from lxml import etree as lE
+
+
+#import pickle
+#from operator import itemgetter
+#from fnmatch import *
+from cfg import MM,XML
+from moinutil import wikiutil
+
+VERSION = "moinmaper.py v9.04.17"
+NOW = "%s"%(time.strftime("%y%m%d",time.localtime()))
+NOWTIME = "%s"%(time.strftime("%y%m%d %H:%M:%S",time.localtime()))
+LOG_FILENAME = '_log/mapping-%s.log'%NOW
+
+#import logging
+#import logging.config
+'''
+logging.basicConfig(level=logging.DEBUG,
+                   format='[%(asctime)s]%(levelname)-8s"%(message)s"',
+                    datefmt='%Y-%m-%d %a %H:%M:%S',
+                    filename='logs/yksitemap-%s.log'%daylog,
+                    filemode='a+')
+'''
+</t>
+<t tx="zoomq.20100311095515.4640">if __name__ == '__main__':      # this way the module can be
+    if 2 != len(sys.argv):
+        print """ %s usage::
+        $ python moinmaper.py DataFile [like: data/moin-aut-090408.txt]
+        """ % VERSION
+    else:
+        begin = time.time()
+        pf = sys.argv[1]                 #[-10:-4]    print tonow
+        mm = mapper(pf)
+        #mm.mapall()
+        mm.mapxml()
+        #mm._treelist(pf)
+        end = time.time()
+        #@others
+
+        info = "&gt;&gt;&gt;runing time=%.2fs&lt;&lt;&lt;"%(end - begin)
+        print info
+        mm.logger.info("^_^: %s"%info)
+        info = "&gt;&gt;&gt;chked nodes=%s&lt;&lt;&lt;"%mm.logdo
+        print info
+        mm.logger.info("^_^: %s"%info)
+
+        info = ";-) export MoinMoin pages mapping \n by %s"%VERSION
+        print info
+        mm.logger.info("^_^: %s"%info)
+
+</t>
+<t tx="zoomq.20100311095515.4641">root = lE.Element("node")
+root.set("ID","ID_0")
+root.set("TEXT","node")
+root.set("ALT",u"是也乎")
+root.set("LINK","http://wiki.s..")
+node = lE.SubElement(root, "node")
+node.set("TEXT","AutoTest")
+#node.text = "AutoTest"
+node = lE.SubElement(root, "node")
+node.set("TEXT","AutoTest/Design")
+#node.text = "AutoTest/Design"
+node = lE.SubElement(node, "node")
+node.set("TEXT","AutoTest/Design/Library")    
+#node.text = "AutoTest/Design/Library"
+
+print lE.tostring(root
+    ,encoding='utf-8'
+    ,pretty_print=True)
+#    ,xml_declaration=True)
+
+tree = lE.ElementTree(root)
+#tree.write(self.expxml,"utf-8")
+#xp = lE.XPath("child::node[contains(text(), 'AutoTest/Design')]")
+xp = lE.XPath(XML['XPTXT']%'AutoTest/Design')
+#"child::node[@TEXT='AutoTest/Design']")
+crtnode = xp(root)[0]
+print "XPath child::node[@TEXT='AutoTest/Design']:\n\t%s"%lE.tostring(crtnode)
+node = lE.SubElement(crtnode, "node")
+node.set("TEXT","AutoTest/Design/LibNames")    
+#node.text = "AutoTest/Design/LibNames"
+
+print lE.tostring(root
+    ,encoding='utf-8'
+    ,pretty_print=True)
+#    ,xml_declaration=True)
+</t>
+<t tx="zoomq.20100311095515.4642">
+'''
+path = "AutoTest(2f)Design(2f)PerformanceTesting(2f)IO(c3a6c280c2a7c3a8c283c2bdc3a6c2afc294c3a8c2bec283)"
+#mm.gen_dotitem(path)
+'''
+
+</t>
+<t tx="zoomq.20100311095515.4643">def initlog():
+    '''base Limodou blog easy creat logger obj.
+    '''
+    import logging
+    logger = logging.getLogger()
+    hdlr = logging.FileHandler(LOG_FILENAME)
+    formatter = logging.Formatter("[%(asctime)s]%(levelname)-8s`%(message)s`")
+    hdlr.setFormatter(formatter)
+    logger.addHandler(hdlr)
+    logger.setLevel(logging.NOTSET)
+    return logger
+</t>
+<t tx="zoomq.20100311095515.4644">class mapper:
+    """main class for mapping moinmoin pages
+    """
+	@others
+
+</t>
+<t tx="zoomq.20100311095515.4645">def __init__(self,pagenamefile):
+    """ini all
+    logger.debug("debug message")
+    logger.info("info message")
+    logger.warn("warn message")
+    logger.error("error message")
+    logger.critical("critical message")
+    """
+    self.logger = initlog()
+    self.logdo = 0
+    self.MM = MM
+    self.data = pagenamefile
+    self.mapli = []
+    self.mapdots = []
+    self.gendots = []
+    self.dotnodes = ""
+    #print open(pagenamefile).read()
+    self.xmltree = []
+    self.xmlnodes = ""
+    @others
+
+
+    #print self.MM
+
+</t>
+<t tx="zoomq.20100311095515.4646">self.pathlog = "_log/"
+self.pathtpl = "tpl/"
+
+self.tplmain = "moinmaper.tpl"
+self.tplitem = "moinpage.tpl"
+self.tpldot = "moindot.tpl"
+self.tpldotitem = open("%s/%s"%(self.pathtpl,self.tplitem)).read()
+
+self.tmpdotpages = "dotpages.tmp"
+open(self.tmpdotpages,"w").write("")
+
+self.expdot = "moinmaper.dot"
+</t>
+<t tx="zoomq.20100311095515.4647">self.tplxml = "moinxml.tpl"
+self.expxml = "index.xml"
+
+self.xmlroot = lE.Element("node")
+self.xmlroot.set("ID","ID_0")
+self.xmlroot.set("TEXT",XML['ROOTXT'])
+self.xmlroot.set("ALT","{%s @%s}"%(VERSION,NOWTIME))
+self.xmlroot.set("PATH","NULL")
+self.xmlroot.set("LINK","#")
+</t>
+<t tx="zoomq.20100311095515.4648">def mapxml(self):
+    """main action for do all mapping
+    export as FreeMind like xml+xslt
+    """
+    moinodes = self._lxmltree()
+    xmltpl = open("%s/%s"%(self.pathtpl,self.tplxml)).read()
+    open(self.expxml,"w").write(xmltpl% locals())
+
+
+
+</t>
+<t tx="zoomq.20100311095515.4649">def _lxmltree(self):
+    """load page URL one bt one into one xml tree
+    """
+    #init xml obj root node
+    root = self.xmlroot
+    acc = 0
+    for line in open(self.data):
+        #if acc &gt;= 15:break
+        #else:acc += 1
+        if "http" == line[:4]:
+            pass
+        elif "PageCommentData" == line[-17:-2]:
+            pass
+        else:
+            @others
+    #print "root::\n%s"%lE.tostring(root,encoding='utf-8',pretty_print=True)
+    return lE.tostring(root,encoding='utf-8',pretty_print=True)
+    #print "crtnode::\n%s"%lE.tostring(crtnode,encoding='utf-8',pretty_print=True)
+
+
+
+
+
+
+
+
+
+
+</t>
+<t tx="zoomq.20100311095515.4650">fpath = line[:-2]
+#print "acc:%s ~ \n\t%s"%(acc,fpath)
+wikiname = wikiutil.unquoteWikiname(fpath)
+wikiurl = wikiutil.quoteWikinameURL(wikiname)
+fpli = fpath.split("(2f)")
+urli = wikiurl.split("/")
+#&lt;try0&gt;&gt;
+#crtnode = root
+for i in range(len(fpli)+1):
+    path = "/".join(fpli[:i])
+    if "" == path:continue
+    #print path
+    self._mountson(root,i,fpli,urli)
+    '''
+    xp = lE.XPath(XML['XPATH']%path)
+    match = xp(root)
+    if [] == match:
+        crtnode = self._parentfix(crtnode,path,i,fpli,urli)
+    else:
+        crtnode = match[0]
+    '''
+
+
+
+
+
+
+
+
+</t>
+<t tx="zoomq.20100311095515.4651">for i in range(len(fpli)):
+    path = "/".join(fpli[:i])
+    if "" == path:continue
+    xp = lE.XPath(XML['XPATH']%path)
+    match = xp(root)
+    if [] == match:
+        crtnode = self._parentfix(crtnode,path,i,fpli,urli)
+        '''
+        print path,"\n",XML['XPATH']%path
+        if "" == "/".join(fpli[:i-1]):
+            crtnode = root
+        else:
+            print XML['XPATH']%"/".join(fpli[:i-1])
+            xparent = lE.XPath(XML['XPATH']%"/".join(fpli[:i-1]))
+            #crtnode = xparent(root)[0]
+            print xparent(root)
+            print lE.tostring(xparent(root)[0],pretty_print=True)
+        print lE.tostring(root,pretty_print=True
+        '''
+        #&lt;new node&gt;&gt;
+    else:
+        crtnode = match[0]
+        #print lE.tostring(crtnode,pretty_print=True)
+        #&lt;new node&gt;&gt;
+</t>
+<t tx="zoomq.20100311095515.4653">def _mountson(self,root,deep,fpli,urli):
+    '''try moun the son node,just try parent one time
+    '''
+    path = XML['ROOT']+"/".join(fpli[:deep])
+    fpath = "/".join(fpli[:deep])
+    base64code = base64.b64encode(path).replace("=","")
+    url = "/".join(urli[:deep])
+
+    #xpath = XML['XPATH']%path
+    #xp = lE.XPath(xpath)
+    npath = "//node[@PATH='%s']"%path
+    #print "try mount::\n\t%s"%npath
+    #test the path exit?
+    #if [] != xp(root):
+    if [] != root.xpath(npath):
+        #print "exited:%s"%npath
+        return
+    else:
+        #no appented
+        crtpath = XML['ROOT']+"/".join(fpli[:deep-1])
+        xp = "//node[@PATH='%s']"%crtpath
+        #print "try xparent::\n\t%s"%crtpath
+        #print "xpre(root):%s"%xpre(root)        
+        if XML['ROOT'] == crtpath:
+            crtnode = root
+        else:
+            match = root.xpath(xp)
+            #print match
+            crtnode = match[0]
+        &lt;&lt;new node&gt;&gt;
+        #print lE.tostring(root,pretty_print=True)
+
+
+
+
+
+</t>
+<t tx="zoomq.20100311095515.4655">def _parentfix(self,crtnode,path,deep,fpli,urli):
+    '''fixed all deep parent nodes
+    '''
+    base64code = base64.b64encode(path).replace("=","")
+    url = "/".join(urli[:deep])
+    root = self.xmlroot
+    print path,"\n",XML['XPATH']%path
+    #print "join(fpli::%s"%"/".join(fpli[:deep-1])
+    if "" == "/".join(fpli[:deep-1]):
+        crtnode = root
+    else:
+        xpath = XML['XPATH']%"/".join(fpli[:deep-1])
+        if XML["XPROOT"] == xpath:
+            crtnode = root
+            &lt;&lt;new node&gt;&gt;
+        else:
+            xparent = lE.XPath(xpath)
+            print "try xparent::\n\t%s"%xpath
+            print xparent(root)
+            if [] == xparent(root):
+                crtnode = self._parentfix(crtnode,path,deep-1,fpli,urli)
+            else:
+                print "match xparent::\n\t%s"%xpath
+                crtnode = xparent(root)[0]
+                &lt;&lt;new node&gt;&gt;
+        #print lE.tostring(xparent(root)[0],pretty_print=True)
+    #print lE.tostring(root,pretty_print=True)
+    return crtnode
+
+</t>
+<t tx="zoomq.20100311095515.4656">node = lE.SubElement(crtnode, "node")
+node.set("ID","ID_%s"%base64code)
+#node.set("TEXT",path)
+label=self._getitle(fpath)
+node.set("TEXT",label[0].decode('utf8'))
+if "" !=label[1]:node.set("STATE",label[1].decode('utf8'))
+
+node.set("PATH",path)
+node.set("LINK","%s/%s"%(MM['URL'],url))
+
+</t>
+<t tx="zoomq.20100311095515.4657">def mapall(self):
+    """main action for do all mapping
+    .write(open(self.whatIdx).read() % locals())
+    """
+    self.urlanalyze();
+    dotmapname = self.MM["MAPNAME"]
+    dotpages = self.dotnodes    #.encode('unicode_escape').decode('string_escape')
+    #open(self.tmpdotpages).read()
+    dotdigraph = "\n".join(self.mapli)
+    #print dotpages
+    #print unicode(self.dotpages,'ascii','cjk_replace').encode('utf8')
+    open(self.expdot,"w").write(open("%s/%s"%(self.pathtpl,self.tplmain)).read() % locals())
+</t>
+<t tx="zoomq.20100311095515.4658">def urlanalyze(self):
+    """split moin data page url into list
+    """
+    for url in open(self.data):
+        #print url[:-2] escape \n + /
+        #print url[:-2].split("(2f)")
+        #self.treelist(url[:-2].split("(2f)"))
+        #print url[-17:-2]
+        if "http" == url[:4]:
+            pass
+        elif "PageCommentData" == url[-17:-2]:
+            pass
+        else:
+            self.gen_dotmap(url)
+            #pass
+            #url[:-2].split("(2f)")
+            #print quoteWikinameURL(url)
+    #open(self.tmpdotpages,"a").write(self.dotnodes)
+    self.gen_lostnodes()
+
+    #@others
+
+    #print self.dotpages
+
+</t>
+<t tx="zoomq.20100311095515.4659">def gen_dotmap(self,realPath):
+    """gen dot uage MoinMoin page items
+    - dot node and map gen in diff loop
+    - from raw url get node label  urllib2.urlopen('http://wiki.s.kingsoft.net/moin/AutoTest/AutoTestMembersList?action=raw').readlines()
+    - usage file dir path name through Base64 as dot node
+    """
+    fpath = realPath[:-2]
+    wikiurl = wikiutil.unquoteWikiname(fpath)
+    #print "dirname:%s"%realPath[:-2]
+    #print "unquoteWikiname:%s"%wikiutil.unquoteWikiname(realPath[:-2])
+    #print "quoteWikinameURL:%s"%wikiutil.quoteWikinameURL(realPath[:-2])
+    subs = fpath.split("(2f)")
+    if int(self.MM["DEEP"]) &lt; len(subs):
+        pass
+    else:
+        # one by one gen. all mapping
+        &lt;&lt;intermap&gt;&gt;
+    #self.dotpages += dotnode
+
+
+
+</t>
+<t tx="zoomq.20100311095515.4660">self.gen_dotitem(fpath)
+#print subs
+#lwidth=self.MM["LWIDTH"]-(self.MM["LWSTEP"]*deep) COLORSEED COLORSTEP
+dotwikiname =  ["(2f)".join(subs[:i+1]) for i in range(len(subs))]
+for node in dotwikiname:
+    base46node = base64.b64encode(node).replace("=","")
+    if base46node not in self.mapdots:
+        self.mapdots.append((base46node,node))
+    else:
+        pass
+
+dotbase64 = ""
+dottpl = open("%s/%s"%(self.pathtpl,self.tpldot)).read()
+
+&lt;&lt;try mapping&gt;&gt;
+
+
+
+</t>
+<t tx="zoomq.20100311095515.4661">try:
+    dotbase64 = [base64.b64encode(i).replace("=","") for i in dotwikiname]
+    for i in range(len(dotbase64)):
+        lwidth=self.MM["LWIDTH"]-(self.MM["LWSTEP"]*i)
+        if lwidth&lt;=0:
+            lwidth=0.1
+        color = self.MM["COLORSEED"]-(self.MM["COLORSTEP"]*i)
+        if lwidth&lt;=0:
+            color=self.MM["COLORSEED"]
+
+        if i+1 &gt;= len(dotbase64):
+            break
+        else:
+            intermap = dottpl%(dotbase64[i],dotbase64[i+1],lwidth,color)
+            #print intermap
+            if intermap not in self.mapli:
+                self.mapli.append(intermap)
+except UnicodeEncodeError:
+    self.logger.debug("UnicodeEncodeError : %s"%realPath)
+except:
+    self.logger.warn("others code bad ")
+</t>
+<t tx="zoomq.20100311095515.4662">def gen_dotitem(self,fpath):
+    '''ask wiki found the first title as node label
+    dotlabel = self._getitle(rawurl)
+    \return file self.tmpdotpages include all dot node define
+    \return self.gendots as list recoded all node gen. for gen_lostnodes
+    '''
+    #print fpath
+    wikiname = wikiutil.unquoteWikiname(fpath)
+    wikiurl = wikiutil.quoteWikinameURL(wikiname)
+    ##for right export Chinese
+    #print fpath.encode('unicode_escape').decode('string_escape')
+    dotitem = base64.b64encode(fpath).replace("=","")
+
+    self.gendots.append(dotitem)
+    #print dotitem
+    #dotlabel = dotitem[:7]
+    dotlabel = self._getitle(fpath)
+    '''test what mis in _getitle()
+    if "NULL" == dotlabel:
+        print "gen_dotitem:%s"%wikipath
+        return 
+    '''
+    doturl = "%s/%s"%(self.MM["URL"],wikiurl)
+    #wikipath.encode('unicode_escape').decode('string_escape'))
+    #self.logger.debug("all picked : %s"%dotitem)
+    #print self.tpldotitem%locals()
+    self.dotnodes += self.tpldotitem%locals()
+
+
+
+
+</t>
+<t tx="zoomq.20100311095515.4663">def gen_lostnodes(self):
+    '''gen that not real creat pages in path relation
+    '''
+    #print self.mapdots
+    #print self.gendots
+    lose = []
+    for i in self.mapdots:
+        if i[0] not in self.gendots:
+            lose.append(i)
+    #print lose
+    dotlosed = ""
+    for node in lose:
+        wikipath = wikiutil.unquoteWikiname(node[1])
+        dotitem = node[0]
+        dotlabel = wikipath.encode('unicode_escape').decode('string_escape')
+        doturl = "#"
+        dotlosed += self.tpldotitem%locals()
+    #print "dotlosed::&gt;%s&lt;::dotlosed"%dotlosed
+    #self.logger.debug("dotlosed::%s"%dotlosed)
+    self.dotnodes += dotlosed
+
+
+
+</t>
+<t tx="zoomq.20100311095515.4664">def _getitle(self,fpath):
+    """load page URL one bt one into one big relations list
+    \return [dotlabel,sub info.]
+    """
+    label=[]
+    self.logdo +=1  # log do how many nodes
+    wikiname = wikiutil.unquoteWikiname(fpath)
+    wikiurl = wikiutil.quoteWikinameURL(wikiname)
+    #.encode('unicode_escape').decode('string_escape')
+    rawurl = "%s/%s?%s"%(self.MM["URL"]
+        ,wikiurl
+        ,self.MM["RAW"])
+
+    #dotlabel = wikiname.encode('unicode_escape').decode('string_escape')
+    dotlabel = (wikiname.split("/")[-1]).encode("utf-8")
+    #.encode('unicode_escape').decode('string_escape')
+    #.encode("utf-8").split("/")[-1:]
+    #print dotlabel
+    try:
+        pagewiki = urllib2.urlopen(rawurl)
+    except urllib2.URLError:
+        #print "URLError: \n %s"%rawurl
+        self.logger.debug("URLError : %s"%rawurl)
+        #print dotlabel
+        label.append(dotlabel)
+        label.append("未创建/已删除")
+        return label
+    except urllib2.HTTPError:
+        #print "404 \n %s"%rawurl
+        #print "HTTPError: \n %s"%rawurl
+        self.logger.debug("HTTPError : %s"%rawurl)
+        label.append(dotlabel)
+        label.append("未创建")
+        return label
+    except:
+        #exc = sys.exc_info()
+        #print traceback.print_exc()
+        print "others code bad \n %s"%rawurl
+        self.logger.warn("others bad : %s"%rawurl)
+        label.append(dotlabel)
+        label.append("未创建")
+        return label
+        #return "%s&lt;sub&gt;未创建&lt;/sub&gt;"%dotlabel
+
+    for line in pagewiki.readlines():
+        if "=" == line[:1]:
+            #print line.split()[1]
+            dotlabel = line.split()[1]
+            break
+        else:
+            continue
+    label.append(dotlabel)
+    label.append("")
+    return label
+    #return dotlabel
+
+</t>
+<t tx="zoomq.20100311095515.4665"># -*- coding: utf-8 -*-
+'''dot-gen-html.py
+    v0.9 090413 append others Graphviz export
+    v0.8 090312 forpy.kingsoft.net 增补网页标题参数
+    v0.7 090312 for KUP.rdev dot mapping gen html
+usage:
+    $ python dot-gen-html.py py-k-idx.dot "py.kingsoft.net 数据地图" index.html
+'''
+
+&lt;&lt;define&gt;&gt;
+
+@others
+
+&lt;&lt;__main__&gt;&gt;
+
+
+
+
+
+
+
+
+</t>
+<t tx="zoomq.20100311095515.4666">import os,sys,time
+import popen2
+
+VERSION = "dot-gen-html v9.04.13"
+GENTIME = time.strftime("%Y-%m-%d %H:%M:%S",time.localtime())
+TPL = "res/index.tpl"
+DODOT = "dot %s.dot -Tpng -o %s.png -Tcmapx -o %s.map"
+TPLDOT = "%s %s.dot -Tpng -o %s-%s.png -Tcmapx -o %s.map"
+FOOTCSS="css/stickyfooter/footer.css"
+
+</t>
+<t tx="zoomq.20100311095515.4667">if __name__ == '__main__':      # this way the module can be
+    if 5 != len(sys.argv):
+        print """ %s usage::
+$ python dot-gen-html 'u.dot' "PageTitle" exPageNam[like index.html) dotool
+        """
+    else:
+        dotf = sys.argv[1]
+        titp = sys.argv[2]
+        expf = sys.argv[3]
+        mapn = dotf.split(".")[0]
+        dotool = sys.argv[4]
+        #print dir()
+        gen(dotool,dotf,titp,expf)
+    #open(exrep,"w").write(open(tpl).read() % locals())
+
+</t>
+<t tx="zoomq.20100311095515.4668">def gen(dotoolname,dotf,titp,wxpf):
+    """usage dot exp png+img map,auto usage html tpl writ out idenx page!
+    """
+    script = VERSION
+    gentime = GENTIME
+    dotmap = dotf.split(".")[0]
+    #print dotmap
+    mapdot = dotmap
+    dotool = dotoolname
+    #TPLDOT = "%s %s.dot -Tpng -o %s-%s.png -Tcmapx -o %s.map"
+    genmap = TPLDOT%(dotool
+        ,mapdot
+        ,mapdot
+        ,dotool
+        ,mapdot)
+    title = titp
+    print genmap
+    r, w, e = popen2.popen3(genmap)
+    print e.readlines()
+    print r.readlines()
+    r.close()
+    e.close()
+    w.close()
+
+    cmapx = open("%s.map"%dotmap).read()
+    css = open(FOOTCSS).read()
+    open(wxpf,"w").write(open(TPL).read() % locals())
+    print "%s done gen mapping @%s"%(VERSION,GENTIME)
+
+
+</t>
+<t tx="zoomq.20100311095515.4669">@path moinmaper/moinutil</t>
+<t tx="zoomq.20100311095515.4670"># -*- coding: utf-8 -*-
+"""
+    MoinMoin - Wiki Utility Functions
+
+    @copyright: 2000-2004 Juergen Hermann &lt;jh@web.de&gt;,
+                2004 by Florian Festi,
+                2006 by Mikko Virkkil,
+                2005-2008 MoinMoin:ThomasWaldmann,
+                2007 MoinMoin:ReimarBauer
+    @license: GNU GPL, see COPYING for details.
+"""
+&lt;&lt;define&gt;&gt;
+"""base MoinMoin.wikiutil
+"""
+
+
+@others
+
+&lt;&lt;__main__&gt;&gt;
+
+
+</t>
+<t tx="zoomq.20100311095515.4671">#import cgi
+import codecs
+import os
+import re
+import time
+import urllib
+
+# Precompiled patterns for file name [un]quoting
+UNSAFE = re.compile(r'[^a-zA-Z0-9_]+')
+QUOTED = re.compile(r'\(([a-fA-F0-9]+)\)')
+
+config_charset = "utf-8"
+</t>
+<t tx="zoomq.20100311095515.4672">if __name__ == '__main__':      # this way the module can be
+    print unquoteWikiname("AutoTest(2f)Meeting(2f)2008(2d)01(2d)15_EndOf2007/")
+    testname = "AutoTest(2f)Design(2f)PerformanceTesting(2f)IO(c3a6c280c2a7c3a8c283c2bdc3a6c2afc294c3a8c2bec283)/"
+    print unquoteWikiname(testname)
+    testname="AutoTest(2f)Design(2f)TestCase(2f)UI(2f)ET(2fe69da1e4bbb6e6a0bce5bc8f)_(e7bc96e8be91e69da1e4bbb6e6a0bce5bc8f)/"
+    print unquoteWikiname(testname)
+    open("unquoteWikiname.txt",'w').write(unquoteWikiname(testname))</t>
+<t tx="zoomq.20100311095515.4673"># constants for page names
+PARENT_PREFIX = "../"
+PARENT_PREFIX_LEN = len(PARENT_PREFIX)
+CHILD_PREFIX = "/"
+CHILD_PREFIX_LEN = len(CHILD_PREFIX)
+
+#############################################################################
+### Getting data from user/Sending data to user
+#############################################################################
+
+@others
+</t>
+<t tx="zoomq.20100311095515.4674">def decodeWindowsPath(text):
+    """ Decode Windows path names correctly. This is needed because many CGI
+    servers follow the RFC recommendation and re-encode the path_info variable
+    according to the file system semantics.
+
+    @param text: the text to decode, string
+    @rtype: unicode
+    @return: decoded text
+    """
+
+    import locale
+    cur_charset = locale.getdefaultlocale()[1]
+    try:
+        return unicode(text, 'utf-8')
+    except UnicodeError:
+        try:
+            return unicode(text, cur_charset, 'replace')
+        except LookupError:
+            return unicode(text, 'iso-8859-1', 'replace')
+</t>
+<t tx="zoomq.20100311095515.4675">def decodeUnknownInput(text):
+    """ Decode unknown input, like text attachments
+
+    First we try utf-8 because it has special format, and it will decode
+    only utf-8 files. Then we try config.charset, then iso-8859-1 using
+    'replace'. We will never raise an exception, but may return junk
+    data.
+
+    WARNING: Use this function only for data that you view, not for data
+    that you save in the wiki.
+
+    @param text: the text to decode, string
+    @rtype: unicode
+    @return: decoded text (maybe wrong)
+    """
+    # Shortcut for unicode input
+    if isinstance(text, unicode):
+        return text
+
+    try:
+        return unicode(text, 'utf-8')
+    except UnicodeError:
+        if config.charset not in ['utf-8', 'iso-8859-1']:
+            try:
+                return unicode(text, config.charset)
+            except UnicodeError:
+                pass
+        return unicode(text, 'iso-8859-1', 'replace')
+</t>
+<t tx="zoomq.20100311095515.4676">def decodeUserInput(s, charsets='utf-8'):
+    """charsets=[config.charset]
+    Decodes input from the user.
+
+    @param s: the string to unquote
+    @param charsets: list of charsets to assume the string is in
+    @rtype: unicode
+    @return: the unquoted string as unicode
+    """
+    '''
+    for charset in charsets:
+        try:
+            return s.decode(charset)
+        except UnicodeError:
+            pass
+    '''
+    try:
+        return s.decode('utf-8')
+    except UnicodeError:
+        pass
+    raise UnicodeError('The string %r cannot be decoded.' % s)
+</t>
+<t tx="zoomq.20100311095515.4677"># this is a thin wrapper around urllib (urllib only handles str, not unicode)
+# with py &lt;= 2.4.1, it would give incorrect results with unicode
+# with py == 2.4.2, it crashes with unicode, if it contains non-ASCII chars
+def url_quote(s, safe='/', want_unicode=False):
+    """
+    Wrapper around urllib.quote doing the encoding/decoding as usually wanted:
+
+    @param s: the string to quote (can be str or unicode, if it is unicode,
+              config.charset is used to encode it before calling urllib)
+    @param safe: just passed through to urllib
+    @param want_unicode: for the less usual case that you want to get back
+                         unicode and not str, set this to True
+                         Default is False.
+    """
+    if isinstance(s, unicode):
+        s = s.encode(config.charset)
+    elif not isinstance(s, str):
+        s = str(s)
+    s = urllib.quote(s, safe)
+    if want_unicode:
+        s = s.decode(config.charset) # ascii would also work
+    return s
+</t>
+<t tx="zoomq.20100311095515.4678">def url_quote_plus(s, safe='/', want_unicode=False):
+    """
+    Wrapper around urllib.quote_plus doing the encoding/decoding as usually wanted:
+
+    @param s: the string to quote (can be str or unicode, if it is unicode,
+              config.charset is used to encode it before calling urllib)
+    @param safe: just passed through to urllib
+    @param want_unicode: for the less usual case that you want to get back
+                         unicode and not str, set this to True
+                         Default is False.
+    """
+    if isinstance(s, unicode):
+        s = s.encode(config.charset)
+    elif not isinstance(s, str):
+        s = str(s)
+    s = urllib.quote_plus(s, safe)
+    if want_unicode:
+        s = s.decode(config.charset) # ascii would also work
+    return s
+</t>
+<t tx="zoomq.20100311095515.4679">def url_unquote(s, want_unicode=True):
+    """
+    Wrapper around urllib.unquote doing the encoding/decoding as usually wanted:
+
+    @param s: the string to unquote (can be str or unicode, if it is unicode,
+              config.charset is used to encode it before calling urllib)
+    @param want_unicode: for the less usual case that you want to get back
+                         str and not unicode, set this to False.
+                         Default is True.
+    """
+    if isinstance(s, unicode):
+        s = s.encode(config.charset) # ascii would also work
+    s = urllib.unquote(s)
+    if want_unicode:
+        try:
+            s = decodeUserInput(s, [config.charset, 'iso-8859-1', ]) # try hard
+        except UnicodeError:
+            s = s.decode('ascii', 'replace') # better than crashing
+    return s
+</t>
+<t tx="zoomq.20100311095515.4680">def quoteWikinameURL(pagename, charset="utf-8"):
+    """ Return a url encoding of filename in plain ascii
+
+    Use urllib.quote to quote any character that is not always safe.
+
+    @param pagename: the original pagename (unicode)
+    @param charset: url text encoding, 'utf-8' recommended. Other charset
+                    might not be able to encode the page name and raise
+                    UnicodeError. (default config.charset ('utf-8')).
+    @rtype: string
+    @return: the quoted filename, all unsafe characters encoded
+    """
+    pagename = pagename.encode(charset)
+    return urllib.quote(pagename)
+</t>
+<t tx="zoomq.20100311095515.4681">def escape(s, quote=0):
+    """ Escape possible html tags
+
+    Replace special characters '&amp;', '&lt;' and '&gt;' by SGML entities.
+    (taken from cgi.escape so we don't have to include that, even if we
+    don't use cgi at all)
+
+    @param s: (unicode) string to escape
+    @param quote: bool, should transform '\"' to '&amp;quot;'
+    @rtype: when called with a unicode object, return unicode object - otherwise return string object
+    @return: escaped version of s
+    """
+    if not isinstance(s, (str, unicode)):
+        s = str(s)
+
+    # Must first replace &amp;
+    s = s.replace("&amp;", "&amp;amp;")
+
+    # Then other...
+    s = s.replace("&lt;", "&amp;lt;")
+    s = s.replace("&gt;", "&amp;gt;")
+    if quote:
+        s = s.replace('"', "&amp;quot;")
+        s = s.replace("'", "&amp;#x27;")
+    return s
+</t>
+<t tx="zoomq.20100311095515.4682">########################################################################
+### Storage
+########################################################################
+
+# Precompiled patterns for file name [un]quoting
+UNSAFE = re.compile(r'[^a-zA-Z0-9_]+')
+QUOTED = re.compile(r'\(([a-fA-F0-9]+)\)')
+
+@others
+
+</t>
+<t tx="zoomq.20100311095515.4683">def quoteWikinameFS(wikiname, charset="utf-8"):
+    """ Return file system representation of a Unicode WikiName.
+config.charset
+    Warning: will raise UnicodeError if wikiname can not be encoded using
+    charset. The default value of config.charset, 'utf-8' can encode any
+    character.
+
+    @param wikiname: Unicode string possibly containing non-ascii characters
+    @param charset: charset to encode string
+    @rtype: string
+    @return: quoted name, safe for any file system
+    """
+    filename = wikiname.encode(charset)
+
+    quoted = []
+    location = 0
+    for needle in UNSAFE.finditer(filename):
+        # append leading safe stuff
+        quoted.append(filename[location:needle.start()])
+        location = needle.end()
+        # Quote and append unsafe stuff
+        quoted.append('(')
+        for character in needle.group():
+            quoted.append('%02x' % ord(character))
+        quoted.append(')')
+
+    # append rest of string
+    quoted.append(filename[location:])
+    return ''.join(quoted)
+</t>
+<t tx="zoomq.20100311095515.4684">def unquoteWikiname(filename, charsets='utf-8'):
+    """ Return Unicode WikiName from quoted file name.
+
+    We raise an InvalidFileNameError if we find an invalid name, so the
+    wiki could alarm the admin or suggest the user to rename a page.
+    Invalid file names should never happen in normal use, but are rather
+    cheap to find.
+
+    This function should be used only to unquote file names, not page
+    names we receive from the user. These are handled in request by
+    urllib.unquote, decodePagename and normalizePagename.
+
+    Todo: search clients of unquoteWikiname and check for exceptions.
+
+    @param filename: string using charset and possibly quoted parts
+    @param charsets: list of charsets used by string
+        charsets=[config.charset]
+    @rtype: Unicode String
+    @return: WikiName
+    """
+    ### Temporary fix start ###
+    # From some places we get called with Unicode strings
+    if isinstance(filename, type(u'')):
+        filename = filename.encode(config_charset)
+    ### Temporary fix end ###
+
+    parts = []
+    start = 0
+    for needle in QUOTED.finditer(filename):
+        # append leading unquoted stuff
+        parts.append(filename[start:needle.start()])
+        start = needle.end()
+        # Append quoted stuff
+        group = needle.group(1)
+        # Filter invalid filenames
+        if (len(group) % 2 != 0):
+            raise InvalidFileNameError(filename)
+        try:
+            for i in range(0, len(group), 2):
+                byte = group[i:i+2]
+                character = chr(int(byte, 16))
+                parts.append(character)
+        except ValueError:
+            # byte not in hex, e.g 'xy'
+            raise InvalidFileNameError(filename)
+
+    # append rest of string
+    if start == 0:
+        wikiname = filename
+    else:
+        parts.append(filename[start:len(filename)])
+        wikiname = ''.join(parts)
+
+    # FIXME: This looks wrong, because at this stage "()" can be both errors
+    # like open "(" without close ")", or unquoted valid characters in the file name.
+    # Filter invalid filenames. Any left (xx) must be invalid
+    #if '(' in wikiname or ')' in wikiname:
+    #    raise InvalidFileNameError(filename)
+
+    wikiname = decodeUserInput(wikiname, charsets)
+    return wikiname
+</t>
+<t tx="zoomq.20100311095515.4685">def cjk_replace(exc):
+    if not isinstance(exc, UnicodeDecodeError):
+        raise TypeError("don't know how to handle %r" % exc)
+    if exc.end + 1 &gt; len(exc.object):
+        raise TypeError('unknown codec ,the object too short!')
+    ch1 = ord(exc.object[exc.start:exc.end])
+    newpos = exc.end + 1
+    ch2 = ord(exc.object[exc.start + 1:newpos])
+    sk = exc.object[exc.start:newpos]
+    if 0x81&lt;=ch1&lt;=0xFE and (0x40&lt;=ch2&lt;=0x7E or 0x7E&lt;=ch2&lt;=0xFE): # GBK
+        return (unicode(sk,'cp936'), newpos)
+    if 0x81&lt;=ch1&lt;=0xFE and (0x40&lt;=ch2&lt;=0x7E or 0xA1&lt;=ch2&lt;=0xFE): # BIG5
+        return (unicode(sk,'big5'), newpos)
+    raise TypeError('unknown codec !')
+codecs.register_error("cjk_replace", cjk_replace)
+</t>
+<t tx="zoomq.20100311095515.4686"># -*- coding: utf-8 -*-
+"""
+    MoinMoin - Page class
+
+    Page is used for read-only access to a wiki page. For r/w access see PageEditor.
+    A Page object is used to access a wiki page (in general) as well as to access
+    some specific revision of a wiki page.
+
+    The RootPage is some virtual page located at / and is mainly used to do namespace
+    operations like getting the page list.
+
+    Currently, this is all a big mixture between high-level page code, intermediate
+    data/underlay layering code, caching code and low-level filesystem storage code.
+    To see the filesystem storage layout we use, best is to look into data/pages/
+    (underlay dir uses the same format).
+
+    TODO:
+    * Cleanly separate the code into packages for:
+      * Page (or rather: Item)
+      * Layering
+      * Cache
+      * Storage
+    * ACLs should be handled on a low layer, raising an Exception when access
+      is denied, so we won't have security issues just because someone forgot to check
+      user.may.read(secretpage).
+    * The distinction between a item and a item revision should be clearer.
+    * Items can be anything, not just wiki pages, but also files of any mimetype.
+      The mimetype hierarchy should be modelled by a MimeTypeItem class hierarchy.
+
+    @copyright: 2000-2004 by Juergen Hermann &lt;jh@web.de&gt;,
+                2005-2008 by MoinMoin:ThomasWaldmann,
+                2006 by MoinMoin:FlorianFesti,
+                2007 by MoinMoin:ReimarBauer
+    @license: GNU GPL, see COPYING for details.
+"""
+
+&lt;&lt;define&gt;&gt;
+"""base MoinMoin.Page
+"""
+
+@others
+
+&lt;&lt;__main__&gt;&gt;
+
+
+</t>
+<t tx="zoomq.20100311095515.4687">import os, re, codecs
+
+</t>
+<t tx="zoomq.20100311095515.4688">if __name__ == '__main__':      # this way the module can be
+    print "empty"</t>
+<t tx="zoomq.20100311095515.4689">def _setRealPageName(self, pagedir):
+    """ Set page_name to the real case of page name
+
+    On case insensitive file system, "pagename" exists even if the
+    real page name is "PageName" or "PAGENAME". This leads to
+    confusion in urls, links and logs.
+    See MoinMoinBugs/MacHfsPlusCaseInsensitive
+
+    Correct the case of the page name. Elements created from the
+    page name in reset() are not updated because it's too messy, and
+    this fix seems to be enough for now.
+
+    Problems to fix later:
+
+     - ["helponnavigation"] link to HelpOnNavigation but not
+       considered as backlink.
+
+    @param pagedir: the storage path to the page directory
+    """
+    if self._text_filename_force is None:
+        # we only do this for normal pages, but not for the MissingPage,
+        # because the code below is wrong in that case
+        realPath = util.filesys.realPathCase(pagedir)
+        if realPath is not None:
+            realPath = wikiutil.unquoteWikiname(realPath)
+            self.page_name = realPath[-len(self.page_name):]
+
+</t>
+<t tx="zoomq.20100311095515.4690">@tabwidth -4
+@others
+</t>
+<t tx="zoomq.20100311095515.4691"># -*- coding: iso-8859-1 -*-
+"""
+    MoinMoin - File System Utilities
+
+    @copyright: 2002 Juergen Hermann &lt;jh@web.de&gt;,
+                2006-2008 MoinMoin:ThomasWaldmann
+    @license: GNU GPL, see COPYING for details.
+"""
+
+import sys, os, shutil, time, errno
+from stat import S_ISDIR, ST_MODE, S_IMODE
+
+#from MoinMoin import log
+#logging = log.getLogger(__name__)
+
+</t>
+<t tx="zoomq.20100311095515.4692">#############################################################################
+### Misc Helpers
+#############################################################################
+
+def chmod(name, mode, catchexception=True):
+    """ change mode of some file/dir on platforms that support it.
+        usually you don't need this because we use os.umask() when importing
+        request.py
+    """
+    try:
+        os.chmod(name, mode)
+    except OSError:
+        if not catchexception:
+            raise
+
+
+</t>
+<t tx="zoomq.20100311095515.4693">def rename(oldname, newname):
+    """ Multiplatform rename
+
+    Needed because win32 rename is not POSIX compliant, and does not
+    remove target file if it exists.
+
+    Problem: this "rename" is not atomic any more on win32.
+
+    FIXME: What about rename locking? we can have a lock file in the
+    page directory, named: PageName.lock, and lock this file before we
+    rename, then unlock when finished.
+    """
+    if os.name == 'nt':
+        if os.path.isfile(newname):
+            try:
+                os.remove(newname)
+            except OSError:
+                pass # let os.rename give us the error (if any)
+    os.rename(oldname, newname)
+
+</t>
+<t tx="zoomq.20100311095515.4694">def touch(name):
+    if sys.platform == 'win32':
+        import win32file, win32con, pywintypes
+
+        access = win32file.GENERIC_WRITE
+        share = (win32file.FILE_SHARE_DELETE |
+                 win32file.FILE_SHARE_READ |
+                 win32file.FILE_SHARE_WRITE)
+        create = win32file.OPEN_EXISTING
+        mtime = time.gmtime()
+        handle = win32file.CreateFile(name, access, share, None, create,
+                                      win32file.FILE_ATTRIBUTE_NORMAL |
+                                      win32con.FILE_FLAG_BACKUP_SEMANTICS,
+                                      None)
+        try:
+            newTime = pywintypes.Time(mtime)
+            win32file.SetFileTime(handle, newTime, newTime, newTime)
+        finally:
+            win32file.CloseHandle(handle)
+    else:
+        os.utime(name, None)
+
+
+</t>
+<t tx="zoomq.20100311095515.4695">def access_denied_decorator(fn):
+    """ Due to unknown reasons, some os.* functions on Win32 sometimes fail
+        with Access Denied (although access should be possible).
+        Just retrying it a bit later works and this is what we do.
+    """
+    if sys.platform == 'win32':
+        def wrapper(*args, **kwargs):
+            max_retries = 10
+            retry = 0
+            while True:
+                try:
+                    return fn(*args, **kwargs)
+                except OSError, err:
+                    retry += 1
+                    if retry &gt; max_retries:
+                        raise
+                    if err.errno == errno.EACCES:
+                        logging.warning('%s(%r, %r) -&gt; access denied. retrying...' % (fn.__name__, args, kwargs))
+                        time.sleep(0.01)
+                        continue
+                    raise
+        return wrapper
+    else:
+        return fn
+
+</t>
+<t tx="zoomq.20100311095515.4696">stat = access_denied_decorator(os.stat)
+mkdir = access_denied_decorator(os.mkdir)
+rmdir = access_denied_decorator(os.rmdir)
+
+
+def fuid(filename, max_staleness=3600):
+    """ return a unique id for a file
+
+        Using just the file's mtime to determine if the file has changed is
+        not reliable - if file updates happen faster than the file system's
+        mtime granularity, then the modification is not detectable because
+        the mtime is still the same.
+
+        This function tries to improve by using not only the mtime, but also
+        other metadata values like file size and inode to improve reliability.
+
+        For the calculation of this value, we of course only want to use data
+        that we can get rather fast, thus we use file metadata, not file data
+        (file content).
+
+        Note: depending on the operating system capabilities and the way the
+              file update is done, this function might return the same value
+              even if the file has changed. It should be better than just
+              using file's mtime though.
+              max_staleness tries to avoid the worst for these cases.
+
+        @param filename: file name of the file to look at
+        @param max_staleness: if a file is older than that, we may consider
+                              it stale and return a different uid - this is a
+                              dirty trick to work around changes never being
+                              detected. Default is 3600 seconds, use None to
+                              disable this trickery. See below for more details.
+        @return: an object that changes value if the file changed,
+                 None is returned if there were problems accessing the file
+    """
+    try:
+        st = os.stat(filename)
+    except (IOError, OSError):
+        uid = None  # for permanent errors on stat() this does not change, but
+                    # having a changing value would be pointless because if we
+                    # can't even stat the file, it is unlikely we can read it.
+    else:
+        fake_mtime = int(st.st_mtime)
+        if not st.st_ino and max_staleness:
+            # st_ino being 0 likely means that we run on a platform not
+            # supporting it (e.g. win32) - thus we likely need this dirty
+            # trick
+            now = int(time.time())
+            if now &gt;= st.st_mtime + max_staleness:
+                fake_mtime = now
+        uid = (st.st_mtime,  # might have a rather rough granularity, e.g. 2s
+                             # on FAT and might not change on fast updates
+               st.st_ino,  # inode number (will change if the update is done
+                           # by e.g. renaming a temp file to the real file).
+                           # not supported on win32 (0 ever)
+               st.st_size,  # likely to change on many updates, but not
+                            # sufficient alone
+               fake_mtime,  # trick to workaround file system / platform
+                            # limitations causing permanent trouble
+              )
+    return uid
+
+
+</t>
+<t tx="zoomq.20100311095515.4697">def copystat(src, dst):
+    """Copy stat bits from src to dst
+
+    This should be used when shutil.copystat would be used on directories
+    on win32 because win32 does not support utime() for directories.
+
+    According to the official docs written by Microsoft, it returns ENOACCES if the
+    supplied filename is a directory. Looks like a trainee implemented the function.
+    """
+    if sys.platform == 'win32' and S_ISDIR(os.stat(dst)[ST_MODE]):
+        if os.name == 'nt':
+            st = os.stat(src)
+            mode = S_IMODE(st[ST_MODE])
+            if hasattr(os, 'chmod'):
+                os.chmod(dst, mode) # KEEP THIS ONE!
+        #else: pass # we are on Win9x,ME - no chmod here
+    else:
+        shutil.copystat(src, dst)
+
+
+</t>
+<t tx="zoomq.20100311095515.4698">def copytree(src, dst, symlinks=False):
+    """Recursively copy a directory tree using copy2().
+
+    The destination directory must not already exist.
+    If exception(s) occur, an Error is raised with a list of reasons.
+
+    If the optional symlinks flag is true, symbolic links in the
+    source tree result in symbolic links in the destination tree; if
+    it is false, the contents of the files pointed to by symbolic
+    links are copied.
+
+    In contrary to shutil.copytree, this version also copies directory
+    stats, not only file stats.
+
+    """
+    names = os.listdir(src)
+    os.mkdir(dst)
+    copystat(src, dst)
+    errors = []
+    for name in names:
+        srcname = os.path.join(src, name)
+        dstname = os.path.join(dst, name)
+        try:
+            if symlinks and os.path.islink(srcname):
+                linkto = os.readlink(srcname)
+                os.symlink(linkto, dstname)
+            elif os.path.isdir(srcname):
+                copytree(srcname, dstname, symlinks)
+            else:
+                shutil.copy2(srcname, dstname)
+            # XXX What about devices, sockets etc.?
+        except (IOError, os.error), why:
+            errors.append((srcname, dstname, why))
+    if errors:
+        raise EnvironmentError, errors
+
+</t>
+<t tx="zoomq.20100311095515.4699"># Code could come from http://aspn.activestate.com/ASPN/Cookbook/Python/Recipe/65203
+
+# we currently do not support locking
+LOCK_EX = LOCK_SH = LOCK_NB = 0
+
+def lock(file, flags):
+    raise NotImplementedError
+
+</t>
+<t tx="zoomq.20100311095515.4700">def unlock(file):
+    raise NotImplementedError
+
+
+</t>
+<t tx="zoomq.20100311095515.4701"># ----------------------------------------------------------------------
+# Get real case of path name on case insensitive file systems
+# TODO: nt version?
+
+if sys.platform == 'darwin':
+
+    def realPathCase(path):
+        """ Return the real case of path e.g. PageName for pagename
+
+        HFS and HFS+ file systems, are case preserving but case
+        insensitive. You can't have 'file' and 'File' in the same
+        directory, but you can get the real name of 'file'.
+
+        @param path: string
+        @rtype: string
+        @return the real case of path or None
+        """
+        try:
+            from Carbon import File
+        except ImportError:
+            return None
+        try:
+            return File.FSRef(path).as_pathname()
+        except File.Error:
+            return None
+
+else:
+
+    def realPathCase(path):
+        return None
+
+# dircache stuff seems to be broken on win32 (at least for FAT32, maybe NTFS)
+DCENABLED = 1 # set to 0 to disable dirchache usage
+def dcdisable():
+    global DCENABLED
+    DCENABLED = 0
+
+</t>
+<t tx="zoomq.20100311095515.4702">import dircache
+
+def dclistdir(path):
+    if sys.platform == 'win32' or not DCENABLED:
+        return os.listdir(path)
+    else:
+        return dircache.listdir(path)
+
+</t>
+<t tx="zoomq.20100311095515.4703">def dcreset():
+    if sys.platform == 'win32' or not DCENABLED:
+        return
+    else:
+        return dircache.reset()
+</t>
+<t tx="zoomq.20100311095515.4704"></t>
+<t tx="zoomq.20100311095515.4705">@path moinmaper/test
+</t>
+<t tx="zoomq.20100311095515.4706">@path moinmaper/_cron
+</t>
+<t tx="zoomq.20100311095515.4707"># /etc/crontab - root's crontab for FreeBSD
+#
+# $FreeBSD: src/etc/crontab,v 1.32.32.1 2008/11/25 02:59:29 kensmith Exp $
+#
+SHELL=/bin/sh
+PATH=/etc:/bin:/sbin:/usr/bin:/usr/sbin:/usr/local/bin
+HOME=/var/log
+#090418 append for moinmaper sync the AutoTest abt pages
+*/15 *   *   *   *   /data0/ksmatrix/crontab/moinpages.sh  &gt; /dev/null 2&gt;&amp;1
+</t>
+<t tx="zoomq.20100311095515.4708">#!/bin/sh
+#export LC_CTYPE=en_US.UTF-8
+version="moinpages BSDv0.7 090421"
+# for auto ls all abt moin page dir for AutoTest 
+## deploy in 192.168.55.159
+&lt;&lt;define&gt;&gt;
+moinpages="/data0/moin17/data/pages/"
+cronshell="/data0/ksmatrix/crontab"
+moinmaper="$cronshell/moinmaper"
+lsfile="moin-aut-$DATE.txt"
+lsmoin="$cmdLs $moinpages | $cmdFGrep AutoTest "
+#| $cmdTee $moinmaper/$lsfile"
+LSALL="$lsmoin &gt; $moinmaper/$lsfile"
+#/usr/bin/find /data0/moin17/data/pages/ -depth 1 -type d -name '*AutoTest*' 
+LOGFILE="/data0/ksmatrix/logs/moinmaper/moin-ls-$DATE.log"
+#"/data0/ksmatrix/logs/moinmaper/moin-ls-$DATE.log"
+
+
+echo "###::ls and grep for AutoTest abt. wiki pages "
+echo "###::ls and grep for AutoTest abt. wiki pages " &gt;&gt; $LOGFILE
+cd $cronshell
+pwd
+pwd &gt;&gt; $LOGFILE
+
+echo "###::start@" `date +"%Y/%m/%d %H:%M:%S"` &gt;&gt; $LOGFILE
+#echo "$lsmoin"
+echo "$LSALL"
+sh -c "$LSALL" &gt;&gt; $LOGFILE 2&gt;&amp;1
+
+#$lsmoin &gt;&gt; $LOGFILE 2&gt;&amp;1 
+#&gt;&gt; $LOGFILE 2&gt;&amp;1 
+echo "###::end@" `date +"%Y/%m/%d %H:%M:%S"` &gt;&gt; $LOGFILE
+
+exit  0
+</t>
+<t tx="zoomq.20100311095515.4709">
+cmdDate=$( which date)
+cmdLs=$( which ls)
+cmdTee=$( which tee)
+cmdSudo=$( which sudo)
+cmdZcat=$( which zcat)
+cmdEGrep=$( which egrep)
+cmdFGrep=$( which fgrep)
+cmdGrep=$( which grep)
+cmdCut=$( which cut)
+cmdAwk=$( which awk)
+cmdSed=$( which sed)
+#cmdLn=$( which ln)
+cmdNl=$( which nl)
+cmdUniq=$( which uniq)
+cmdSort=$( which sort)
+cmdPython=$( which python)
+
+offset="-v-1d"
+yesterday="`$cmdDate $offset "+%y%m%d"`"
+#yesterday="`$cmdDate -d "$offset day" "+%Y-%m-%d"`"
+echo "doing moinpages statistics -=$yesterday=-"
+offset="-v-0d"
+DATE="`$cmdDate $offset "+%y%m%d"`"
+
+</t>
+<t tx="zoomq.20100311095515.4710"># /etc/crontab - root's crontab for FreeBSD
+#
+# $FreeBSD: src/etc/crontab,v 1.32.32.1 2008/11/25 02:59:29 kensmith Exp $
+#
+SHELL=/bin/sh
+PATH=/etc:/bin:/sbin:/usr/bin:/usr/sbin:/usr/local/bin
+HOME=/var/log
+#090418 append in zoomq@192.168.54.100 for moinmaper sync the wiki ls data
+1 *   *   *   *   /data0/ksmatrix/kup/tc/aut/_cron/syncmoin.sh  &gt; /dev/null 2&gt;&amp;1
+
+
+</t>
+<t tx="zoomq.20100311095515.4711">#!/bin/sh
+#export LC_CTYPE=en_US.UTF-8
+version="syncmoin BSDv0.7 090421"
+# deploy in 192.168.54.100 for rsync ls moinmoin pages for AutoTest
+&lt;&lt;define&gt;&gt;
+mapath="/data0/ksmatrix/kup/tc/aut"
+dirdata="$mapath/data/"
+logdir="$mapath/_log"
+LOGFILE="$logdir/moinmaper-$DATE.log"
+lsfile="192.168.55.159:/data0/ksmatrix/crontab/moinmaper/"
+#rsync -avz --delete 192.168.55.159:/data0/ksmatrix/crontab/moinmaper/ ./
+
+echo "###::ls and grep for AutoTest abt. wiki pages " &gt;&gt; $LOGFILE
+cd $dirdata
+pwd
+pwd &gt;&gt; $LOGFILE
+
+echo "###::start@" `date +"%Y/%m/%d %H:%M:%S"` &gt;&gt; $LOGFILE
+#echo "$lsmoin"
+echo "$cmdRsync -avz --delete $lsfile ./"
+$cmdRsync -avz --delete $lsfile ./ &gt;&gt; $LOGFILE 2&gt;&amp;1
+#sh -c "$LSALL" &gt;&gt; $LOGFILE 2&gt;&amp;1
+
+cd $mapath
+lsfile="moin-aut-$DATE.txt"
+python moinmaper.py data/$lsfile &gt;&gt; $LOGFILE 2&gt;&amp;1
+
+#$lsmoin &gt;&gt; $LOGFILE 2&gt;&amp;1 
+#&gt;&gt; $LOGFILE 2&gt;&amp;1 
+echo "###::end@" `date +"%Y/%m/%d %H:%M:%S"` &gt;&gt; $LOGFILE
+
+exit  0
+
+</t>
+<t tx="zoomq.20100311095515.4712">
+cmdDate=$( which date)
+cmdLs=$( which ls)
+cmdTee=$( which tee)
+cmdSudo=$( which sudo)
+cmdZcat=$( which zcat)
+cmdEGrep=$( which egrep)
+cmdFGrep=$( which fgrep)
+cmdGrep=$( which grep)
+cmdCut=$( which cut)
+cmdAwk=$( which awk)
+cmdSed=$( which sed)
+#cmdLn=$( which ln)
+cmdRsync=$( which rsync)
+
+cmdNl=$( which nl)
+cmdUniq=$( which uniq)
+cmdSort=$( which sort)
+cmdPython=$( which python)
+
+offset="-v-1d"
+yesterday="`$cmdDate $offset "+%y%m%d"`"
+#yesterday="`$cmdDate -d "$offset day" "+%Y-%m-%d"`"
+echo "doing moinpages statistics -=$yesterday=-"
+offset="-v-0d"
+DATE="`$cmdDate $offset "+%y%m%d"`"
+
+</t>
+<t tx="zoomq.20100311095515.4716"># -*- coding: utf-8 -*-
+MM={'URL':"#"
+    ,'RAW':"action=raw"
+    ,"MAPNAME":"学生三元定义分析图谱 {by %(tv_rev)s @%(tv_timstamp)s}"
+    ,"LWIDTH":1
+    ,"LWSTEP":1
+    ,"COLORSEED":998899
+    ,"COLORSTEP":221221
+    }
+
+</t>
 </tnodes>
 </leo_file>
