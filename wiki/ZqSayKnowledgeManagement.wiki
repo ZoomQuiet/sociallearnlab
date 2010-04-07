@@ -13,6 +13,11 @@ SEE::[SllProjectFlows SLL项目流程]/*[SllPrjZQ 仨儿之建议集]*
 收获后，分享，将引发更大规模的收获 .. ;)
 }}}
 
+== 总参 ==
+ * [http://www.xmind.net/share/zoomquiet/coup-thinking-abt-km/ KUP Thinking abt.KM - XMind - Social Brainstorming and Mind Mapping]
+ * [http://www.xmind.net/share/gunshotbox/to-do-less-would-not-die/ 少做一點不會死！ - XMind - Social Brainstorming and Mind Mapping]
+ 
+
 == 从无知到有知 ==
 来自: 4G spaces http://blog.youxu.info/2010/02/03/informed-ignoranc/
 
@@ -514,6 +519,22 @@ http://www.zoomquiet.org/share/s5/080730-cpc-SVN-Trac-KM/km/km-map-0.7.png
 > 我们的Blog是：http://www.gtdlife.cn
 > 订阅地址：http://feed.feedsky.com/GTDlife
 }}}
+
+== Yibie发起的KM意义思考 ==
+[http://laoyang.info/think-about-pkm/comment-page-1#comment-321 大家都叫我老杨 » 关于个人知识管理的思考]
+ * [http://www.gtdstudy.com/?p=2140 个人知识管理：知识管理，是为了提出解决方案]
+  * [http://www.gtdstudy.com/?p=2157 知识管理=知识收集+知识加工+知识创造]
+
+俺也白话一下，俺一直坚持建议的:
+{{{
++ 整理->加工->产出 得和自个儿或是自个儿的知识交流圏形成良性闭环:
+    - 不能停止的
+    - 是要对之前的产出也纳入整理->加工->再产出 循环的!
+    - 循环速度越快的说明产出是靠谱的
++ 知识管理本身不是产出的前提,KM本身就是成果，其它的持续产出不过是坚持KM这一活性过程的必然意外收获而已
+}}}
+
+
 
 <wiki:toc max_depth="4" />
 
