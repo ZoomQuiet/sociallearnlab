@@ -1,6 +1,6 @@
 #summary 社区过程改进 实践参考 ZoomQuiet版
 #labels SLLS,ZoomQuiet,SllProjFlows
-
+<wiki:toc max_depth="4" />
 SEE::[SllProjectFlows SLL项目流程]
 
 = 仨儿之建议集 =
@@ -25,8 +25,10 @@ SEE::[SllProjectFlows SLL项目流程]
 
 == 集文 ==
 _不断添加中……_
+ * [ZqSayFamilyEdu 家庭教育思考]
 
 *其实就两方面的建议::*
+=== abt.社区 ===
  # _*社区建设方面*_:
   # 如何建立社区?:
    * 原则:**定名->立旨->组队->坚持**
@@ -45,6 +47,8 @@ _不断添加中……_
   # 沟通的规范化组织/通告/追踪社区项目/工程/计划
    * [ZqSayCommunityItems 社区项目管理规范化,高效化]
     * [ZqSayEduAnn2018 对于教育宣言项目的建议]
+
+=== abt.教育资源 ===
  # _*网络资源使用*_ :
   # 总体思路
 {{{
@@ -74,11 +78,10 @@ XMind saring:[http://share.xmind.net/zoomquiet/sll-proj-zqsuggest/ sll-proj-zqsu
 http://xmindshare.s3.amazonaws.com/preview/sll-proj-zqsuggest-gdkjm-1228391386908.jpg
     
 
-
 = Discuss =
 
 
-
+<wiki:toc max_depth="4" />
 
 
 
