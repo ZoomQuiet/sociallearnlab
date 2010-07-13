@@ -9,8 +9,8 @@ usage:
 
 reverions::
     __author__  = "$Author: Zoom.Quiet $"
-    __date__    = "$Date: 2010-03-11 15:19:26 +0800 (四, 2010-03-11) $"
-    __revision__= "$Rev: 1974 $"
+    __date__    = "$Date: 2010-03-11 18:02:02 +0800 (四, 2010-03-11) $"
+    __revision__= "$Rev: 1976 $"
     __url__     = "$URL: https://sociallearnlab.googlecode.com/svn/tangle/zoom.quiet/triplemapping/triplemaper.py $"
 '''
 VERSION = "triplemaper.py v10.3.11"
@@ -200,9 +200,6 @@ $ python triplemaper.py DataFile [like: 00310-all-sample.txt]
         begin = time.time()
         df = sys.argv[1]
         tm = mapper(df)
-        #mm.mapall()
-        #mm.mapxml()
-        #mm._treelist(pf)
         end = time.time()
 
         info = ">>>runing time=%.2fs<<<"%(end - begin)

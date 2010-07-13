@@ -6,7 +6,7 @@ $ dot test.dot -Tpng -o test.png -Tcmapx -o test.map
         ranksep=1.2,size="12,32"
         overlap=false,splines=true,
 */
-    graph [label="学生三元定义分析图谱 {by triplemaper.py v10.3.11 @100311 17:52:40}",
+    graph [label="学生三元定义分析图谱 {by triplemaper.py v10.3.11 @100311 18:09:29}",
         labelloc="b",labeljust="r",
         fontsize=12.0,
         fontname="VeraSansYuanTi-Regular.ttf",

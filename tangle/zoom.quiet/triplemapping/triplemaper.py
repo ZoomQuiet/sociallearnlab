@@ -168,9 +168,6 @@ $ python triplemaper.py DataFile [like: 00310-all-sample.txt]
         begin = time.time()
         df = sys.argv[1]
         tm = mapper(df)
-        #mm.mapall()
-        #mm.mapxml()
-        #mm._treelist(pf)
         end = time.time()
 
         info = ">>>runing time=%.2fs<<<"%(end - begin)

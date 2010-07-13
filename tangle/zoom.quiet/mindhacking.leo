@@ -9,7 +9,7 @@
 <preferences/>
 <find_panel_settings/>
 <vnodes>
-<v t="zoomq.20090205120222.1" a="E"><vh>@chapters</vh>
+<v t="zoomq.20090205120222.1"><vh>@chapters</vh>
 <v t="zoomq.20090408143801.1"><vh>stuff</vh>
 <v t="zoomq.20091104131309.7"><vh>dot使用</vh></v>
 <v t="zoomq.20090409142411.28"><vh>logging.conf</vh></v>
@@ -106,7 +106,7 @@
 </v>
 <v t="zoomq.20090409142411.2"><vh>@nosent yksitemapping.py</vh>
 <v t="zoomq.20090409142411.3"><vh>&lt;&lt; yksitemapping declarations &gt;&gt;</vh></v>
-<v t="zoomq.20090409142411.4" a="E"><vh>class sitemapping</vh>
+<v t="zoomq.20090409142411.4"><vh>class sitemapping</vh>
 <v t="zoomq.20090409142411.5"><vh>__init__</vh>
 <v t="zoomq.20090409142411.6"><vh>abtFile</vh></v>
 <v t="zoomq.20090409142411.7"><vh>abtDB</vh></v>
@@ -128,26 +128,25 @@
 </v>
 <v t="zoomq.20091204092707.5427"><vh>usageLeo</vh></v>
 </v>
-<v t="zoomq.20090312171356.20" a="E"><vh>triplemapping</vh>
-<v t="zoomq.20100311095515.3578" a="E"><vh>@nosent readme.txt</vh>
+<v t="zoomq.20090312171356.20"><vh>triplemapping</vh>
+<v t="zoomq.20100311095515.3578"><vh>@nosent readme.txt</vh>
 <v t="zoomq.20100311095515.3582"><vh>需求</vh></v>
 <v t="zoomq.20100311095515.3583"><vh>过程</vh></v>
 </v>
-<v t="zoomq.20090408143801.7" a="E"><vh>模板</vh>
+<v t="zoomq.20090408143801.7"><vh>模板</vh>
 <v t="zoomq.20090413195224.1"><vh>@nosent dotrelat.tpl</vh></v>
 <v t="zoomq.20090409202326.2"><vh>@nosent dotnode.tpl</vh></v>
 <v t="zoomq.20090409202326.1"><vh>@nosent dotmain.tpl</vh></v>
 </v>
 <v t="zoomq.20100311095515.4716"><vh>@nosent cfg.py</vh></v>
-<v t="zoomq.20090409122718.2" a="E"
-expanded="zoomq.20090409122718.4,zoomq.20090409142411.20,"><vh>@shadow triplemaper.py</vh></v>
+<v t="zoomq.20090409122718.2"><vh>@shadow triplemaper.py</vh></v>
 <v t="zoomq.20090413151625.1"><vh>@shadow dot-gen-html.py</vh></v>
 <v t="zoomq.20090408143801.4"><vh>support</vh>
 <v t="zoomq.20090408143801.5"><vh>unitest</vh></v>
 </v>
 </v>
-<v t="zoomq.20100311095515.4617" a="E"><vh>moinmaper</vh>
-<v t="zoomq.20100311095515.4618" a="E"><vh>templets</vh>
+<v t="zoomq.20100311095515.4617"><vh>moinmaper</vh>
+<v t="zoomq.20100311095515.4618"><vh>templets</vh>
 <v t="zoomq.20100311095515.4619"><vh>@nosent moinxml.tpl</vh></v>
 <v t="zoomq.20100311095515.4620"><vh>@nosent moindot.tpl</vh></v>
 <v t="zoomq.20100311095515.4621"><vh>@nosent moinpage.tpl</vh></v>
@@ -172,15 +171,15 @@ expanded="zoomq.20090409122718.4,zoomq.20090409142411.20,"><vh>@shadow triplemap
 </v>
 </v>
 </v>
-<v t="zoomq.20100311095515.4638" a="E"><vh>@nosent moinmaper.py</vh>
+<v t="zoomq.20100311095515.4638"><vh>@nosent moinmaper.py</vh>
 <v t="zoomq.20100311095515.4639"><vh>&lt;&lt;define&gt;&gt;</vh></v>
 <v t="zoomq.20100311095515.4640"><vh>&lt;&lt;__main__&gt;&gt;</vh>
 <v t="zoomq.20100311095515.4641"><vh>try lxml</vh></v>
 <v t="zoomq.20100311095515.4642"><vh>try dotmap</vh></v>
 </v>
 <v t="zoomq.20100311095515.4643"><vh>initlog</vh></v>
-<v t="zoomq.20100311095515.4644" a="E"><vh>class mapper</vh>
-<v t="zoomq.20100311095515.4645" a="E"><vh>__init__</vh>
+<v t="zoomq.20100311095515.4644"><vh>class mapper</vh>
+<v t="zoomq.20100311095515.4645"><vh>__init__</vh>
 <v t="zoomq.20100311095515.4646"><vh>abtFile</vh></v>
 <v t="zoomq.20100311095515.4647"><vh>xmlfiles</vh></v>
 </v>
@@ -199,8 +198,8 @@ expanded="zoomq.20090409122718.4,zoomq.20090409142411.20,"><vh>@shadow triplemap
 </v>
 <v t="zoomq.20100311095515.4657"><vh>mapall</vh></v>
 <v t="zoomq.20100311095515.4658"><vh>urlanalyze</vh></v>
-<v t="zoomq.20100311095515.4659" a="E"><vh>gen_dotmap</vh>
-<v t="zoomq.20100311095515.4660" a="E"><vh>&lt;&lt;intermap&gt;&gt;</vh>
+<v t="zoomq.20100311095515.4659"><vh>gen_dotmap</vh>
+<v t="zoomq.20100311095515.4660"><vh>&lt;&lt;intermap&gt;&gt;</vh>
 <v t="zoomq.20100311095515.4661"><vh>&lt;&lt;try mapping&gt;&gt;</vh></v>
 </v>
 </v>
