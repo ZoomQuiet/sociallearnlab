@@ -1,7 +1,6 @@
 #summary zip abt. ZoomQuiet
 #labels Member,ZoomQuiet
 
-<wiki:toc max_depth="4" />
 
 = abt.吾 =
 *Zoom.Quiet === Zoomq = 仨儿*
@@ -11,12 +10,11 @@
 == i doing ==
  * [http://wiki.woodpecker.org.cn/moin/ZoomQuiet CPyUG 行者]
   * [http://wiki.woodpecker.org.cn/moin/ZoomQuiet 啄木鸟维基管理员]
- * http://www.zeuux.org/image/zeuux_0409_001.jpg
- [http://www.zeuux.org/index.cn.html ZEUUX 南方代表]
+ * [http://www.zeuux.org/community/zeuux-activist.cn.html http://www.zeuux.org/image/zeuux_0409_001.jpg]^核心成员^ + [http://www.zeuux.org/index.cn.html ZEUUX 南方代表]
  * [http://erlang.org.cn/ ECUG] [http://code.google.com/p/ecug/wiki/FrontPage 外长]
  * http://sociallearnlab.org/wp-content/themes/vertigo-3column/images/logo.png
  * [http://sociallearnlab.org/?page_id=257 教育大发现 专家组成员] 
-  * *[SllPrjZQ 仨儿之建议集]*
+  * *[http://code.google.com/p/sociallearnlab/wiki/SllPrjZQ 仨儿之建议集]* ^教育相关思考^
 
 == i believe ==
 {{{
@@ -25,7 +23,7 @@ Time is unimportant, only life important!
 过程改进乃是开始催生可促生靠谱的人的组织!
 PI keeps evolving organizations which promoting people be good!
 }}}
- * TipsCommunication ~ 沟通技法
+ * [http://code.google.com/p/sociallearnlab/wiki/TipsCommunication 沟通技法分享]
 
 == i livin ==
 *http://zoomquiet.org *
@@ -46,4 +44,5 @@ PI keeps evolving organizations which promoting people be good!
  * Pls. usage 7-zip to replace `WinRAR/WinZip`.  http://7-zip.org
   * You can get the truely Freedom 4 software.
   
-  
+<wiki:toc max_depth="4" />
+
