@@ -53,7 +53,7 @@ SEE::[SllProjectFlows SLL项目流程]/*[SllPrjZQ 仨儿之建议集]*
 
 出自:_[https://groups.google.com/group/sociallearnlab-members/browse_thread/thread/ba25ebd6077bb6c1/4a2641a8e379cec3?lnk=gst&q=%E4%BF%BA%E8%BF%98%E6%98%AF%E8%8F%9C%E9%B8%9F%E6%97%B6%2C%E9%BC%93%E8%B5%B7%E6%9C%80%E5%A4%A7%E7%9A%84%E5%8B%87%E6%B0%94%E9%80%9A%E8%BF%87%E9%82%AE%E4%BB%B6%E5%8F%91%E5%87%BA%E9%97%AE%E9%A2%98%E6%97%B6%E7%9A%84%E5%BF%83%E7%90%86%E7%8A%B6%E6%80%81%E6%98%AF%3A#4a2641a8e379cec3   新人如何引入和帮带]_ ^- SocialLearnLab-Members:“教育大发现”核心成员列表 | Google 网上论坛^
 
-*铸造凝聚力!*
+==== 铸造凝聚力! ====
 
 `> 老师，我觉得上面好专业呀，我上去看了看，像刘姥姥进了大观园，我如果去找突破口进去然后进去学习呢？多日不见生了好多，好可怕!`
 
@@ -89,6 +89,21 @@ SEE::[SllProjectFlows SLL项目流程]/*[SllPrjZQ 仨儿之建议集]*
 
 出自:_[https://groups.google.com/group/sociallearnlab-members/browse_thread/thread/4a8391616b5d71d/1f90fa2437e72a0f?lnk=gst&q=%E7%9F%A5%E9%81%93%2C%E5%AF%B9%E4%BA%8E%E7%A4%BE%E4%BC%9A%E5%8C%96%E7%BB%84%E7%BB%87%E7%9A%84%E5%BB%BA%E7%AB%8B%2C%E4%BF%BA%E4%B8%80%E7%9B%B4%E6%98%AF%E4%BB%A5%E6%A0%87%E5%87%86%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E7%9A%84%E6%80%9D%E8%B7%AF%E6%9D%A5%E6%8E%A8%E8%BF%9B%E7%9A%84%3A#1f90fa2437e72a0f  项目团队凝聚力]_ ^- SocialLearnLab-Members:“教育大发现”核心成员列表 | Google 网上论坛^
 
+
+2010/9/14 庄秀丽 <xiuli.zhuang@gmail.com>:
+如果大家查AACE的Global U中的活动，
+http://www.editlib.org/globalu/
+{{{
+> 我们是可以从中学到很多如何组织社区活动的方法。
+> 无论教育大发现社区 还是稷下学社
+> 社区，需要阶段性的常规性的活动带领，这个系列活动，不一定是一直不变的，可以是比如持续5次一个主题的，比如看TED视频，最好能够有网络集中的交流分享。
+>
+}}}
+
+ * ~ ZoomQuiet :是也乎,是也乎,这也是俺一直强调的社区归属感的构成部分;一种定期的轻松又有所得的活动,可以自然的聚集出共同记忆的团队认知...
+  * 最帖切并可持续积累的,应该和党组织生活一样的近期活动分享了;
+   * + 每个人都说一下,上次听后自个儿想实践什么,这一阶段实践的如何,下阶段准备作什么
+  * 就和戒烟／酒自助活动类似，大家将共同面对的问题和处置／尝试／成果，公开分享出来，共同进步，并形成良好的平等／宽容／自在的氛围，这才是一个社区的核心吸引力...
 
 == 赞助 ==
 `> ==>象我们这样的社区，如果有资金融入的化，如何科学管理资金以促进社区的持续发展呢？有没有人比较了解的？`
