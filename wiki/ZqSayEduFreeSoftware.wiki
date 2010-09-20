@@ -60,7 +60,7 @@ SEE::[SllProjectFlows SLL项目流程]/*[SllPrjZQ 仨儿之建议集]*
  * 那么,年轻的,在SLL 中探寻的老师们,请认真思考,你们的行为对学生们的影响?!
  * 对于格式兼容,真的是有太多太多方式可以代替的,
  * 比如说,使用 S5 进行幻灯制作:
-  * http://www.zoomquiet.org/share/s5/071020-freedom-discuss/071020-freed...
+  * http://zoomquiet.org/res/s5/071020-freedom-discuss/071020-freedom-zeuux/
 
 使用 OOo ~ OpenOffice.org 套件来进行电子表格/画图/文档排版,,,, 输出成PDF 进行交流,
 
