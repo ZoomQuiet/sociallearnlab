@@ -139,6 +139,7 @@ SEE::[SllProjectFlows SLL项目流程]/*[SllPrjZQ 仨儿之建议集]*
 非常经典的疑问，俺将讨论转发到对应的邮件列表了...
  * (PKM2008 关注个人知识管理;
  * sociallearnlab 教育大发现关注通过SNS改良高等教育;)
+ * [http://www.gtdstudy.com/?p=1210 个人知识管理：Wiki 该怎么写？]
 
  * 其实感觉不知道怎么使用维基，这不是你的问题，而是教育的问题，
 现在回想起来，大学中最有用的课程应该是 图书馆和信息搜索 这门选修课；
@@ -541,4 +542,3 @@ http://www.zoomquiet.org/share/s5/080730-cpc-SVN-Trac-KM/km/km-map-0.7.png
 ----
 `TOC`
 <wiki:toc max_depth="4" />
-
