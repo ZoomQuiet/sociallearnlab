@@ -5,5 +5,5 @@
 有关SLL重要问题讨论列表
 
 201103 SLL价值观
- * [[AlexSLL]]
- * [[WwqSLL]]  
+ * [AlexSLL#SLL价值观]
+ * [WwqSLL]  
