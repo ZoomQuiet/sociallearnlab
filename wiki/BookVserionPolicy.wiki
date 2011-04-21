@@ -1,0 +1,50 @@
+#summary 社区增进 ZoomQuiet版 图书稿件版本规约
+#labels SLLS,ZoomQuiet,BOOK,suggest,SCM
+
+
+SEE::*[SllPrjZQ 仨儿之建议集]*
+
+
+= 版本命名规范 =
+
+标记名应该只含有 字母，数字和分隔线!
+	
+
+attachment:vserionpolicy-1.3.png
+
+实际使用建议
+
+    * 应该在所有可能的场所使用统一的版本命名，包括：tag/模块/产品/代码包/package ...
+    * 可以适当的加入自定的说明来进行有针对性的标记，比如说: 
+
+?Include(VserionTagExample)
+	
+
+?Include(VserionTestTag)
+
+   1. 针对模块的版本:
+          *
+
+            AD_ALLYES_051117 --广告系统-AllYes 2005-11-17 版本
+          *
+
+            AD_ALLYES_RQAD-1 --广告系统-AllYes 缺陷提案 RQAD-1 修正完成版  
+   2. 针对个人测试开发:
+          *
+
+            ALLYES_3_8_ZQ_TRY1_051117 --AllYes 版本3.8 周琦尝试版本1 2005-11-17 日编译版本
+          *
+
+            ALLYES_3_8_ZQ_TRY2_051117 --AllYes 版本3.8 周琦尝试版本2 2005-11-17 日编译版本
+          *
+
+            ALLYES_3_8_ZQ_NEW1_051118 --AllYes 版本3.8 周琦新方法版本1 2005-11-18 日编译版本
+          *
+
+            即！保证版本命名的主要部分吻合规范的前题下，其它的可以适当的自行扩展，以便标识自己的开发进度
+            
+= Discuss =
+`还有什么想法?持续聚集哪,,,`
+
+<wiki:toc max_depth="2" />
+
