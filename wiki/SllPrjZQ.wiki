@@ -5,6 +5,7 @@ SEE::[SllProjectFlows SLL项目流程]
 
 = 仨儿之建议集 =
 文档版本::
+ * 110422 ZoomQuiet 增补文档版本规范建议
  * 100512 ZoomQuiet 增补家庭教育思考入口
  * 081216 ZoomQuiet 重构成各个分类页面
  * 081215 y.blj018 完成收集 ZoomQuiet 阶段列表邮件建议集,全部在本页面
@@ -24,9 +25,10 @@ SEE::[SllProjectFlows SLL项目流程]
 }}}
 
 
-== 集文 ==
+== 集思 ==
 _不断添加中……_
  * [ZqSayFamilyEdu 家庭教育思考]
+ * [BookVserionPolicy 电子文档版本命名规范]
 
 *其实就两方面的建议::*
 === abt.社区 ===
