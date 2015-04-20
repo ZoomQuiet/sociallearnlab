@@ -1,0 +1,375 @@
+# 教育大发现 • 社区简报 #
+
+> 第2期 净种刊
+> [PDF版](http://tinyurl.com/5rd3k7)
+
+  * 社区名字
+  * 目标宗旨
+  * 社区团队
+  * 社区地图
+  * 社区项目
+  * “好看教研”项目
+  * GSH项目
+  * 知识管理
+  * 九月进展
+  * 十月规划
+  * 相关链接
+  * 新友加入
+  * 简报发行
+  * “选种刊”注释
+
+## **社区名字** ##
+
+我们今天应该比过去更为自觉、更注重参与，在向更多的人介绍网络应用和社会化学习的同时，我们也更希望呼吁大家来共同参与、共同创造一个教育的大发现的时代——“教育大发现”时代。
+
+> ![http://sociallearnlab.org/pic/logo-b-blue.png](http://sociallearnlab.org/pic/logo-b-blue.png)
+
+  * 我们中文社区名字：教育大发现
+  * 我们英文网站名字：SocialLearnLab（缩写: SLL）
+  * 我们的实验室名字: 社会化学习实验室
+  * 我们的社区标识是甲骨文的“**人** ”字，出自已故甲骨文研究专家董作宾之手，表示“教育大发现”核心是要在网络和教育技术大发展时期，努力去发现每个人作为独特个体的创造力。
+  * 我们的网站地址是：
+http://sociallearnlab.org
+
+## **目标宗旨** ##
+
+在社区发展的种子期，我们初步设定社区目标宗旨为：
+
+  * 社区是追求学习方式变革的学习者的实践土壤，是横跨WEB2.0服务供应者与学校教育的实践土壤。
+
+  * 通过发起“项目”，推动社区发展。“项目”自身成为学习者（大学生、研究生、教师及其他终身学习者）的变革学习方式的学习场所与平台。
+
+  * 在实践的土壤中，推进教育技术研究。
+
+
+## **社区团队** ##
+
+  * 普通成员，是指参与教育大发现论坛的所有成员。
+
+http://groups.google.com/group/sociallearnlab
+
+目前普通成员由第1期简报发行时的146人，增加到了188人，新增人员主要以教师和学生身份居多。
+
+  * 核心成员，是采用朋友机制邀请，参与到核心论坛推进社区具体项目的所有成员。
+
+http://groups.google.com/group/sociallearnlab-members
+
+核心成员由第1期简报发行时30人，增加到53人，新增23人包括：
+
+在校本科生、硕士博士研究生学生朋友有：LiAndy（计算机）、曾庆武（管理学）、张梅琳（教育技术）、moonlightshang（教育技术）、盖素霞（知识管理）
+
+工作在教育教学岗位的教师朋友有：谢贤晓（信息技术）、唐晓勇（语文）、张剑平（地理）、黄培华（化学　校长）、包士娟（信息技术）、陈鸥辉（信息技术）、张晋梅（信息技术）、邓云（信息技术）、江平（信息技术）、陈相如（历史）、艾奇（远程教育）、向明（信息技术）、王军（信息技术）、王伟（信息技术）、尕藏草kelsang（教育技术） 。
+
+
+doujiang，
+http://www.haokanbu.com/user/77838/
+
+haot2004（smell donkey），
+http://www.haokanbu.com/user/482/
+
+另外社区采用邀请的方式，不断邀请专家作为社区发展顾问，9月邀请的顾问有：
+李尊龙，社区大学生学习与创意能力专题方向高级顾问
+
+第1期30人：
+
+在校本科生、研究生学生朋友有：李子秋（教育心理学）、熊羽（教育技术）、钱薇旭（课程论）、李利娟（思想政治）、白杨（计算机）、上官良雅（海洋科学）、余波（教育技术）、吴长城（教育技术）、郑彬彬（教育技术）、王莹（教育技术）、陈堃（法语）。
+
+工作在教育教学岗位的教师朋友有：李新宇（教育技术）、王万清（数学）、吴向东（科学）、赵小勇（信息技术）、黄利锋（信息技术）、魏国福（化学）、傅佩缮（思想政治）、陈忠心（校长）、孙方（教育技术）、庄秀丽（教育技术）、张渝江（信息技术）、张有宁（信息技术）、武健（信息技术）、汤富源（工商管理）。
+
+工作在软件开发、软件工程岗位的朋友有：严旭（清风）、蔡兴、周琦（Zoomq，仨儿）、陈少钧。
+
+关注于通识教育的朋友有：石峰。
+
+关注于新思想新项目孵化方向的朋友有：曲元周。
+
+在这些人中，作为社区发起人的有：庄秀丽、张渝江、张有宁、武健、汤富源、余波、吴长城、郑彬彬、王莹、石峰。
+
+另外社区采用邀请的方式，不断邀请专家作为社区发展顾问，已经邀请的顾问有：
+
+　 邹景平（GoldRed）：“基于好看簿之信息技术课程教学改革研究”项目特聘顾问；
+
+　 毛向辉（Isaac Mao）：社区发展与运营顾问；
+
+　 陈堃 （QienKuen）：《社会性软件工具应用手册 （大学生版）》Wiki项目特聘顾问；
+
+　 周琦（Zoomq，仨儿）：社区项目工程管理与技术顾问；
+
+　 魏志慧（Winni）：社区项目研究与学术顾问；
+
+　 王晓波：社区项目研究与学术顾问；
+
+　 陈少钧：社区技术平台顾问；
+
+　 余扬（Danny Yu）：社区社会教育与终身学习专题方向顾问；
+
+　 洪波（keso）：社区互联网行业发展顾问；
+
+## **社区地图** ##
+
+![http://sociallearnlab.org/SLLMap/SLL_CmapTools.jpg](http://sociallearnlab.org/SLLMap/SLL_CmapTools.jpg)
+
+
+社区地图地址：http://sociallearnlab.org/SLLMap/SLL_CmapTools.html
+
+## **社区项目** ##
+
+## **简报首语** ##
+金秋季节，果实累累。“教育大发现”是这收获时节的一粒种子，我们幸运地发现并选中它，社区步入了净种期。
+
+期间“好看教研”（ITChaokanbu）项目与《Google服务应用手册》（GSH）项目都有了实质性的进展。尤其“好看教研”项目参与的人员多，教学设计与活动故事开展的有声有色。项目开展的同时，社区管理与社区文化建设面临着诸多问题需要我们解决。挑战与机遇并存，我们在不断地努力、探索和规划，相信社区会迎来枝繁叶茂的那一天。
+
+
+
+~0  好看教研项目启动并实施
+
+> 2008年9月7日，好看教研项目实施方案
+http://www.haokanbu.com/story/108343/
+
+> 2008年9月14日，第一周任务小结及第二周任务规划
+
+http://code.google.com/p/sociallearnlab/wiki/ItcHkbBreif001
+
+~1  IRC会议及GSH项目实施
+
+2008年9月3日，GSH项目任务分工，进度安排以及体例的确定。
+
+2008年9月11日，论坛内容整理。
+
+~2  本月加入社区的成员
+
+~3  2008年9月4日，为加强社区成员的粘合度，Tom老师在好看簿发起了成员的个人show活动：
+> 教育大发现: 认识我，从这里开始……       http://www.haokanbu.com/event/1471/
+> 截止9月25日参与人员有31人。
+
+~4  社区礼仪规范
+
+4.1讨论应做到客观、切题、直接论证而不是迂回论证、避免空泛讨论、为寻求真理，而不是为了满足一时的心理满足；切勿只作判断和声明，而是简单地说明白你的道理
+
+
+## **“好看教研”项目** ##
+
+“好看教研”在金秋九月徐徐启动。
+
+**1.项目名称**
+
+“基于好看簿之信息技术课程教学改革研究”，是项目合作最初名称，后经参与项目成员教师提议，项目名称改为“基于好看簿之社会化教学活动设计研究”，以更确切反映项目实施研究核心任务性质所在，该项目进一步还在核心成员社区，征集了一个朗朗上口的项目昵称：好看教研。
+
+因此，好看教研、Itc-Haokanbu、ItcHaokanbu、ItcHkb，都是指代此项目。
+
+**2.项目进展**
+
+  * 发布了“好看教研(实施提纲)”
+http://www.haokanbu.com/story/108343
+
+  * 初步实施完毕的两个教学活动案例:
+```
+  谢贤晓老师在“好看教研”项目中的进展20080925 ，
+  http://www.haokanbu.com/story/115225/
+  丁笑飞老师在“好看教研”项目中的《课间乐》写作 ，
+  http://www.haokanbu.com/story/115404/
+```
+
+  * 发布好看教研第1周进展简报，
+http://code.google.com/p/sociallearnlab/wiki/ItcHkbBreif001
+
+**3.好看活动**
+  * 活动：ITC-Haokanbu“我和我的学生及我们的学校”
+http://www.haokanbu.com/event/1263/
+  * 活动：各地信息技术类教材目录，
+http://www.haokanbu.com/event/1587/
+  * 活动：我的家乡-校际合作中的相互认识，
+http://www.haokanbu.com/event/1620/
+
+**4.项目管理**
+
+  * “好看教研”项目知识管理，
+http://code.google.com/p/sociallearnlab/wiki/ItcHaokanbu
+  * 教学行进中的研讨邮件列表，
+http://groups.google.com/group/itc-haokanbu
+  * 好看簿中的项目小组，
+http://www.haokanbu.com/group/130/
+
+**5.发起了教师教学实施用网条件调查**
+
+结果在统计中。
+
+**6.项目成果发行方式**
+  * 选择和以优秀课例为基础，协助学科老师发表论文；
+  * 研讨课例成果以开放方式进行传播和共享，
+http://code.google.com/p/sociallearnlab/wiki/PCSID
+
+
+## **GSH项目** ##
+
+**1.发布项目简报**
+http://code.google.com/p/sociallearnlab/wiki/GshBrief081001
+
+**2.GSH项目实施记录**
+http://code.google.com/p/sociallearnlab/wiki/GshLog
+
+**3.GSH图书项目irc会议讨论建议**
+080903IRC会议记录——GSH项目,
+http://code.google.com/p/sociallearnlab/wiki/GshIrc080903
+
+
+**4.GSH图书项目论坛**
+https://groups.google.com/group/google360?hl=zh-CN
+
+## **知识管理** ##
+GoogleGroup论坛内容整理,
+
+http://code.google.com/p/sociallearnlab/wiki/SllGgResource
+
+
+## **九月进展** ##
+
+
+## **十月规划** ##
+
+
+**1.社区目前问题**
+
+
+社区队伍建设（人员任务的明晰、组织的构建、成员组成结构的多元化）
+项目管理机制建设（项目的进度安排及项目的执行力，督促与保障）
+
+社区知识管理机制
+
+
+
+**2.社区下步打算**
+
+
+拓展“团队”力量。
+
+新的项目管理环境，对多数人来说，需要有个适应过程，才能真正逐步走上用新平台合作做事。 真正项目管理经验，还需要在项目实施过程中积累。因此我们可能是出于不断碰到问题、解决问题的过程中。
+
+保持目前项目实施记录、论坛内容整理、好看教学研究记录的持续和稳定性，实时总结经验，逐步探索社区知识管理机制的多途径多用途，形成一套科学的知识管理机制。
+
+
+# **相关链接** #
+
+（1）社区首页，
+
+http://sociallearnlab.org
+
+
+（2）社区项目管理的总入口，
+
+http://code.google.com/p/sociallearnlab/
+
+
+（3）社区发展Log日志，
+
+http://code.google.com/p/sociallearnlab/w/edit/SllLog
+
+
+（4）社区核心论坛资源整理，
+
+http://code.google.com/p/sociallearnlab/wiki/SllGgResource
+
+
+（5）社区字典，
+
+http://code.google.com/p/sociallearnlab/wiki/SllDict
+
+
+（6）社区9月简报，
+
+http://code.google.com/p/sociallearnlab/wiki/SllBrief080901
+
+
+（7）社区10月简报，
+
+http://code.google.com/p/sociallearnlab/wiki/SllBrief081001
+
+
+（8）好看教研周简报，
+
+http://code.google.com/p/sociallearnlab/wiki/ItcHkbBreif001
+
+
+（9）社区组织集体交流方法建议，
+
+http://code.google.com/p/sociallearnlab/wiki/TipsCommunication
+
+
+（10）社区进入速浏，
+
+http://code.google.com/p/sociallearnlab/wiki/SllQuickInto
+
+
+（11）社区参与流程，
+
+http://code.google.com/p/sociallearnlab/wiki/SllFlows
+
+
+（12）使用GoogleCodeWiki命名的规范，
+
+http://code.google.com/p/sociallearnlab/wiki/UsageDocName
+
+
+（13）社区发展目标，
+
+http://code.google.com/p/sociallearnlab/wiki/SllGoal
+
+
+（14）社区相关资源分布，
+
+http://code.google.com/p/sociallearnlab/wiki/SllResource
+
+（15）九月“好看教研”（Itc-Haokanbu）项目实施记录
+
+http://code.google.com/p/sociallearnlab/wiki/ItcHaokanbuLog
+
+（16）九月《Google服务应用手册》（GSH)项目实施记录
+
+http://code.google.com/p/sociallearnlab/wiki/GshLog
+
+
+
+## **新友加入** ##
+
+欢迎大家加入社区，方法很简单，访问：
+
+http://groups.google.com/group/sociallearnlab
+
+> 准入基本原则:
+
+  * 0. 认同社区宗旨
+
+  * 1. 有网络条件
+
+  * 2. 有相关经验/体验/思考
+
+申请加入，介绍自己，越详细越好。我们期待你的参与、合作、支持。
+
+
+## **简报发行** ##
+
+  * 利用GoogleCode进行每期简报管理；
+  * 发行管理:采用专用GoogleGroup论坛进行投递人员管理。
+http://groups.google.com/group/sllbrief
+  * 撰写流程:重要事情随时记录，月末逐步生成简报。
+
+## “选种刊”注释 ##
+
+使用十年树木,百年树人的谚语概念,将不同阶段的社区活动,都和植物进行隐喻:
+
+  * 0.0 seed ~ 种子
+
+  * SllBrief080901 ~ 选种刊 _seed choice_ <sup>撰写ing</sup>
+  * SllBrief081001 ~ 净种刊 _seed clean_  <sup>筹备ing</sup>
+  * ~ 育种刊 _seed grow_   <sup>筹备ing</sup>
+  * ~ 冬藏刊  _seed winter store_  <sup>筹备ing</sup>
+  * ~ 泡种刊 _seed vesic_  <sup>筹备ing</sup>
+  * ~ 栽种刊  _seed fall_    <sup>筹备ing</sup>
+
+  * 0.1 bud ~ 芽
+  * 0.2 grass ~ 草
+  * 0.3 bush ~ 灌木
+  * 0.4 arboret ~ 小树
+  * 0.5 tree ~ 树
+  * 0.6 woods ~ 树林
+  * 0.7 forest ~ 森林
+  * ...

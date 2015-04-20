@@ -1,0 +1,318 @@
+﻿#summary Itc-Haokanbu 项目实施记录.
+#labels Research,ItcHaokanbu
+
+返回项目首页［ItcHaokanbu］
+
+项目团队 黄利锋ItcHaokanbuhlf  谢贤晓ItcHaokanbuXiexianxiao 江平ItcHaokanbuJping
+
+# 20080908 #
+
+发布启动热身阶段任务公告：http://www.haokanbu.com/group/130/topic/1666/
+
+  * （1）没有在“课题通讯录“的小组成员，请参与回复，http://www.haokanbu.com/group/130/topic/1554/
+
+  * （2）没有写故事参加活动的“ITC-Haokanbu“我和我的学生及我们的学校””， http://www.haokanbu.com/event/1263/ ，请积极参与，所有价值就产生于我们参与的过程中。
+
+  * （3）注册gmail邮箱，注册地址：http://gmail.google.com/ ，相关参考，请访问，大家都来体验Gmail and Gtalk，写下你的试用感受！http://www.haokanbu.com/group/130/topic/1644/
+
+# 20080909 #
+
+（1）对项目中里程碑任务、每个阶段的任务列表等等，采用everydo管理，
+
+http://sociallearnlab.everydo.com/projects/126577
+
+这样做的好处，整个项目全貌在心中，不会乱。从而有利于把精力投入到关键任务实施的质量提升上。
+
+（2）写了篇日志：好看教研（ItcHaokanbu）项目管理，
+http://sociallearnlab.org/blog/?p=312
+
+# 20080910 #
+
+（1）整理了项目参与者目前的名单，有gmail邮箱的，用gmail邮箱进行了共享，没有的，就发到小组论坛的通讯录中了。这个整理过程，花了很长时间。
+
+（2）晚上跟小学组的张晋梅、晓晓老师进行了联系。就老师相识的好处、如何更好相识问题，进行了一点讨论，并请他们主动分享，以帮助更多老师参与进来。晓晓老师说她已经感觉到gmail的好处了。还有晓晓老师，她开始在做实践记录。
+
+晓晓跟晋梅正好是两种不同的外部环境条件。
+
+晓晓她和她的学生，上课都能够比较顺畅地利用互联网。
+晋梅只能她自己用，学生虽然在机房上课，但是互联网联网速度非常慢，基本不大可能在上课期间组织学生使用网络。
+
+
+（3）跟中学组的邓云老师、小勇老师进行了联系。主要是了解老师上课的打算，并且建议他们把自己上课的情况，或者结合具体的教学把教学方案（不一定完备，可以是初步的构思），发到论坛中，http://groups.google.com/group/itc-haokanbu 中，这样可以把以往个人教学的行为，与群体联系在一起，以充分发挥集体潜力的力量。这是后一步逐步要启动的重要内容，即用论坛来研讨课。
+
+（4）在http://groups.google.com/group/itc-haokanbu 发了“问候大家”贴子。 小勇昨天晚上已经把自己的教学设计方案发到论坛中了。
+
+（5）项目新增人员Jping
+
+# 20080911 #
+
+（1）Jping把学生名单发给我，我帮她成功建立了一个小组。我发现她的名单中实际包括3~4个班级，问她是否需要分建不同的小组，她说合在一起。她说小学科，通常是跨班级来实施。如果分组，是按主题分，而不是按班级分。按主题分比如历史组、科学组。她这个经验非常好。
+
+
+（2）晓晓在实践中，取得比较大的进展，她开始把自己在实践中体会到东西转化为问题，到http://groups.google.com/group/itc-haokanbu 发帖进行教学研讨了。
+
+（３）我尝试给晓晓建立一个用于日常数据备份与资料整理的课题研究页面。
+http://code.google.com/p/sociallearnlab/wiki/ItcHaokanbuXiexianxiao　
+这样可以把有关项目数据收集整理工作做在日常，而不是等到课题结束时，花很多时间去整理。
+
+（４）在小组内部讨论中发帖＂教学过程记录的案例分享＂，http://www.haokanbu.com/group/130/topic/1691/
+
+（5）中学组邓云老师分享了她任教学科的教材目录，这非常重要，让不同地区老师之间沟通有了基础，
+
+  * 深圳市初一年级（上）信息技术教材，http://www.haokanbu.com/story/109850/
+  * 深圳初中信息技术教材目录（初二、初三上）， http://www.haokanbu.com/story/110034/
+
+# 20080912 #
+
+（1）早上我在GTalk跟晓晓聊课的设计问题；
+
+（2）晓晓已经开始通过地面方式和网络方式，在发挥群众大脑的功能，进行活动主题的设计思考。
+
+（3）晚上我把晓晓班级的孩子网站看了一遍，把他们加为自己的联系人，另外我还给他们单独分了类。
+
+（4）晓晓所带班级孩子的班主任丁老师也注册了好看簿，她积极支持晓晓和孩子们，感觉这样的老师，这是少有呀，晓晓和孩子们都挺幸福的，有这样一位支持者。
+
+# 20080913 #
+
+（1）上午整理一周以来项目实施的进展资料。
+
+（2）用电话与包士娟 唐天池 毛爱萍几位老师进行了联系。
+
+（3）黄利锋老师也开始了利用网络进行教学设计过程的互动。
+
+# 20080914 #
+
+（1）写项目进展一周小结,http://code.google.com/p/sociallearnlab/wiki/ItcHkbBreif001
+
+（2）项目中加入新成员 yuxiaomei
+
+# 20080915 #
+（注：这一天我整理了社区核心论坛的资料以及进行一些联系人信息整理）
+
+# 20080916 #
+
+（1）晓晓设计了一个活动，
+
+活动：我最向往的地方-------，
+http://www.haokanbu.com/event/1522/
+
+晚上在itc-haokanbu的邮件列表中大家对晓晓这个活动设计进行了讨论，得到不少启发：
+https://groups.google.com/group/itc-haokanbu/browse_thread/thread/c2a10fba6933059e
+
+晓晓和班主任丁老师，都对此节课的实施作了日记。
+
+向明和wendy表示也会设计同一主题的活动。
+
+（2）在核心论坛中启动由汤富源老师负责的“基于好看的教育实践”项目，这会更加有助于老师充分运用好看上的教育资料。
+
+（3）项目中增加了任教通用技术课的马老师、东莱小学增加了艺术老师张慧宇、科学教师顾文元两位老师。
+
+# 20080917 #
+
+（1）向明老师，把自己的教学方案发出来让大家研讨，延续了晓晓的活动主题：《我最向往的地方》；
+
+http://groups.google.com/group/itc-haokanbu/browse_thread/thread/a4988a81016cb2e6
+
+（2）江平老师，也抛出一个方案让大家来集思广益，
+
+另类中秋——电子签名活动，http://www.haokanbu.com/event/1466/
+
+http://groups.google.com/group/itc-haokanbu/browse_thread/thread/f17dc5e266f69257
+
+（3）我整理了项目内部通讯录，通过Gmail共享给了丁老师、唐老师、东莱小学的顾老师和张老师。
+
+（4）项目中增加新成员计算机老师罗明康老师、历史老师陈秀云阿丸老师。
+
+（5）晓晓又发布了下一步教学的初步构思。
+
+（6）武健新建了两个班级小组，并打算与于小梅老师一起来讨论课的设计。
+
+# 20080920 #
+
+（1）建立了《社会化网络环境下的教学设计与实施案例集》汇编
+http://code.google.com/p/sociallearnlab/wiki/PCSID
+
+# 20080921 #
+
+（1）丁老师抛出《课间乐》第二节课的构想
+
+# 20080922 #
+
+（1）江平老师抛出方案修改第二稿
+
+（2）整理通讯录
+
+（3）思考一个问题：如何让老师之间“混得”很熟？
+
+
+# 20080923 #
+(1)增加新成员
+杨华　时亚珍
+
+(2)用Googledocument开始对老师用网条件进行调查和共享。
+
+# 20080924 #
+
+(1)丁老师　晓晓老师第一个案例课都已经实施完毕．
+
+(2)策划写个故事，反映项目中做了什么，给新进来的老师看．
+
+(3)包士娟今天匆匆忙忙抛了个水资源保护的案例
+
+# 20080925 #
+
+实施完毕的两个教学活动案例：
+
+
+谢贤晓老师在“好看教研”项目中的进展20080925，
+
+> http://www.haokanbu.com/story/115225/
+
+
+丁笑飞老师在“好看教研”项目中的《课间乐》写作 ，
+
+http://www.haokanbu.com/story/115404/
+
+# 20081006-1012 #
+
+(1)晓晓老师"我向往的地方"案例小结初稿已经成型了;
+
+(2)校际合作"我的家乡",启动了,
+
+http://www.haokanbu.com/event/1620/
+
+(3)邓云老师，启动了班级教学活动，给动物分类，班级小组地址：
+
+http://www.haokanbu.com/group/192/
+
+(4)已经有了两门非信息技术学科进行课题的尝试：
+
+  * 丁笑飞老师快乐写作的教学尝试；
+  * 王万清老师数学教学的尝试；
+
+(5)发布第2期简报,
+
+http://code.google.com/p/sociallearnlab/wiki/ItcHkbBreif002
+
+(6)实施了项目老师用网条件的调查,
+
+http://spreadsheets.google.com/pub?key=pD9z06pJtUC7VOIGSJbm7Hw
+
+这一周，
+
+晓晓老师整理出完整的课例说明，
+
+“我最向往的地方”教学活动设计与实施案例
+
+http://www.haokanbu.com/story/121436/
+
+丁老师第一单元的课例也已经整理完毕。
+
+# 20081013-1019 #
+
+“我的家乡”，跨校合作开始启动，并开始实施该单元第一次课，
+
+[跨校活动各校基本情况登记](http://groups.google.com/group/itc-haokanbu/web)
+
+
+1.浙江省平阳县昆阳二小老师：
+
+[谢贤晓老师主页地址](http://www.haokanbu.com/user/15248/)
+
+[学校介绍](http://www.haokanbu.com/story/119314/)
+
+昆阳二小 [六年(1)班活动小组](http://www.haokanbu.com/group/142/)
+
+昆阳二小 [六年(2)班活动小组](http://www.haokanbu.com/group/149/)
+
+活动：[我美丽的家乡-平阳](http://www.haokanbu.com/event/1692/)
+
+
+2.江苏省张家港市东莱小学老师：
+
+[黄利锋老师主页地址](http://www.haokanbu.com/user/1045/)
+
+
+[学校介绍](http://www.haokanbu.com/story/119006/)
+
+
+[活动小组](http://www.haokanbu.com/group/146/)
+
+
+
+活动：[美丽港城我的家](http://www.haokanbu.com/event/1519/)
+
+
+3.襄樊四中老师：
+
+[王军老师主页地址](http://www.haokanbu.com/user/4128/)
+
+
+学校介绍：
+
+[学校樱花开了](http://www.haokanbu.com/story/18060/)
+
+[绿色校园网吧](http://www.haokanbu.com/story/11211/)
+
+[摸摸信息这头"象"----信息及其特征](http://www.haokanbu.com/story/8384/)
+
+活动小组：[高中信息技术学习共同体](http://www.haokanbu.com/story/8384/)
+
+
+活动：["画"说襄樊](http://www.haokanbu.com/event/1695/)
+
+4. 上海西南模范中学
+
+[江平老师主页地址](http://www.haokanbu.com/user/2144/)
+
+[学校介绍](http://www.haokanbu.com/story/120428/)
+
+[活动小组](http://www.haokanbu.com/group/147/)
+
+["画"说上海](http://www.haokanbu.com/event/1715)
+
+
+5.其它两个网址：
+
+[我的家乡－－校际合作中运用成员图说](http://www.haokanbu.com/story/120870/)
+
+[在地图上找大家](http://www.haokanbu.com/story/120041/)
+
+整个跨校合作，历时四周左右。
+
+
+# 20081014-1015 #
+
+参加石家庄市高中信息技术教师培训活动，
+
+http://www.haokanbu.com/story/124203/
+
+# 20081020-1026 #
+
+对好看教研参与要求与方式，进行了小结：
+
+好看教研项目：实施主要技术支持环境20081022 ，
+
+http://www.haokanbu.com/story/126479/
+
+好看教研项目：人与人交流的活动，
+
+http://www.haokanbu.com/story/126624/
+
+好看教研项目：教师参加项目进行教学活动设计实施的基本流程，
+
+http://www.haokanbu.com/story/126685/
+
+# 20081216 #
+
+设计数据收集与分析方案。
+
+# 教学小组 #
+晓晓的教学小组：
+http://www.haokanbu.com/group/142/
+
+黄利锋老师教学小组：
+http://www.haokanbu.com/group/146/
+
+Jping的教学小组：
+http://www.haokanbu.com/group/147/

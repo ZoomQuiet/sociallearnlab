@@ -1,0 +1,26 @@
+# **社区任务跟踪表** #
+
+|任务名称|负责人|进度安排|进展情况|
+|:-----------|:--------|:-----------|:-----------|
+|项目发起实施流程|余波、庄秀丽|11.23发布|http://code.google.com/p/sociallearnlab/wiki/SllProjectFlows|
+|社区宗旨|石峰、庄秀丽|11.24前起草11.28前讨论|http://code.google.com/p/sociallearnlab/wiki/SllGoal |
+|网址邮件列表资源关系结构图|汤富源、吴长城、余波|11.24前提出方案，过后讨论11.29发布|  |
+|人员结构，核心成员入准流程|庄秀丽、余波、汤富源|11.29发布并讨论|  |
+|社区委员会规则制定|庄秀丽|12.5之前完成社委会成员管理规则，12.12之前完成议事规则|http://tinyurl.com/64fqjy|
+|社区专家资源整理-邹景平|上官良雅|等待鄒老師整理完成她的舊文之後再來，整理|  |
+|录音整理-毛向辉1|吴长城|  |OK|
+|录音整理-毛向辉2|余波|  |OK|
+|录音整理-柯声茂|石峰|11.22下午四点前完成|OK，[SLLkeshengmao20081116](http://code.google.com/p/sociallearnlab/wiki/SLLkeshengmao20081116?ts=1227342021&updated=SLLkeshengmao20081116)|
+|EdubuntuChina|  |  |  |
+|SLHB网络学习手册|  |  |  |
+|A小组录音整理|庄秀丽，余波|11.29前|OK，http://www.sociallearnlab.org/wiki/index.php/EduAnnG1|
+|B小组录音整理|上官良雅，小石|11.29前|OK，[EduAnnG2](http://code.google.com/p/sociallearnlab/wiki/EduAnnG2)|
+|11条的理解发起讨论|小石|本周|  |
+|还原11条讨论现场|小石|本周|整理地点：http://www.sociallearnlab.org/wiki/index.php/EduAnn2018 页面中“第三阶段宣言整理与完善”部分|
+|会议版润色-正文|庄秀丽老师|12.15|OK|
+|会议版润色S7 S10 S3|庄秀丽老师|12.15|OK|
+|会议版润色S6 S2|上官良雅|12.14|OK|
+|会议版润色S4 S5|余波|12.14|OK|
+|会议版润色S1 S8|汤老师|12.14|OK|
+|会议版润色S11|吴向东老师|12.14|OK|
+|会议版润色S9|石峰|12.14|OK|

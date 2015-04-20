@@ -1,0 +1,27 @@
+﻿#summary Google Services Handbook
+#labels Featured,GSH,Google,认领列表,完成进度
+
+# 《Google 服务应用 》 #
+
+**GshStoryDesign ~ 故事设计思路**
+
+**GshStoryIndex ~故事设计索引**
+
+| **章节** | **编写进度** | **负责人员** | **备注** |
+|:-----------|:-----------------|:-----------------|:-----------|
+| GshZh0Index  |  |  | 综述（背景，Google 服务目前发展，新时代有新的要求，Google 教育与学习，为什么有这样的变化和要求）|
+| GshTechnologyGmail | 初搞完成 | 余波  |  |
+| GshTechnologyNotebook | 初稿完成 |  |  |
+| GshTechnologyPicasa | 初稿完成 | Solomon|  |
+| GshTechnologyGroups | 初稿完成 |  |  |
+| GshTechnologyIgoogle | 初稿完成 | wwq0327 |  |
+| GshTechnologyDocuments | 初稿完成 |  |  |
+| GshTechnologyBook | 初稿完成 | wwq0327 |  |
+| GshTechnologyCalendar | 初稿完成 |  |  |
+| GshTechnologyReader | 初稿完成 | wwq0327 |  |
+| GshTechnologyEarth | 初稿完成 |  |  |
+| GshTechnologyMap | 初稿完成 | Solomon|  |
+| GshTechnologyApps | 初稿完成 |  |  |
+| GshTechnologyOthers |  |  |  |
+| GshTechnologyIntegrate |  |  |  |
+| GshTechnologySources |  | |  |

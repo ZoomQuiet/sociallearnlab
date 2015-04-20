@@ -1,0 +1,170 @@
+# 教育大发现 • 社区简报 #
+
+> 第3期 育种刊
+
+> [PDF版](http://tinyurl.com/6mqf42)
+  * 导读
+  * "好看教研"(ItcHaokanbu)项目
+    * “好看教研”进展
+    * “我向往的地方”课例分享
+    * “画说家乡”跨校活动
+    * “课间乐”快乐写作探索
+
+  * Google服务应用手册(GSH)项目
+    * GSH项目IRC会议（GshIrc081008）
+    * 项目完成的章节内容
+    * GG论坛中的讨论
+
+  * 社区学习工具的使用
+  * 社区正在进行时
+  * 十一月展望
+
+
+
+## 导读 ##
+
+## **“好看教研”(ItcHaokanbu)项目** ##
+
+
+### “好看教研”进展 ###
+
+“好看教研”指一个研究项目，即“基于[好看簿](http://www.haokanbu.com/)之信息技术课程教学改革研究”，该课题后改名为“基于好看簿之社会化教学活动设计研究”，主要是为突出课题研究之核心问题，即在以用户参与创作贡献的社会化网络支持环境中，进行教学活动设计的方法与策略探索，以及对相应教学活动实施产生的可能的学习效果探索。
+
+“好看教研”从九月中旬左右启动到十月底，在历时一个半月中，项目进展可以分为两个阶段。第一个阶段基于好看簿之社会化教学活动设计，其主要范式是由教师设计任务，由某个班级体内学生参与完成任务的模式，第二阶段则是在第一个阶段基础上，不同学校学生各自参与完成性质相同的主题任务，在此过程中增加了学生进行校际交流的成分。
+
+参与第一个阶段教学活动设计的老师主要有谢贤晓、丁笑飞，其后又增加了向明、邓云。
+
+参与第二个阶段以“画说家乡”为主题的跨校活动的老师主要有谢贤晓、黄利锋、江平、王军。
+
+另外作为作文教学改革的尝试，丁笑飞老师的“快乐写作”探索，完成了第一个课例的探索，进入了第二个课例的实施。
+
+其他出现的探索，还有王万清老师在数学学科的初步探索、陈秀云老师在历史学科的应用探索。
+
+除最初加入的一批老师之外，十月中下旬又迎来了新的一波老师朋友。
+
+### “我向往的地方”课例分享 ###
+
+谢贤晓老师对第一个阶段课例小结：
+[“我最向往的地方”教学活动设计与实施案例](http://www.haokanbu.com/story/121436/)
+
+### “画说家乡”跨校活动 ###
+
+围绕“画说家乡”主题，谢贤晓、黄利锋、江平、王军四位老师在教学活动设计实施过程，同学们藉助参与同一个主题任务，增加了跨校交流的成分。
+
+这四所学校学生作品与交流如下：
+
+[“美丽港城我的家”](http://www.haokanbu.com/event/1519/)　
+
+[画说襄樊](http://www.haokanbu.com/event/1695/)　
+
+[我美丽的家乡-平阳](http://www.haokanbu.com/event/1692/)
+
+["画"说上海](http://www.haokanbu.com/event/1715)
+
+
+活动"图说家乡"：
+
+http://www.haokanbu.com/event/1620/
+
+### “课间乐”快乐写作探索 ###
+
+这是由丁笑飞老师设计实施的写作教学，该活动围绕“课间乐”写作主题，已经连续实施了两个单元的快乐写作探索：
+
+[第一单元的课间乐](http://www.haokanbu.com/event/1553/)
+
+[第二单元的课间乐](http://www.haokanbu.com/event/1929/)
+
+### 新近加入“好看教研”的老师 ###
+
+新近加入的老师，有些已经开始进行着手进行教学活动设计了，如杨华老师。
+
+罗明康 http://www.haokanbu.com/user/60772/
+
+时亚珍 http://www.haokanbu.com/user/78853/
+
+杨华 http://www.haokanbu.com/user/78103/
+
+李明山 http://www.haokanbu.com/user/83424/
+
+王强 http://www.haokanbu.com/user/86184/
+
+## **Google服务应用手册(GSH)项目** ##
+
+### GSH项目IRC会议（GshIrc081008） ###
+
+2008年10月8日社区GSH项目组举行IRC会议，会议讨论了以下五个问题并形成了[相关决议](http://code.google.com/p/sociallearnlab/wiki/GshIrc081008)：
+
+1、如何管理图书中的图片问题？
+
+2、每人已经编写好的图书一章内容，讨论存在什么问题，有什么优缺点？
+
+3、关于编写“情景”这块，有什么问题吗？那部分是故事组还是我们编写呢？
+
+4、关于新人加入GSH项目？
+
+5、关于下章内容编写改进措施？
+
+### 项目完成的章节内容（技术版） ###
+
+[Picasa](http://code.google.com/p/sociallearnlab/wiki/GshTechnologyPicasa)
+
+[Reader](http://code.google.com/p/sociallearnlab/wiki/GshTechnologyReader)
+
+[Calendar](http://code.google.com/p/sociallearnlab/wiki/GshTechnologyCalendar)
+
+[GoogleAPPS](http://code.google.com/p/sociallearnlab/wiki/GshTechnologyApps)
+
+[Notebook](http://code.google.com/p/sociallearnlab/wiki/GshTechnologyNotebook)
+
+以上初步完成的章节，还请大家多多参与讨论并修改。
+
+### GG论坛中的讨论 ###
+
+[Gmail使用的讨论](https://groups.google.com/group/sociallearnlab/browse_thread/thread/94546971dbe82067)
+
+[GoogleApps应用的讨论](https://groups.google.com/group/sociallearnlab/browse_thread/thread/644b845c2f61004d)
+
+
+[Google Sites推出中文版“协助平台” 正式进入中国](https://groups.google.com/group/sociallearnlab/browse_thread/thread/fb8e39d76d025743)
+
+
+## **社区学习工具的使用** ##
+
+关于这些工具技术操作使用，大家在好看上都能够找到相关的教程。我们就是通过这种方式来生产资源、分享资源、发展资源、来相互学习，提升自我。
+
+（1）参考活动：[数字学习的工具操作](http://www.haokanbu.com/event/46/)
+
+
+（2）参考活动：[SL2008S-WikiGoogle](http://www.haokanbu.com/event/635/)
+
+
+（3）参考活动：[Google的产品故事](http://www.haokanbu.com/event/33)
+
+
+（4）参考活动：[Gmail+Gtaik+Ggroups的教育实践](http://www.haokanbu.com/event/1472)
+
+
+（5）参考活动：[WEB2.0特点及应用](http://www.haokanbu.com/story/4862)
+
+
+（6）参考活动：[好看薄使用基础教程](http://www.haokanbu.com/event/1678)
+
+
+## **社区正在进行时** ##
+
+[我发现了非常多问题](https://groups.google.com/group/sociallearnlab-members/browse_thread/thread/8522368b34867aa3/9eb6b93f84f93885?lnk=gst&q=%E6%88%91%E5%8F%91%E7%8E%B0%E4%BA%86%E9%9D%9E%E5%B8%B8%E5%A4%9A%E9%97%AE%E9%A2%98#9eb6b93f84f93885):LiAndy(李浩）在教育大发现社区核心成员论坛针对社区发展进程中存在的一些问题发起的一个主题帖。虽然只破没立，但能够引起我们思考并给予启发，并为社区后期发展提供了可参考。
+
+[教育大发现社区管理结构要务](https://groups.google.com/group/sociallearnlab-members/browse_thread/thread/567dac918d0e7318/c04df699af3a867f?lnk=gst&q=SLL-mem%3A1182#c04df699af3a867f)：庄秀丽老师在教育大发现社区核心成员论坛中发起的一个研讨帖，希望成员能够在社区持续发展的管理结构和发展机制上展开研讨。
+
+[面向2018年的中国教育宣言集思广益](https://groups.google.com/group/sociallearnlab-members/browse_thread/thread/2d1d7ad043c1d2e3/7ee9bf67f880af40?lnk=gst&q=%E9%9D%A2%E5%90%912018%E5%B9%B4%E7%9A%84%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B2%E5%AE%A3%E8%A8%80%E9%9B%86%E6%80%9D%E5%B9%BF%E7%9B%8A#7ee9bf67f880af40)：2008年11月15日至16日中文网志年会在广州将如期而至，在年会帷幕拉开前夕，"2018年中国教育宣言集思广益"做为前奏，在教育大发现社区正徐徐唱响。
+
+## 十一月展望 ##
+
+GSH初稿成型
+
+好看教研项目进入第三个阶段的实施，这个阶段一方面着手推进新加入课题老师的教学活动设计与实施研讨，另一方面对于有经验的成员老师展开以发挥学生想象力与创造力为主题任务的教学活动设计与实施推进阶段。除此以外，对项目第一阶段第二阶段实施成果进行系统分析和整理。
+
+教育大发现社区发展，运用网志年会社区成员面对面机会，逐步清理出有助于社区长远发展的社区目标（长远目标、阶段目标），以及社区任务管理协作分工机制方法。另外对社区自建立以来出现的问题能够进行系统整理，并基于此，对其应对方法达成共识，并能定出阶段性的社区内部管理的成文规则。
+
+
+……

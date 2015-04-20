@@ -1,0 +1,53 @@
+
+
+SEE::[SLL项目流程](SllProjectFlows.md)/**[仨儿之建议集](SllPrjZQ.md)**
+  * [中国教育2008广州宣言](EduAnn2018.md)
+# abt.中国教育2008广州宣言 #
+
+## 总则 ##
+**统一,规范,有序!**
+  * 任何项目成员都明确目标和自个儿应该作的事儿后,项目才在行进!
+
+## 问答 ##
+`> 1.  时间：  今天晚上（周四 11月20日）7:30,`
+,,,
+
+  * 再次分享 **"[工作邮件规范建议](http://wiki.woodpecker.org.cn/moin/WkMailRule)"**
+  * 我,他<sub>,等等字眼,在邮件转发几次后,就彻底无意义了</sub>
+
+`> （1） 确定工作目标：EduAnn2018宣言发布的版本，`
+  * > 里程碑时间。也就是可能我们需要先根据已有的工作基础尽快发布一个EduAnn2018宣言（会议bate版）， 然后再进一步核实和润色发布一个最终的发布版。
+
+**快速迭代法:**
+```
+0. 一周一个版本
+1. 两天改写
+2. 一天汇总
+3. 两天讨论
+4. 一天发布
+5. 三周,三个版本,完成最终发布;
+```
+
+`> （2） 根据工作目标，罗列围绕EduAnn2018发布工作目标，有哪些事情要做, 全部罗列出来；`
+  * **不应该是罗列!**
+    * 在宣言目标确认后,就要开始针对性的分析了,,,
+    * 从 **筹备/执行/验收/持续**的角度,进行分解任务!
+
+`> （4）  工作委员会的工作平台以及工作机制，目前EduAnn2018推进平台使用。`
+  * > 附录：目前EduAnn2018推进平台
+  * > 微博：http://twitter.com/EduAnn2018
+  * > 列表：http://groups.google.com/group/eduann2018
+  * > 共笔1：http://sociallearnlab.org/wiki/index.php/EduAnn2018（过程参与）
+  * > 共笔2：http://code.google.com/p/sociallearnlab/wiki/EduAnn2018 （版本备份）
+
+以上各种渠道,
+  1. 相互间什么关系?
+  1. 怎么配合?
+  1. **讨论->确认->发布->追踪->验收->持续改进** 的循环递进怎么在各种平台中流转?
+
+
+出自:_[EduAnn2018工作委员会会议通知](https://groups.google.com/group/sociallearnlab-members/browse_thread/thread/af654283a30b7189/e2f6fa97c1bb55db?lnk=gst&q=%E4%B9%9F%E5%B0%B1%E6%98%AF%E5%8F%AF%E8%83%BD%E6%88%91%E4%BB%AC%E9%9C%80%E8%A6%81%E5%85%88%E6%A0%B9%E6%8D%AE%E5%B7%B2%E6%9C%89%E7%9A%84%E5%B7%A5%E4%BD%9C%E5%9F%BA%E7%A1%80%E5%B0%BD%E5%BF%AB%E5%8F%91%E5%B8%83%E4%B8%80%E4%B8%AAEduAnn2018%E5%AE%A3%E8%A8%80%EF%BC%88%E4%BC%9A%E8%AE%AEbate%E7%89%88%EF%BC%89#e2f6fa97c1bb55db)_ <sup>- SocialLearnLab-Members:“教育大发现”核心成员列表 | Google 网上论坛</sup>
+
+
+# Discuss #
+`还有什么想法?持续聚集哪,,,`

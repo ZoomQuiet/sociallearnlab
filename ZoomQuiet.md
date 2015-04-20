@@ -1,0 +1,44 @@
+# abt.吾 #
+**Zoom.Quiet === Zoomq = 仨儿**
+  * i'm Pythoner
+    * learnning Erlang + Scheme + Haskell
+
+## i doing ##
+  * [CPyUG 行者](http://wiki.woodpecker.org.cn/moin/ZoomQuiet)
+    * [啄木鸟维基管理员](http://wiki.woodpecker.org.cn/moin/ZoomQuiet)
+  * [![](http://www.zeuux.org/image/zeuux_0409_001.jpg)](http://www.zeuux.org/community/zeuux-activist.cn.html)<sup>核心成员</sup> + [ZEUUX 南方代表](http://www.zeuux.org/index.cn.html)
+  * [ECUG](http://erlang.org.cn/) [外长](http://code.google.com/p/ecug/wiki/FrontPage)
+  * ![http://sociallearnlab.org/wp-content/themes/vertigo-3column/images/logo.png](http://sociallearnlab.org/wp-content/themes/vertigo-3column/images/logo.png)
+  * [教育大发现 专家组成员](http://sociallearnlab.org/?page_id=257)
+    * **[仨儿之建议集](http://code.google.com/p/sociallearnlab/wiki/SllPrjZQ)** <sup>教育相关思考</sup>
+
+## i believe ##
+```
+Time is unimportant, only life important!
+
+过程改进乃是开始催生可促生靠谱的人的组织!
+PI keeps evolving organizations which promoting people be good!
+```
+  * [沟通技法分享](http://code.google.com/p/sociallearnlab/wiki/TipsCommunication)
+
+## i livin ##
+**http://zoomquiet.org**
+
+  * 博 @ http://blog.zoomquiet.org/pyblosxom/
+  * 维 @ http://wiki.woodpecker.org.cn/moin/ZoomQuiet
+  * 豆 @ http://www.douban.com/group/zoomquiet/
+  * 看 @ http://zoomq.haokanbu.com/
+  * 书 @ http://code.google.com/p/openbookproject
+  * 作 4 http://trac-hacks.org/wiki/TracChineseTranslation
+
+## i advocating ##
+|![http://badvista.fsf.org/logos/BadVista_no_littering.png](http://badvista.fsf.org/logos/BadVista_no_littering.png) | ![http://zqlib.sourceforge.net/style/noIE.png](http://zqlib.sourceforge.net/style/noIE.png) | ![http://hellobmw.com/wp-content/uploads/access-flickr.png](http://hellobmw.com/wp-content/uploads/access-flickr.png) | ![http://people.ofset.org/~ckhung/i/nd/nodoc1.png](http://people.ofset.org/~ckhung/i/nd/nodoc1.png) ![http://people.ofset.org/~ckhung/i/nd/fydoc.png](http://people.ofset.org/~ckhung/i/nd/fydoc.png) ![http://people.ofset.org/~ckhung/i/nd/nodoc4.png](http://people.ofset.org/~ckhung/i/nd/nodoc4.png) ![http://people.ofset.org/~ckhung/i/nd/fydoc1.png](http://people.ofset.org/~ckhung/i/nd/fydoc1.png) |
+|:-------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+  * '''[好公民不助長非法拷貝](http://people.ofset.org/~ckhung/a/c041.php)'''<sup>--請停止散佈 .doc</sup>
+
+
+  * Pls. usage OOo to replace M$ Office. http://zh.openoffice.org
+  * Pls. usage 7-zip to replace `WinRAR/WinZip`.  http://7-zip.org
+    * You can get the truely Freedom 4 software.
+
+

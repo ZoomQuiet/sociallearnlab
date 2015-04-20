@@ -1,0 +1,422 @@
+﻿#summary 《Google服务应用手册》第二章GoogleGmail.
+#labels GSH,Google,GoogleGmail
+[GSH](GSH.md)首页
+# 第二章 GoogleGmail #
+GshZh02Googlegmail
+
+产品标识：
+  * Gmail英文版标识：
+http://lh5.ggpht.com/_z3hdxmd1L3I/SSu3L-CGUzI/AAAAAAAAD74/F6sxmYkgQoI/gmail0.PNG
+
+Gmail内嵌了聊天工具Gtalk
+
+  * Gtalk英文版标识：
+http://lh5.ggpht.com/_z3hdxmd1L3I/SSu3LwAaDWI/AAAAAAAAD8A/hF6HQig9daU/gtalk0.PNG
+
+## 1 问题情境 ##
+
+### 1.1 情境一 ###
+
+### 1.2 情境二 ###
+
+### 1.3 情境N ###
+
+## 2 什么是GoogleGmail ##
+
+朋友听说过Gmail，Gmail 是一种基于搜索的免费 Webmail 服务，它将传统电子邮件的卓越功能同 Google 的搜索技术结合在了一起。Gmail 大大简化了邮件查找过程，您再也不需要在收件箱中乱翻邮件了。这是一种全新的阅读和跟踪邮件的方法。而且这一工具是免费的。
+
+### 2.1 ###
+简单的说它就是电子邮件，目前，Gmail能够为用户提供6.5G以上的大容量，而且容量不断增加中。首先，您到http://mail.google.com注册一个Gmail邮箱，您就可以开始享用它啦！
+
+## 3 如何使用GoogleGmail ##
+
+在使用使用之前，请确认你已注册有Google的账户，如果没有注册，请查看[Google帐户注册说明](GSHGoogleAccount.md)被点击[这里](http://mail.google.com/mail/signup)注册。
+
+### 3.1 GoogleGmail界面 ###
+
+很多朋友用了都知道Gmail很不错，速度快、容量大、界面简洁等等。众所周知，Gmail采用邀请注册制度。这样做的好处是明显的，让用户自动帮助宣传，提高Gmail的知名度。除此之外，它与Gtalk(Google推出的即时聊天工具)间相互整合应用，也是Gmail的一大特色。Gmail的界面如下图所示。
+
+http://lh5.ggpht.com/_z3hdxmd1L3I/SSu0Koo7WfI/AAAAAAAAD6M/n3mtPI4yBmU/gmail1.PNG
+
+### 3.2 Gmail的视图方式 ###
+
+Gmail的老版本有三种视图方式，如上图红色标出的部分，他们分别是：“带有聊天功能的标准视图”、“不带聊天功能的标准视图”、“基本HTML视图”。在界面的最下方可以实现三种视图界面的转换。每种视图方式各有特点：“带有聊天功能的标准视图”能够实现Gmail与Gtalk的绑定，Gmail能实现存储Gtalk的聊天记录，Gtalk界面显示在Gmail中；“不带聊天功能的标准视图”主要用于Gmail发送各种电子邮件，版面相对比较简介；“基本HTML视图”能够实现把邮箱显示成网页的形式，能够实现往邮中带有图片，当然不是通过“附件”的形式啦！能够将页面正常显示在所有浏览器中，便于用户浏览邮件。
+
+### 3.3 Gmail的常规设置 ###
+
+主要设置包括：邮箱显示的语言、每页显示多少个会话、是否选择键盘快捷键、发送邮件时显示照片（图片），邮件是否显示摘录。比较特别的是能够在邮件末尾显示签名，包括邮件使用者的名字、你的IM即时通讯方式、网站、博客等，可以做到帮你宣传，也增进你与朋友的相互了解。
+
+http://lh4.ggpht.com/_z3hdxmd1L3I/SSu0LadHCkI/AAAAAAAAD6U/Hx3xMxF5y_s/s512/gmail2.PNG
+
+
+### 3.4 Gmail的帐户设置 ###
+
+Gmail的帐户设置主要实现一个主要的功能——Mail Fetcher：绑定几个邮件帐号。Mail Fetcher是个令人震撼的功能，允许通过POP3的方式将其他信箱的电子邮件接收到Gmail中，每个网民大概都有3、4个邮件帐号，这个功能会将这些邮件都集中到Gmail中，使得人民对Gmail的依赖度越来越大。而目前Google支持每个Gmail帐户增加5个POP3帐号。
+
+使用的方法也很简单，进入设置/帐户后，如下图所示。
+
+http://lh5.ggpht.com/_z3hdxmd1L3I/SSu0LWAM9qI/AAAAAAAAD6c/ruFiMdrauT4/gmail3.PNG
+
+点击“添加其他邮件帐户”之后，出现下面的“添加邮件帐户”界面，输入你的另外一个或几个邮箱地址。
+
+http://lh5.ggpht.com/_z3hdxmd1L3I/SSu0LWAM9qI/AAAAAAAAD6c/ruFiMdrauT4/gmail3.PNG
+
+接着，出现下图所示的对话框，要求输入POP3的用户名，密码，POP3服务器地址，选择是否保留到服务器，是否加密连接，打什么标签，是否将邮件直接存档，之后就可以添加成功。
+
+http://lh6.ggpht.com/_z3hdxmd1L3I/SSu0L73nALI/AAAAAAAAD6s/-yM-J3i0ZhQ/gmail5.PNG
+
+
+### 3.5 Gmail的标签设置和过滤器设置 ###
+
+Gmail的标签设置主要是实现对邮件的分类，添加不同的标签便于管理邮件。对重要邮件添加标签。标签能够胜任文件夹的一切工作，同时提供了另一优势：可以将一个以上的标签添加到一个会话。顺便说一下，星标可以来查看所有带星标的邮件，可以说的重点邮件。标签和星标配合使用，您也可以轻松地创建、修改和删除所有标签。
+
+过滤器设置主要实现对某些垃圾邮件或骚扰邮件的过滤功能。这里就不详述，请大家自己尝试使用。
+
+### 3.6 Gmail的聊天设置 ###
+
+聊天设置主要是针对Gtalk在Gmail中的一些设置，比如：聊天记录是否保存在Gmail中，“快捷联系人”规模、位置，自动添加所提示的联系人，声音设置等。
+
+http://lh3.ggpht.com/_z3hdxmd1L3I/SSu0kBSLw-I/AAAAAAAAD68/SdKgmnaB_xw/gmail7.PNG
+
+### 3.6 Gmail的网络剪辑 ###
+
+网络剪辑主要包括Google赞助商链接、Gmail提示与自定义内容等。位于收件箱和的正上方，为您显示新闻标题、Gmail提示、博客、任何RSS（简易联合供稿）和Atom馈送、相关赞助商链接及更多信息。向其用户发送更新的新闻标题。无需离开Gmail即可从您喜欢的网站获得更新信息。
+
+http://lh4.ggpht.com/_z3hdxmd1L3I/SSu0kXPnYdI/AAAAAAAAD7E/ZSCdOEYVMYQ/gmail8.PNG
+
+### 3.7 通讯录自动添加地址 ###
+
+所有发送到你邮件和你发送出去的邮件的地址，Gmail都能够自动记录在您的通讯录里面，这项功能比其它邮箱要方便些。
+
+
+## 4 扩展应用 ##
+
+可能你每天使用的只是简单的Gmail收发邮件，或者内嵌的Gtalk聊天，再或者有时使用一下搜索功能。除了可以用插件实现一些原本没有的功能外，Gmail本身也有部分功能你可能没有发掘，或很少使用，不能说是Gmail的秘密，只能说是你可能不知道的关于Gmail的8件事。这些功能有的是有趣的，有的是很有用的。
+
+### 4.1 Https加密方式登录 ###
+
+没错，Gmail是支持Https方式加密浏览的，在登录时使用https://mail.google.com进行登录或在登录后手动在地址栏的http后面加s亦可。
+
+　　不管怎么说，使用https方式总让人更有安全感。当直接登录失败时，不妨加s重试（因为可能有时候由于某些“和谐”原因，所有含有google的url都被重置）。
+
+### 4.2 Gmail支持Atom输出 ###
+
+Gmail是支持Feed输出的，输出的内容为邮件摘要。你可以使用订阅器对这个feed进行订阅，这样你就可以在阅读器里查看是否有新邮件了。
+Gmail的Feed输出地址是"https://"帐号:密码@mail.google.com/mail/feed/atom
+建议不要使用在线订阅器进行订阅，最好使用本地订阅器订阅（Google工具栏亦可），以防密码被盗。
+
+### 4.3 Gmail搜索支持通用搜索符 ###
+
+Gmail是搜索除了能使用类似"in:inbox”的搜索范围语句之外，"+"（加号）,"-"（减号）,"|"（或号）,""""（引号），也是可以使用的，和普通的网页搜索基本一样。
+
+### 4.4 将Gmail当作语音信箱 ###
+
+如果你同时是个Gtalk使用者，你可以在软件版Gtalk上和某个离线的联系人进行语音，你所说的内容会被保存在对方的Gmail里。
+
+### 4.5 快捷键 ###
+
+非常酷的功能。可能Google Reader里快捷键使用的频率较高，Gmail里没有多少人使用快捷键。但事实上Gmail也是支持快捷键的，但先要到设置里启用。具体的快捷键列表可参看这里，和GR里一样，如果你忘记了某个快捷键可键入“？”（Ctrl+/）。
+
+英文：
+
+![http://lh5.ggpht.com/_z3hdxmd1L3I/SSu-gpnr_XI/AAAAAAAAD8I/TcjHiIB4o14/s720/gmail9.png](http://lh5.ggpht.com/_z3hdxmd1L3I/SSu-gpnr_XI/AAAAAAAAD8I/TcjHiIB4o14/s720/gmail9.png)
+
+中文：
+
+![http://lh3.ggpht.com/_cRwAOQJbfUI/SSvHZ-rk_gI/AAAAAAAACFg/83naf4IxUIA/gmailq.jpg](http://lh3.ggpht.com/_cRwAOQJbfUI/SSvHZ-rk_gI/AAAAAAAACFg/83naf4IxUIA/gmailq.jpg)
+
+### 4.6 Gmail被盗申诉 ###
+
+QQ被盗后可以到腾讯申诉取回，同样Gmail也有相似的服务。当你发现Gmail或Google帐户被盗后，可以打开https://services.google.com/inquiry/gmail_security1，选择相应的项目后你会被要求提供关于你Gmail的信息，包括最常联系的人的邮箱、你所创建的标签名称、邀请人邮箱（如果你是被邀请注册的）、最后登录日期、Gmail申请日期等等。
+
+所以平时注意记录下相关的信息，以免被盗时无计可施。
+
+### 4.7 邮箱末尾加“+任何内容” ###
+
+和在任意位置加点有点相似，你可以在邮箱末尾加上一个加号，后面再加上一些字符，比如someone+tianya@gmail.com，Gmail同样会将邮件发到someone@gmail.com。
+
+后面这两个功能有什么用呢？是便于搜索和创建过滤规则的。Gmail有一项非常优异的功能是创建高级过滤规则，除了可以从发件人地址进行过滤外，还可以从收件人地址进行过滤。
+
+比如我在天涯论坛注册的邮箱是someone+tianya@gmail.com，那么我可以设置这样一个过滤规则：凡是收件人为someone+tianya@gmail.com的邮件都标记为“天涯”。这样所有来自天涯论坛的邮件都会自动加上“天涯”标签。
+
+在搜索是也可以搜索收件人地址来找到所有来自“天涯论坛”的邮件。
+
+
+### 4.8 提高效能，优化Gmail使用 ###
+
+
+您是不是订阅了不少邮件列表，每天在gmail中收到50封以上的邮件呢，相信不少的朋友都会碰到这个问题，这时候如何高效使用以及快速搜索、管理邮件就成为了重要问题，在这儿分享一下自己的使用经验，也是抛砖引玉，和大家共同探讨如何高效使用gmail
+
+![http://haokanbu.s3.amazonaws.com/picture/external/5a8ba688b11f4080afa2b298d232669b.png](http://haokanbu.s3.amazonaws.com/picture/external/5a8ba688b11f4080afa2b298d232669b.png)
+
+这是大致思路流程
+
+其中很重要的一个方法是将1～4混合使用，这样就有无限可能
+
+**使用快捷键**
+
+使用快捷键：思维导图中是我常用的几个快捷键，特别推荐“m”键，也就是静音，如果你订阅了邮件列表，但是对邮件列表中的某一主题贴没有兴趣，就可以用m键将这个主题贴关闭，今后不再接受此主题贴信息，详情查看：https://mail.google.com/support/bin/answer.py?answer=47787
+
+tips：如果您忘了某个快捷键，只需要按下“？”，就可以打开快捷键提示窗口
+gmail快捷键大全：https://mail.google.com/support/bin/answer.py?hl=cn&answer=6594
+
+**创建标签**
+
+![http://haokanbu.s3.amazonaws.com/picture/external/a33391fec4cf4631bccd03f915c74c53.png](http://haokanbu.s3.amazonaws.com/picture/external/a33391fec4cf4631bccd03f915c74c53.png)
+
+
+label1-创建标签
+
+标签是给每个邮件加上一个个人设置的属性标识，用来识别分类邮件。
+
+创建方法：在gmail右上方点击设置，进入标签一项，在最下方的“创建新标签”中填写完新标签然后点击创建就ok了
+
+
+![http://haokanbu.s3.amazonaws.com/picture/external/3ebbb58e5e9c4d70b8e12145427391ef.png](http://haokanbu.s3.amazonaws.com/picture/external/3ebbb58e5e9c4d70b8e12145427391ef.png)
+
+
+applylabel-创建好标签后，就可以在邮件中通过动作来实现为邮件添加标签
+
+**创建过滤器**
+
+![http://haokanbu.s3.amazonaws.com/picture/external/800df0b4959a4d559d36adb0ea66b4e4.png](http://haokanbu.s3.amazonaws.com/picture/external/800df0b4959a4d559d36adb0ea66b4e4.png)
+
+
+filter1-创建过滤器
+
+过滤器可以把一些邮件进行过滤，方便统一管理
+
+
+![http://haokanbu.s3.amazonaws.com/picture/external/b745327de97a43e586f012d031c37619.png](http://haokanbu.s3.amazonaws.com/picture/external/b745327de97a43e586f012d031c37619.png)
+
+
+filter2-举一个例子。我通过数据库自动备份插件让数据库信息每日自动从邮箱xxx@xxx.com发送到我的gmail邮箱中。这样我就需要每天都要去把这些数据库邮件标记已读，并归档。每日手动操作是很容易厌倦的，但是通过过滤器就可以解决问题。
+
+创建过滤器，在发件人中填写xxx@xxx.com，点击下一步
+
+
+![http://haokanbu.s3.amazonaws.com/picture/external/7d15baff50f24199a161b04e0c885768.png](http://haokanbu.s3.amazonaws.com/picture/external/7d15baff50f24199a161b04e0c885768.png)
+
+
+filter3-选中“标记为已读”，“跳过收件箱”，还可以应用标签，比如加上alexyu backup的标签，这样ok了。从此，每天的数据库信息邮件会自动归档到“所有邮件”中，同时也会加上“alexyu backup”的标签。而我只需在标签栏点击此标签，就会跳到所有具有该标签的页面。
+
+这个功能对订阅了邮件列表信息的朋友特别有用。只要在过滤器“收件人”中填写邮件列表邮箱，并应用相关标签，就可以让来自该邮件列表的邮件都标注上一个统一标识，方便识别管理。
+
+**搜索**
+
+![http://haokanbu.s3.amazonaws.com/picture/external/617feacedd0748b2a0244805d8eb525a.png](http://haokanbu.s3.amazonaws.com/picture/external/617feacedd0748b2a0244805d8eb525a.png)
+
+
+search-search搜索
+
+google搜索功能很强大，gmail也不例外。
+
+列举一些:
+
+查找来自xx的邮件，输入from:xx
+
+发送至xx的邮件to：xx
+
+邮件标题中包含xx的邮件Subject：xx
+
+快速恢复误删除的邮件，在Gmail里，被删除的邮件会被放到trash(已删除邮件)里，因此在Gmail搜索栏里输入“in：trash from：xx”，这样就可以找出你之前删除的所有由xx发过来的邮件
+
+另外，除了“trash”外，“in：”命令还支持这些值：anywhere、inbox、spam，用来查找不同类型的邮件
+
+来自于xx的含有附件的邮件has：attachment from：xx
+
+含有xx标签的邮件：label：xx
+
+详细搜索大全：http://www.googletm.com/labels/Gmail.html
+
+
+**开启gmail lab**
+
+![http://haokanbu.s3.amazonaws.com/picture/external/168d46624e464b7bb2aa13d4b97c1167.png](http://haokanbu.s3.amazonaws.com/picture/external/168d46624e464b7bb2aa13d4b97c1167.png)
+
+
+languagesetting-开启gmail lab
+
+gmail lab相当于gmail的实验室，这里会推出很多实用、有趣的新功能供用户使用。但是，它目前在gmail中文版面中无法开启，只有把版面切换到英文后才能使用，当然，在英文界面中开启lab后切换回中文界面同样会保存这些功能，所以，你如果习惯使用中文界面却又为这些lab功能心动，只要切换到英文下，打开设置好lab相关功能，然后再换回中文界面就可以了。
+
+**语言切换方法：**
+
+在设置－常规－gmail显示的语言中选择us english，保存设置即可
+
+
+![http://haokanbu.s3.amazonaws.com/picture/external/7fb35d354dd24309b1553529f5c20be0.png](http://haokanbu.s3.amazonaws.com/picture/external/7fb35d354dd24309b1553529f5c20be0.png)
+
+
+lab1-转换到英文界面后，你会发现在邮箱设置/setting的左边多了一个绿色的化学试剂瓶标识，这就是gmail lab了，点击打开，这里会有很多功能，介绍下目前我使用的
+
+
+![http://haokanbu.s3.amazonaws.com/picture/external/28d9769e40c544e7ad08ca54aeb7ddb9.png](http://haokanbu.s3.amazonaws.com/picture/external/28d9769e40c544e7ad08ca54aeb7ddb9.png)
+
+
+**superstars**-超级星标，启用后可以将原有的单一五星标识扩展为多种多样的标识
+
+选择“Enable”并点击页面下方的“save changes”保存将其开启
+
+
+![http://haokanbu.s3.amazonaws.com/picture/external/0b0c8ce906bd4d3196457027fa0919f3.png](http://haokanbu.s3.amazonaws.com/picture/external/0b0c8ce906bd4d3196457027fa0919f3.png)
+
+
+superstarSettings-启用superstars后在setting－general－superstars中详细配置，直接把你需要添加的新标识从Not in use拖放至in use即可
+
+如果你想查找加注某一星标的邮件，用下面的关键词搜索吧：
+
+has:yellow-star (or l:^ss\_sy)
+黄色星星
+
+has:blue-star (or l:^ss\_sb)
+蓝色星星
+
+has:red-star (or l:^ss\_sr)
+红色星星
+
+has:orange-star (or l:^ss\_so)
+橘色星星
+
+has:green-star (or l:^ss\_sg)
+绿色星星
+
+has:purple-star (or l:^ss\_sp)
+紫色星星
+
+has:red-bang (or l:^ss\_cr)
+红色感叹号
+
+has:yellow-bang (or l:^ss\_cy)
+黄色感叹号
+
+has:blue-info (or l:^ss\_cb)
+蓝色信息标志
+
+has:orange-guillemet (or l:^ss\_co)
+橘色引号
+
+has:green-check (or l:^ss\_cg)
+绿色勾号
+
+has:purple-question (or l:^ss\_cp)
+紫色问号
+
+
+![http://haokanbu.s3.amazonaws.com/picture/external/8fa4e6fd8db744cbb2acdb14d6aae9a4.png](http://haokanbu.s3.amazonaws.com/picture/external/8fa4e6fd8db744cbb2acdb14d6aae9a4.png)
+
+
+**labelcolors**-彩色标签，可以让标签变成彩色，更加醒目
+
+
+![http://haokanbu.s3.amazonaws.com/picture/external/f8a7facdece54ed09fd79762554a4a9c.png](http://haokanbu.s3.amazonaws.com/picture/external/f8a7facdece54ed09fd79762554a4a9c.png)
+
+
+label2-开启彩色标签后会在gmail侧边栏出现这样一个标签窗口，点击每个标签右侧的小方块，就可以弹出多种颜色供你选择。
+这对于订阅了不少邮件列表而又使用标签区分的朋友特别有用
+
+
+![http://haokanbu.s3.amazonaws.com/picture/external/320be3d64bab4549b405058b968fbf1e.png](http://haokanbu.s3.amazonaws.com/picture/external/320be3d64bab4549b405058b968fbf1e.png)
+
+
+color-彩色标签标识效果
+
+**quick links**-快速链接
+
+![http://haokanbu.s3.amazonaws.com/picture/external/405975bce8214665adec6b6deeda031c.png](http://haokanbu.s3.amazonaws.com/picture/external/405975bce8214665adec6b6deeda031c.png)
+
+
+比如我经常需要查找关于“好看教研”标签并加过星的邮件，首先，在搜索栏中输入“label:好看教研 is:starred”，并检索，于是，gmail就转入了相应页面，这时就可以点击Quick Links中的Add Quick Link（如下图），这样就把这个页面链接添加到Quick Links侧边栏中了
+
+
+![http://haokanbu.s3.amazonaws.com/picture/external/4132e1f2c0fe42599ad10f704d310338.png](http://haokanbu.s3.amazonaws.com/picture/external/4132e1f2c0fe42599ad10f704d310338.png)
+
+
+**quote selected text**
+
+作用是在回复邮件的时候将选择中的文字作为回复邮件的引用内容，这对于保持邮件列表上下文信息的连贯性是非常有帮助的
+
+![http://haokanbu.s3.amazonaws.com/picture/external/6800315a583c476fa51dd1dcc4a193be.png](http://haokanbu.s3.amazonaws.com/picture/external/6800315a583c476fa51dd1dcc4a193be.png)
+
+**calendardocs**-添加google calendar和google docs
+
+![http://haokanbu.s3.amazonaws.com/picture/external/3259380599154a77abdf9005a0437c6a.png](http://haokanbu.s3.amazonaws.com/picture/external/3259380599154a77abdf9005a0437c6a.png)
+
+calendardocs2-google calendar和google docs之后会在gmail侧边栏显示
+
+![http://haokanbu.s3.amazonaws.com/picture/external/6f6ba0da3a2a42c8928baffea4747ae1.png](http://haokanbu.s3.amazonaws.com/picture/external/6f6ba0da3a2a42c8928baffea4747ae1.png)
+
+**gadget**-启用互联网中的gadgets
+
+这是个很神奇的扩展，可以把互联网上的很多小工具添加进gmail中去。就像igoogle中添加的那些小工具一样（不仅仅是igoogle小工具，其他网站的gadgets也可以用）http://www.haokanbu.com/story/14185/
+
+![http://haokanbu.s3.amazonaws.com/picture/external/2b9c1b91850b4c85a880f03b224b277e.png](http://haokanbu.s3.amazonaws.com/picture/external/2b9c1b91850b4c85a880f03b224b277e.png)
+
+
+**邮箱各模块的合理布局**也是很有必要的，lab中也提供了这样的功能，如下图：
+
+
+![http://haokanbu.s3.amazonaws.com/picture/external/d2d23f2c27e244ebaf69e8b2969439d9.png](http://haokanbu.s3.amazonaws.com/picture/external/d2d23f2c27e244ebaf69e8b2969439d9.png)
+
+
+**rightside**-调整gmail侧边栏布局，改变gtalk聊天窗口和标签（label）窗口的位置
+
+
+![http://haokanbu.s3.amazonaws.com/picture/external/c8bf7cea4f13430289bf6bf709e87af5.png](http://haokanbu.s3.amazonaws.com/picture/external/c8bf7cea4f13430289bf6bf709e87af5.png)
+
+
+**navbardraganddrop**-启用了Navbar drag and drop 就可以通过拖放移动侧边栏的小窗口来实现自定义gmail侧边栏工具合理布局
+
+**firefox浏览器下的gmail扩展插件**
+
+![http://haokanbu.s3.amazonaws.com/picture/external/476b939810bb41399a250a69c117c3ff.png](http://haokanbu.s3.amazonaws.com/picture/external/476b939810bb41399a250a69c117c3ff.png)
+
+battergmail1-如果你使用的是firefox浏览器，那么，可以去安装gmail扩展插件：
+
+这里我推荐下面两个插件：
+
+better gmai   https://addons.mozilla.org/en-US/firefox/addon/4866
+
+better gmail2   https://addons.mozilla.org/en-US/firefox/addon/6076
+
+以我现在使用的better gmail 2 为例
+
+
+![http://haokanbu.s3.amazonaws.com/picture/external/c4c1c2a86d9640fb86072f11be956185.png](http://haokanbu.s3.amazonaws.com/picture/external/c4c1c2a86d9640fb86072f11be956185.png)
+
+
+battergmail2-messages中
+
+add row highlights一项可以让鼠标所指的那一个邮件高亮显示，而且已读和未读的邮件背景高亮颜色是不一样的
+
+attachment icons 会让含有附件的邮件名称后方显示一个小的附件图标
+
+效果如下图
+
+
+![http://haokanbu.s3.amazonaws.com/picture/external/70e2020be25d4cf6948620517dbf6775.png](http://haokanbu.s3.amazonaws.com/picture/external/70e2020be25d4cf6948620517dbf6775.png)
+
+
+Screenshot-better gmail2使用部分效果
+
+
+最后推荐一些我收藏的关于gmail使用的资源：
+
+http://delicious.com/ybadn/gmail
+
+本节来源：http://www.haokanbu.com/story/139962
+
+## 5 资源索引 ##
+
+1．Gmail开放Mail Fetcher功能:
+
+http://blog.podlook.com/blog/feeds-feedburner-com-williamlong/Gmail%E5%BC%80%E6%94%BEMail-Fetcher%E5%8A%9F%E8%83%BD.htm
+
+2．你可能不知道的关于Gmail的8件事:
+
+http://www.kenengba.com/post/408.html
+
+3．http://www.gseeker.com/50226711/gmailcie_39078.php
+
+
+
+---

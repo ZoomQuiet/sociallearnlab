@@ -1,0 +1,17 @@
+2004年本科毕业于新疆师范大学教育技术学专业，2004-2006年在新疆喀什师范学院任教，目前就读于甘肃兰州西北师范大学教育技术与传播学院2006级硕士研究生，研究方向：社会软件应用、WEB2.0、Google服务教育应用等。
+
+
+地址：甘肃省兰州市西北师范大学教育技术与传播学院
+
+
+邮编：730070
+
+E-mail:chengcheng1098@gmail.com
+
+blog:www.wuchangcheng.com
+
+skype: hardwork\_06
+
+书签：http://del.icio.us/wuchangcheng
+
+Haokanbu：http://www.haokanbu.com/user/5984/

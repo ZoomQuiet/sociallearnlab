@@ -1,0 +1,279 @@
+
+
+SEE::[SLL项目流程](SllProjectFlows.md)/**[仨儿之建议集](SllPrjZQ.md)**
+
+# 合理使用维基 #
+`如何利用维基进行社区知识管理?,,,`
+
+## 理论 ##
+
+这方面可以参考 http://skm.zoomquiet.org :
+  * `KMS->理论->企业知识管理`
+
+知识管理需求 文件集
+  * http://km.everydo.com/projects/715342/files
+有很多靠谱的积累,,,
+  * 可以使用:
+```
+用户~ guest
+口令~ guest
+```
+来临时进入关注,,
+
+出自:_[知识管理开放项目组的文档](https://groups.google.com/group/sociallearnlab-members/browse_thread/thread/ba0b7b7969e11bbe/f453b4113fe41230?lnk=gst&q=%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86+%E5%BC%80%E6%94%BE%E9%A1%B9%E7%9B%AE%E7%BB%84%E7%9A%84%E6%96%87%E6%A1%A3#f453b4113fe41230)_ <sup>- SocialLearnLab-Members:“教育大发现”核心成员列表 | Google 网上论坛</sup>
+
+`简单的说，知识管理是由两个方面組成的:`
+```
+0. 知识本身的整理和发布
+1. 使用知识的行为设计和管理
+
+所以，社区内部和企业知识管理的改进流程，大致应该是相同的:
+0. 鉴别/标识知识体系;
+1. 组织知识存储体系;
+2. 建立知识维护流程;
+3. 发布知识仓库,推动知识良性积累的知识管理文化;
+4. 根据具体知识使用情况,不断改进,,,
+```
+即,先得有知识仓库基础,然后,在此基础上,设计大家利用仓库进行知识积累和使用的行为,并持续优化下去,,,,
+
+出自:_[社区发展中的知识管理建设](https://groups.google.com/group/sociallearnlab-members/browse_thread/thread/9fce14b5e181bc35/dcb0dd913fde9034?lnk=gst&q=%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86%E6%98%AF%E7%94%B1%E4%B8%A4%E4%B8%AA%E6%96%B9%E9%9D%A2%E7%B5%84%E6%88%90%E7%9A%84#dcb0dd913fde9034)_ <sup>- SocialLearnLab-Members:“教育大发现”核心成员列表 | Google 网上论坛</sup>
+
+～～～～
+
+### 教育 == 开源？ ###
+```
+LiAndy <rrn2015@gmail.com>
+sender-time	Sent at 08:05 (GMT+08:00). Current time there: 9:25 AM. ✆
+reply-to	sociallearnlab@googlegroups.com
+to	sociallearnlab <sociallearnlab@googlegroups.com>
+date	Mon, Sep 20, 2010 at 08:05
+subject	[SLL:10296] 教育 == 开源？
+```
+```
+2010/9/20 LiAndy <rrn2015@gmail.com>:
+> 熟悉开源的人，最为清楚的一件是事：噢，这个东西还有另外一种办法可以解决，而且也还不错。
+> 熟悉教育的人，最为知道的一件是事：你按照书本上面说的做，就一定能做到。
+——当我们去深入理解这句话时候，会发现这个世界上最大的缪论：
+    创造这样一个知识，是这个世界唯一个人而做的唯一的知识。
+    然后，我们的后代要做的只有去打补丁。而不能有其他解决方案。
+> 当然，这个缪论是在教育体系内部的，而似乎有些不存在于某个人的大脑思维中。
+>
+```
+嗯嗯嗯,这是个非常好的角度!
+  * 一直在回想自个儿受到的教育和社会现实需要的能力/素质/意识/人品 间的差异,
+发现,还是孔子 当年总结的靠谱:
+```
+ 因材施教 
+ 有教无类
+```
+
+教育的本质目的,应该是传承学问的能力,而不是通过"知识"的统一填塞,令自然人成为合格的社会劳动单元!
+
+那么开源技术强调的3个自由度:
+  * 自由运行
+  * 自由修订
+  * 自由分享
+
+和知识之轮展示的,知识流动过程中,从隐性经验到显性知识的不断转化过程的关键转换节点所要求的开放度是完全一致的:
+
+![http://zoomquiet.org/res/s5/100918-MyTools/rst2s5/i/kmtranfer2.gif](http://zoomquiet.org/res/s5/100918-MyTools/rst2s5/i/kmtranfer2.gif)
+
+  * 自由学习 ~ 用兴趣来驱动
+  * 自由分享 ~ 用输出来印证输入
+  * 自由修订 ~ 用体验来改进学习过程
+
+任何一种不自由,就将导致机器的记忆,除了消耗学生精力,压制创造力对社会维稳给力之外,没有任何积极作用了..
+
+参考::
+  * 序言 – 自由的灵魂
+http://freesouls.yeeyan.org/foreword-by-lawrence-lessig
+  * “假学习”和“真学习” - 左岸读书_blog
+http://www.zreading.cn/archives/1629.html
+  * 认知心理学与佛教思想——自我、无我与意识 - Powered By BBSxp
+http://skm.zoomquiet.org/data/20050225100819/index.html
+```
+> --
+> 邮件来自 `SLL`（SocialLearnLab）"教育大发现"邮件列表
+> SLL 八月主题：安心定志 图写规划
+```
+嗯嗯嗯!每个月定个主题思考核心,非常好的形式!_
+
+
+
+## 推进 ##
+`这个也忒复杂了吧,入天地会也没有这么复杂的事儿哪,,,`
+
+建议:
+```
+0. 相关个人信息补顺序和入口,增补到 SLL 加入说明中; 并给出实例来;
+1. 尽量合重复的输入,
+  比如说: docs.google 的通讯录,就应该专人定期增补,
+    列表发布 .pdf/.ldif等等格式的文件,
+  以便大家或是打印,或是导入软件中使用
+2. 推荐使用 code.google 中的维基,建议个人信息门户; 学习维基的同时,也统一了信息的维护入口
+3. 及时 对社区辞典进行增补! http://code.google.com/p/sociallearnlab/wiki/SllDict
+```
+FAQ 解释/定义各种专用名词:
+  * 通识教育? 新思想新项目孵化? ,,,,
+  * 否则,大家都是相互猜,或是反复的进行同样的 Google 搜索学习,,,,
+
+出自:_[Say-you-Say-me社区核心成员相互问候欢迎贴](https://groups.google.com/group/sociallearnlab-members/browse_thread/thread/4eaad2d0fc6764f0/0bb4989177c98364?lnk=gst&q=%E7%9B%B8%E5%85%B3%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF%E8%A1%A5%E9%A1%BA%E5%BA%8F%E5%92%8C%E5%85%A5%E5%8F%A3#0bb4989177c98364)_ <sup>- SocialLearnLab-Members:“教育大发现”核心成员列表 | Google 网上论坛</sup>
+
+～～～～
+
+`> 这个IRC中的内容,能放在WIKI中吗?仨儿,我已经放啦，有没有什么不当的地方呢。WIKI上好看是完全公开的。`
+```
+开放组织的一切，都应该公开的！
+只是，建议进行修剪，公告关键信息，
+另外，补充例如 主题，人物，决议 的主要信息，
+建议，专门维基页面比如说 IrcDiscuss 进行按照日期的收集通告....
+```
+
+出自:_[SLL20080821](https://groups.google.com/group/sociallearnlab-members/browse_thread/thread/f82b036e4c7fb89b/a28008d439dd9ab6?lnk=gst&q=%E5%BC%80%E6%94%BE%E7%BB%84%E7%BB%87%E7%9A%84%E4%B8%80%E5%88%87%EF%BC%8C%E9%83%BD%E5%BA%94%E8%AF%A5%E5%85%AC%E5%BC%80%E7%9A%84#a28008d439dd9ab6)_ <sup>- SocialLearnLab-Members:“教育大发现”核心成员列表 | Google 网上论坛</sup>
+
+～～～～
+
+### 社区字典 ###
+```
+随着社区的发展，各种专用词也多了起来，
+这是必须统一准确使用的，
+建议，立即创立 辞典，进行收集和发布！
+```
+
+出自:_[大家说说，我们怎么来做第一期社区简报](https://groups.google.com/group/sociallearnlab-members/browse_thread/thread/22b0755e9779d2dc/e8176ca6a3963588?lnk=gst&q=%E9%9A%8F%E7%9D%80%E7%A4%BE%E5%8C%BA%E7%9A%84%E5%8F%91%E5%B1%95%EF%BC%8C%E5%90%84%E7%A7%8D%E4%B8%93%E7%94%A8%E8%AF%8D%E4%B9%9F%E5%A4%9A%E4%BA%86%E8%B5%B7%E6%9D%A5%EF%BC%8C#e8176ca6a3963588)_ <sup>- SocialLearnLab-Members:“教育大发现”核心成员列表 | Google 网上论坛</sup>
+
+～～～～
+
+`>> 大家好，终于在仨儿的耐心帮助下，我们的社区网站地图产生了，从首页链接也可以，访问地址也可以`
+另外,再次建议,检入SVN 哪!
+```
++ 应该有修订版本历史,简要记述,本图谱经历了哪些版本的修订,修订人,时间,主要修订,,,
+```
+
+出自:_[关于CAMPtools网站图谱显示问题](https://groups.google.com/group/sociallearnlab-members/browse_thread/thread/685ed72e714ba2af/f48159b53a6e8860?lnk=gst&q=%E5%BA%94%E8%AF%A5%E6%9C%89%E4%BF%AE%E8%AE%A2%E7%89%88%E6%9C%AC%E5%8E%86%E5%8F%B2%2C%E7%AE%80%E8%A6%81%E8%AE%B0%E8%BF%B0#f48159b53a6e8860)_ <sup>- SocialLearnLab-Members:“教育大发现”核心成员列表 | Google 网上论坛</sup>
+
+## www.sociallearnlab.org/wiki和 Google code wiki 的区别 ##
+
+**[Wiki导览 + 从入门到精通MoinMoin](http://www.woodpecker.org.cn/share/doc/SKSIG/DriveIntoMoinPub)**
+
+```
+早已经说明了的~ 每个 维基应该有明确的知识核心
+啄木鸟维基的核心是Python 相关的所有知识,
+OBP 维基的核心是 开放图书工程相关的所有知识,
+
+所以,有重复的就相互引用或是多发,如此而已,
+现在因为 啄木鸟的OBP 维基项目比 code.google 的组织更加宽泛,
+可以说,啄木鸟中的OBP维基主页起到引导和收集作用,
+而 OBP 的工程维基,只关注有出版合同的图书项目的協同组织...
+
+是完全明确和相互支持的关系...
+
+另外,俺建议,在组织所有维基页面时,有个基本准则,就是任何一个维基页面从首页进行点击访问时,不应该超过3次点击!
+```
+~ ZoomQuiet
+
+出自:_[关于“教育大发现”社区功能架构的一点建议](https://groups.google.com/group/sociallearnlab-members/browse_thread/thread/f077f2c27486beb2/6b631001b5344f64?lnk=gst&q=%E5%95%84%E6%9C%A8%E9%B8%9F%E7%BB%B4%E5%9F%BA%E7%9A%84%E6%A0%B8%E5%BF%83%E6%98%AFPython+%E7%9B%B8%E5%85%B3%E7%9A%84%E6%89%80%E6%9C%89%E7%9F%A5%E8%AF%86%2C#6b631001b5344f64)_ <sup>- SocialLearnLab-Members:“教育大发现”核心成员列表 | Google 网上论坛</sup>
+
+## 改良社区wiki ##
+```
+2009/7/9 小石 <xiansf@gmail.com>:
+> 我只用到wiki的一些很简单的功能，而且用wiki的时间也不长，
+> 现在mediawiki平台的调整是不是很费事？
+> zoom的建议是，现在怎么做可能比较好一点？
+```
+zoomq ;-)
+
+从俺使用和推广维基的经验看，
+维基之所以越来越不好用，或是一直被指责难以找到想要的;
+
+都是两个原因:
+  * 0. 大家都只想查阅，不愿意修订；见到不好的文章，不出力修订或是吼出来，要求修订;
+  * 1. 将维基视作文档库/BBS/Blog等等CMS(内容管理平台) 而不是知识仓库!
+
+所以,根本性的改善一个维基的发展趋势,只要:
+**将维基当作维基来用!!!**
+```
+- 维基是共笔,所有人都有义务贡献知识/注意力,都必须成为消费者的同时也得是生产者!
+ + 作到这点,需要从思想方面进行引导
+ + 同时,要精心设计/圈定维基的内容范围保证只有对参与者有用的内容被创建和维护
+- 维基是知识仓库,必须有内在知识结构作为统一的索引关系和查阅路线
+ + 公开知识组织结构/规范, 作为公共知识体系和结构,成为创建文章/查阅文章的默认线索
+ + 鼓励每个人,根据自己的需求,在个人维基页面整理吻合自个儿需求的知识分类/结构
+```
+
+具体作法:
+  * 宣传规范的文章创建流程:
+```
+ 0. 明确文章主题,根据公共分类原则,确认所属分类
+ 1. 在对应分类索引页面创建入口链接,并取一个合适的  WikiName 作为URL
+ 2. 点击进入空白页面,选择*合适的模板* 来创建页面,开始填充内容
+ 3. 完成后,及时缀上相关文章链接,同时也在所有相关文章里,增补新文章的链接!
+```
+  * 建立统一明确的知识分类总目
+
+
+
+
+## 针对BBS和“不靠谱”软件 ##
+
+社区研究之BBS的死亡鉴定
+  * http://blog.donews.com/yokanta/archive/2006/06/05/902554.aspx
+
+类似BBS 的重注意力，不重内容的沟通平台对于教育的推进和知识的积累只能起到破坏性的反作用！
+  * 对于实时交流，俺建议使用 IRC 聊天室，
+  * 配合插件可以自动记录到维基中...**[IRCBOT配置指南](http://wiki.woodpecker.org.cn/moin/IrcLogBotHowto)**
+
+出自:_[社区BBS意见征求](https://groups.google.com/group/sociallearnlab-members/browse_thread/thread/c44010eda198754a/7cffbbc17fd394b3?lnk=gst&q=%E7%A4%BE%E5%8C%BA%E7%A0%94%E7%A9%B6%E4%B9%8BBBS%E7%9A%84%E6%AD%BB%E4%BA%A1%E9%89%B4%E5%AE%9A#7cffbbc17fd394b3)_ <sup>- SocialLearnLab-Members:“教育大发现”核心成员列表 | Google 网上论坛</sup>
+
+```
+任何改革，最困难的改变固有习惯，
+与其在吸引来后，才一点点改变，
+不如从开始就不要使用对知识管理无意义的BBS 等形式....
+
+是也乎,这是个最最最基础FAQ:
+凡是靠谱软件,一切都给予用户权力来配置的!
+只要是有地方不让用户来自行配置的,都是没有自信的,有小秘密的 unkaopulity 软件!
+好软件,就是最吻合自个儿习惯的软件!
+```
+
+出自:_[关于“教育大发现”社区功能架构的一点建议](https://groups.google.com/group/sociallearnlab-members/browse_thread/thread/f077f2c27486beb2/4fe44dba213a8402?lnk=gst&q=%E4%BB%BB%E4%BD%95%E6%94%B9%E9%9D%A9%EF%BC%8C%E6%9C%80%E5%9B%B0%E9%9A%BE%E7%9A%84%E6%94%B9%E5%8F%98%E5%9B%BA%E6%9C%89%E4%B9%A0%E6%83%AF%EF%BC%8C#4fe44dba213a8402)_ <sup>- SocialLearnLab-Members:“教育大发现”核心成员列表 | Google 网上论坛</sup>
+
+# Discuss #
+`还有什么想法?持续聚集哪,,,`
+
+## 图片命名规范 ##
+[{SGLCTManual}图片标注规范讨论 - “教育大发现”（SocialLearnLab）](https://groups.google.com/group/sociallearnlab/browse_thread/thread/82bab44a2f862eb8/a273001b5c545c14) | Google 网上论坛
+  * 引发:
+
+==》像图片规范这种事情，可以让专家先拿出一个较好的样本，其他人照着做就是，如果发现问题，在统一修改就好了，因为图片规范就是个形式或习惯，如果先前没有及早的约定，以后较难改正和统一
+
+...
+
+这的确是想正规化文档的基础规约，俺在组织各种图书的翻译和撰写时，大致明白了出版行业对图片命名的一般规范，
+结合维基语法，形成了自个儿的规范，可以分享一下:
+
+e.g.:
+```
+图 CDay3-1 cdctools.py改进后运行结果
+ |  |            +-- 图片说明
+ |  +-- 图片编号（使用章节编号＋序号）
+ +-- 图片附件正文前缀
+attachment:cday3-cdctools-improve.png
+ |          |       |              +-- 使用 png 格式，兼顾图片格式版权和效果
+ |          |       +-- E文的图片命名，使用动宾方式，尽量唯一性说明
+ |          +-- 章节编号
+ +-- MoinMoin 维基附件声明前缀
+
+
+也就是说，图片的命名其实应该包含:
+- 正文中引用和说明时的格式
+- 真实的图片文件命名规范
+
+有以下几个建议:
++ 图片引用和图片文件命名要分离
++ 图片文件命名尽量使用ASCII 编码,不要用中文
++ 图片文件命名尽量和内容绑定,而不要和引用的序列有关系
++ 引用文字格式,尽量用中国出版业的基础格式
+```
+以上
+

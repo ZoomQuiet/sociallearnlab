@@ -1,0 +1,233 @@
+
+
+SEE::[SLL项目流程](SllProjectFlows.md)/**[仨儿之建议集](SllPrjZQ.md)**
+# 社区项目管理 #
+**如何有效的推进社区的各种项目?**
+  * 注意,俺推荐使用**Item** 而**不是Project** 来称呼 **项目**
+  * 因为:多数所谓项目,根本达不到 Project 的规模,仅仅是内部的小型配合而已,所以<sub>,端正态度从小事儿作起吧</sub>,
+  * 何况,大计划必定要分解成可控可感触的小行动才可行的,,,
+
+## 总则 ##
+**统一,规范,有序!**
+  * 任何项目成员都明确目标和自个儿应该作的事儿后,项目才在行进!
+### 解决问题的基本原则 ###
+
+就俺来看, 以上问题的解决,得先有条件准备:
+```
+0. 问题范畴 ~ 具体的阻碍点在哪儿? 心理?传达?技术?
+1. 现有资源 ~ 社区已经掌握的 发布渠道/成员信息/组织结构 等等方面的现状? 
+  达到哪些?可以继续完善哪些? 哪些无法快速补足?
+2. 解决指标 ~ 不应该期望一次性解决所有问题,
+  那么,问题领域各个阶段是怎么设想的?每个阶段完成什么样的增补才可以接受?可以继续运行?
+,,,
+```
+
+定义明确问题,问题就已经解决了一半了,,,
+
+出自:_[社区中有哪些应该做的事情?以及如何去做?](https://groups.google.com/group/sociallearnlab-members/browse_thread/thread/4f101e8fb8cd0a8c/f5818a9e641d926a?lnk=gst&q=%E9%97%AE%E9%A2%98%E8%8C%83%E7%95%B4+~+%E5%85%B7%E4%BD%93%E7%9A%84%E9%98%BB%E7%A2%8D%E7%82%B9%E5%9C%A8%E5%93%AA%E5%84%BF%3F+%E5%BF%83%E7%90%86%3F%E4%BC%A0%E8%BE%BE%3F%E6%8A%80%E6%9C%AF%3F#f5818a9e641d926a)_ <sup>- SocialLearnLab-Members:“教育大发现”核心成员列表 | Google 网上论坛</sup>
+
+## 管理 ##
+不建议进行每个项目专门设立交流平台:
+```
+0. 参与的人不会多，肯定有一人多项目的情况，设立多个平台，有配置X和参与管理成本
+1. 在统一的关注教育改革主题中进行的多个项目一定有可以相互借鉴之处，交流平台分离不利于及时分享成果
+2. 建议统一发布平台／维基平台，通过分类和标签，进行项目的划分...
+```
+出自:_[“核心成员”加盟参考说明](https://groups.google.com/group/sociallearnlab-members/browse_thread/thread/1822555bffd3980a/084aeb82f21d8544?lnk=gst&q=%E5%8F%82%E4%B8%8E%E7%9A%84%E4%BA%BA%E4%B8%8D%E4%BC%9A%E5%A4%9A%EF%BC%8C%E8%82%AF%E5%AE%9A%E6%9C%89%E4%B8%80%E4%BA%BA%E5%A4%9A%E9%A1%B9%E7%9B%AE%E7%9A%84%E6%83%85%E5%86%B5%EF%BC%8C#084aeb82f21d8544)_ <sup>- SocialLearnLab-Members:“教育大发现”核心成员列表 | Google 网上论坛</sup>
+
+### 项目空间 ###
+
+**工具使用态度:**
+  * 嘿嘿嘿,从俺 M$ 时代"我自豪,我用D版!" 的软件大品尝,
+  * 到后来的唯绿色软件,
+  * 到现在的唯自由软件,整个软件/技术学习体验看,
+```
+就是:"Use it! need not learning!"
+用之! 不学!
+
+只用应该用的,不学现在不用的....
+绝对不为学习而学习,而是使用现成的工具来创造...
+```
+  * 所以,对于基于网络的分布式協作工程,俺给出的学习,或是工具使用路径:
+  * **http://code.google.com/p/openbookproject/wiki/HowToBuildBookOnline*
+```
+0. 沟通: 列表->IRC
+1. 表达: 维基/reST/t2t/...
+2. 管理: SVN -> Issue -> EveryDo/BaseCamp/...
+```
+齐了!**
+
+重要的是:**"所有人,知道所有事儿!"** 而且要及时,无误的!
+这是任何类型的团队要成功的核心基准点!
+出自:_[关于“教育大发现”社区功能架构的一点建议](https://groups.google.com/group/sociallearnlab-members/browse_thread/thread/f077f2c27486beb2/d10d05f22dd0af0c?lnk=gst&q=%E7%94%A8%E4%B9%8B!+%E4%B8%8D%E5%AD%A6!#d10d05f22dd0af0c)_ <sup>- SocialLearnLab-Members:“教育大发现”核心成员列表 | Google 网上论坛</sup>
+
+### 管理理论 ###
+`>>想读本项目管理方面的书，大家有什么好推荐？`
+
+如果是软件项目管理的话，俺推荐:
+  1. [人月神话](http://www.douban.com/subject/1102259) (豆瓣)  关注问题的本质
+  1. [平衡敏捷与规范](http://www.douban.com/subject/1444736) (豆瓣) 对比了各种管理流派,,,
+  1. **[InfoQ: 硝烟中的Scrum和XP](http://www.infoq.com/cn/minibooks/scrum-xp-from-the-trenches)** 给出了实用的敏捷团队通行思路!
+
+俺找书的原则:
+```
+0. 外国的
+1. 薄的！
+2. 销售排名牛的！
+```
+
+出自:_[想读本项目管理方面的书，大家有什么好推荐？](https://groups.google.com/group/sociallearnlab-members/browse_thread/thread/8ea655ce091db550/41257030c42fb0fc?lnk=gst&q=%E5%A6%82%E6%9E%9C%E6%98%AF%E8%BD%AF%E4%BB%B6%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86%E7%9A%84%E8%AF%9D#41257030c42fb0fc)_ <sup>- SocialLearnLab-Members:“教育大发现”核心成员列表 | Google 网上论坛</sup>
+
+### 在线图书工程 ###
+  * 如何组织在线图书工程 http://code.google.com/p/sociallearnlab/wiki/HowtoBuildBookOnLine
+    * 图书维基文件命名规范 http://code.google.com/p/sociallearnlab/wiki/UsageDocName
+    * Issue 提案标签详解 http://code.google.com/p/sociallearnlab/wiki/IssueTags
+    * Issue 提案流程概述 http://code.google.com/p/sociallearnlab/wiki/IssueFlow
+  * Open Book Project 开放图书计划 http://code.google.com/p/openbookproject/
+
+这也是有技巧的哪:
+  * 任何事儿,得通过恰当的渠道令所有人舒服的获得;
+  * 类似列表这种异步信息沟通,如果不是所有人一直积累浏览邮件,将形成各种"惊奇",,,特别是列表的使用礼节没有都习惯时;
+  * IRC 这种实时沟通渠道,对大家的时间要求非常高,而且到点如果手头有事儿的,也不可能很好的接受讨论信息,,,
+
+所以,就俺的体验,一定要将各种渠道合理配合使用:
+  1. 维基作为唯一的正式决议通告方式,每个方面的决议使用独立的页面进行收集,整理,形成全球唯一的URL 标识的信息节点;
+    * (以免决议形成不同版本,形成噪音)
+  1. 列表作为有证据记载的讨论中心,大家可以在不同的时间分别相互理解和发表意见,最终形成决议,正式发布到维基中
+  1. IRC/MSN/好看/主页/日历<sub>,</sub>各种灵活的信息发布渠道,作为提醒渠道,将决议维基URL 不断的通告给所有人
+
+这样,社区事务的正式发布/变更讨论/通告传播 就有机结合起来了,,,
+
+出自:_[社区中有哪些应该做的事情?以及如何去做?](https://groups.google.com/group/sociallearnlab-members/browse_thread/thread/4f101e8fb8cd0a8c/be1f65d85d75743a?lnk=gst&q=%E4%BB%BB%E4%BD%95%E4%BA%8B%E5%84%BF%2C%E5%BE%97%E9%80%9A%E8%BF%87%E6%81%B0%E5%BD%93%E7%9A%84%E6%B8%A0%E9%81%93%E4%BB%A4%E6%89%80%E6%9C%89%E4%BA%BA%E8%88%92%E6%9C%8D%E7%9A%84%E8%8E%B7%E5%BE%97%3B#be1f65d85d75743a)_ <sup>- SocialLearnLab-Members:“教育大发现”核心成员列表 | Google 网上论坛</sup>
+
+
+**O.B.P**:
+这个从一开始就进行了分享,这个 OBP 方程已经存在N久了:
+  * 维基: http://wiki.woodpecker.org.cn/moin/OBP
+  * 工程: http://code.google.com/p/openbookproject/
+  * 项目: http://obp.everydo.com/ 用户:guest 口令:guest
+  * 列表: https://groups.google.com/group/openbookproject
+  * 经验: http://code.google.com/p/openbookproject/wiki/HowToBuildBookOnline
+  * IRC:http://code.google.com/p/openbookproject/wiki/UsageIrc
+    * 现在主要使用 zeuux 自个儿的IRC服务: http://code.google.com/p/openbookproject/wiki/ZeuuxIrc
+```
+ #zeuux-press
+```
+  * 没有Blog;没有BBS;没有QQ群...
+    * 但是保证了一切沟通都有记录可以追查,所有修订都有版本可以追踪...
+
+出自:_[关于“教育大发现”社区功能架构的一点建议](https://groups.google.com/group/sociallearnlab-members/browse_thread/thread/f077f2c27486beb2/759eda8141b0e376?lnk=gst&q=%E8%BF%99%E4%B8%AA%E4%BB%8E%E4%B8%80%E5%BC%80%E5%A7%8B%E5%B0%B1%E8%BF%9B%E8%A1%8C%E4%BA%86%E5%88%86%E4%BA%AB%2C%E8%BF%99%E4%B8%AA+OBP+%E6%96%B9%E7%A8%8B%E5%B7%B2%E7%BB%8F%E5%AD%98%E5%9C%A8N%E4%B9%85%E4%BA%86%3A#759eda8141b0e376)_ <sup>- SocialLearnLab-Members:“教育大发现”核心成员列表 | Google 网上论坛</sup>
+
+#### 翻译工程体验 ####
+问题:[改稿改到掛](http://b-oo-k.net/blog/blog.php/2006/38) | [老貓學出版：圖書出版業, 編輯知識, 產業分析](http://b-oo-k.net/blog/)
+对策:
+  1. [保證可以找到好譯者的發譯指南](http://b-oo-k.net/blog/blog.php/2006/34)
+  1. [編輯與譯者的關係](http://b-oo-k.net/blog/blog.php/2004/36)
+    1. [編譯同盟](http://b-oo-k.net/blog/blog.php/2006/37)
+
+
+#### Chandler项目经验分享 ####
+  * 详细 https://groups.google.com/group/sociallearnlab-members/browse_thread/thread/1a55e1d7dcadba8b
+  * 非常庆幸这是一次非常愉快和成功的体验!也感谢及时分享给我们,建议:
+```
+0. 完整的回忆总结一下经验和教训,都记录到 code.google 的维基中
+1. 然后发布出来,正式的,有URL 来源的!
+2. 指定专人,长期留守,收集八方反馈,进一步完善汉化工程规范
+3. 分享给 Ubuntu.org.cn/i18N 等等专门社区,对于汉化工程的经验,相互参考,进一步完善;
+4. 设立友好的投述渠道,接受汉化作品用户们的意见!
+```
+这样,将一次成功的汉化版本的价值挖掘到极致!才有更多更好的故事和体验产生!
+
+```
+原力来自共同期待,热情源于礼貌沟通!
+愉快在于小成就感,成就则是快速完成!
+```
+如果一个好项目,但是迟迟无法完成大家期许的目标,热情将耗尽,团队也就不存在了,,,
+
+出自:_[我将在Chandler过程中的经验总结了一下，写了一篇文章出来](https://groups.google.com/group/sociallearnlab-members/browse_thread/thread/1a55e1d7dcadba8b#)_ <sup>- SocialLearnLab-Members:“教育大发现”核心成员列表 | Google 网上论坛</sup>
+
+### 有关GSH ###
+**为GSH图书项目提供的建议**
+
+（不同时间的建议用“～～～～”隔开）
+
+```
+>> 可能我们要更详细的吧，大家有些什么想法都说下。才做这个，第一块内容，我们
+>> 要做得下细点。最好是边做的时候，边把做法记录下来：所遇的问题，解决的方法
+>> 等，以便让其他们成员参考。
+>
+> =>这个提议特别好. 这就需要约定一个记录整理的地方.用什么来记录,如何大家来整理.
+```
+
+条目化就好，可以仿照 各种 CookBook 的体例，以下是俺主持的图书中的建议:
+  * http://wiki.woodpecker.org.cn/moin/ObpLovelyPython/PCS
+
+另外，提前将章节设定好，也便于分别认领，同时进行撰写...
+  * e.g.
+    * http://wiki.woodpecker.org.cn/moin/ObpLovelyPyEditorRule/TreeOfBook
+
+这方面其实在很早发布的 相关教程中有详细说明:
+  * [基于SVN的敏捷项目环境](http://www.zoomquiet.org/share/s5/0707-SVNnTrac/)
+
+启动 code.google 为核心的开放式图书工程后,其实是有一些规约的,比如说:
+  * [Issue标签规范](http://code.google.com/p/openbookproject/wiki/IssueTags)
+  * [Issue協同流程](http://code.google.com/p/openbookproject/wiki/IssueFlow)
+
+出自:_[关于"Google服务应用手册"写作内容的确定](https://groups.google.com/group/sociallearnlab-members/browse_thread/thread/4c7fcc0e13f5a8bb/55ef7fc8a2dcc66a?lnk=gst&q=%E6%9D%A1%E7%9B%AE%E5%8C%96%E5%B0%B1%E5%A5%BD%EF%BC%8C%E5%8F%AF%E4%BB%A5%E4%BB%BF%E7%85%A7+%E5%90%84%E7%A7%8D+CookBook+%E7%9A%84%E4%BD%93%E4%BE%8B%EF%BC%8C%E4%BB%A5%E4%B8%8B%E6%98%AF%E4%BF%BA%E4%B8%BB%E6%8C%81%E7%9A%84%E5%9B%BE%E4%B9%A6%E4%B8%AD%E7%9A%84%E5%BB%BA%E8%AE%AE%3A#55ef7fc8a2dcc66a)_ <sup>- SocialLearnLab-Members:“教育大发现”核心成员列表 | Google 网上论坛</sup>
+
+～～～～
+
+如果使用 code.google 进行图书写作的话:
+```
+/wiki 目录就可以看作图书的 beta 版本的发布目录
+/trunk 等等其它目录，就可以作为版本策略中相应的存放目录，
+```
+
+出自:_[关于“教育大发现”社区功能架构的一点建议](https://groups.google.com/group/sociallearnlab-members/browse_thread/thread/f077f2c27486beb2/ca3ff84a8ed93a41?lnk=gst&q=%2Fwiki+%E7%9B%AE%E5%BD%95%E5%B0%B1%E5%8F%AF%E4%BB%A5%E7%9C%8B%E4%BD%9C%E5%9B%BE%E4%B9%A6%E7%9A%84+beta+%E7%89%88%E6%9C%AC%E7%9A%84%E5%8F%91%E5%B8%83%E7%9B%AE%E5%BD%95#ca3ff84a8ed93a41)_ <sup>- SocialLearnLab-Members:“教育大发现”核心成员列表 | Google 网上论坛</sup>
+
+### code.google 的综合使用 ###
+具体的看大家决定怎么利用 code.google 的资源！
+
+  1. 图片的问题，原先 code.google 是支持图片的自我引用的，后来禁止了，不过可以考虑使用 Pisaca 等等相应的图片服务进行发布和引用
+  1. 预览问题...这不应该是问题,维基的共笔就是不关注表现形式的 WYTIWYG, 在熟悉了简单的维基语法后,根本不用预览的哪...
+  1. 如果有自个儿的主机的话,那俺就建议,不使用 code.google 提供的维基解析,而使用 t2t ~ text2tags
+    * http://wiki.woodpecker.org.cn/moin/txt2tags
+    * 格式来写作,当成正式的代码,依照我们的发布策略收集在  trunk 中,
+    * 在另外的主机空间中定期自动检出 t2t 文本,渲染成 html 进行每日构建,
+    * 而大家在本地,可以随时通过 t2t 命令,将.t2t 文本转换成 html 来查看效果,这样,就完全的支持了分布式写作
+
+出自:_[关于“教育大发现”社区功能架构的一点建议](https://groups.google.com/group/sociallearnlab-members/browse_thread/thread/f077f2c27486beb2/ca3ff84a8ed93a41?lnk=gst&q=%E5%9B%BE%E7%89%87%E7%9A%84%E9%97%AE%E9%A2%98%EF%BC%8C%E5%8E%9F%E5%85%88+code.google+%E6%98%AF%E6%94%AF%E6%8C%81%E5%9B%BE%E7%89%87%E7%9A%84%E8%87%AA%E6%88%91%E5%BC%95%E7%94%A8%E7%9A%84#ca3ff84a8ed93a41)_ <sup>- SocialLearnLab-Members:“教育大发现”核心成员列表 | Google 网上论坛</sup>
+
+～～～～
+
+至于图书组织和维基写作,真的是什么简单怎么来就好的!
+```
+Simple is bttter!
+```
+使用 code.google 进行图书工程的组织,只有一点不便,那就是图片的组织了,
+不过,大家使用 Pisaca 的话,默认有 10G 免费图片空间可以自由使用的哪!!!!
+约定好:
+  1. Pisaca 图片集,分享编辑权利
+  1. 图片命名规范 比如说:
+```
+图 Charpt-No.png
+|  |      |  +-- 统一使用PNG格式提供
+|  |      +-- 章节附图序号
+|  +-- 章节序号
++-- 统一标识字
+```
+e.g
+  * 图 CDay-4-2.png 意为 CDay -4 日故事 第2附图
+  * 就可以共享空间进行图片组织,在维基中就简单使用 URL 完事儿...
+
+`俺的理解是这样的，大家现在的关键任务是快速将图书的内容组织起来？！那么俺的建议是:`
+  1. 直接在 code.google 提供的维基中进行撰写，只要约定好各个章节的命名
+    * http://code.google.com/p/sociallearnlab/wiki/UsageDocumentname
+  1. 对于SVN，其中的wiki 目录就已经自动和维基解析工具结合可以作为自动发布了
+  1. 通过web或是SVN 的渠道,快速根据章节设计,配合 Pisaca 等等图片服务,快速组织图书,且可以实时看到结果
+  1. 在经过一定时期的积累后,可以将 wiki 中相关文件,复制到 trunk/branches 中,进行图书整体的出版调整...
+
+出自:_[关于“教育大发现”社区功能架构的一点建议](https://groups.google.com/group/sociallearnlab-members/browse_thread/thread/f077f2c27486beb2/8a0155d2a70216b6?lnk=gst&q=%E8%87%B3%E4%BA%8E%E5%9B%BE%E4%B9%A6%E7%BB%84%E7%BB%87%E5%92%8C%E7%BB%B4%E5%9F%BA%E5%86%99%E4%BD%9C%2C%E7%9C%9F%E7%9A%84%E6%98%AF%E4%BB%80%E4%B9%88%E7%AE%80%E5%8D%95%E6%80%8E%E4%B9%88%E6%9D%A5%E5%B0%B1%E5%A5%BD%E7%9A%84!#8a0155d2a70216b6)_ <sup>- SocialLearnLab-Members:“教育大发现”核心成员列表 | Google 网上论坛</sup>
+
+# Discuss #
+`还有什么想法?持续聚集哪,,,`
